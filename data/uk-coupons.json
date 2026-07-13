@@ -1,0 +1,2742 @@
+{
+  "meta": {
+    "lastUpdated": "2026-07-13T10:56:43.039Z",
+    "totalCodes": 130,
+    "version": "1.0",
+    "sources": []
+  },
+  "stores": {
+    "unknown.co.uk": {
+      "name": "instore and receive",
+      "category": "general",
+      "codes": [
+        {
+          "code": "FOLLOWED",
+          "description": "<![CDATA[Spend £40 in a single transaction instore and receive a fuel coupon worth 5p off per litre of fuel]]>",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ORIGINATES",
+          "description": "<![CDATA[20% Off With Code]]>",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CDATA",
+          "description": "<![CDATA[AliExpress UK SCORE Big Sale July 2026 [selected items]]]>",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PAYPALNEW20",
+          "description": "<![CDATA[£20 off £60 Spend for New Customers with code]]>",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MSETRIPRC08DISCOUNT",
+          "description": "<![CDATA[£8 off Railcards",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BABY20",
+          "description": "<![CDATA[20% Off Selected Baby & Nursery W/Code]]>",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "VALID",
+          "description": "<![CDATA[Galaxy Unpacked",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "FOR",
+          "description": "<![CDATA[Farmfoods: £10 off £100 Spend In",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "AND",
+          "description": "<![CDATA[£15 Off Your Bill When You Spend £30 Or More]]>",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "7JUL50",
+          "description": "<![CDATA[50% Off A Minimum £12 Spend (£15 max discount) With Code (includes Mcdonald's, KFC, Subway, Asda, Coop, Morrisons) First 5,000]]>",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "6JUL50",
+          "description": "<![CDATA[50% Off A Minimum £12 Spend With Code (includes Mcdonald's, KFC, Subway, Asda, Coop, Morrisons) Until 3pm First 5,000 Redemptions]]>",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PEU783BHJ1",
+          "description": "<![CDATA[16% off Your Next Shop with code (Limited to 10000)",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "VIA",
+          "description": "<![CDATA[Extra £30 off a Pixel 10a using Unique code via email (Selected Accounts)]]>",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "HOLIDAY20",
+          "description": "<![CDATA[20% off Gift Cards when spending £30+]]>",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CODE",
+          "description": "<![CDATA[40% off Blackpool Zoo Tickets with code]]>",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WHEN",
+          "description": "<![CDATA[30% off any Sub (registered and activated Subway Rewards members)",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "sainsburysasda.co.uk": {
+      "name": "Sainsburys Asda Co",
+      "category": "general",
+      "codes": [
+        {
+          "code": "TAKE40",
+          "description": "<![CDATA[40% off at Sainsburys, Asda, Co",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "etcwith.co.uk": {
+      "name": "etc. With Discount",
+      "category": "general",
+      "codes": [
+        {
+          "code": "SAVINGS15",
+          "description": "<![CDATA[Get 15% Off Used / Refurbished Tech, Fashion etc. With Discount Code, Max £75 Off, Minimum £9.99 Spend At Selected Sellers]]>",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "fashionhome.co.uk": {
+      "name": "Fashion Home and",
+      "category": "general",
+      "codes": [
+        {
+          "code": "CDATA",
+          "description": "<![CDATA[£10 off £50 Reward on Fashion, Home and Beauty (exclusions apply) To redeem In Store",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "hotukdeals",
+          "sources": [
+            "hotukdeals"
+          ],
+          "url": "",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "amazon.co.uk": {
+      "name": "Amazon Discount Codes - 20% Off 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "GUARANTEE",
+          "description": "Voucher code for Amazon Discount Codes - 20% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MUCH",
+          "description": "Voucher code for Amazon Discount Codes - 20% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BUTTON",
+          "description": "Voucher code for Amazon Discount Codes - 20% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "UNDER",
+          "description": "Voucher code for Amazon Discount Codes - 20% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WORKS",
+          "description": "Voucher code for Amazon Discount Codes - 20% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TEAM",
+          "description": "Voucher code for Amazon Discount Codes - 20% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "DOESN",
+          "description": "Voucher code for Amazon Discount Codes - 20% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "W15",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EW1",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EW2",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/amazon",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "asos.co.uk": {
+      "name": "ASOS Discount Codes for July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "GUARANTEED",
+          "description": "Voucher code for ASOS Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "AVAILABLE",
+          "description": "Voucher code for ASOS Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "DATA",
+          "description": "Voucher code for ASOS Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "THEM",
+          "description": "Voucher code for ASOS Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ASOS",
+          "description": "Voucher code for ASOS Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WILL",
+          "description": "Voucher code for ASOS Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CONTENT",
+          "description": "Voucher code for ASOS Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "APP",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "YOU",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ERE",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "U20",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/asos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "boohoo.co.uk": {
+      "name": "Boohoo Discount Codes - 20% Off Code 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "CODES",
+          "description": "Voucher code for Boohoo Discount Codes - 20% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EXCLUSIONS",
+          "description": "Voucher code for Boohoo Discount Codes - 20% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "2026",
+          "description": "Voucher code for Boohoo Discount Codes - 20% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BOOHOO",
+          "description": "Voucher code for Boohoo Discount Codes - 20% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "FROM",
+          "description": "Voucher code for Boohoo Discount Codes - 20% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ACROSS",
+          "description": "Voucher code for Boohoo Discount Codes - 20% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EXCLUSIVELY",
+          "description": "Voucher code for Boohoo Discount Codes - 20% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "X20",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "L10",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TRA",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "W15",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "XBH",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "X10",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "B10",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/boohoo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "currys.co.uk": {
+      "name": "Currys Discount Codes for July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "TRUE",
+          "description": "Voucher code for Currys Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CURRYS",
+          "description": "Voucher code for Currys Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BEFORE",
+          "description": "Voucher code for Currys Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "APPLIES",
+          "description": "Voucher code for Currys Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ALONGSIDE",
+          "description": "Voucher code for Currys Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "VALID",
+          "description": "Voucher code for Currys Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "10R",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "I10",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "D20",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "OFF",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "3DF",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/currys",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "next.co.uk": {
+      "name": "Next Discount Codes for July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "WITH",
+          "description": "Voucher code for Next Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/next",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MULTIPLE",
+          "description": "Voucher code for Next Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/next",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "argos.co.uk": {
+      "name": "Argos Discount Codes for July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "ARGOS",
+          "description": "Voucher code for Argos Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WORK",
+          "description": "Voucher code for Argos Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "DEALS",
+          "description": "Voucher code for Argos Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ONLY",
+          "description": "Voucher code for Argos Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "THAT",
+          "description": "Voucher code for Argos Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "S30",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "N20",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "NSE",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "Y20",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/argos",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "tesco.co.uk": {
+      "name": "Tesco Voucher Codes & Discounts July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "TESCO",
+          "description": "Voucher code for Tesco Voucher Codes & Discounts July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/tesco",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ONLINE",
+          "description": "Voucher code for Tesco Voucher Codes & Discounts July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/tesco",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "POINTS",
+          "description": "Voucher code for Tesco Voucher Codes & Discounts July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/tesco",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "NL7",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/tesco",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MLN",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/tesco",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "L7M",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/tesco",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "HH4",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/tesco",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "sainsburys.co.uk": {
+      "name": "Sainsbury's Voucher Codes 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "SAINSBURY",
+          "description": "Voucher code for Sainsbury's Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/sainsburys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EXACTLY",
+          "description": "Voucher code for Sainsbury's Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/sainsburys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MIGHT",
+          "description": "Voucher code for Sainsbury's Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/sainsburys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "NECTAR",
+          "description": "Voucher code for Sainsbury's Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/sainsburys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TOGETHER",
+          "description": "Voucher code for Sainsbury's Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/sainsburys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "OFFERED",
+          "description": "Voucher code for Sainsbury's Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/sainsburys",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CUK",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/sainsburys",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "ocado.co.uk": {
+      "name": "Ocado Voucher Codes  - 25% Off in July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "WAITROSE",
+          "description": "Voucher code for Ocado Voucher Codes  - 25% Off in July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "SPECIFIC",
+          "description": "Voucher code for Ocado Voucher Codes  - 25% Off in July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "AMOUNT",
+          "description": "Voucher code for Ocado Voucher Codes  - 25% Off in July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "OCADO",
+          "description": "Voucher code for Ocado Voucher Codes  - 25% Off in July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "LOGO",
+          "description": "Voucher code for Ocado Voucher Codes  - 25% Off in July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "5AE",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "F25",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "DO",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/ocado",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "morrisons.co.uk": {
+      "name": "Morrisons Discount Codes - £15 Off 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "MORRISONS",
+          "description": "Voucher code for Morrisons Discount Codes - £15 Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/morrisons",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "E15",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/morrisons",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "NOW",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/morrisons",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "hm.co.uk": {
+      "name": "H&M Discount Codes & Vouchers 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "WHEN",
+          "description": "Voucher code for H&M Discount Codes & Vouchers 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/hm",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "zara.co.uk": {
+      "name": "Zara Voucher Codes 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "WHICH",
+          "description": "Voucher code for Zara Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/zara",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ZARA",
+          "description": "Voucher code for Zara Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/zara",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "primark.co.uk": {
+      "name": "Primark Voucher Codes 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "PRIMARK",
+          "description": "Voucher code for Primark Voucher Codes 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/primark",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "nike.co.uk": {
+      "name": "Nike Discount Codes for July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "NIKE",
+          "description": "Voucher code for Nike Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/nike",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TAKE",
+          "description": "Voucher code for Nike Discount Codes for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/nike",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "adidas.co.uk": {
+      "name": "Adidas Discount Code for July 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "MORE",
+          "description": "Voucher code for Adidas Discount Code for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/adidas",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MUST",
+          "description": "Voucher code for Adidas Discount Code for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/adidas",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "RECYCLED",
+          "description": "Voucher code for Adidas Discount Code for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/adidas",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ADIDAS",
+          "description": "Voucher code for Adidas Discount Code for July 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/adidas",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "3DF",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/adidas",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "expedia.co.uk": {
+      "name": "Expedia Discount Codes - Exclusive 9% Off Code 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "EXPEDIA",
+          "description": "Voucher code for Expedia Discount Codes - Exclusive 9% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/expedia",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "FILTERS",
+          "description": "Voucher code for Expedia Discount Codes - Exclusive 9% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/expedia",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EXCLUDED",
+          "description": "Voucher code for Expedia Discount Codes - Exclusive 9% Off Code 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/expedia",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "3DF",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/expedia",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "X26",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/expedia",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "just-eat.co.uk": {
+      "name": "Just Eat Discount Codes - 50% Off 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "AROUND",
+          "description": "Voucher code for Just Eat Discount Codes - 50% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/just-eat",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "JUST",
+          "description": "Voucher code for Just Eat Discount Codes - 50% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/just-eat",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TOWARDS",
+          "description": "Voucher code for Just Eat Discount Codes - 50% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/just-eat",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "OFFERS",
+          "description": "Voucher code for Just Eat Discount Codes - 50% Off 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/just-eat",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "G25",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/just-eat",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "L50",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/just-eat",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "deliveroo.co.uk": {
+      "name": "Deliveroo Promo Code - 40% Off Code in 2026",
+      "category": "general",
+      "codes": [
+        {
+          "code": "DELIVEROO",
+          "description": "Voucher code for Deliveroo Promo Code - 40% Off Code in 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/deliveroo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:44:27.868Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "YOUR",
+          "description": "Voucher code for Deliveroo Promo Code - 40% Off Code in 2026",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/deliveroo",
+          "addedAt": "2026-07-13T10:40:23.322Z",
+          "lastSeen": "2026-07-13T10:40:23.322Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "NOW",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/deliveroo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "D50",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/deliveroo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "AVE",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/deliveroo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:51:39.704Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "G50",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/deliveroo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "G10",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "vouchercodes",
+          "sources": [
+            "vouchercodes"
+          ],
+          "url": "https://www.vouchercodes.co.uk/deliveroo",
+          "addedAt": "2026-07-13T10:51:39.704Z",
+          "lastSeen": "2026-07-13T10:56:43.038Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    }
+  }
+}

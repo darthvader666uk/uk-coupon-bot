@@ -1,0 +1,48 @@
+name: Scrape UK Coupons
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6am UTC
+  workflow_dispatch:       # Manual trigger from Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scraper/package-lock.json
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: npm ci || npm install
+
+      - name: Run scraper
+        working-directory: scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: darthvader666uk/uk-coupon-bot
+          GITHUB_BRANCH: main
+        run: node index.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "coupon-bot[bot]"
+          git config user.email "coupon-bot[bot]@users.noreply.github.com"
+          git add data/uk-coupons.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🎟 Auto-scrape $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
