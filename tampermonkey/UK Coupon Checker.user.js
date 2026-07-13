@@ -28,7 +28,7 @@
   GM_addStyle(`
     #uk-coupon-badge {
       position: fixed;
-      bottom: 20px;
+      top: 20px;
       right: 20px;
       z-index: 999999;
       background: #1a1a2e;
@@ -62,7 +62,7 @@
 
     #uk-coupon-panel {
       position: fixed;
-      bottom: 80px;
+      top: 76px;
       right: 20px;
       z-index: 999998;
       width: 380px;
@@ -180,7 +180,7 @@
 
     .ukcp-copied {
       position: fixed;
-      bottom: 80px;
+      top: 76px;
       right: 20px;
       z-index: 9999999;
       background: #16213e;
