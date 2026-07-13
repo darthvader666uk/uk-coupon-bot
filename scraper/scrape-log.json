@@ -341,6 +341,129 @@
         "dominos-pizza: HTTP 404",
         "uber-eats: HTTP 404"
       ]
+    },
+    {
+      "timestamp": "2026-07-13T12:22:12.514Z",
+      "source": "ggdeals",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 262,
+      "errors": [
+        "Page 1: HTTP 403",
+        "Page 2: HTTP 403",
+        "Page 3: HTTP 403",
+        "Page 4: HTTP 403",
+        "Page 5: HTTP 403"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T12:25:46.868Z",
+      "source": "hotukdeals",
+      "codesFound": 9,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 200,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-07-13T12:26:25.152Z",
+      "source": "vouchercodes",
+      "codesFound": 32,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 38278,
+      "errors": [
+        "john-lewis: HTTP 404",
+        "very: HTTP 404",
+        "marks-and-spencer: HTTP 404",
+        "new-look: HTTP 404",
+        "sports-direct: HTTP 404",
+        "booking-com: HTTP 404",
+        "dominos-pizza: HTTP 404",
+        "uber-eats: HTTP 404"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T12:26:25.169Z",
+      "source": "ggdeals",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 4,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-07-13T12:27:47.160Z",
+      "source": "hotukdeals",
+      "codesFound": 9,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 212,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-07-13T12:28:24.982Z",
+      "source": "vouchercodes",
+      "codesFound": 32,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 37817,
+      "errors": [
+        "john-lewis: HTTP 404",
+        "very: HTTP 404",
+        "marks-and-spencer: HTTP 404",
+        "new-look: HTTP 404",
+        "sports-direct: HTTP 404",
+        "booking-com: HTTP 404",
+        "dominos-pizza: HTTP 404",
+        "uber-eats: HTTP 404"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T12:28:24.999Z",
+      "source": "ggdeals",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 5,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-07-13T12:30:32.206Z",
+      "source": "hotukdeals",
+      "codesFound": 9,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 247,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-07-13T12:31:10.780Z",
+      "source": "vouchercodes",
+      "codesFound": 32,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 38569,
+      "errors": [
+        "john-lewis: HTTP 404",
+        "very: HTTP 404",
+        "marks-and-spencer: HTTP 404",
+        "new-look: HTTP 404",
+        "sports-direct: HTTP 404",
+        "booking-com: HTTP 404",
+        "dominos-pizza: HTTP 404",
+        "uber-eats: HTTP 404"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13T12:31:10.804Z",
+      "source": "ggdeals",
+      "codesFound": 150,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 20,
+      "errors": []
     }
   ]
 }

@@ -212,6 +212,20 @@
     return window.location.hostname.toLowerCase().replace(/^www\./, "");
   }
 
+  // Gaming CD key store domains
+  const GAMING_DOMAINS = [
+    "driffle.com", "player.land", "kinguin.net", "g2a.com", "gamivo.com",
+    "k4g.com", "g2play.com", "yuplay.com", "greenmangaming.com",
+    "fanatical.com", "gamesplanet.com", "gamersgate.com", "gamebillet.com",
+    "2game.com", "allyouplay.com", "loaded.com", "gameboost.com",
+    "difmark.com", "hrkgame.com", "lootbar.gg", "eldorado.gg",
+    "gameseal.com", "premiumcdkeys.com", "keycense.com", "playsum.com",
+    "joybuggy.com", "nuuvem.com", "wingamestore.com",
+    "store.ubisoft.com", "ea.com", "epicgames.com", "gog.com",
+    "humblebundle.com", "store.steampowered.com",
+    "game.co.uk", "shopto.net", "razerzone.com",
+  ];
+
   function matchStore(domain, stores) {
     // Direct match
     if (stores[domain]) return stores[domain];
@@ -224,6 +238,27 @@
       const keyBase = key.replace(/\.co\.uk$/, "").replace(/\./g, "");
       if (domain.includes(keyBase) || keyBase.includes(domain.replace(/\./g, ""))) {
         return store;
+      }
+    }
+
+    // Gaming domain match: check if current site is a known gaming store
+    for (const gamingDomain of GAMING_DOMAINS) {
+      if (domain.includes(gamingDomain) || gamingDomain.includes(domain)) {
+        // Find all gaming codes in the database
+        const gamingCodes = [];
+        for (const [key, store] of Object.entries(stores)) {
+          if (store.codes) {
+            for (const code of store.codes) {
+              if (code.source === "ggdeals") {
+                gamingCodes.push(...store.codes.filter(c => c.source === "ggdeals"));
+                break;
+              }
+            }
+          }
+        }
+        if (gamingCodes.length > 0) {
+          return { name: "Gaming Store", codes: gamingCodes };
+        }
       }
     }
 

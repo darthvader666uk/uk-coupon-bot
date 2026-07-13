@@ -15,6 +15,8 @@ const POPULAR_STORES = [
   "hm", "zara", "primark", "sports-direct", "nike",
   "adidas", "booking-com", "expedia", "just-eat",
   "dominos-pizza", "uber-eats", "deliveroo",
+  // Gaming stores
+  "game.co.uk", "shopto.net", "razerzone.com",
 ];
 
 const HEADERS = {

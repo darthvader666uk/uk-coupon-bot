@@ -25,6 +25,7 @@ if (existsSync(envPath)) {
 
 import { scrape as scrapeHotUKDeals } from "./sources/hotukdeals.js";
 import { scrape as scrapeVoucherCodes } from "./sources/vouchercodes.js";
+import { scrape as scrapeGGdeals } from "./sources/ggdeals.js";
 import { mergeCodes, pruneStaleCodes, normalizeCode } from "./lib/normalizer.js";
 import { logRun } from "./lib/logger.js";
 import { readJSON, writeJSON } from "./lib/github.js";
@@ -64,6 +65,7 @@ async function main() {
   const scrapers = [];
   if (!sourceFlag || sourceFlag === "hotukdeals") scrapers.push({ name: "hotukdeals", fn: scrapeHotUKDeals });
   if (!sourceFlag || sourceFlag === "vouchercodes") scrapers.push({ name: "vouchercodes", fn: scrapeVoucherCodes });
+  if (!sourceFlag || sourceFlag === "ggdeals") scrapers.push({ name: "ggdeals", fn: scrapeGGdeals });
 
   for (const { name, fn } of scrapers) {
     try {
