@@ -20,7 +20,7 @@
   // ─── CONFIG ──────────────────────────────────────────────────────────────
   const GIST_RAW_URL = "https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/data/uk-coupons.json";
   const GITHUB_REPO = "darthvader666uk/uk-coupon-bot";
-  const CACHE_TTL_MS = 6 * 60 * 60 * 1000; // 6 hours
+  const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes (reduced for testing)
   const PANEL_KEY = "uk-coupon-panel";
   const POS_KEY = "uk-coupon-panel-pos";
 
