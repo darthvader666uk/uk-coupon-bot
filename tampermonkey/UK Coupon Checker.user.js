@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      1.0
+// @version      1.1
 // @description  Shows available UK coupon codes for the current store. Fetches from GitHub repo database.
 // @match        https://*/*
 // @grant        GM_xmlhttpRequest
@@ -227,41 +227,73 @@
   ];
 
   function matchStore(domain, stores) {
-    // Direct match
-    if (stores[domain]) return stores[domain];
+    console.log("[UK Coupon Checker] matchStore called with domain:", domain);
+
+    // Direct match (e.g., "g2a.com" in stores)
+    if (stores[domain]) {
+      console.log("[UK Coupon Checker] Direct match found:", domain);
+      return stores[domain];
+    }
+
+    // Try with www. prefix stripped (already done by getCurrentDomain)
+    // Try common variations
+    const variations = [
+      domain,
+      domain.replace(/^www\./, ""),
+      "www." + domain,
+    ];
+    for (const v of variations) {
+      if (stores[v]) {
+        console.log("[UK Coupon Checker] Variation match found:", v);
+        return stores[v];
+      }
+    }
 
     // Try with .co.uk suffix
-    if (stores[domain + ".co.uk"]) return stores[domain + ".co.uk"];
+    if (stores[domain + ".co.uk"]) {
+      console.log("[UK Coupon Checker] .co.uk match found:", domain + ".co.uk");
+      return stores[domain + ".co.uk"];
+    }
 
     // Partial match: check if any store key is contained in the domain
     for (const [key, store] of Object.entries(stores)) {
       const keyBase = key.replace(/\.co\.uk$/, "").replace(/\./g, "");
-      if (domain.includes(keyBase) || keyBase.includes(domain.replace(/\./g, ""))) {
+      const domainClean = domain.replace(/\./g, "");
+      if (domain.includes(keyBase) || keyBase.includes(domainClean) || domainClean.includes(keyBase)) {
+        console.log("[UK Coupon Checker] Partial match found:", key);
         return store;
       }
     }
 
     // Gaming domain match: check if current site is a known gaming store
+    console.log("[UK Coupon Checker] Checking gaming domains…");
     for (const gamingDomain of GAMING_DOMAINS) {
       if (domain.includes(gamingDomain) || gamingDomain.includes(domain)) {
-        // Find all gaming codes in the database
+        console.log("[UK Coupon Checker] Gaming domain matched:", gamingDomain);
+        // Find store-specific codes first (exact domain match)
+        const storeKey = Object.keys(stores).find(k =>
+          k === gamingDomain || gamingDomain.includes(k.replace(/^www\./, ""))
+        );
+        if (storeKey && stores[storeKey] && stores[storeKey].codes?.length > 0) {
+          console.log("[UK Coupon Checker] Store-specific match:", storeKey, stores[storeKey].codes.length, "codes");
+          return stores[storeKey];
+        }
+
+        // Fallback: find all gaming codes from this specific store
         const gamingCodes = [];
         for (const [key, store] of Object.entries(stores)) {
-          if (store.codes) {
-            for (const code of store.codes) {
-              if (code.source === "ggdeals") {
-                gamingCodes.push(...store.codes.filter(c => c.source === "ggdeals"));
-                break;
-              }
-            }
+          if (store.codes && key.includes(gamingDomain.split(".")[0])) {
+            gamingCodes.push(...store.codes);
           }
         }
         if (gamingCodes.length > 0) {
+          console.log("[UK Coupon Checker] Fallback gaming match:", gamingCodes.length, "codes");
           return { name: "Gaming Store", codes: gamingCodes };
         }
       }
     }
 
+    console.log("[UK Coupon Checker] No match found for:", domain);
     return null;
   }
 
@@ -272,9 +304,12 @@
       const cached = GM_getValue("coupon_cache");
       const cacheTime = GM_getValue("coupon_cache_time", 0);
       if (cached && Date.now() - cacheTime < CACHE_TTL_MS) {
+        console.log("[UK Coupon Checker] Using cached data (" + Math.round((Date.now() - cacheTime) / 60000) + " min old)");
         resolve(cached);
         return;
       }
+
+      console.log("[UK Coupon Checker] Fetching fresh data from GitHub…");
 
       GM_xmlhttpRequest({
         method: "GET",
@@ -547,11 +582,19 @@
     // Don't run on chrome://, about:, etc.
     if (!window.location.protocol.startsWith("http")) return;
 
+    console.log("[UK Coupon Checker] Running on " + window.location.hostname);
+
     try {
       const database = await fetchDatabase();
-      if (!database?.stores) return;
+      if (!database?.stores) {
+        console.log("[UK Coupon Checker] No stores in database");
+        return;
+      }
 
       const domain = getCurrentDomain();
+      console.log("[UK Coupon Checker] Domain: " + domain);
+      console.log("[UK Coupon Checker] Store keys: " + Object.keys(database.stores).join(", "));
+
       const storeData = matchStore(domain, database.stores);
 
       if (storeData && storeData.codes?.length > 0) {
@@ -564,6 +607,8 @@
 
         buildPanel(sorted, storeData, domain);
         console.log(`[UK Coupon Checker] Found ${sorted.length} codes for ${domain}`);
+      } else {
+        console.log("[UK Coupon Checker] No codes found for " + domain);
       }
     } catch (err) {
       console.log(`[UK Coupon Checker] Error: ${err.message}`);
