@@ -98,7 +98,16 @@
       font-size: 18px;
       line-height: 1;
     }
+    .ukcp-header .ukcp-close { cursor: pointer; color: #888; font-size: 18px; line-height: 1; }
     .ukcp-header .ukcp-close:hover { color: #fff; }
+    .ukcp-header .ukcp-refresh {
+      cursor: pointer;
+      color: #888;
+      font-size: 16px;
+      margin-right: 8px;
+      transition: color 0.15s;
+    }
+    .ukcp-header .ukcp-refresh:hover { color: #4caf50; }
 
     .ukcp-meta {
       padding: 8px 16px;
@@ -386,6 +395,39 @@
     const header = document.createElement("div");
     header.className = "ukcp-header";
     header.innerHTML = `<h3>🎟 ${storeData.name || domain}</h3>`;
+
+    // Refresh button
+    const refreshBtn = document.createElement("span");
+    refreshBtn.className = "ukcp-refresh";
+    refreshBtn.textContent = "↻";
+    refreshBtn.title = "Refresh codes from server";
+    refreshBtn.addEventListener("click", async () => {
+      refreshBtn.textContent = "⏳";
+      GM_setValue("coupon_cache", null);
+      GM_setValue("coupon_cache_time", 0);
+      try {
+        const fresh = await fetchDatabase();
+        const newDomain = getCurrentDomain();
+        const newStore = matchStore(newDomain, fresh.stores);
+        if (newStore && newStore.codes?.length > 0) {
+          const sorted = [...newStore.codes].sort((a, b) => {
+            const rateA = (a.testResults?.worked || 0) / Math.max(a.testResults?.total || 1, 1);
+            const rateB = (b.testResults?.worked || 0) / Math.max(b.testResults?.total || 1, 1);
+            return rateB - rateA;
+          });
+          buildPanel(sorted, newStore, newDomain);
+        } else {
+          document.getElementById("uk-coupon-panel")?.remove();
+          document.getElementById("uk-coupon-badge")?.remove();
+        }
+      } catch (e) {
+        refreshBtn.textContent = "✗";
+        setTimeout(() => { refreshBtn.textContent = "↻"; }, 1500);
+      }
+    });
+    header.appendChild(refreshBtn);
+
+    // Close button
     const closeBtn = document.createElement("span");
     closeBtn.className = "ukcp-close";
     closeBtn.textContent = "✕";
