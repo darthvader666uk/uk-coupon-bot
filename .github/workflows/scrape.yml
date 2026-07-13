@@ -27,6 +27,12 @@ jobs:
         working-directory: scraper
         run: npm ci || npm install
 
+      - name: Refresh GG.deals cache via Firecrawl
+        working-directory: scraper
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: node scripts/fetch-ggdeals.js
+
       - name: Run scraper
         working-directory: scraper
         env:
