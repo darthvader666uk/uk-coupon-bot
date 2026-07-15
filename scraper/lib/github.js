@@ -110,6 +110,64 @@ export async function writeJSON(jsonData, commitMessage) {
 }
 
 /**
+ * Fetch all open issues labeled "failed-code" and extract code+store pairs
+ */
+export async function fetchFailedCodeIssues() {
+  const token = getToken();
+  if (!token) return [];
+
+  const repo = getRepo();
+  const url = `${API_BASE}/repos/${repo}/issues?labels=failed-code&state=open&per_page=100`;
+  const headers = {
+    Accept: "application/vnd.github.v3+json",
+    Authorization: `Bearer ${token}`,
+    "User-Agent": "uk-coupon-bot",
+  };
+
+  const res = await fetch(url, { headers });
+  if (!res.ok) {
+    console.log(`[GitHub] Failed to fetch failed-code issues: ${res.status}`);
+    return [];
+  }
+
+  const issues = await res.json();
+  const failed = [];
+
+  for (const issue of issues) {
+    // Parse code and store from title: "❌ Code failed: CODE @ STORE"
+    const match = issue.title.match(/Code failed: (.+?) @ (.+)/);
+    if (match) {
+      failed.push({ code: match[1].trim(), storeDomain: match[2].trim(), issueNumber: issue.number });
+    }
+  }
+
+  console.log(`[GitHub] Found ${failed.length} open failed-code issues`);
+  return failed;
+}
+
+/**
+ * Close a failed-code issue after the code has been removed
+ */
+export async function closeIssue(issueNumber) {
+  const token = getToken();
+  if (!token) return;
+
+  const repo = getRepo();
+  const url = `${API_BASE}/repos/${repo}/issues/${issueNumber}`;
+
+  await fetch(url, {
+    method: "PATCH",
+    headers: {
+      Accept: "application/vnd.github.v3+json",
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+      "User-Agent": "uk-coupon-bot",
+    },
+    body: JSON.stringify({ state: "closed" }),
+  });
+}
+
+/**
  * Create a GitHub Issue for a failed code report
  */
 export async function reportFailedCode(code, storeDomain, reason) {

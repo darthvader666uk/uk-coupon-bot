@@ -28,7 +28,7 @@ import { scrape as scrapeVoucherCodes } from "./sources/vouchercodes.js";
 import { scrape as scrapeGGdeals } from "./sources/ggdeals.js";
 import { mergeCodes, pruneStaleCodes, normalizeCode } from "./lib/normalizer.js";
 import { logRun } from "./lib/logger.js";
-import { readJSON, writeJSON } from "./lib/github.js";
+import { readJSON, writeJSON, fetchFailedCodeIssues, closeIssue } from "./lib/github.js";
 
 const LOCAL_JSON = join(__dirname, "..", "data", "uk-coupons.json");
 
@@ -93,8 +93,40 @@ async function main() {
     console.log(`  🗑 Pruned ${pruned.pruned} stale codes`);
   }
 
+  // Remove codes reported as failed via GitHub issues
+  try {
+    const failedIssues = await fetchFailedCodeIssues();
+    if (failedIssues.length > 0) {
+      let removed = 0;
+      for (const { code, storeDomain, issueNumber } of failedIssues) {
+        // Find the store and remove the code
+        for (const [key, store] of Object.entries(pruned.stores)) {
+          const domainMatch = key === storeDomain || key.includes(storeDomain.split(".")[0]);
+          if (domainMatch && store.codes) {
+            const before = store.codes.length;
+            store.codes = store.codes.filter(c => normalizeCode(c.code) !== normalizeCode(code));
+            removed += before - store.codes.length;
+          }
+        }
+        // Close the issue since code is removed
+        await closeIssue(issueNumber);
+      }
+      if (removed > 0) {
+        console.log(`  ❌ Removed ${removed} failed codes from ${failedIssues.length} reports`);
+      }
+    }
+  } catch (err) {
+    console.log(`  ⚠ Failed to process failed-code issues: ${err.message}`);
+  }
+
   // Update meta
   database.stores = pruned.stores;
+  // Remove stores with no codes left
+  for (const [key, store] of Object.entries(database.stores)) {
+    if (!store.codes || store.codes.length === 0) {
+      delete database.stores[key];
+    }
+  }
   database.meta.lastUpdated = new Date().toISOString();
   database.meta.totalCodes = Object.values(database.stores).reduce((sum, s) => sum + s.codes.length, 0);
 
