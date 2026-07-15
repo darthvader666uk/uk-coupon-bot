@@ -23,6 +23,7 @@
   const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes (reduced for testing)
   const PANEL_KEY = "uk-coupon-panel";
   const POS_KEY = "uk-coupon-panel-pos";
+  const FAILED_KEY = "uk-coupon-failed";
 
   // ─── STYLES ──────────────────────────────────────────────────────────────
   GM_addStyle(`
@@ -401,10 +402,30 @@
     setTimeout(() => toast.remove(), 2200);
   }
 
+  // ─── FAILED CODES ────────────────────────────────────────────────────────
+  function getFailedCodes() {
+    return GM_getValue(FAILED_KEY, {});
+  }
+
+  function markCodeFailed(code, storeDomain) {
+    const failed = getFailedCodes();
+    if (!failed[storeDomain]) failed[storeDomain] = [];
+    if (!failed[storeDomain].includes(code)) failed[storeDomain].push(code);
+    GM_setValue(FAILED_KEY, failed);
+  }
+
+  function isCodeFailed(code, storeDomain) {
+    const failed = getFailedCodes();
+    return failed[storeDomain]?.includes(code) || false;
+  }
+
   // ─── REPORT FAILED ───────────────────────────────────────────────────────
   function reportFailed(code, storeDomain) {
     const reason = prompt(`Report "${code}" as failed at ${storeDomain}.\nOptional — describe what happened:`);
     if (reason === null) return; // cancelled
+
+    // Store locally so code stays hidden
+    markCodeFailed(code, storeDomain);
 
     GM_xmlhttpRequest({
       method: "POST",
@@ -428,7 +449,7 @@
       }),
       onload: function (res) {
         if (res.status === 201) {
-          GM_notification({ title: "UK Coupon Checker", text: `Reported "${code}" as failed`, timeout: 3000 });
+          GM_notification({ title: "UK Coupon Checker", text: `Reported "${code}" as failed — hidden from now on`, timeout: 3000 });
         }
       },
     });
@@ -442,11 +463,14 @@
 
     if (!codes || codes.length === 0) return;
 
+    // Filter failed codes early for badge/meta
+    const visibleCodes = codes.filter(c => !isCodeFailed(c.code, domain));
+
     // Badge
     const badge = document.createElement("div");
     badge.id = "uk-coupon-badge";
-    badge.textContent = codes.length;
-    badge.title = `${codes.length} codes available for this store`;
+    badge.textContent = visibleCodes.length;
+    badge.title = `${visibleCodes.length} codes available for this store`;
     badge.addEventListener("click", togglePanel);
     document.body.appendChild(badge);
 
@@ -509,14 +533,22 @@
     const meta = document.createElement("div");
     meta.className = "ukcp-meta";
     const lastUpdated = storeData.codes?.[0]?.lastSeen || "";
-    meta.textContent = `${codes.length} codes · Updated: ${lastUpdated ? new Date(lastUpdated).toLocaleDateString("en-GB") : "unknown"}`;
+    const failedCount = codes.length - visibleCodes.length;
+    meta.textContent = `${visibleCodes.length} codes${failedCount > 0 ? ` (${failedCount} hidden)` : ""} · Updated: ${lastUpdated ? new Date(lastUpdated).toLocaleDateString("en-GB") : "unknown"}`;
     panel.appendChild(meta);
 
-    // Codes list
+    // Codes list — filter out locally reported failures
     const codesDiv = document.createElement("div");
     codesDiv.className = "ukcp-codes";
 
-    for (const c of codes) {
+    if (visibleCodes.length === 0) {
+      const empty = document.createElement("div");
+      empty.className = "ukcp-empty";
+      empty.textContent = "All codes marked as failed. Refresh to re-check.";
+      codesDiv.appendChild(empty);
+    }
+
+    for (const c of visibleCodes) {
       const item = document.createElement("div");
       item.className = "ukcp-code-item";
 
