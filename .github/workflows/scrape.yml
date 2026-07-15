@@ -46,6 +46,7 @@ jobs:
         run: |
           git config user.name "coupon-bot[bot]"
           git config user.email "coupon-bot[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add data/uk-coupons.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
