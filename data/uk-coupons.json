@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-18T16:08:00.188Z",
-    "totalCodes": 251,
+    "lastUpdated": "2026-07-18T16:08:33.209Z",
+    "totalCodes": 252,
     "version": "1.0",
     "sources": []
   },
@@ -304,6 +304,26 @@
           "url": "",
           "addedAt": "2026-07-18T06:36:48.587Z",
           "lastSeen": "2026-07-18T06:36:48.587Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "OFF30",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "latestdeals",
+          "sources": [
+            "latestdeals"
+          ],
+          "url": "https://www.latestdeals.co.uk/vouchers",
+          "addedAt": "2026-07-18T16:08:32.922Z",
+          "lastSeen": "2026-07-18T16:08:32.922Z",
           "testResults": {
             "total": 0,
             "worked": 0,
