@@ -52,16 +52,28 @@ To trigger manually: Actions tab → "Scrape UK Coupons" → "Run workflow"
 ```
 uk-coupon-bot/
 ├── .github/workflows/scrape.yml   # Daily cron job
-├── data/uk-coupons.json           # The coupon database
+├── data/uk-coupons.json           # The coupon database (270+ codes)
 ├── scraper/
 │   ├── index.js                   # Main scraper orchestrator
 │   ├── sources/
-│   │   ├── hotukdeals.js          # HotUKDeals RSS scraper
-│   │   └── vouchercodes.js        # VoucherCodes.co.uk scraper
+│   │   ├── hotukdeals.js          # RSS feed scraper
+│   │   ├── vouchercodes.js        # HTML scraper
+│   │   ├── ggdeals.js             # Gaming cache scraper
+│   │   ├── myvouchercodes.js      # Playwright scraper
+│   │   ├── savoo.js               # Playwright scraper
+│   │   ├── coupert.js             # Playwright scraper
+│   │   ├── netvouchercodes.js     # Playwright scraper
+│   │   ├── voucherbox.js          # Playwright scraper
+│   │   ├── codesuk.js             # Playwright scraper
+│   │   ├── latestdeals.js         # Playwright scraper
+│   │   └── moneysavingexpert.js   # Playwright scraper
 │   ├── lib/
 │   │   ├── normalizer.js          # Code dedup + normalization
+│   │   ├── playwright-base.js     # Shared browser logic
 │   │   ├── github.js              # GitHub API writer
 │   │   └── logger.js              # Scrape run logging
+│   ├── scripts/
+│   │   └── fetch-ggdeals.js       # GG.deals pre-fetch via Firecrawl
 │   ├── package.json
 │   └── .env.example
 ├── tampermonkey/
@@ -113,18 +125,30 @@ Or just report failed codes via the Tampermonkey script — it creates GitHub Is
 
 ## 📊 Sources
 
-| Source | Method | Coverage |
-|--------|--------|----------|
-| HotUKDeals | RSS feed | Community-voted UK deals |
-| VoucherCodes.co.uk | HTML scrape | Major UK retailers |
-| More sources planned | — | MyVoucherCodes, Savoo |
+| Source | Method | UK Focus | Codes/Run | Notes |
+|--------|--------|----------|-----------|-------|
+| HotUKDeals | RSS | ✅ | 15-20 | Fast, community-voted |
+| VoucherCodes.co.uk | HTML | ✅ | 30-40 | Reliable UK retailer codes |
+| GG.deals | Cached | 🎮 | 150+ | Gaming stores, pre-fetch via Firecrawl |
+| MyVoucherCodes | Playwright | ✅ | 80-100 | Dynamic JS rendering |
+| Savoo | Playwright | ✅ | 100+ | Best UK coverage |
+| Coupert | Playwright | 🌍 | 10-20 | Bypasses Cloudflare |
+| NetVoucherCodes | Playwright | ✅ | 0-10 | May have browser issues |
+| Voucherbox | Playwright | ✅ | 5-10 | UK exclusive codes |
+| Codes.co.uk | Playwright | ✅ | 10-15 | Daily updated |
+| LatestDeals | Playwright | ✅ | 1-5 | Community-posted codes |
+| MoneySavingExpert | Playwright | ✅ | 1-3 | Curated list |
+
+**Retired sources:** Honey (bot protection), Vouchercloud (Cloudflare), RetailMeNot (no codes), Wowcher (browser crashes)
 
 ## ⚠️ Notes
 
 - Codes are scraped from public sources — no warranty on validity
 - Some codes may be targeted/expired — use the "Report Failed" button to help clean up
-- The scraper respects rate limits (1-2s between requests)
+- The scraper respects rate limits (1.5-2s between requests)
 - Codes older than 90 days are automatically pruned
+- **Bot protection:** Some sources (Coupert, Honey, NetVoucherCodes) have Cloudflare/Vercel protection. If they fail, the scraper continues with other sources. Use `--source=` flag to run individual sources.
+- **GG.deals:** Requires pre-fetching via Firecrawl. Run `node scripts/fetch-ggdeals.js` before scraping.
 
 ## 📝 License
 

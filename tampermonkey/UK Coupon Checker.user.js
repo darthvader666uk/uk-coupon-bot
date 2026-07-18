@@ -154,8 +154,28 @@
       margin-top: 4px;
       display: flex;
       gap: 10px;
+      flex-wrap: wrap;
     }
     .ukcp-code-meta span { display: inline-flex; align-items: center; gap: 3px; }
+
+    .ukcp-source-badge {
+      display: inline-block;
+      padding: 1px 6px;
+      border-radius: 3px;
+      font-size: 9px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .ukcp-source-hotukdeals { background: #ff6600; color: #fff; }
+    .ukcp-source-vouchercodes { background: #00a651; color: #fff; }
+    .ukcp-source-ggdeals { background: #7b68ee; color: #fff; }
+    .ukcp-source-myvouchercodes { background: #e91e63; color: #fff; }
+    .ukcp-source-savoo { background: #2196f3; color: #fff; }
+    .ukcp-source-coupert { background: #ff5722; color: #fff; }
+    .ukcp-source-honey { background: #ffb300; color: #000; }
+    .ukcp-source-netvouchercodes { background: #9c27b0; color: #fff; }
+    .ukcp-source-unknown { background: #666; color: #fff; }
 
     .ukcp-copy-btn {
       background: #e94560;
@@ -556,6 +576,12 @@
       const total = c.testResults?.total || 0;
       const rate = total > 0 ? Math.round((worked / total) * 100) : null;
 
+      // Build source badges
+      const sources = c.sources || [c.source || "unknown"];
+      const sourceBadges = sources.map(s =>
+        `<span class="ukcp-source-badge ukcp-source-${s}">${s}</span>`
+      ).join(" ");
+
       item.innerHTML = `
         <div class="ukcp-code-text">${escapeHtml(c.code)}</div>
         <div class="ukcp-code-desc">${escapeHtml(c.description || "")}</div>
@@ -563,7 +589,7 @@
           ${c.type !== "unknown" ? `<span>📋 ${c.type}</span>` : ""}
           ${rate !== null ? `<span>✅ ${rate}% success</span>` : ""}
           ${c.expiry ? `<span>⏰ ${c.expiry}</span>` : ""}
-          <span>📡 ${c.source || "unknown"}</span>
+          ${sourceBadges}
         </div>
       `;
 

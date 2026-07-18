@@ -26,6 +26,14 @@ if (existsSync(envPath)) {
 import { scrape as scrapeHotUKDeals } from "./sources/hotukdeals.js";
 import { scrape as scrapeVoucherCodes } from "./sources/vouchercodes.js";
 import { scrape as scrapeGGdeals } from "./sources/ggdeals.js";
+import { scrape as scrapeMyVoucherCodes } from "./sources/myvouchercodes.js";
+import { scrape as scrapeSavoo } from "./sources/savoo.js";
+import { scrape as scrapeCoupert } from "./sources/coupert.js";
+import { scrape as scrapeNetVoucherCodes } from "./sources/netvouchercodes.js";
+import { scrape as scrapeVoucherbox } from "./sources/voucherbox.js";
+import { scrape as scrapeCodesUK } from "./sources/codesuk.js";
+import { scrape as scrapeLatestDeals } from "./sources/latestdeals.js";
+import { scrape as scrapeMSE } from "./sources/moneysavingexpert.js";
 import { mergeCodes, pruneStaleCodes, normalizeCode } from "./lib/normalizer.js";
 import { logRun } from "./lib/logger.js";
 import { readJSON, writeJSON, fetchFailedCodeIssues, closeIssue } from "./lib/github.js";
@@ -66,6 +74,14 @@ async function main() {
   if (!sourceFlag || sourceFlag === "hotukdeals") scrapers.push({ name: "hotukdeals", fn: scrapeHotUKDeals });
   if (!sourceFlag || sourceFlag === "vouchercodes") scrapers.push({ name: "vouchercodes", fn: scrapeVoucherCodes });
   if (!sourceFlag || sourceFlag === "ggdeals") scrapers.push({ name: "ggdeals", fn: scrapeGGdeals });
+  if (!sourceFlag || sourceFlag === "myvouchercodes") scrapers.push({ name: "myvouchercodes", fn: scrapeMyVoucherCodes });
+  if (!sourceFlag || sourceFlag === "savoo") scrapers.push({ name: "savoo", fn: scrapeSavoo });
+  if (!sourceFlag || sourceFlag === "coupert") scrapers.push({ name: "coupert", fn: scrapeCoupert });
+  if (!sourceFlag || sourceFlag === "netvouchercodes") scrapers.push({ name: "netvouchercodes", fn: scrapeNetVoucherCodes });
+  if (!sourceFlag || sourceFlag === "voucherbox") scrapers.push({ name: "voucherbox", fn: scrapeVoucherbox });
+  if (!sourceFlag || sourceFlag === "codesuk") scrapers.push({ name: "codesuk", fn: scrapeCodesUK });
+  if (!sourceFlag || sourceFlag === "latestdeals") scrapers.push({ name: "latestdeals", fn: scrapeLatestDeals });
+  if (!sourceFlag || sourceFlag === "moneysavingexpert") scrapers.push({ name: "moneysavingexpert", fn: scrapeMSE });
 
   for (const { name, fn } of scrapers) {
     try {

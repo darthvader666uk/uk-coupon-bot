@@ -7,10 +7,20 @@
   "scripts": {
     "scrape": "node index.js",
     "scrape:hotukdeals": "node index.js --source hotukdeals",
-    "scrape:vouchercodes": "node index.js --source vouchercodes"
+    "scrape:vouchercodes": "node index.js --source vouchercodes",
+    "scrape:ggdeals": "node index.js --source ggdeals",
+    "scrape:myvouchercodes": "node index.js --source myvouchercodes",
+    "scrape:savoo": "node index.js --source savoo",
+    "scrape:coupert": "node index.js --source coupert",
+    "scrape:netvouchercodes": "node index.js --source netvouchercodes",
+    "scrape:voucherbox": "node index.js --source voucherbox",
+    "scrape:codesuk": "node index.js --source codesuk",
+    "scrape:latestdeals": "node index.js --source latestdeals",
+    "scrape:moneysavingexpert": "node index.js --source moneysavingexpert"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-    "dotenv": "^16.4.0"
+    "dotenv": "^16.4.0",
+    "playwright": "^1.61.1"
   }
 }
