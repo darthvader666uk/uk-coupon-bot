@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-18T16:03:23.844Z",
-    "totalCodes": 241,
+    "lastUpdated": "2026-07-18T16:08:00.188Z",
+    "totalCodes": 251,
     "version": "1.0",
     "sources": []
   },
@@ -1022,6 +1022,26 @@
           "url": "https://www.netvouchercodes.co.uk/currys",
           "addedAt": "2026-07-18T15:59:26.279Z",
           "lastSeen": "2026-07-18T15:59:26.279Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "GT6",
+          "description": "Get £30 off Huawei GT6 when you reveal this voucher code.",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/currys",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -5021,6 +5041,26 @@
             "worked": 0,
             "lastTested": null
           }
+        },
+        {
+          "code": "LITTLE",
+          "description": "What’s Very and how does it work?",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/very",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
         }
       ]
     },
@@ -5063,11 +5103,12 @@
           "expiry": null,
           "source": "voucherbox",
           "sources": [
-            "voucherbox"
+            "voucherbox",
+            "codesuk"
           ],
           "url": "https://www.voucherbox.co.uk/vouchers/lookfantastic",
           "addedAt": "2026-07-18T16:03:23.571Z",
-          "lastSeen": "2026-07-18T16:03:23.571Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -5089,11 +5130,12 @@
           "expiry": null,
           "source": "voucherbox",
           "sources": [
-            "voucherbox"
+            "voucherbox",
+            "codesuk"
           ],
           "url": "https://www.voucherbox.co.uk/vouchers/samsung",
           "addedAt": "2026-07-18T16:03:23.571Z",
-          "lastSeen": "2026-07-18T16:03:23.571Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -5109,11 +5151,184 @@
           "expiry": null,
           "source": "voucherbox",
           "sources": [
-            "voucherbox"
+            "voucherbox",
+            "codesuk"
           ],
           "url": "https://www.voucherbox.co.uk/vouchers/samsung",
           "addedAt": "2026-07-18T16:03:23.571Z",
-          "lastSeen": "2026-07-18T16:03:23.571Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "SAMSUNG",
+          "description": "Reveal this SAMSUNG discount offer and Recycle your old fridge freezer for free when you buy a selected new fridge freezer and get up to £250 off.",
+          "type": "fixed",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/samsung",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "A57",
+          "description": "Save £50 on Galaxy A57 5G and get an extra 10% off when you reveal this voucher code.",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/samsung",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "sainsburys.co.uk": {
+      "name": "Sainsburys voucher codes",
+      "category": "general",
+      "codes": [
+        {
+          "code": "FAVOURITE",
+          "description": "To most people living in the UK, Sainsbury’s means home. As a supermarket that offers anything, it has naturally become part of people’s routine by providing everything - from food to tech, from homew",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/sainsburys",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        }
+      ]
+    },
+    "zara.com": {
+      "name": "ZARA voucher codes",
+      "category": "general",
+      "codes": [
+        {
+          "code": "REPELLENT",
+          "description": "Get 50% Off on WATER-REPELLENT PUFFER GILET when you activate this discount promo at ZARA.",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "HOODED",
+          "description": "Get 44% Off on HOODED PUFFER JACKET when you activate this discount promo at ZARA.",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CORDUROY",
+          "description": "Get 38% Off on FINE CORDUROY SHIRT when you activate this discount promo at ZARA.",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PUFFER",
+          "description": "Get 37% Off on PUFFER JACKET when you activate this discount promo at ZARA.",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "STRAIGHT",
+          "description": "Get 33% Off on STRAIGHT-FIT TRF JEANS when you activate this discount promo at ZARA.",
+          "type": "percentage",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-07-18T16:07:59.925Z",
+          "lastSeen": "2026-07-18T16:07:59.925Z",
           "testResults": {
             "total": 0,
             "worked": 0,
