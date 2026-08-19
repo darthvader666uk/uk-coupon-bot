@@ -14,6 +14,126 @@ const HEADERS = {
 };
 
 /**
+ * Store name → domain mapping for UK retailers.
+ * Used by guessDomain() to avoid dumping codes into unknown.co.uk
+ */
+const STORE_DOMAIN_MAP = {
+  "amazon": "amazon.co.uk",
+  "argos": "argos.co.uk",
+  "asos": "asos.com",
+  "boohoo": "boohoo.com",
+  "currys": "currys.co.uk",
+  "john lewis": "johnlewis.com",
+  "next": "next.co.uk",
+  "very": "very.co.uk",
+  "tesco": "tesco.com",
+  "sainsburys": "sainsburys.co.uk",
+  "sainsbury": "sainsburys.co.uk",
+  "morrisons": "morrisons.co.uk",
+  "marks and spencer": "marksandspencer.com",
+  "m&s": "marksandspencer.com",
+  "new look": "newlook.com",
+  "hm": "hm.com",
+  "zara": "zara.com",
+  "sports direct": "sportsdirect.com",
+  "nike": "nike.com",
+  "adidas": "adidas.co.uk",
+  "just eat": "just-eat.co.uk",
+  "dominos": "dominos.co.uk",
+  "uber eats": "ubereats.com",
+  "deliveroo": "deliveroo.co.uk",
+  "ebay": "ebay.co.uk",
+  "shein": "shein.co.uk",
+  "dunelm": "dunelm.com",
+  "wayfair": "wayfair.co.uk",
+  "wickes": "wickes.co.uk",
+  "b&q": "diy.com",
+  "boots": "boots.com",
+  "superdrug": "superdrug.com",
+  "lookfantastic": "lookfantastic.com",
+  "myprotein": "myprotein.co.uk",
+  "halfords": "halfords.com",
+  "game": "game.co.uk",
+  "tui": "tui.co.uk",
+  "debenhams": "debenhams.com",
+  "samsung": "samsung.com",
+  "ao": "ao.com",
+  "wowcher": "wowcher.com",
+  "groupon": "groupon.co.uk",
+  "booking": "booking.com",
+  "expedia": "expedia.co.uk",
+  "ikea": "ikea.com",
+  "apple": "apple.com",
+  "google store": "store.google.com",
+  "nintendo": "nintendo.co.uk",
+  "playstation": "store.playstation.com",
+  "xbox": "microsoft.com",
+  "steam": "store.steampowered.com",
+  "g2a": "g2a.com",
+  "kinguin": "kinguin.net",
+  "green man gaming": "greenmangaming.com",
+  "humble bundle": "humblebundle.com",
+  "fanatical": "fanatical.com",
+  "gog": "gog.com",
+  "epic games": "epicgames.com",
+  "ubisoft": "store.ubisoft.com",
+  "ea": "ea.com",
+  "razer": "razerzone.com",
+  "scan": "scan.co.uk",
+  "overclockers": "overclockers.co.uk",
+  "aria": "aria.co.uk",
+  "ccl": "cclonline.com",
+  "novatech": "novatech.co.uk",
+  "box": "box.co.uk",
+  "laptops direct": "laptopsdirect.co.uk",
+  "tv village": "tvvillage.co.uk",
+  "beds": "beds.co.uk",
+  "dreams": "dreams.co.uk",
+  "dfs": "dfs.co.uk",
+  "made": "made.com",
+  "habitat": "habitat.co.uk",
+  "waitrose": "waitrose.com",
+  "ocado": "ocado.com",
+  "coop": "coop.co.uk",
+  "aldi": "aldi.co.uk",
+  "lidl": "lidl.co.uk",
+  "poundland": "poundland.co.uk",
+  "home bargains": "homebargains.co.uk",
+  "b&m": "bmstores.co.uk",
+  "primark": "primark.com",
+  "tk maxx": "tkmaxx.com",
+  "jd sports": "jdsports.co.uk",
+  "footasylum": "footasylum.com",
+  "size?": "size.co.uk",
+  "asda": "asda.co.uk",
+  "iceland": "iceland.co.uk",
+  "farmfoods": "farmfoods.co.uk",
+  "wilko": "wilko.com",
+  "the range": "therange.co.uk",
+  "hmv": "hmv.com",
+  "smile": "smile.co.uk",
+  "premier inn": "premierinn.com",
+  "travelodge": "travelodge.co.uk",
+  "ryanair": "ryanair.com",
+  "easyjet": "easyjet.com",
+  "british airways": "britishairways.com",
+  "trainline": "thetrainline.com",
+  "national rail": "nationalrail.co.uk",
+  "hotels.com": "hotels.com",
+  "tripadvisor": "tripadvisor.co.uk",
+  "sky": "sky.com",
+  "bt": "bt.com",
+  "virgin media": "virginmedia.com",
+  "vodafone": "vodafone.co.uk",
+  "ee": "ee.co.uk",
+  "three": "three.co.uk",
+  "o2": "o2.co.uk",
+  "giffgaff": "giffgaff.com",
+  "pc world": "pcworld.co.uk",
+  "dixons": "dixons.co.uk",
+};
+
+/**
  * Scrape HotUKDeals voucher codes from RSS feed
  * @returns {Array} Array of normalized code entries
  */
@@ -135,6 +255,17 @@ function guessDomain(storeName) {
 
   const lower = storeName.toLowerCase().trim();
 
+  // Direct lookup in mapping
+  if (STORE_DOMAIN_MAP[lower]) return STORE_DOMAIN_MAP[lower];
+
+  // Partial match: check if any key is contained in the store name
+  for (const [key, domain] of Object.entries(STORE_DOMAIN_MAP)) {
+    if (lower.includes(key) || key.includes(lower)) {
+      return domain;
+    }
+  }
+
+  // Fallback: generate domain from name (improved version)
   const badPatterns = /\b(flip|fold|galaxy|pixel|iphone|expected|release|register|interest|chance|voucher|fuel|coupon|worth|litre|selected|exclusion|exception|day|week|month)\b/;
   if (badPatterns.test(lower)) return "unknown.co.uk";
 

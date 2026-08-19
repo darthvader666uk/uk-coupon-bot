@@ -7,6 +7,68 @@ export function normalizeCode(code) {
 }
 
 /**
+ * Clean a description string: strip CDATA wrappers, HTML tags, garbage text, collapse whitespace
+ */
+export function cleanDescription(desc) {
+  if (!desc || typeof desc !== "string") return "";
+  // Strip CDATA wrappers
+  let cleaned = desc.replace(/<!\[CDATA\[/gi, "").replace(/\]\]>/g, "").trim();
+  // Strip HTML tags
+  cleaned = cleaned.replace(/<[^>]+>/g, "").trim();
+  // Collapse whitespace
+  cleaned = cleaned.replace(/\s+/g, " ").trim();
+  // Filter out garbage descriptions
+  const garbagePatterns = /^(sponsored|we use cookies|share this page|view all|travel|newsletter|subscribe|follow us|sign up|login|register|cookie|privacy|terms)/i;
+  if (garbagePatterns.test(cleaned)) return "";
+  // Filter descriptions shorter than 5 characters (likely noise)
+  if (cleaned.length < 5) return "";
+  // Truncate to 200 chars without cutting mid-word
+  const cutoff = cleaned.lastIndexOf(" ", 200);
+  return cleaned.substring(0, cutoff > 0 ? cutoff : 200);
+}
+
+/**
+ * Extract discount value from description based on type
+ */
+export function extractValue(description, type) {
+  if (!description) return null;
+
+  if (type === "percentage") {
+    const match = description.match(/(\d+)%\s*off/i);
+    return match ? parseInt(match[1]) : null;
+  }
+
+  if (type === "fixed") {
+    const match = description.match(/£(\d+(?:\.\d{1,2})?)/);
+    return match ? parseFloat(match[1]) : null;
+  }
+
+  return null;
+}
+
+/**
+ * Extract minimum spend requirement from description
+ */
+export function extractMinSpend(description) {
+  if (!description) return null;
+  const match = description.match(/(?:min(?:imum)?\s*(?:spend|order)?\s*(?:of\s*)?|spend\s+(?:at\s+least\s+)?|on\s+)£(\d+(?:\.\d{1,2})?)/i);
+  return match ? parseFloat(match[1]) : null;
+}
+
+/**
+ * Guess coupon type from description text
+ */
+function guessTypeFromDescription(desc) {
+  if (!desc) return "unknown";
+  const lower = desc.toLowerCase();
+  if (/\d+%\s*off/.test(lower)) return "percentage";
+  if (/£\d+/.test(lower)) return "fixed";
+  if (/free\s+(delivery|shipping)/.test(lower)) return "free_shipping";
+  if (/buy\s+\d+\s+get/.test(lower)) return "bogo";
+  return "unknown";
+}
+
+/**
  * Generate a dedup key from code + store
  */
 export function dedupKey(code, storeDomain) {
@@ -45,7 +107,7 @@ export function mergeCodes(existingStores, newEntries) {
       // Update: keep higher successRate, refresh lastSeen
       if (entry.successRate !== undefined && entry.successRate > (existing.testResults?.worked || 0) / Math.max(existing.testResults?.total || 1, 1)) {
         existing.testResults = existing.testResults || { total: 0, worked: 0 };
-        existing.testResults.worked = entry.successRate > 0 ? existing.testResults.total : existing.testResults.worked;
+        existing.testResults.worked = Math.round(entry.successRate * existing.testResults.total);
       }
       existing.lastSeen = now;
       if (entry.source && !existing.sources?.includes(entry.source)) {
@@ -53,12 +115,14 @@ export function mergeCodes(existingStores, newEntries) {
       }
       updated++;
     } else {
+      const cleanedDesc = cleanDescription(entry.description);
+      const inferredType = entry.type !== "unknown" ? entry.type : guessTypeFromDescription(cleanedDesc);
       store.codes.push({
         code: normalised,
-        description: entry.description || "",
-        type: entry.type || "unknown",
-        value: entry.value || null,
-        minSpend: entry.minSpend || null,
+        description: cleanedDesc || "",
+        type: inferredType,
+        value: entry.value || extractValue(cleanedDesc, inferredType),
+        minSpend: entry.minSpend || extractMinSpend(cleanedDesc),
         expiry: entry.expiry || null,
         source: entry.source || "unknown",
         sources: [entry.source || "unknown"],

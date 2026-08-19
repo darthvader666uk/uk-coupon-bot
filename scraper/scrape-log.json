@@ -711,6 +711,121 @@
       "codesUpdated": 0,
       "duration": 9732,
       "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T13:59:45.738Z",
+      "source": "hotukdeals",
+      "codesFound": 18,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 297,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:00:22.219Z",
+      "source": "vouchercodes",
+      "codesFound": 31,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 36476,
+      "errors": [
+        "john-lewis: HTTP 404",
+        "very: HTTP 404",
+        "marks-and-spencer: HTTP 404",
+        "new-look: HTTP 404",
+        "sports-direct: HTTP 404",
+        "booking-com: HTTP 404",
+        "dominos-pizza: HTTP 404",
+        "uber-eats: HTTP 404"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19T14:00:22.246Z",
+      "source": "ggdeals",
+      "codesFound": 150,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 21,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:16:14.733Z",
+      "source": "myvouchercodes",
+      "codesFound": 93,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 952483,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:20:38.514Z",
+      "source": "savoo",
+      "codesFound": 111,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 263776,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:25:00.871Z",
+      "source": "coupert",
+      "codesFound": 15,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 262352,
+      "errors": [
+        "amazon-co-uk: Cloudflare challenge",
+        "john-lewis: Cloudflare challenge",
+        "sports-direct: Cloudflare challenge",
+        "adidas: Cloudflare challenge",
+        "samsung: Cloudflare challenge",
+        "ao-com: Cloudflare challenge"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19T14:40:51.177Z",
+      "source": "netvouchercodes",
+      "codesFound": 54,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 950301,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:44:29.672Z",
+      "source": "voucherbox",
+      "codesFound": 9,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 218490,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:50:08.606Z",
+      "source": "codesuk",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 338929,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:50:18.593Z",
+      "source": "latestdeals",
+      "codesFound": 1,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 9982,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-08-19T14:50:28.057Z",
+      "source": "moneysavingexpert",
+      "codesFound": 1,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 9460,
+      "errors": []
     }
   ]
 }

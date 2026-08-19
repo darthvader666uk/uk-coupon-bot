@@ -16,13 +16,65 @@ const POPULAR_STORES = [
   "adidas", "booking-com", "expedia", "just-eat",
   "dominos-pizza", "uber-eats", "deliveroo",
   // Gaming stores
-  "game.co.uk", "shopto.net", "razerzone.com",
+  "game-co-uk", "shopto-net", "razerzone-com",
 ];
 
 const HEADERS = {
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
   Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
   "Accept-Language": "en-GB,en;q=0.9",
+};
+
+/**
+ * Store slug → domain mapping for UK retailers.
+ * Maps VoucherCodes slug names to real store domains.
+ */
+const DOMAIN_MAP = {
+  "amazon": "amazon.co.uk",
+  "asos": "asos.com",
+  "boohoo": "boohoo.com",
+  "currys": "currys.co.uk",
+  "john-lewis": "johnlewis.com",
+  "next": "next.co.uk",
+  "argos": "argos.co.uk",
+  "very": "very.co.uk",
+  "tesco": "tesco.com",
+  "sainsburys": "sainsburys.co.uk",
+  "ocado": "ocado.com",
+  "morrisons": "morrisons.co.uk",
+  "marks-and-spencer": "marksandspencer.com",
+  "new-look": "newlook.com",
+  "hm": "hm.com",
+  "zara": "zara.com",
+  "primark": "primark.com",
+  "sports-direct": "sportsdirect.com",
+  "nike": "nike.com",
+  "adidas": "adidas.co.uk",
+  "booking-com": "booking.com",
+  "expedia": "expedia.co.uk",
+  "just-eat": "just-eat.co.uk",
+  "dominos-pizza": "dominos.co.uk",
+  "uber-eats": "ubereats.com",
+  "deliveroo": "deliveroo.co.uk",
+  "game-co-uk": "game.co.uk",
+  "shopto-net": "shopto.net",
+  "razerzone-com": "razerzone.com",
+  "ebay": "ebay.co.uk",
+  "shein": "shein.co.uk",
+  "dunelm": "dunelm.com",
+  "wayfair": "wayfair.co.uk",
+  "boots": "boots.com",
+  "superdrug": "superdrug.com",
+  "halfords": "halfords.com",
+  "ikea": "ikea.com",
+  "apple": "apple.com",
+  "samsung": "samsung.com",
+  "sky": "sky.com",
+  "bt": "bt.com",
+  "vodafone": "vodafone.co.uk",
+  "ee": "ee.co.uk",
+  "three": "three.co.uk",
+  "o2": "o2.co.uk",
 };
 
 /**
@@ -73,7 +125,7 @@ export async function scrape(stores = POPULAR_STORES) {
         entries.push({
           code,
           storeName,
-          storeDomain: `${store}.co.uk`,
+          storeDomain: DOMAIN_MAP[store] || `${store}.co.uk`,
           description,
           type: guessType(description),
           source: "vouchercodes",
