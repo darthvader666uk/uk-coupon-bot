@@ -1524,45 +1524,10 @@
   }
 
   function positionFloater(floater, input) {
-    const rect = input.getBoundingClientRect();
+    // Center the floater in the viewport
     const floaterRect = floater.getBoundingClientRect();
-    let top = rect.bottom + 10 + window.scrollY;
-    let left = rect.left + window.scrollX;
-
-    // Avoid overlapping the coupon panel (fixed at bottom-right: ~400px wide, up to ~560px tall)
-    const panel = document.getElementById("uk-coupon-panel");
-    if (panel && panel.classList.contains("open")) {
-      const pr = panel.getBoundingClientRect();
-      const pLeft = pr.left + window.scrollX;
-      const pTop = pr.top + window.scrollY;
-      const pRight = pr.right + window.scrollX;
-      const pBottom = pr.bottom + window.scrollY;
-      const margin = 10;
-
-      // Check if floater would overlap with the panel
-      if (left < pRight + margin && left + floaterRect.width > pLeft - margin &&
-          top < pBottom + margin && top + floaterRect.height > pTop - margin) {
-        // Try placing to the left of the panel
-        left = pLeft - floaterRect.width - margin;
-        if (left < 20 + window.scrollX) {
-          // Try placing above the panel
-          left = rect.left + window.scrollX;
-          top = pTop - floaterRect.height - margin;
-          if (top < 20 + window.scrollY) {
-            // Fallback: below the panel
-            top = pBottom + margin;
-          }
-        }
-      }
-    }
-
-    // Keep inside viewport
-    if (left + floaterRect.width > window.innerWidth - 20 + window.scrollX) {
-      left = window.innerWidth - floaterRect.width - 20 + window.scrollX;
-    }
-    if (top + floaterRect.height > window.innerHeight - 20 + window.scrollY) {
-      top = rect.top - floaterRect.height - 10 + window.scrollY;
-    }
+    const top = (window.innerHeight - floaterRect.height) / 2;
+    const left = (window.innerWidth - floaterRect.width) / 2;
 
     floater.style.top = `${top}px`;
     floater.style.left = `${left}px`;
