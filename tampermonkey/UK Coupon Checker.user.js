@@ -1098,8 +1098,8 @@
     // Badge
     buildBadge(visibleCodes, storeData, domain);
 
-    // Notification toast
-    showNotificationToast(visibleCodes, storeData, domain);
+    // Notification toast — disabled; badge is sufficient
+    // showNotificationToast(visibleCodes, storeData, domain);
 
     // Panel
     const panel = document.createElement("div");
@@ -1290,7 +1290,7 @@
   }
 
   // ─── CHECKOUT FLOATER ─────────────────────────────────────────────────────
-  function buildCheckoutFloater(codes, storeData, domain, skipAutoTry) {
+  function buildCheckoutFloater(codes, storeData, domain) {
     const input = findCheckoutInput();
     if (!input) return;
 
@@ -1310,7 +1310,7 @@
         <h4>${escapeHtml(storeData.name || domain)} coupons</h4>
         <span class="ukcp-checkout-close">✕</span>
       </div>
-      <div class="ukcp-checkout-status" id="ukcp-checkout-status">Auto-trying best code…</div>
+        <div class="ukcp-checkout-status" id="ukcp-checkout-status">Pick a code to try</div>
       <div class="ukcp-checkout-list" id="ukcp-checkout-list"></div>
     `;
 
@@ -1341,13 +1341,6 @@
     document.body.appendChild(floater);
     positionFloater(floater, input);
     floater.classList.add("ukcp-show");
-
-    // Auto-try the highest success-rate code after a short delay so the page is stable
-    if (!skipAutoTry) {
-      setTimeout(() => {
-        runSingleAutoTry(visibleCodes[0], list.querySelector(".ukcp-checkout-item[data-code=\"" + escapeHtml(visibleCodes[0].code) + "\"] .ukcp-checkout-try"));
-      }, 3500);
-    }
 
     // Reposition on resize
     window.addEventListener("resize", () => positionFloater(floater, input), { passive: true });
@@ -1470,7 +1463,7 @@
     }
 
     // Show checkout floater if not already visible
-    buildCheckoutFloater(codes, { name: document.querySelector(".ukcp-header h3")?.textContent || getCurrentDomain() }, getCurrentDomain(), true);
+    buildCheckoutFloater(codes, { name: document.querySelector(".ukcp-header h3")?.textContent || getCurrentDomain() }, getCurrentDomain());
     tryNext();
   }
 
