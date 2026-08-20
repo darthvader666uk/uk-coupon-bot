@@ -1495,6 +1495,35 @@
       floater.classList.remove("ukcp-show");
     });
 
+    // Make floater draggable
+    const head = floater.querySelector(".ukcp-checkout-head");
+    head.style.cursor = "move";
+    let isDragging = false;
+    let startX, startY, startLeft, startTop;
+
+    head.addEventListener("mousedown", (e) => {
+      if (e.target.closest(".ukcp-checkout-close")) return;
+      isDragging = true;
+      startX = e.clientX;
+      startY = e.clientY;
+      const rect = floater.getBoundingClientRect();
+      startLeft = rect.left;
+      startTop = rect.top;
+      e.preventDefault();
+    });
+
+    document.addEventListener("mousemove", (e) => {
+      if (!isDragging) return;
+      const dx = e.clientX - startX;
+      const dy = e.clientY - startY;
+      floater.style.left = `${startLeft + dx}px`;
+      floater.style.top = `${startTop + dy}px`;
+    });
+
+    document.addEventListener("mouseup", () => {
+      isDragging = false;
+    });
+
     const list = floater.querySelector("#ukcp-checkout-list");
     visibleCodes.forEach((c, idx) => {
       const rate = getCodeSuccess(c);
