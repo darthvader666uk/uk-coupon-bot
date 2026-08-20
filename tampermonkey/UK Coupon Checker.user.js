@@ -1278,15 +1278,15 @@
     const header = document.createElement("div");
     header.className = "ukcp-header";
     header.innerHTML = `
-      <img class="ukcp-store-logo" src="${logoUrl}" alt="" onerror="this.style.display='none'">
-      <div class="ukcp-title-block">
-        <h3>${escapeHtml(storeData.name || domain)}</h3>
-        <div class="ukcp-subtitle">${visibleCodes.length} coupon${visibleCodes.length === 1 ? "" : "s"} found</div>
-      </div>
       <div class="ukcp-header-actions">
         <span class="ukcp-update" title="Check for script updates">⬆</span>
         <span class="ukcp-refresh" title="Refresh codes from server">↻</span>
         <span class="ukcp-close" title="Close">✕</span>
+      </div>
+      <img class="ukcp-store-logo" src="${logoUrl}" alt="" onerror="this.style.display='none'">
+      <div class="ukcp-title-block">
+        <h3>${escapeHtml(storeData.name || domain)}</h3>
+        <div class="ukcp-subtitle">${visibleCodes.length} coupon${visibleCodes.length === 1 ? "" : "s"} found</div>
       </div>
     `;
 
