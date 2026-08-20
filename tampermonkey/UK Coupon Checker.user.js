@@ -1452,6 +1452,14 @@
       triggerBtn.textContent = "…";
     }
 
+    // Show progress bar
+    const progressBar = document.getElementById("ukcp-checkout-progress");
+    const progressFill = document.getElementById("ukcp-progress-fill");
+    const progressText = document.getElementById("ukcp-progress-text");
+    if (progressBar) progressBar.style.display = "flex";
+    if (progressFill) progressFill.style.width = "50%";
+    if (progressText) progressText.textContent = "Trying…";
+
     setCheckoutStatus(`Trying "${codeObj.code}"…`, "working");
     applyCodeToInput(input, codeObj.code);
 
@@ -1462,13 +1470,25 @@
       console.log("[UK Coupon Checker] Could not auto-click apply button", e);
     }
 
-    // Just show status, no modal
+    // Detect result and update UI
     setTimeout(() => {
-      setCheckoutStatus(`"${codeObj.code}" applied. Did it work?`, "working");
+      const result = detectCodeResult();
+      const icon = result === 'success' ? '✅' : result === 'failure' ? '❌' : '❓';
+      
+      if (progressFill) progressFill.style.width = "100%";
+      if (progressText) progressText.textContent = icon;
+      
+      setCheckoutStatus(`"${codeObj.code}" ${result === 'success' ? 'worked!' : result === 'failure' ? 'failed' : 'applied'}. Did it work?`, result === 'success' ? 'success' : result === 'failure' ? 'fail' : 'working');
+      
       if (triggerBtn) {
         triggerBtn.textContent = "Try";
         triggerBtn.disabled = false;
       }
+      
+      // Hide progress bar after 3 seconds
+      setTimeout(() => {
+        if (progressBar) progressBar.style.display = "none";
+      }, 3000);
     }, 1500);
   }
 
