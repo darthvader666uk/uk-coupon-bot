@@ -469,37 +469,40 @@
     #uk-coupon-checkout {
       position: fixed;
       z-index: 999996;
-      width: 280px;
+      width: 320px;
       max-width: calc(100vw - 40px);
       background: var(--ukcp-bg);
       color: var(--ukcp-text);
       border: 1px solid var(--ukcp-border);
-      border-left: 3px solid var(--ukcp-accent);
+      border-left: 4px solid var(--ukcp-accent);
       border-radius: var(--ukcp-radius);
       box-shadow: var(--ukcp-shadow);
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       font-size: 13px;
-      padding: 14px;
+      line-height: 1.4;
+      padding: 16px;
       display: none;
     }
     #uk-coupon-checkout.ukcp-show { display: block; }
+
     #uk-coupon-checkout .ukcp-checkout-head {
       display: flex;
       align-items: center;
       gap: 10px;
-      margin-bottom: 10px;
+      margin-bottom: 12px;
     }
     #uk-coupon-checkout .ukcp-checkout-logo {
-      width: 26px;
-      height: 26px;
+      width: 28px;
+      height: 28px;
       border-radius: 6px;
       background: #fff;
       padding: 2px;
       object-fit: contain;
+      flex-shrink: 0;
     }
     #uk-coupon-checkout h4 {
       margin: 0;
-      font-size: 13px;
+      font-size: 14px;
       color: #fff;
       flex: 1;
     }
@@ -508,75 +511,113 @@
       cursor: pointer;
       font-size: 16px;
       line-height: 1;
+      padding: 4px;
+      margin: -4px;
+      transition: color 0.15s;
     }
     #uk-coupon-checkout .ukcp-checkout-close:hover { color: #fff; }
+
     #uk-coupon-checkout .ukcp-checkout-status {
       font-size: 12px;
-      margin-bottom: 10px;
+      font-weight: 500;
+      padding: 6px 10px;
+      background: rgba(255, 255, 255, 0.06);
+      border-radius: 6px;
+      margin-bottom: 12px;
       min-height: 18px;
+      transition: color 0.2s, background 0.2s;
     }
-    #uk-coupon-checkout .ukcp-checkout-status.ukcp-working { color: var(--ukcp-yellow); }
-    #uk-coupon-checkout .ukcp-checkout-status.ukcp-success { color: var(--ukcp-green); }
-    #uk-coupon-checkout .ukcp-checkout-status.ukcp-fail { color: var(--ukcp-red); }
+    #uk-coupon-checkout .ukcp-checkout-status.ukcp-working { color: var(--ukcp-yellow); background: rgba(255, 152, 0, 0.1); }
+    #uk-coupon-checkout .ukcp-checkout-status.ukcp-success { color: var(--ukcp-green); background: rgba(76, 175, 80, 0.1); }
+    #uk-coupon-checkout .ukcp-checkout-status.ukcp-fail { color: var(--ukcp-red); background: rgba(244, 67, 54, 0.1); }
+
+    #uk-coupon-checkout .ukcp-checkout-progress {
+      display: none;
+      align-items: center;
+      gap: 10px;
+      margin: 12px 0;
+    }
+    #uk-coupon-checkout .ukcp-checkout-progress.ukcp-active { display: flex; }
+    #uk-coupon-checkout .ukcp-progress-bar {
+      flex: 1;
+      height: 8px;
+      background: #2a2a45;
+      border-radius: 4px;
+      overflow: hidden;
+      box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.4);
+    }
+    #uk-coupon-checkout .ukcp-progress-fill {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, var(--ukcp-accent), var(--ukcp-accent-hover));
+      border-radius: 4px;
+      transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    #uk-coupon-checkout .ukcp-progress-text {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--ukcp-muted);
+      min-width: 44px;
+      text-align: right;
+    }
+
     #uk-coupon-checkout .ukcp-checkout-list {
-      max-height: 220px;
+      max-height: 240px;
       overflow-y: auto;
+      margin-top: 8px;
+      padding: 4px 0;
     }
+    #uk-coupon-checkout .ukcp-checkout-list::-webkit-scrollbar { width: 6px; }
+    #uk-coupon-checkout .ukcp-checkout-list::-webkit-scrollbar-track { background: transparent; }
+    #uk-coupon-checkout .ukcp-checkout-list::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
     #uk-coupon-checkout .ukcp-checkout-item {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 8px;
-      padding: 8px 0;
-      border-bottom: 1px solid #222;
+      gap: 12px;
+      padding: 10px 12px;
+      border-bottom: 1px solid #2a2a45;
+      border-radius: 6px;
+      transition: background 0.15s;
     }
+    #uk-coupon-checkout .ukcp-checkout-item:hover { background: rgba(255, 255, 255, 0.04); }
     #uk-coupon-checkout .ukcp-checkout-item:last-child { border-bottom: none; }
     #uk-coupon-checkout .ukcp-checkout-code {
       font-family: "SF Mono", "Fira Code", Consolas, monospace;
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 700;
       color: var(--ukcp-accent);
+      letter-spacing: 0.5px;
     }
     #uk-coupon-checkout .ukcp-checkout-rate {
       font-size: 10px;
       color: var(--ukcp-muted);
+      margin-top: 2px;
     }
     #uk-coupon-checkout .ukcp-checkout-try {
       background: var(--ukcp-accent);
       color: #fff;
       border: none;
-      border-radius: 5px;
-      padding: 5px 10px;
-      font-size: 11px;
-      font-weight: 700;
+      border-radius: 6px;
+      padding: 7px 14px;
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
       cursor: pointer;
+      flex-shrink: 0;
+      box-shadow: 0 3px 8px rgba(233, 69, 96, 0.35);
+      transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
     }
-    #uk-coupon-checkout .ukcp-checkout-try:hover { background: var(--ukcp-accent-hover); }
-    #uk-coupon-checkout .ukcp-checkout-try:disabled { opacity: 0.5; cursor: not-allowed; }
-    #uk-coupon-checkout .ukcp-checkout-progress {
-      margin: 10px 0;
-      display: flex;
-      align-items: center;
-      gap: 10px;
+    #uk-coupon-checkout .ukcp-checkout-try:hover {
+      background: var(--ukcp-accent-hover);
+      box-shadow: 0 5px 12px rgba(233, 69, 96, 0.5);
     }
-    #uk-coupon-checkout .ukcp-progress-bar {
-      flex: 1;
-      height: 6px;
-      background: #222;
-      border-radius: 3px;
-      overflow: hidden;
-    }
-    #uk-coupon-checkout .ukcp-progress-fill {
-      height: 100%;
-      background: var(--ukcp-accent);
-      width: 0%;
-      transition: width 0.3s ease;
-    }
-    #uk-coupon-checkout .ukcp-progress-text {
-      font-size: 11px;
-      color: var(--ukcp-muted);
-      min-width: 40px;
-      text-align: right;
+    #uk-coupon-checkout .ukcp-checkout-try:active { transform: scale(0.96); }
+    #uk-coupon-checkout .ukcp-checkout-try:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      box-shadow: none;
     }
 
     /* ── Savings prompt / modal ── */
@@ -1372,8 +1413,8 @@
         <h4>${escapeHtml(storeData.name || domain)} coupons</h4>
         <span class="ukcp-checkout-close">✕</span>
       </div>
-        <div class="ukcp-checkout-status" id="ukcp-checkout-status">Pick a code to try</div>
-      <div class="ukcp-checkout-progress" id="ukcp-checkout-progress" style="display:none">
+      <div class="ukcp-checkout-status" id="ukcp-checkout-status">Pick a code to try</div>
+      <div class="ukcp-checkout-progress" id="ukcp-checkout-progress">
         <div class="ukcp-progress-bar">
           <div class="ukcp-progress-fill" id="ukcp-progress-fill"></div>
         </div>
@@ -1456,8 +1497,12 @@
     const progressBar = document.getElementById("ukcp-checkout-progress");
     const progressFill = document.getElementById("ukcp-progress-fill");
     const progressText = document.getElementById("ukcp-progress-text");
-    if (progressBar) progressBar.style.display = "flex";
-    if (progressFill) progressFill.style.width = "50%";
+    if (progressBar) progressBar.classList.add("ukcp-active");
+    if (progressFill) {
+      progressFill.style.width = "0%";
+      void progressFill.offsetWidth; // force reflow for a smooth 0 -> 50% animation
+      progressFill.style.width = "50%";
+    }
     if (progressText) progressText.textContent = "Trying…";
 
     setCheckoutStatus(`Trying "${codeObj.code}"…`, "working");
@@ -1487,7 +1532,7 @@
       
       // Hide progress bar after 3 seconds
       setTimeout(() => {
-        if (progressBar) progressBar.style.display = "none";
+        if (progressBar) progressBar.classList.remove("ukcp-active");
       }, 3000);
     }, 1500);
   }
@@ -1551,16 +1596,12 @@
     const sorted = sortCodesBySuccess(codes);
     const results = [];
     let index = 0;
-
-    const progressBar = document.getElementById("ukcp-checkout-progress");
-    const progressFill = document.getElementById("ukcp-progress-fill");
-    const progressText = document.getElementById("ukcp-progress-text");
-    if (progressBar) progressBar.style.display = "flex";
+    let progressBar, progressFill, progressText;
 
     function tryNext() {
       if (index >= sorted.length) {
         // All codes tried — hide progress bar and show summary
-        if (progressBar) progressBar.style.display = "none";
+        if (progressBar) progressBar.classList.remove("ukcp-active");
         showResultsSummary(results, () => {
           if (panelBtn) {
             panelBtn.disabled = false;
@@ -1594,6 +1635,13 @@
 
     // Show checkout floater if not already visible
     buildCheckoutFloater(codes, { name: document.querySelector(".ukcp-header h3")?.textContent || getCurrentDomain() }, getCurrentDomain());
+
+    // Grab the progress elements now the floater exists in the DOM
+    progressBar = document.getElementById("ukcp-checkout-progress");
+    progressFill = document.getElementById("ukcp-progress-fill");
+    progressText = document.getElementById("ukcp-progress-text");
+    if (progressBar) progressBar.classList.add("ukcp-active");
+
     tryNext();
   }
 
