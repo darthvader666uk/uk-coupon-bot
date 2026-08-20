@@ -10,6 +10,7 @@ import {
 
 const BASE_URL = "https://www.myvouchercodes.co.uk";
 
+// Kept as fallback when sitemap discovery fails
 const POPULAR_STORES = [
   "amazon", "asos", "boohoo", "currys", "john-lewis",
   "next", "argos", "very", "tesco", "sainsburys",
@@ -25,18 +26,69 @@ const POPULAR_STORES = [
 ];
 
 /**
- * Scrape MyVoucherCodes using Playwright to render JS.
+ * Dynamically discover all stores from MyVoucherCodes sitemaps.
+ * Fetches the sitemap index, then each merchant sub-sitemap to extract store slugs.
+ * Falls back to POPULAR_STORES on failure.
+ * @returns {Promise<string[]>}
  */
-export async function scrape(stores = POPULAR_STORES) {
+async function discoverStores() {
+  try {
+    const indexRes = await fetch(`${BASE_URL}/sitemap.xml`, { headers: { Accept: "application/xml" } });
+    if (!indexRes.ok) throw new Error(`Sitemap index HTTP ${indexRes.status}`);
+    const indexXml = await indexRes.text();
+
+    // Extract merchant sub-sitemap URLs (e.g., /sitemaps/merchants/1.xml)
+    const subSitemapUrls = [...indexXml.matchAll(/<loc>([^<]+)<\/loc>/g)]
+      .map(m => m[1])
+      .filter(u => u.includes("merchants"));
+
+    if (subSitemapUrls.length === 0) throw new Error("No merchant sub-sitemaps found");
+
+    const allStores = new Set();
+
+    for (const url of subSitemapUrls) {
+      try {
+        const res = await fetch(url, { headers: { Accept: "application/xml" } });
+        if (!res.ok) continue;
+        const xml = await res.text();
+        const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+        for (const u of urls) {
+          // Store URLs are like https://www.myvouchercodes.co.uk/{store-slug}
+          const match = u.match(/myvouchercodes\.co\.uk\/([^/?#]+)$/);
+          if (match) allStores.add(match[1]);
+        }
+      } catch (_) { /* skip failed sub-sitemap */ }
+    }
+
+    if (allStores.size > 0) {
+      const stores = [...allStores];
+      console.log(`[MyVoucherCodes] Discovered ${stores.length} stores from sitemaps`);
+      return stores;
+    }
+  } catch (e) {
+    console.log(`[MyVoucherCodes] Sitemap discovery failed: ${e.message}`);
+  }
+
+  console.log(`[MyVoucherCodes] Falling back to ${POPULAR_STORES.length} hardcoded stores`);
+  return POPULAR_STORES;
+}
+
+/**
+ * Scrape MyVoucherCodes using Playwright to render JS.
+ * Dynamically discovers all stores from sitemaps before scraping.
+ * @param {string[]} stores - Optional override store list (skips discovery)
+ */
+export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
 
-  console.log(`[MyVoucherCodes] Scraping ${stores.length} stores (Playwright)…`);
+  const storeList = stores || await discoverStores();
+  console.log(`[MyVoucherCodes] Scraping ${storeList.length} stores (Playwright)…`);
 
   const browser = await launchBrowser();
 
-  for (const store of stores) {
+  for (const store of storeList) {
     let context;
     try {
       const url = `${BASE_URL}/${store}`;

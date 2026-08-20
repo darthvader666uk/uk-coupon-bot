@@ -8,6 +8,7 @@ import { load as cheerio } from "cheerio";
 const BASE_URL = "https://www.vouchercodes.co.uk";
 
 // Top UK stores to scrape (high-traffic, frequently updated)
+// Kept as fallback when sitemap discovery fails
 const POPULAR_STORES = [
   "amazon", "asos", "boohoo", "currys", "johnlewis.com",
   "next", "argos", "very.co.uk", "tesco", "sainsburys",
@@ -24,6 +25,56 @@ const HEADERS = {
   Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
   "Accept-Language": "en-GB,en;q=0.9",
 };
+
+/**
+ * Dynamically discover all stores from VoucherCodes sitemaps.
+ * Fetches the sitemap index, then each merchant sub-sitemap to extract store slugs.
+ * Falls back to POPULAR_STORES on failure.
+ * @returns {Promise<string[]>}
+ */
+async function discoverStores() {
+  try {
+    // Fetch sitemap index
+    const indexRes = await fetch(`${BASE_URL}/sitemap.xml`, { headers: HEADERS });
+    if (!indexRes.ok) throw new Error(`Sitemap index HTTP ${indexRes.status}`);
+    const indexXml = await indexRes.text();
+
+    // Extract merchant sub-sitemap URLs
+    const subSitemapUrls = [...indexXml.matchAll(/<loc>([^<]+)<\/loc>/g)]
+      .map(m => m[1])
+      .filter(u => u.includes("sitemap-merchant"));
+
+    if (subSitemapUrls.length === 0) throw new Error("No merchant sub-sitemaps found");
+
+    const allStores = new Set();
+
+    // Fetch each merchant sub-sitemap (a-e, p1-p3)
+    for (const url of subSitemapUrls) {
+      try {
+        const res = await fetch(url, { headers: HEADERS });
+        if (!res.ok) continue;
+        const xml = await res.text();
+        const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+        for (const u of urls) {
+          // Store URLs are like https://www.vouchercodes.co.uk/{store-slug}
+          const match = u.match(/vouchercodes\.co\.uk\/([^/?#]+)$/);
+          if (match) allStores.add(match[1]);
+        }
+      } catch (_) { /* skip failed sub-sitemap */ }
+    }
+
+    if (allStores.size > 0) {
+      const stores = [...allStores];
+      console.log(`[VoucherCodes] Discovered ${stores.length} stores from sitemaps`);
+      return stores;
+    }
+  } catch (e) {
+    console.log(`[VoucherCodes] Sitemap discovery failed: ${e.message}`);
+  }
+
+  console.log(`[VoucherCodes] Falling back to ${POPULAR_STORES.length} hardcoded stores`);
+  return POPULAR_STORES;
+}
 
 /**
  * Store slug → domain mapping for UK retailers.
@@ -78,18 +129,20 @@ const DOMAIN_MAP = {
 };
 
 /**
- * Scrape voucher codes from VoucherCodes for a list of stores
- * @param {string[]} stores - Optional override store list
+ * Scrape voucher codes from VoucherCodes for a list of stores.
+ * Dynamically discovers all stores from sitemaps before scraping.
+ * @param {string[]} stores - Optional override store list (skips discovery)
  * @returns {{ entries: Array, duration: number, errors: string[] }}
  */
-export async function scrape(stores = POPULAR_STORES) {
+export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
 
-  console.log(`[VoucherCodes] Scraping ${stores.length} stores…`);
+  const storeList = stores || await discoverStores();
+  console.log(`[VoucherCodes] Scraping ${storeList.length} stores…`);
 
-  for (const store of stores) {
+  for (const store of storeList) {
     try {
       const url = `${BASE_URL}/${store}`;
       const res = await fetch(url, { headers: HEADERS, redirect: "follow" });

@@ -10,6 +10,7 @@ import {
 
 const BASE_URL = "https://www.netvouchercodes.co.uk";
 
+// Kept as fallback when sitemap discovery fails
 const POPULAR_STORES = [
   "amazon", "asos", "boohoo", "currys", "john-lewis",
   "next", "argos", "very", "tesco", "sainsburys",
@@ -49,16 +50,80 @@ function cleanStoreName(slug) {
   return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-export async function scrape(stores = POPULAR_STORES) {
+/**
+ * Dynamically discover all stores from NetVoucherCodes sitemaps.
+ * Tries sitemap.xml and common sub-sitemap patterns.
+ * Falls back to POPULAR_STORES on failure.
+ * @returns {Promise<string[]>}
+ */
+async function discoverStores() {
+  const sitemapUrls = [
+    `${BASE_URL}/sitemap.xml`,
+    `${BASE_URL}/sitemap_index.xml`,
+  ];
+
+  for (const sitemapUrl of sitemapUrls) {
+    try {
+      const indexRes = await fetch(sitemapUrl, { headers: { Accept: "application/xml" } });
+      if (!indexRes.ok) continue;
+      const xml = await indexRes.text();
+
+      if (xml.includes("<sitemap>")) {
+        // Sitemap index — find merchant/store sub-sitemaps
+        const subUrls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)]
+          .map(m => m[1])
+          .filter(u => u.includes("merchant") || u.includes("store"));
+
+        for (const subUrl of subUrls) {
+          try {
+            const res = await fetch(subUrl, { headers: { Accept: "application/xml" } });
+            if (!res.ok) continue;
+            const subXml = await res.text();
+            const urls = [...subXml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+            const stores = new Set();
+            for (const u of urls) {
+              const match = u.match(/netvouchercodes\.co\.uk\/([^/?#]+)$/);
+              if (match) stores.add(match[1]);
+            }
+            if (stores.size > 0) {
+              const result = [...stores];
+              console.log(`[NetVoucherCodes] Discovered ${result.length} stores from sitemaps`);
+              return result;
+            }
+          } catch (_) { /* skip */ }
+        }
+      } else {
+        // Flat sitemap
+        const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+        const stores = new Set();
+        for (const u of urls) {
+          const match = u.match(/netvouchercodes\.co\.uk\/([^/?#]+)$/);
+          if (match) stores.add(match[1]);
+        }
+        if (stores.size > 0) {
+          const result = [...stores];
+          console.log(`[NetVoucherCodes] Discovered ${result.length} stores from sitemap`);
+          return result;
+        }
+      }
+    } catch (_) { /* try next URL pattern */ }
+  }
+
+  console.log(`[NetVoucherCodes] Sitemap discovery unavailable — using ${POPULAR_STORES.length} hardcoded stores`);
+  return POPULAR_STORES;
+}
+
+export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
 
-  console.log(`[NetVoucherCodes] Scraping ${stores.length} stores (Playwright)…`);
+  const storeList = stores || await discoverStores();
+  console.log(`[NetVoucherCodes] Scraping ${storeList.length} stores (Playwright)…`);
 
   const browser = await launchBrowser();
 
-  for (const store of stores) {
+  for (const store of storeList) {
     let context;
     try {
       const url = `${BASE_URL}/${store}`;

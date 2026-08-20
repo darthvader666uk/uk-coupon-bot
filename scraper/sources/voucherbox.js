@@ -9,6 +9,7 @@ import {
 
 const BASE_URL = "https://www.voucherbox.co.uk/vouchers";
 
+// Kept as fallback when sitemap discovery fails
 const POPULAR_STORES = [
   "amazon", "argos", "asos", "boohoo", "currys", "john-lewis",
   "next", "very", "tesco", "sainsburys", "morrisons", "marks-and-spencer",
@@ -45,6 +46,38 @@ function cleanName(slug) {
   return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
+/**
+ * Dynamically discover all stores from Voucherbox sitemap.
+ * Voucherbox has a flat sitemap listing all store voucher pages.
+ * Falls back to POPULAR_STORES on failure.
+ * @returns {Promise<string[]>}
+ */
+async function discoverStores() {
+  try {
+    const res = await fetch("https://www.voucherbox.co.uk/sitemap.xml", { headers: { Accept: "application/xml" } });
+    if (!res.ok) throw new Error(`Sitemap HTTP ${res.status}`);
+    const xml = await res.text();
+    const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+    const allStores = new Set();
+    for (const u of urls) {
+      // Store URLs are like https://www.voucherbox.co.uk/vouchers/{store-slug}
+      const match = u.match(/voucherbox\.co\.uk\/vouchers\/([^/?#]+)$/);
+      if (match) allStores.add(match[1]);
+    }
+
+    if (allStores.size > 0) {
+      const stores = [...allStores];
+      console.log(`[Voucherbox] Discovered ${stores.length} stores from sitemap`);
+      return stores;
+    }
+  } catch (e) {
+    console.log(`[Voucherbox] Sitemap discovery failed: ${e.message}`);
+  }
+
+  console.log(`[Voucherbox] Falling back to ${POPULAR_STORES.length} hardcoded stores`);
+  return POPULAR_STORES;
+}
+
 const EXTRACT_CODES = () => {
   const results = [];
   document.querySelectorAll("[data-code], [data-voucher], [data-coupon]").forEach((el) => {
@@ -74,15 +107,16 @@ const EXTRACT_CODES = () => {
   return results;
 };
 
-export async function scrape(stores = POPULAR_STORES) {
+export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
 
-  console.log(`[Voucherbox] Scraping ${stores.length} stores (Playwright)…`);
+  const storeList = stores || await discoverStores();
+  console.log(`[Voucherbox] Scraping ${storeList.length} stores (Playwright)…`);
   const browser = await launchBrowser();
 
-  for (const store of stores) {
+  for (const store of storeList) {
     let context;
     try {
       const url = `${BASE_URL}/${store}`;

@@ -10,6 +10,7 @@ import {
 
 const BASE_URL = "https://uk.coupert.com/promo-code";
 
+// Kept as fallback when sitemap discovery fails
 const POPULAR_STORES = [
   "amazon-co-uk", "asos", "boohoo", "currys", "john-lewis",
   "next", "argos", "very", "tesco", "sainsburys",
@@ -49,16 +50,81 @@ function cleanStoreName(slug) {
   return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-export async function scrape(stores = POPULAR_STORES) {
+/**
+ * Dynamically discover all stores from Coupert sitemaps.
+ * Tries multiple sitemap URL patterns. Falls back to POPULAR_STORES on failure.
+ * @returns {Promise<string[]>}
+ */
+async function discoverStores() {
+  // Try multiple possible sitemap URL patterns
+  const sitemapUrls = [
+    "https://uk.coupert.com/sitemap.xml",
+    "https://uk.coupert.com/sitemap_index.xml",
+    "https://www.coupert.co.uk/sitemap.xml",
+  ];
+
+  for (const sitemapUrl of sitemapUrls) {
+    try {
+      const indexRes = await fetch(sitemapUrl, { headers: { Accept: "application/xml" } });
+      if (!indexRes.ok) continue;
+      const xml = await indexRes.text();
+
+      // Check if this is a sitemap index (has nested sitemaps)
+      if (xml.includes("<sitemap>")) {
+        const subUrls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)]
+          .map(m => m[1])
+          .filter(u => u.includes("promo-code") || u.includes("merchant") || u.includes("store"));
+
+        for (const subUrl of subUrls) {
+          try {
+            const res = await fetch(subUrl, { headers: { Accept: "application/xml" } });
+            if (!res.ok) continue;
+            const subXml = await res.text();
+            const urls = [...subXml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+            const stores = new Set();
+            for (const u of urls) {
+              const match = u.match(/promo-code\/([^/?#]+)$/);
+              if (match) stores.add(match[1]);
+            }
+            if (stores.size > 0) {
+              const result = [...stores];
+              console.log(`[Coupert] Discovered ${result.length} stores from sitemaps`);
+              return result;
+            }
+          } catch (_) { /* skip */ }
+        }
+      } else {
+        // Flat sitemap — extract promo-code store slugs directly
+        const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+        const stores = new Set();
+        for (const u of urls) {
+          const match = u.match(/promo-code\/([^/?#]+)$/);
+          if (match) stores.add(match[1]);
+        }
+        if (stores.size > 0) {
+          const result = [...stores];
+          console.log(`[Coupert] Discovered ${result.length} stores from sitemap`);
+          return result;
+        }
+      }
+    } catch (_) { /* try next URL pattern */ }
+  }
+
+  console.log(`[Coupert] Sitemap discovery unavailable — using ${POPULAR_STORES.length} hardcoded stores`);
+  return POPULAR_STORES;
+}
+
+export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
 
-  console.log(`[Coupert] Scraping ${stores.length} stores (Playwright)…`);
+  const storeList = stores || await discoverStores();
+  console.log(`[Coupert] Scraping ${storeList.length} stores (Playwright)…`);
 
   const browser = await launchBrowser();
 
-  for (const store of stores) {
+  for (const store of storeList) {
     let context;
     try {
       const url = `${BASE_URL}/${store}`;

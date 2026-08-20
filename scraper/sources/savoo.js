@@ -10,6 +10,7 @@ import {
 
 const BASE_URL = "https://www.savoo.co.uk/brands";
 
+// Kept as fallback when sitemap discovery fails
 const POPULAR_STORES = [
   "amazon-discount-codes", "argos-discount-codes", "asos-discount-codes",
   "boohoo-discount-codes", "currys-discount-codes", "john-lewis-discount-codes",
@@ -59,16 +60,65 @@ function cleanStoreName(slug) {
     .replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-export async function scrape(stores = POPULAR_STORES) {
+/**
+ * Dynamically discover all stores from Savoo sitemaps.
+ * Fetches the sitemap index, then the merchant sub-sitemap to extract store slugs.
+ * Falls back to POPULAR_STORES on failure.
+ * @returns {Promise<string[]>}
+ */
+async function discoverStores() {
+  try {
+    const indexRes = await fetch("https://www.savoo.co.uk/sitemap.xml", { headers: { Accept: "application/xml" } });
+    if (!indexRes.ok) throw new Error(`Sitemap index HTTP ${indexRes.status}`);
+    const indexXml = await indexRes.text();
+
+    // Extract merchant sub-sitemap URLs (e.g., sitemap_merchants_1.xml)
+    const subSitemapUrls = [...indexXml.matchAll(/<loc>([^<]+)<\/loc>/g)]
+      .map(m => m[1])
+      .filter(u => u.includes("merchant"));
+
+    if (subSitemapUrls.length === 0) throw new Error("No merchant sub-sitemaps found");
+
+    const allStores = new Set();
+
+    for (const url of subSitemapUrls) {
+      try {
+        const res = await fetch(url, { headers: { Accept: "application/xml" } });
+        if (!res.ok) continue;
+        const xml = await res.text();
+        const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
+        for (const u of urls) {
+          // Store URLs are like https://www.savoo.co.uk/brands/{store-slug}
+          const match = u.match(/savoo\.co\.uk\/brands\/([^/?#]+)$/);
+          if (match) allStores.add(match[1]);
+        }
+      } catch (_) { /* skip failed sub-sitemap */ }
+    }
+
+    if (allStores.size > 0) {
+      const stores = [...allStores];
+      console.log(`[Savoo] Discovered ${stores.length} stores from sitemaps`);
+      return stores;
+    }
+  } catch (e) {
+    console.log(`[Savoo] Sitemap discovery failed: ${e.message}`);
+  }
+
+  console.log(`[Savoo] Falling back to ${POPULAR_STORES.length} hardcoded stores`);
+  return POPULAR_STORES;
+}
+
+export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
 
-  console.log(`[Savoo] Scraping ${stores.length} stores (Playwright)…`);
+  const storeList = stores || await discoverStores();
+  console.log(`[Savoo] Scraping ${storeList.length} stores (Playwright)…`);
 
   const browser = await launchBrowser();
 
-  for (const store of stores) {
+  for (const store of storeList) {
     let context;
     try {
       const url = `${BASE_URL}/${store}`;
