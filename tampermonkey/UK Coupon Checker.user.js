@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      1.2
+// @version      1.3
 // @description  Shows available UK coupon codes for the current store with Coupert-style proactive notifications, auto-try at checkout and savings tracking.
 // @match        https://*/*
 // @grant        GM_xmlhttpRequest
@@ -20,7 +20,7 @@
   // ─── CONFIG ──────────────────────────────────────────────────────────────
   const GIST_RAW_URL = "https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/data/uk-coupons.json";
   const GITHUB_REPO = "darthvader666uk/uk-coupon-bot";
-  const CURRENT_VERSION = "1.2";
+  const CURRENT_VERSION = "1.3";
   const UPDATE_RAW_URL = "https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js";
   const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
   const PANEL_KEY = "uk-coupon-panel";
