@@ -52,7 +52,7 @@
     #uk-coupon-badge {
       position: fixed;
       bottom: 20px;
-      right: 20px;
+      left: 20px;
       z-index: 999999;
       width: 60px;
       height: 60px;
