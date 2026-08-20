@@ -20,6 +20,8 @@
   // ─── CONFIG ──────────────────────────────────────────────────────────────
   const GIST_RAW_URL = "https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/data/uk-coupons.json";
   const GITHUB_REPO = "darthvader666uk/uk-coupon-bot";
+  const CURRENT_VERSION = "1.2";
+  const UPDATE_RAW_URL = "https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js";
   const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
   const PANEL_KEY = "uk-coupon-panel";
   const POS_KEY = "uk-coupon-panel-pos";
@@ -263,6 +265,14 @@
     }
     .ukcp-header .ukcp-refresh:hover { color: var(--ukcp-green); }
     .ukcp-header .ukcp-close:hover { color: #fff; }
+    .ukcp-header .ukcp-update {
+      cursor: pointer;
+      color: var(--ukcp-muted);
+      font-size: 16px;
+      line-height: 1;
+      transition: color 0.15s;
+    }
+    .ukcp-header .ukcp-update:hover { color: var(--ukcp-green); }
 
     .ukcp-meta {
       padding: calc(var(--ukcp-space) * 1.5) calc(var(--ukcp-space) * 2);
@@ -1242,6 +1252,7 @@
         <div class="ukcp-subtitle">${visibleCodes.length} coupon${visibleCodes.length === 1 ? "" : "s"} found</div>
       </div>
       <div class="ukcp-header-actions">
+        <span class="ukcp-update" title="Check for script updates">⬆</span>
         <span class="ukcp-refresh" title="Refresh codes from server">↻</span>
         <span class="ukcp-close" title="Close">✕</span>
       </div>
@@ -1271,6 +1282,45 @@
       }
     });
     header.querySelector(".ukcp-close").addEventListener("click", togglePanel);
+    header.querySelector(".ukcp-update").addEventListener("click", function () {
+      const btn = this;
+      btn.textContent = "⏳";
+      btn.style.pointerEvents = "none";
+
+      GM_xmlhttpRequest({
+        method: "GET",
+        url: UPDATE_RAW_URL,
+        onload: function (res) {
+          btn.textContent = "⬆";
+          btn.style.pointerEvents = "";
+          if (res.status !== 200) {
+            GM_notification({ title: "UK Coupon Checker", text: "Could not check for updates (HTTP " + res.status + ")", timeout: 3000 });
+            return;
+          }
+          const match = res.responseText.match(/@version\s+([\d.]+)/);
+          if (!match) {
+            GM_notification({ title: "UK Coupon Checker", text: "Could not parse version from remote script", timeout: 3000 });
+            return;
+          }
+          const remoteVersion = match[1];
+          if (remoteVersion !== CURRENT_VERSION) {
+            GM_notification({
+              title: "UK Coupon Checker",
+              text: "Update available: v" + remoteVersion + " (you have v" + CURRENT_VERSION + "). Click to install.",
+              url: UPDATE_RAW_URL,
+              timeout: 8000,
+            });
+          } else {
+            showCopiedToast("You're up to date! (v" + CURRENT_VERSION + ")");
+          }
+        },
+        onerror: function () {
+          btn.textContent = "⬆";
+          btn.style.pointerEvents = "";
+          GM_notification({ title: "UK Coupon Checker", text: "Network error checking for updates", timeout: 3000 });
+        },
+      });
+    });
     panel.appendChild(header);
 
     // Meta
@@ -1479,11 +1529,38 @@
     let top = rect.bottom + 10 + window.scrollY;
     let left = rect.left + window.scrollX;
 
-    // Keep inside viewport
-    if (left + floaterRect.width > window.innerWidth - 20) {
-      left = window.innerWidth - floaterRect.width - 20;
+    // Avoid overlapping the coupon panel (fixed at bottom-right: ~400px wide, up to ~560px tall)
+    const panel = document.getElementById("uk-coupon-panel");
+    if (panel && panel.classList.contains("open")) {
+      const pr = panel.getBoundingClientRect();
+      const pLeft = pr.left + window.scrollX;
+      const pTop = pr.top + window.scrollY;
+      const pRight = pr.right + window.scrollX;
+      const pBottom = pr.bottom + window.scrollY;
+      const margin = 10;
+
+      // Check if floater would overlap with the panel
+      if (left < pRight + margin && left + floaterRect.width > pLeft - margin &&
+          top < pBottom + margin && top + floaterRect.height > pTop - margin) {
+        // Try placing to the left of the panel
+        left = pLeft - floaterRect.width - margin;
+        if (left < 20 + window.scrollX) {
+          // Try placing above the panel
+          left = rect.left + window.scrollX;
+          top = pTop - floaterRect.height - margin;
+          if (top < 20 + window.scrollY) {
+            // Fallback: below the panel
+            top = pBottom + margin;
+          }
+        }
+      }
     }
-    if (top + floaterRect.height > window.innerHeight - 20) {
+
+    // Keep inside viewport
+    if (left + floaterRect.width > window.innerWidth - 20 + window.scrollX) {
+      left = window.innerWidth - floaterRect.width - 20 + window.scrollX;
+    }
+    if (top + floaterRect.height > window.innerHeight - 20 + window.scrollY) {
       top = rect.top - floaterRect.height - 10 + window.scrollY;
     }
 
