@@ -582,6 +582,24 @@
     }
     #uk-coupon-checkout .ukcp-checkout-item:hover { background: rgba(255, 255, 255, 0.04); }
     #uk-coupon-checkout .ukcp-checkout-item:last-child { border-bottom: none; }
+    #uk-coupon-checkout .ukcp-checkout-item.ukcp-tried {
+      opacity: 0.5;
+      position: relative;
+    }
+    #uk-coupon-checkout .ukcp-checkout-item.ukcp-tried::after {
+      content: "✓";
+      position: absolute;
+      right: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--ukcp-green);
+      font-weight: 700;
+      font-size: 16px;
+    }
+    #uk-coupon-checkout .ukcp-checkout-item.ukcp-failed::after {
+      content: "✗";
+      color: var(--ukcp-red);
+    }
     #uk-coupon-checkout .ukcp-checkout-code {
       font-family: "SF Mono", "Fira Code", Consolas, monospace;
       font-size: 14px;
@@ -1525,6 +1543,12 @@
       
       setCheckoutStatus(`"${codeObj.code}" ${result === 'success' ? 'worked!' : result === 'failure' ? 'failed' : 'applied'}. Did it work?`, result === 'success' ? 'success' : result === 'failure' ? 'fail' : 'working');
       
+      // Mark the row as tried
+      const row = document.querySelector(`.ukcp-checkout-item[data-code="${CSS.escape(codeObj.code)}"]`);
+      if (row) {
+        row.classList.add(result === 'failure' ? 'ukcp-failed' : 'ukcp-tried');
+      }
+      
       if (triggerBtn) {
         triggerBtn.textContent = "Try";
         triggerBtn.disabled = false;
@@ -1629,6 +1653,13 @@
       setTimeout(() => {
         const result = detectCodeResult();
         results.push({ code: c.code, status: result });
+        
+        // Mark the row as tried
+        const row = document.querySelector(`.ukcp-checkout-item[data-code="${CSS.escape(c.code)}"]`);
+        if (row) {
+          row.classList.add(result === 'failure' ? 'ukcp-failed' : 'ukcp-tried');
+        }
+        
         tryNext();
       }, 2000);
     }
