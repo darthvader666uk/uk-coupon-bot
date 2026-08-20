@@ -553,6 +553,31 @@
     }
     #uk-coupon-checkout .ukcp-checkout-try:hover { background: var(--ukcp-accent-hover); }
     #uk-coupon-checkout .ukcp-checkout-try:disabled { opacity: 0.5; cursor: not-allowed; }
+    #uk-coupon-checkout .ukcp-checkout-progress {
+      margin: 10px 0;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    #uk-coupon-checkout .ukcp-progress-bar {
+      flex: 1;
+      height: 6px;
+      background: #222;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    #uk-coupon-checkout .ukcp-progress-fill {
+      height: 100%;
+      background: var(--ukcp-accent);
+      width: 0%;
+      transition: width 0.3s ease;
+    }
+    #uk-coupon-checkout .ukcp-progress-text {
+      font-size: 11px;
+      color: var(--ukcp-muted);
+      min-width: 40px;
+      text-align: right;
+    }
 
     /* ── Savings prompt / modal ── */
     #uk-coupon-modal-overlay {
@@ -671,6 +696,10 @@
       cursor: pointer;
     }
     .ukcp-result-mark:hover { opacity: 0.9; }
+    .ukcp-result-status {
+      font-size: 16px;
+      margin: 0 8px;
+    }
   `);
 
   // ─── HELPERS ───────────────────────────────────────────────────────────────
@@ -1344,6 +1373,12 @@
         <span class="ukcp-checkout-close">✕</span>
       </div>
         <div class="ukcp-checkout-status" id="ukcp-checkout-status">Pick a code to try</div>
+      <div class="ukcp-checkout-progress" id="ukcp-checkout-progress" style="display:none">
+        <div class="ukcp-progress-bar">
+          <div class="ukcp-progress-fill" id="ukcp-progress-fill"></div>
+        </div>
+        <div class="ukcp-progress-text" id="ukcp-progress-text">0/0</div>
+      </div>
       <div class="ukcp-checkout-list" id="ukcp-checkout-list"></div>
     `;
 
@@ -1437,6 +1472,50 @@
     }, 1500);
   }
 
+  function detectCodeResult() {
+    // Look for common success/failure text patterns in the page
+    const bodyText = document.body.innerText.toLowerCase();
+
+    // Success patterns
+    const successPatterns = [
+      "code applied",
+      "coupon applied",
+      "discount applied",
+      "promo applied",
+      "voucher applied",
+      "code successfully",
+      "coupon successfully",
+      "discount successfully",
+    ];
+
+    // Failure patterns
+    const failurePatterns = [
+      "invalid code",
+      "expired code",
+      "code not found",
+      "coupon invalid",
+      "coupon expired",
+      "promo invalid",
+      "promo expired",
+      "voucher invalid",
+      "voucher expired",
+      "code does not exist",
+      "coupon does not exist",
+      "not a valid code",
+      "not a valid coupon",
+    ];
+
+    for (const pattern of successPatterns) {
+      if (bodyText.includes(pattern)) return 'success';
+    }
+
+    for (const pattern of failurePatterns) {
+      if (bodyText.includes(pattern)) return 'failure';
+    }
+
+    return 'unknown';
+  }
+
   function runAutoTrySequence(codes, panelBtn) {
     const input = findCheckoutInput();
     if (!input) {
@@ -1453,9 +1532,15 @@
     const results = [];
     let index = 0;
 
+    const progressBar = document.getElementById("ukcp-checkout-progress");
+    const progressFill = document.getElementById("ukcp-progress-fill");
+    const progressText = document.getElementById("ukcp-progress-text");
+    if (progressBar) progressBar.style.display = "flex";
+
     function tryNext() {
       if (index >= sorted.length) {
-        // All codes tried — show summary
+        // All codes tried — hide progress bar and show summary
+        if (progressBar) progressBar.style.display = "none";
         showResultsSummary(results, () => {
           if (panelBtn) {
             panelBtn.disabled = false;
@@ -1474,9 +1559,15 @@
         if (applyBtn) applyBtn.click();
       } catch (e) {}
 
+      // Update progress bar
+      const progress = (index / sorted.length) * 100;
+      if (progressFill) progressFill.style.width = `${progress}%`;
+      if (progressText) progressText.textContent = `${index}/${sorted.length}`;
+
       // Wait 2 seconds for the site to respond, then move to next
       setTimeout(() => {
-        results.push({ code: c.code, status: 'unknown' });
+        const result = detectCodeResult();
+        results.push({ code: c.code, status: result });
         tryNext();
       }, 2000);
     }
@@ -1527,9 +1618,11 @@
     `;
 
     results.forEach((r, idx) => {
+      const statusIcon = r.status === 'success' ? '✅' : r.status === 'failure' ? '❌' : '❓';
       html += `
         <div class="ukcp-result-item" data-index="${idx}">
           <span class="ukcp-result-code">${escapeHtml(r.code)}</span>
+          <span class="ukcp-result-status">${statusIcon}</span>
           <button class="ukcp-result-mark" data-index="${idx}">This one worked</button>
         </div>
       `;
