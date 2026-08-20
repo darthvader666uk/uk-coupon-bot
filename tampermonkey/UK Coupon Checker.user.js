@@ -1556,9 +1556,10 @@
   }
 
   function positionFloater(floater, input) {
-    // Position in top-right corner to avoid blocking checkout buttons
-    floater.style.top = `20px`;
+    // Position bottom-right, above the badge
+    floater.style.bottom = `100px`;
     floater.style.right = `20px`;
+    floater.style.top = `auto`;
     floater.style.left = `auto`;
   }
 
