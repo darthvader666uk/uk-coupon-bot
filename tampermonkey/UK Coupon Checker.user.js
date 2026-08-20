@@ -51,8 +51,9 @@
     /* ── Badge ── */
     #uk-coupon-badge {
       position: fixed;
-      bottom: 20px;
-      left: 20px;
+      top: 50%;
+      right: 20px;
+      transform: translateY(-50%);
       z-index: 999999;
       width: 60px;
       height: 60px;
