@@ -639,6 +639,38 @@
       0%, 75% { opacity: 1; }
       100% { opacity: 0; pointer-events: none; }
     }
+
+    /* ── Results summary list ── */
+    .ukcp-results-list {
+      max-height: 300px;
+      overflow-y: auto;
+      margin: 12px 0;
+    }
+    .ukcp-result-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-bottom: 1px solid #222;
+    }
+    .ukcp-result-item:last-child { border-bottom: none; }
+    .ukcp-result-code {
+      font-family: "SF Mono", "Fira Code", Consolas, monospace;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--ukcp-accent);
+    }
+    .ukcp-result-mark {
+      background: var(--ukcp-green);
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      padding: 5px 10px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .ukcp-result-mark:hover { opacity: 0.9; }
   `);
 
   // ─── HELPERS ───────────────────────────────────────────────────────────────
@@ -1388,7 +1420,6 @@
     setCheckoutStatus(`Trying "${codeObj.code}"…`, "working");
     applyCodeToInput(input, codeObj.code);
 
-    // Attempt to click apply button, but don't throw if it fails
     try {
       const applyBtn = findApplyButton(input);
       if (applyBtn) applyBtn.click();
@@ -1396,24 +1427,14 @@
       console.log("[UK Coupon Checker] Could not auto-click apply button", e);
     }
 
-    // Prompt user to confirm result
-    showCodeResultPrompt(codeObj, (worked) => {
-      if (worked) {
-        setCheckoutStatus(`✅ "${codeObj.code}" applied!`, "success");
-        showSavingsPrompt(codeObj.code, () => {
-          if (triggerBtn) {
-            triggerBtn.textContent = "Applied";
-            triggerBtn.disabled = false;
-          }
-        });
-      } else {
-        setCheckoutStatus(`❌ "${codeObj.code}" didn't work. Try another?`, "fail");
-        if (triggerBtn) {
-          triggerBtn.textContent = "Try";
-          triggerBtn.disabled = false;
-        }
+    // Just show status, no modal
+    setTimeout(() => {
+      setCheckoutStatus(`"${codeObj.code}" applied. Did it work?`, "working");
+      if (triggerBtn) {
+        triggerBtn.textContent = "Try";
+        triggerBtn.disabled = false;
       }
-    });
+    }, 1500);
   }
 
   function runAutoTrySequence(codes, panelBtn) {
@@ -1429,38 +1450,35 @@
     }
 
     const sorted = sortCodesBySuccess(codes);
+    const results = [];
     let index = 0;
 
     function tryNext() {
       if (index >= sorted.length) {
-        setCheckoutStatus("All codes tried. No luck?", "fail");
-        if (panelBtn) {
-          panelBtn.disabled = false;
-          panelBtn.textContent = "🚀 Try all codes";
-        }
+        // All codes tried — show summary
+        showResultsSummary(results, () => {
+          if (panelBtn) {
+            panelBtn.disabled = false;
+            panelBtn.textContent = "🚀 Try all codes";
+          }
+        });
         return;
       }
+
       const c = sorted[index++];
       setCheckoutStatus(`Trying "${c.code}" (${index}/${sorted.length})…`, "working");
       applyCodeToInput(input, c.code);
+
       try {
         const applyBtn = findApplyButton(input);
         if (applyBtn) applyBtn.click();
       } catch (e) {}
 
-      showCodeResultPrompt(c, (worked) => {
-        if (worked) {
-          setCheckoutStatus(`✅ "${c.code}" worked!`, "success");
-          showSavingsPrompt(c.code, () => {
-            if (panelBtn) {
-              panelBtn.disabled = false;
-              panelBtn.textContent = "🚀 Try all codes";
-            }
-          });
-        } else {
-          setTimeout(tryNext, 400);
-        }
-      });
+      // Wait 2 seconds for the site to respond, then move to next
+      setTimeout(() => {
+        results.push({ code: c.code, status: 'unknown' });
+        tryNext();
+      }, 2000);
     }
 
     // Show checkout floater if not already visible
@@ -1492,6 +1510,58 @@
     modal.querySelector("#ukcp-result-pass").addEventListener("click", () => {
       overlay.classList.remove("ukcp-show");
       callback(true);
+    });
+  }
+
+  function showResultsSummary(results, callback) {
+    const overlay = document.getElementById("uk-coupon-modal-overlay") || createModalOverlay();
+    overlay.innerHTML = "";
+
+    const modal = document.createElement("div");
+    modal.className = "ukcp-modal";
+
+    let html = `
+      <h3>Tried ${results.length} code${results.length === 1 ? "" : "s"}</h3>
+      <p>Which one worked (if any)?</p>
+      <div class="ukcp-results-list">
+    `;
+
+    results.forEach((r, idx) => {
+      html += `
+        <div class="ukcp-result-item" data-index="${idx}">
+          <span class="ukcp-result-code">${escapeHtml(r.code)}</span>
+          <button class="ukcp-result-mark" data-index="${idx}">This one worked</button>
+        </div>
+      `;
+    });
+
+    html += `
+      </div>
+      <div class="ukcp-modal-actions">
+        <button class="ukcp-secondary" id="ukcp-result-none">None worked</button>
+      </div>
+    `;
+
+    modal.innerHTML = html;
+    overlay.appendChild(modal);
+    overlay.classList.add("ukcp-show");
+
+    // Handle "This one worked" clicks
+    modal.querySelectorAll(".ukcp-result-mark").forEach(btn => {
+      btn.addEventListener("click", (e) => {
+        const idx = parseInt(e.target.dataset.index);
+        const code = results[idx].code;
+        overlay.classList.remove("ukcp-show");
+        setCheckoutStatus(`✅ "${code}" applied!`, "success");
+        showSavingsPrompt(code, callback);
+      });
+    });
+
+    // Handle "None worked"
+    modal.querySelector("#ukcp-result-none").addEventListener("click", () => {
+      overlay.classList.remove("ukcp-show");
+      setCheckoutStatus("No codes worked. Try manually?", "fail");
+      callback();
     });
   }
 
