@@ -29,6 +29,38 @@
   const SAVINGS_TOTAL_KEY = "uk-coupon-savings-total";
   const SAVINGS_ORDERS_KEY = "uk-coupon-savings-orders";
 
+  // ─── GLOBAL DRAG STATE ───────────────────────────────────────────────────
+  let dragTarget = null;
+  let dragOffsetX = 0;
+  let dragOffsetY = 0;
+
+  document.addEventListener("mousedown", (e) => {
+    const head = e.target.closest(".ukcp-checkout-head");
+    if (!head || e.target.closest(".ukcp-checkout-close")) return;
+    const floater = head.closest("#uk-coupon-checkout");
+    if (!floater) return;
+    dragTarget = floater;
+    const rect = floater.getBoundingClientRect();
+    dragOffsetX = e.clientX - rect.left;
+    dragOffsetY = e.clientY - rect.top;
+    head.style.cursor = "grabbing";
+    e.preventDefault();
+  });
+
+  document.addEventListener("mousemove", (e) => {
+    if (!dragTarget) return;
+    dragTarget.style.left = `${e.clientX - dragOffsetX}px`;
+    dragTarget.style.top = `${e.clientY - dragOffsetY}px`;
+  });
+
+  document.addEventListener("mouseup", () => {
+    if (dragTarget) {
+      const head = dragTarget.querySelector(".ukcp-checkout-head");
+      if (head) head.style.cursor = "move";
+      dragTarget = null;
+    }
+  });
+
   // ─── STYLES ──────────────────────────────────────────────────────────────
   GM_addStyle(`
     :root {
@@ -1493,35 +1525,6 @@
 
     floater.querySelector(".ukcp-checkout-close").addEventListener("click", () => {
       floater.classList.remove("ukcp-show");
-    });
-
-    // Make floater draggable
-    const head = floater.querySelector(".ukcp-checkout-head");
-    head.style.cursor = "move";
-    let isDragging = false;
-    let startX, startY, startLeft, startTop;
-
-    head.addEventListener("mousedown", (e) => {
-      if (e.target.closest(".ukcp-checkout-close")) return;
-      isDragging = true;
-      startX = e.clientX;
-      startY = e.clientY;
-      const rect = floater.getBoundingClientRect();
-      startLeft = rect.left;
-      startTop = rect.top;
-      e.preventDefault();
-    });
-
-    document.addEventListener("mousemove", (e) => {
-      if (!isDragging) return;
-      const dx = e.clientX - startX;
-      const dy = e.clientY - startY;
-      floater.style.left = `${startLeft + dx}px`;
-      floater.style.top = `${startTop + dy}px`;
-    });
-
-    document.addEventListener("mouseup", () => {
-      isDragging = false;
     });
 
     const list = floater.querySelector("#ukcp-checkout-list");
