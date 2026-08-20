@@ -1556,13 +1556,10 @@
   }
 
   function positionFloater(floater, input) {
-    // Center the floater in the viewport
-    const floaterRect = floater.getBoundingClientRect();
-    const top = (window.innerHeight - floaterRect.height) / 2;
-    const left = (window.innerWidth - floaterRect.width) / 2;
-
-    floater.style.top = `${top}px`;
-    floater.style.left = `${left}px`;
+    // Position in top-right corner to avoid blocking checkout buttons
+    floater.style.top = `20px`;
+    floater.style.right = `20px`;
+    floater.style.left = `auto`;
   }
 
   // ─── AUTO-TRY LOGIC ───────────────────────────────────────────────────────
