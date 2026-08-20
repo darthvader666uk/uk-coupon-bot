@@ -4,7 +4,7 @@
  */
 import {
   launchBrowser, closeContext,
-  isValidCode, guessType, delay,
+  isValidCode, guessType,
 } from "../lib/playwright-base.js";
 
 const BASE_URL = "https://www.voucherbox.co.uk/vouchers";
@@ -44,6 +44,29 @@ function extractDomain(slug) {
 
 function cleanName(slug) {
   return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+/**
+ * Process items concurrently with a fixed pool size.
+ * @param {Array} items - Items to process
+ * @param {number} concurrency - Max concurrent workers
+ * @param {Function} fn - Async function(item, index) => result
+ * @returns {Promise<Array>} Results in original order
+ */
+async function processInPool(items, concurrency, fn) {
+  const results = [];
+  let index = 0;
+
+  async function worker() {
+    while (index < items.length) {
+      const i = index++;
+      results[i] = await fn(items[i], i);
+    }
+  }
+
+  const workers = Array.from({ length: Math.min(concurrency, items.length) }, () => worker());
+  await Promise.all(workers);
+  return results;
 }
 
 /**
@@ -114,26 +137,28 @@ export async function scrape(stores = null) {
 
   const storeList = stores || await discoverStores();
   console.log(`[Voucherbox] Scraping ${storeList.length} stores (Playwright)…`);
-  const browser = await launchBrowser();
 
-  for (const store of storeList) {
-    let context;
+  const browser = await launchBrowser();
+  const context = await browser.newContext({
+    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    locale: "en-GB",
+  });
+
+  let codesFound = 0;
+
+  await processInPool(storeList, 5, async (store, idx) => {
+    let page;
     try {
       const url = `${BASE_URL}/${store}`;
-      context = await browser.newContext({
-        userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        locale: "en-GB",
-      });
-      const page = await context.newPage();
+      page = await context.newPage();
       await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,mp4,mp3}", (r) => r.abort());
 
-      await page.goto(url, { waitUntil: "networkidle", timeout: 20000 }).catch(() => {});
-      await page.waitForTimeout(3000);
+      await page.goto(url, { waitUntil: "domcontentloaded", timeout: 10000 });
 
       const title = await page.title();
       if (title.includes("Just a moment") || title.includes("Attention Required")) {
         errors.push(`${store}: Cloudflare`);
-        continue;
+        return;
       }
 
       const storeName = await page.$eval("h1", (el) => el.textContent.trim()).catch(() => cleanName(store));
@@ -150,16 +175,23 @@ export async function scrape(stores = null) {
           });
         }
       }
-      console.log(`[Voucherbox] ${store}: ${seenCodes.size} codes`);
-      await delay(1500);
+
+      codesFound += seenCodes.size;
     } catch (err) {
       errors.push(`${store}: ${err.message}`);
     } finally {
-      if (context) await closeContext(context);
+      if (page) await page.close().catch(() => {});
     }
-  }
 
-  await browser.close();
+    // Progress log every 50 stores
+    if ((idx + 1) % 50 === 0) {
+      console.log(`[Voucherbox] Progress: ${idx + 1}/${storeList.length} stores scraped (${codesFound} codes found so far)`);
+    }
+  });
+
+  await context.close().catch(() => {});
+  await browser.close().catch(() => {});
+
   const duration = Date.now() - start;
   console.log(`[Voucherbox] Found ${entries.length} codes (${errors.length} errors) in ${duration}ms`);
   return { entries, duration, errors };

@@ -4,8 +4,8 @@
  * Target: https://www.myvouchercodes.co.uk/{store-slug}
  */
 import {
-  launchBrowser, newPage, gotoAndWait, closeContext,
-  isValidCode, guessType, delay,
+  launchBrowser, closeContext,
+  isValidCode, guessType,
 } from "../lib/playwright-base.js";
 
 const BASE_URL = "https://www.myvouchercodes.co.uk";
@@ -24,6 +24,29 @@ const POPULAR_STORES = [
   "lastminute-com", "premier-inn", "travelodge",
   "ryanair", "easyjet", "samsung", "ao-com",
 ];
+
+/**
+ * Process items concurrently with a fixed pool size.
+ * @param {Array} items - Items to process
+ * @param {number} concurrency - Max concurrent workers
+ * @param {Function} fn - Async function(item, index) => result
+ * @returns {Promise<Array>} Results in original order
+ */
+async function processInPool(items, concurrency, fn) {
+  const results = [];
+  let index = 0;
+
+  async function worker() {
+    while (index < items.length) {
+      const i = index++;
+      results[i] = await fn(items[i], i);
+    }
+  }
+
+  const workers = Array.from({ length: Math.min(concurrency, items.length) }, () => worker());
+  await Promise.all(workers);
+  return results;
+}
 
 /**
  * Dynamically discover all stores from MyVoucherCodes sitemaps.
@@ -76,6 +99,7 @@ async function discoverStores() {
 /**
  * Scrape MyVoucherCodes using Playwright to render JS.
  * Dynamically discovers all stores from sitemaps before scraping.
+ * Uses a concurrency pool of 5 shared pages for speed.
  * @param {string[]} stores - Optional override store list (skips discovery)
  */
 export async function scrape(stores = null) {
@@ -87,20 +111,21 @@ export async function scrape(stores = null) {
   console.log(`[MyVoucherCodes] Scraping ${storeList.length} stores (Playwright)…`);
 
   const browser = await launchBrowser();
+  const context = await browser.newContext({
+    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    locale: "en-GB",
+  });
 
-  for (const store of storeList) {
-    let context;
+  let codesFound = 0;
+
+  await processInPool(storeList, 5, async (store, idx) => {
+    let page;
     try {
       const url = `${BASE_URL}/${store}`;
-      context = await browser.newContext({
-        userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        locale: "en-GB",
-      });
-      const page = await context.newPage();
+      page = await context.newPage();
       await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,mp4,mp3}", (r) => r.abort());
 
-      await page.goto(url, { waitUntil: "networkidle", timeout: 20000 }).catch(() => {});
-      await page.waitForTimeout(3000); // Extra settle time for AJAX
+      await page.goto(url, { waitUntil: "domcontentloaded", timeout: 10000 });
 
       const storeName = await page.$eval("h1", (el) => el.textContent.trim()).catch(() => store.replace(/-/g, " "));
       const cleanName = storeName.replace(/discount codes?$/i, "").replace(/voucher codes?$/i, "").trim();
@@ -156,16 +181,22 @@ export async function scrape(stores = null) {
         }
       }
 
-      console.log(`[MyVoucherCodes] ${store}: ${seenCodes.size} codes`);
-      await delay(1500);
+      codesFound += seenCodes.size;
     } catch (err) {
       errors.push(`${store}: ${err.message}`);
     } finally {
-      if (context) await closeContext(context);
+      if (page) await page.close().catch(() => {});
     }
-  }
 
-  await browser.close();
+    // Progress log every 50 stores
+    if ((idx + 1) % 50 === 0) {
+      console.log(`[MyVoucherCodes] Progress: ${idx + 1}/${storeList.length} stores scraped (${codesFound} codes found so far)`);
+    }
+  });
+
+  await context.close().catch(() => {});
+  await browser.close().catch(() => {});
+
   const duration = Date.now() - start;
   console.log(`[MyVoucherCodes] Found ${entries.length} codes (${errors.length} errors) in ${duration}ms`);
   return { entries, duration, errors };
