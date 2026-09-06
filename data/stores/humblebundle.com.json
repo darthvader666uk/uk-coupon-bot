@@ -1,0 +1,27 @@
+{
+  "domain": "humblebundle.com",
+  "name": "Humble Store",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CHOICEDISCOUNT",
+      "description": "20% off selected games for Humble Choice subscribers — Humble Store",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/?page=5",
+      "addedAt": "2026-09-06T16:58:41.934Z",
+      "lastSeen": "2026-09-06T16:58:41.934Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

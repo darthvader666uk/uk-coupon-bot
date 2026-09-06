@@ -1,0 +1,27 @@
+{
+  "domain": "store.steampowered.com",
+  "name": "Steam",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EAPLAYDISCOUNT",
+      "description": "10% off Electronic Arts games for EA Play subscribers on Steam — Steam",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/?page=5",
+      "addedAt": "2026-09-06T16:58:41.934Z",
+      "lastSeen": "2026-09-06T16:58:41.934Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "domain": "eacom.com",
+  "name": "Ea.com",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EAPLAYDISCOUNT",
+      "description": "10% off sitewide for EA Play subscribers — Ea.com",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/?page=5",
+      "addedAt": "2026-09-06T16:58:41.934Z",
+      "lastSeen": "2026-09-06T16:58:41.934Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
