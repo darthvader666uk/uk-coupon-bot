@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.1.0
+// @version      2.2.0
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
 // @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
@@ -159,15 +159,27 @@
     return Date.now() - seen > STALE_AFTER_DAYS * 86400000;
   }
 
+  /**
+   * Lower sorts first. Your own verdict outranks everything else: a code you
+   * marked as not working has no business sitting at the top of the list, and
+   * one you confirmed should lead.
+   */
+  function rankOf(code) {
+    const vote = getVote(state.domain, code.code);
+    if (vote === "down") return 3;
+    if (isExpired(code)) return 2;
+    if (vote === "up") return 0;
+    return 1;
+  }
+
   function sortCodes(codes) {
     // No code in the database has test results yet, so sorting by success rate
-    // was a no-op in v1. Sort by what we actually know: how recently a source
-    // still listed the code, then how many sources agree on it.
+    // was a no-op in v1. Sort by what we actually know: your own votes, then
+    // how recently a source still listed the code, then how many sources agree.
     return [...codes].sort((a, b) => {
-      // Expired codes last, but still listed — they often still work.
-      const expA = isExpired(a) ? 1 : 0;
-      const expB = isExpired(b) ? 1 : 0;
-      if (expA !== expB) return expA - expB;
+      const rankA = rankOf(a);
+      const rankB = rankOf(b);
+      if (rankA !== rankB) return rankA - rankB;
       const seenA = a.lastSeen ? new Date(a.lastSeen).getTime() : 0;
       const seenB = b.lastSeen ? new Date(b.lastSeen).getTime() : 0;
       if (seenB !== seenA) return seenB - seenA;
@@ -529,18 +541,18 @@
     else window.open(url, "_blank");
   }
 
-  function handleVote(codeObj, vote, itemEl) {
+  function handleVote(codeObj, vote) {
     const current = getVote(state.domain, codeObj.code);
     const next = current === vote ? null : vote;
     setVote(state.domain, codeObj.code, next);
 
-    itemEl.classList.toggle("ukcp-voted-down", next === "down");
-    for (const btn of itemEl.querySelectorAll(".ukcp-vote")) {
-      btn.classList.toggle("ukcp-active", btn.dataset.vote === next);
-    }
+    // Re-rank so a rejected code drops to the bottom immediately rather than
+    // sitting at the top greyed out.
+    state.codes = sortCodes(state.codes);
+    renderList();
 
     if (next === "down") {
-      setStatus(`"${codeObj.code}" hidden here. Report it so it gets removed?`);
+      setStatus(`"${codeObj.code}" moved to the bottom. Report it so it gets removed?`);
       const foot = state.panel.querySelector(".ukcp-report-slot");
       if (foot) {
         foot.innerHTML = "";
@@ -612,7 +624,7 @@
       }
     });
     for (const btn of item.querySelectorAll(".ukcp-vote")) {
-      btn.addEventListener("click", () => handleVote(codeObj, btn.dataset.vote, item));
+      btn.addEventListener("click", () => handleVote(codeObj, btn.dataset.vote));
     }
     return item;
   }
@@ -719,11 +731,13 @@
       return;
     }
 
-    const codes = sortCodes(store.codes || []);
-    if (codes.length === 0) return;
-
+    // state.domain first: sortCodes reads your saved votes, which are keyed by
+    // domain, so sorting before this would rank everything as unvoted.
     state.domain = domain;
     state.storeName = store.name || domain;
+
+    const codes = sortCodes(store.codes || []);
+    if (codes.length === 0) return;
     state.codes = codes;
 
     injectStyles();

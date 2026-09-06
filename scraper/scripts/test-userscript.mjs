@@ -245,6 +245,16 @@ console.log("\nVoting and hiding");
   check("thumbs-down decrements badge", (await page.locator("#ukcp-badge").textContent()) === "2");
   check("report link offered", await page.locator(".ukcp-report-slot .ukcp-link").count() === 1);
 
+  // A code you marked as broken must sink, not sit at the top greyed out.
+  const order = await page.locator(".ukcp-code").allTextContents();
+  check("thumbs-down code moves to the bottom", order[order.length - 1] === "SAVE20",
+    `order: ${order.join(",")}`);
+
+  await page.locator('.ukcp-item .ukcp-vote[data-vote="up"]').first().click();
+  await page.waitForTimeout(100);
+  const upOrder = await page.locator(".ukcp-code").allTextContents();
+  check("thumbs-up code rises to the top", upOrder[0] !== "SAVE20", `order: ${upOrder.join(",")}`);
+
   await page.click(".ukcp-hide-site");
   await page.waitForTimeout(100);
   check("hide-on-site removes UI", await page.locator("#ukcp-badge").count() === 0);

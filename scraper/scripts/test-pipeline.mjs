@@ -10,7 +10,7 @@ import { mkdtempSync, rmSync, readFileSync, existsSync } from "fs";
 import { tmpdir } from "os";
 import { join } from "path";
 import {
-  mergeCodes, sanitizeStores, pruneExpiredCodes, extractExpiry, isExpired,
+  mergeCodes, sanitizeStores, pruneExpiredCodes, extractExpiry, isExpired, enrichCode, extractValue,
   extractMinSpend, cleanDescription, removeCode,
 } from "../lib/normalizer.js";
 import {
@@ -161,6 +161,26 @@ console.log("\nExpiry");
   check("isExpired flags a passed date", isExpired({ expiry: recent }));
   check("isExpired ignores a future date", !isExpired({ expiry: "2099-01-01" }));
   check("isExpired ignores no date", !isExpired({ expiry: null }));
+}
+
+console.log("\nDiscount values");
+{
+  // /(\d+)%/ on "14.1% off" matches the "1" after the point, so every
+  // fractional discount was stored as its last digit.
+  check("decimal percentage kept whole", extractValue("14.1% off selected products", "percentage") === 14.1);
+  check("12.8% is not 8%", extractValue("12.8% off selected products", "percentage") === 12.8);
+  check("whole percentages still work", extractValue("20% off everything", "percentage") === 20);
+  check("single digit still works", extractValue("5% off", "percentage") === 5);
+  check("fixed amounts unaffected", extractValue("£15 off orders", "fixed") === 15);
+
+  // enrichCode must correct a wrong stored value, not just fill a null one.
+  const code = { code: "GG1410", description: "14.1% off selected products", type: "percentage", value: 1 };
+  enrichCode(code);
+  check("wrong stored value is repaired", code.value === 14.1, `got ${code.value}`);
+
+  const good = { code: "X", description: "20% off", type: "percentage", value: 20 };
+  enrichCode(good);
+  check("correct value left alone", good.value === 20);
 }
 
 console.log("\nDescription cleaning");

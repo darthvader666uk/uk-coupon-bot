@@ -40,8 +40,11 @@ export function extractValue(description, type) {
   if (!description) return null;
 
   if (type === "percentage") {
-    const match = description.match(/(\d+)%\s*off/i);
-    return match ? parseInt(match[1]) : null;
+    // The decimal part must be included: /(\d+)%/ on "14.1% off" matches the
+    // "1" after the point, so every fractional discount was stored as its
+    // last digit — 14.1% became 1%, 12.8% became 8%.
+    const match = description.match(/(\d+(?:\.\d+)?)\s*%\s*off/i);
+    return match ? parseFloat(match[1]) : null;
   }
 
   if (type === "fixed") {
@@ -196,6 +199,14 @@ export function enrichCode(code) {
   if (code.value === null || code.value === undefined) {
     const value = extractValue(code.description, code.type);
     if (value !== null) {
+      code.value = value;
+      changed = true;
+    }
+  } else if (code.type === "percentage") {
+    // Repair values stored by the old decimal-losing regex. The description is
+    // what the user reads next to the figure, so it wins.
+    const value = extractValue(code.description, code.type);
+    if (value !== null && value !== code.value) {
       code.value = value;
       changed = true;
     }
