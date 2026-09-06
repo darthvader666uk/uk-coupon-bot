@@ -97,7 +97,6 @@ uk-coupon-bot/
 │   │   ├── github.js              # GitHub API writer
 │   │   └── logger.js              # Scrape run logging
 │   ├── scripts/
-│   │   ├── fetch-ggdeals.js       # GG.deals pre-fetch via Firecrawl
 │   │   ├── test-userscript.mjs    # Browser tests for the userscript
 │   │   └── test-pipeline.mjs      # Tests for tombstones, cleaning, sharding
 │   ├── package.json
@@ -225,10 +224,10 @@ Or just report failed codes via the Tampermonkey script — it creates GitHub Is
 |--------|--------|----------|-----------|-------|
 | HotUKDeals | RSS | ✅ | 15-20 | Fast, community-voted |
 | VoucherCodes.co.uk | HTML | ✅ | 30-40 | Reliable UK retailer codes |
-| GG.deals | Cached | 🎮 | 150+ | Gaming stores, pre-fetch via Firecrawl |
+| GG.deals | Playwright (headful) | 🎮 | 200+ | Gaming stores, scraped live |
 | MyVoucherCodes | Playwright | ✅ | 80-100 | Dynamic JS rendering |
 | Savoo | Playwright | ✅ | 100+ | Best UK coverage |
-| Coupert | Playwright | 🌍 | 10-20 | Bypasses Cloudflare |
+| Coupert | Playwright (headful) | 🌍 | 100+ | 20 verified store slugs |
 | NetVoucherCodes | Playwright | ✅ | 0-10 | May have browser issues |
 | Voucherbox | Playwright | ✅ | 5-10 | UK exclusive codes |
 | Codes.co.uk | Playwright | ✅ | 10-15 | Daily updated |
@@ -243,8 +242,23 @@ Or just report failed codes via the Tampermonkey script — it creates GitHub Is
 - Some codes may be targeted/expired — use the "Report Failed" button to help clean up
 - The scraper respects rate limits (1.5-2s between requests)
 - Codes older than 90 days are automatically pruned
-- **Bot protection:** Some sources (Coupert, Honey, NetVoucherCodes) have Cloudflare/Vercel protection. If they fail, the scraper continues with other sources. Use `--source=` flag to run individual sources.
-- **GG.deals:** Requires pre-fetching via Firecrawl. Run `node scripts/fetch-ggdeals.js` before scraping.
+- **Bot protection:** Coupert and GG.deals sit behind Cloudflare, which serves
+  headless Chrome — old *or* new — an endless "Just a moment..." page. Both are
+  scraped with a **headful** browser instead, which loads normally. CI has no
+  display, so the workflow runs the scrape under `xvfb-run`.
+
+  ```
+  headless (default)   ->  challenged
+  headless=new         ->  challenged
+  headful              ->  loads normally
+  ```
+
+  Running a source locally works without `xvfb` — a browser window will open.
+- **No API keys.** An earlier version routed Coupert and GG.deals through
+  Firecrawl. That key expired, and because the GG.deals pre-fetch only logged
+  the error and carried on, the scraper served a cache frozen since
+  2026-07-13 while still refreshing each code's `lastSeen` — so long-dead codes
+  looked current. Both now scrape live and the dependency is gone.
 
 ## 📝 License
 

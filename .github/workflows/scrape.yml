@@ -17,7 +17,6 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    environment: FIRECRAWL_API_KEY
     timeout-minutes: 45
     strategy:
       fail-fast: false
@@ -54,20 +53,13 @@ jobs:
         working-directory: scraper
         run: npx playwright install chromium --with-deps
 
-      - name: Refresh GG.deals cache via Firecrawl
-        if: matrix.source == 'ggdeals'
-        working-directory: scraper
-        env:
-          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
-        run: node scripts/fetch-ggdeals.js
-
       - name: Scrape ${{ matrix.source }}
         working-directory: scraper
-        env:
-          # Coupert is behind Cloudflare and goes through Firecrawl, same as
-          # the GG.deals pre-fetch. Without the key it skips itself.
-          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
-        run: node index.js --source=${{ matrix.source }} --emit=artifacts/${{ matrix.source }}.json
+        # xvfb-run gives the runner a virtual display. Cloudflare-protected
+        # sources (Coupert, GG.deals) need a *headful* browser -- headless
+        # Chrome, old or new, is served "Just a moment..." forever. Harmless
+        # for the sources that run headless or need no browser at all.
+        run: xvfb-run -a node index.js --source=${{ matrix.source }} --emit=artifacts/${{ matrix.source }}.json
 
       - name: Upload raw entries
         uses: actions/upload-artifact@v4

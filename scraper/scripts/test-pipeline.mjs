@@ -18,7 +18,7 @@ import {
   pruneDeadCodes, purgeDeadFromStores,
 } from "../lib/deadcodes.js";
 import { writeShards } from "../lib/shard.js";
-import { parseCoupertMarkdown, slugToDomain, trimToOffers } from "../sources/coupert.js";
+import { normaliseOffers, slugToDomain } from "../sources/coupert.js";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
 
@@ -194,27 +194,41 @@ console.log("\nDescription cleaning");
 
 console.log("\nCoupert parsing");
 {
-  const md = readFileSync(join(FIXTURES, "coupert-driffle.md"), "utf8");
-  const offers = parseCoupertMarkdown(md);
-  const codes = offers.map((o) => o.code);
+  // Exactly what collectCards() returns from a real Driffle page, including
+  // the cards below the "That You've Missed" heading.
+  const cards = [
+    { code: "CJ05", title: "Enjoy a Special 5% Discount with Driffle Promo Code", percent: "5%", expired: false },
+    { code: "VLADDY10", title: "Exclusive 10% Savings Using Driffle Discount Code", percent: "10%", expired: false },
+    { code: "PLSDONATES15", title: "Enjoy 15% off with Driffle Discount Code", percent: "15%", expired: false },
+    { code: "FREECODE666", title: "Get 500 Gems and Lucky Drops", percent: null, expired: false },
+    { code: "TWITTER1", title: "Get Exclusive Rewards with code", percent: null, expired: false },
+    { code: "GGBOOST", title: "Enjoy a 12% Discount with Exclusive Driffle Promo Code", percent: null, expired: false },
+    { code: "CRKCHRONOSLIVE26", title: "Exclusive Rewards from CRKCHRONOSLIVE26", percent: null, expired: false },
+    { code: "AKS1450", title: "Save on your order with Driffle Discount Code", percent: null, expired: false },
+    { code: "72KMEMBERS", title: "500 Gems with code Code", percent: null, expired: false },
+    { code: "GG9GG", title: "Grab Up To 20% Off With Codes From Reddit", percent: "20%", expired: true },
+    { code: "plsdonate2", title: "20 Giftbux with Code", percent: null, expired: true },
+  ];
 
+  const offers = normaliseOffers(cards);
+  const codes = offers.map((o) => o.code);
   check("parses every live code", offers.length === 9, `got ${offers.length}: ${codes.join(",")}`);
   check("finds the codes we were missing",
     ["CJ05", "VLADDY10", "PLSDONATES15", "GGBOOST"].every((c) => codes.includes(c)));
+  check("drops the expired section", !codes.includes("GG9GG") && !codes.includes("plsdonate2"));
+  check("expired can be opted back in", normaliseOffers(cards, { includeExpired: true }).length === 11);
 
-  // The "Alternatives" block lists OTHER retailers' codes. Attributing those
-  // to the current store would put working codes on the wrong shop.
-  check("does not leak Alternatives codes", !codes.includes("GGDUU16KI") && !codes.includes("MS10"),
-    `leaked: ${codes.join(",")}`);
-  check("does not include the expired section", !codes.includes("GG9GG") && !codes.includes("plsdonate2"));
+  const by = Object.fromEntries(offers.map((o) => [o.code, o]));
+  check("percentage from the card badge", by.CJ05.value === 5 && by.CJ05.type === "percentage");
+  check("percentage from the title when no badge", by.GGBOOST.value === 12);
+  check("reward code gets no bogus discount", by.FREECODE666.value === null, `got ${by.FREECODE666.value}`);
+  check("description kept with its own code", by.VLADDY10.description.includes("10% Savings"));
 
-  const byCode = Object.fromEntries(offers.map((o) => [o.code, o]));
-  check("percentage read from the offer block", byCode.CJ05.value === 5 && byCode.CJ05.type === "percentage");
-  check("percentage read from the description", byCode.GGBOOST.value === 12);
-  // A backward scan crossing offer boundaries gave this the previous offer's 15%.
-  check("reward code gets no bogus discount", byCode.FREECODE666.value === null,
-    `got ${byCode.FREECODE666.value}`);
-  check("description attached to the right code", byCode.VLADDY10.description.includes("10% Savings"));
+  check("junk is rejected", normaliseOffers([{ code: "Details", title: "x", percent: null, expired: false }]).length === 0);
+  check("duplicates collapse", normaliseOffers([
+    { code: "CJ05", title: "a", percent: null, expired: false },
+    { code: "cj05", title: "b", percent: null, expired: false },
+  ]).length === 1);
 }
 {
   // "driffle-com" previously became "drifflecom.co.uk" -- a store that cannot
@@ -224,11 +238,6 @@ console.log("\nCoupert parsing");
   check("mapped slug wins", slugToDomain("cdkeys-uk") === "cdkeys.com");
   check("plain slug defaults to .co.uk", slugToDomain("argos") === "argos.co.uk");
   check("already-a-domain slug passes through", slugToDomain("primelicense.com") === "primelicense.com");
-}
-{
-  const trimmed = trimToOffers(readFileSync(join(FIXTURES, "coupert-driffle.md"), "utf8"));
-  check("trims before the Alternatives section", !trimmed.includes("GGDUU16KI"));
-  check("keeps the live offers", trimmed.includes("CJ05"));
 }
 
 console.log("\nSharding");

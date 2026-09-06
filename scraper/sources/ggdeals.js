@@ -1,9 +1,17 @@
-import { readFileSync, existsSync, readdirSync } from "fs";
-import { join, dirname } from "path";
-import { fileURLToPath } from "url";
+/**
+ * GG.deals voucher scraper (headful Playwright)
+ *
+ * Was a two-step affair: a Firecrawl pre-fetch wrote markdown into
+ * cache/ggdeals/, and this file parsed those files. The Firecrawl key died,
+ * the pre-fetch failed silently, and the scraper carried on serving the cache
+ * — frozen since 2026-07-13 — while refreshing each code's lastSeen, so
+ * long-dead codes kept looking current.
+ *
+ * Now scrapes the live pages directly. gg.deals is fine with a headful
+ * browser (the same one Coupert needs), so there is no cache and no API key.
+ */
+import { launchHeadfulBrowser } from "../lib/playwright-base.js";
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const CACHE_DIR = join(__dirname, "..", "cache", "ggdeals");
 const BASE_URL = "https://gg.deals/vouchers/";
 const TOTAL_PAGES = 5;
 
@@ -56,34 +64,89 @@ const GAMING_STORES = {
 };
 
 /**
- * Scrape GG.deals vouchers page via cache files.
- * Pre-fetch pages with: node scripts/fetch-ggdeals.js
+ * Runs inside the page. Each voucher renders as a `.voucher-item` card:
+ *   .voucher-image img[alt]      -> store name
+ *   .voucher-code .code (leaf)   -> the code itself; the wrapper's text is
+ *                                   "CODEcopy" because of the copy button, so
+ *                                   take the childless element
+ *   .title (first)               -> the offer description
  */
+export function collectVouchers() {
+  return Array.from(document.querySelectorAll(".voucher-item"))
+    .map((card) => {
+      const codeEl = Array.from(card.querySelectorAll(".code")).find((e) => e.children.length === 0);
+      const code = codeEl?.textContent?.trim() || "";
+      if (!code) return null;
+      const img = card.querySelector(".voucher-image img");
+      const storeName = (img?.getAttribute("alt") || img?.getAttribute("title") || "").trim();
+      const title = card.querySelector(".title")?.textContent?.trim() || "";
+      return { code, storeName, title };
+    })
+    .filter(Boolean);
+}
+
 export async function scrape() {
   const start = Date.now();
   const entries = [];
   const errors = [];
 
-  if (!existsSync(CACHE_DIR)) {
-    errors.push("No cache directory. Run: node scripts/fetch-ggdeals.js");
-    console.log("[GGdeals] No cache directory. Run fetch-ggdeals.js first.");
-    return { entries, duration: Date.now() - start, errors };
+  let browser;
+  try {
+    browser = await launchHeadfulBrowser();
+  } catch (err) {
+    const msg = `could not launch browser: ${err.message}`;
+    console.log(`[GGdeals] ${msg}`);
+    return { entries, duration: Date.now() - start, errors: [msg] };
   }
 
-  console.log("[GGdeals] Reading cached pages…");
+  const context = await browser.newContext({
+    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    locale: "en-GB",
+    viewport: { width: 1280, height: 900 },
+  });
+  await context.addInitScript(() => {
+    Object.defineProperty(navigator, "webdriver", { get: () => undefined });
+  });
 
-  const files = readdirSync(CACHE_DIR).filter(f => f.endsWith(".md")).sort();
-  for (const file of files) {
-    const content = readFileSync(join(CACHE_DIR, file), "utf8");
-    const pageCodes = parseMarkdown(content, `cache/ggdeals/${file}`);
-    if (pageCodes.length > 0) {
-      console.log(`[GGdeals] ${file}: ${pageCodes.length} codes`);
-      entries.push(...pageCodes);
+  console.log(`[GGdeals] Scraping ${TOTAL_PAGES} pages…`);
+
+  for (let pageNum = 1; pageNum <= TOTAL_PAGES; pageNum++) {
+    const url = pageNum === 1 ? BASE_URL : `${BASE_URL}?page=${pageNum}`;
+    let page;
+    try {
+      page = await context.newPage();
+      await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
+      await page.waitForSelector(".voucher-item", { timeout: 20000 });
+
+      const vouchers = await page.evaluate(collectVouchers);
+      for (const v of vouchers) {
+        const domain = GAMING_STORES[v.storeName] || guessDomain(v.storeName);
+        entries.push({
+          code: v.code,
+          storeName: v.storeName,
+          storeDomain: domain,
+          description: `${v.title} — ${v.storeName}`.substring(0, 200),
+          type: guessType(v.title),
+          source: "ggdeals",
+          url,
+        });
+      }
+      console.log(`[GGdeals] page ${pageNum}: ${vouchers.length} codes`);
+    } catch (err) {
+      const reason = err.message.split("\n")[0];
+      errors.push(`page ${pageNum}: ${reason}`);
+      console.log(`[GGdeals] page ${pageNum}: ${reason}`);
+    } finally {
+      if (page) await page.close().catch(() => {});
     }
   }
 
+  await context.close().catch(() => {});
+  await browser.close().catch(() => {});
+
+  // The same code can appear on more than one page as the list shifts.
   const seen = new Set();
-  const unique = entries.filter(c => {
+  const unique = entries.filter((c) => {
     const key = `${c.code}::${c.storeDomain}`;
     if (seen.has(key)) return false;
     seen.add(key);
@@ -91,50 +154,8 @@ export async function scrape() {
   });
 
   const duration = Date.now() - start;
-  console.log(`[GGdeals] Found ${unique.length} unique codes (${unique.length !== entries.length ? entries.length + " raw, " : ""}${errors.length} err) in ${duration}ms`);
+  console.log(`[GGdeals] Found ${unique.length} unique codes (${errors.length} errors) in ${duration}ms`);
   return { entries: unique, duration, errors };
-}
-
-function parseMarkdown(markdown, source) {
-  const entries = [];
-  const lines = markdown.split("\n");
-
-  for (let i = 0; i < lines.length; i++) {
-    const imgMatch = lines[i].match(/\[!\[(.+?)\]/);
-    if (!imgMatch) continue;
-
-    const storeName = imgMatch[1];
-
-    for (let j = i + 1; j < Math.min(i + 12, lines.length); j++) {
-      const codeMatch = lines[j].match(/^([A-Z0-9]{3,25})copy$/);
-      if (!codeMatch) continue;
-
-      const code = codeMatch[1];
-      let description = "";
-
-      for (let k = j - 1; k >= i; k--) {
-        const cand = lines[k].trim();
-        if (cand && !cand.startsWith("[") && !cand.startsWith("![")) {
-          description = cand;
-          break;
-        }
-      }
-
-      const domain = GAMING_STORES[storeName] || guessDomain(storeName);
-      entries.push({
-        code,
-        storeName,
-        storeDomain: domain,
-        description: `${description} — ${storeName}`.substring(0, 200),
-        type: guessType(description),
-        source: "ggdeals",
-        url: source,
-      });
-      break;
-    }
-  }
-
-  return entries;
 }
 
 function guessDomain(storeName) {

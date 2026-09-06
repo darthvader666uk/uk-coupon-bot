@@ -55,6 +55,40 @@ function findCachedChromium() {
  * Launch a shared browser instance for batch scraping.
  * Call browser.close() when done.
  */
+/**
+ * Launch a *headful* browser.
+ *
+ * Cloudflare-protected sites (Coupert, GG.deals) detect headless Chrome and
+ * serve "Just a moment..." forever. Measured against uk.coupert.com:
+ *
+ *   headless (default)  -> challenged
+ *   headless=new        -> challenged
+ *   headful             -> loads normally
+ *
+ * CI has no display, so the workflow wraps these jobs in `xvfb-run`.
+ */
+export async function launchHeadfulBrowser() {
+  const opts = {
+    headless: false,
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage",
+      // Removes navigator.webdriver, the first thing bot checks look at.
+      "--disable-blink-features=AutomationControlled",
+    ],
+  };
+  try {
+    return await chromium.launch(opts);
+  } catch (err) {
+    if (!/Executable doesn't exist/.test(err.message)) throw err;
+    const executablePath = findCachedChromium();
+    if (!executablePath) throw err;
+    console.log(`[Playwright] Version mismatch — using cached chromium: ${executablePath}`);
+    return chromium.launch({ ...opts, executablePath });
+  }
+}
+
 export async function launchBrowser() {
   try {
     return await chromium.launch(BROWSER_OPTS);
