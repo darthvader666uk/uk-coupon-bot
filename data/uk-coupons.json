@@ -1,257 +1,11 @@
 {
   "meta": {
     "lastUpdated": "2026-09-06T10:22:14.561Z",
-    "totalCodes": 9041,
+    "totalCodes": 9020,
     "version": "1.0",
     "sources": []
   },
   "stores": {
-    "unknown.co.uk": {
-      "name": "Unknown",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SAVE50",
-          "description": "50% Off Selected Machine Washable Rugs",
-          "type": "percentage",
-          "value": 50,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "PROMOS",
-          "description": "£5 Off Your First UK Train",
-          "type": "fixed",
-          "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CANNOT",
-          "description": "£25 off £50 spend First Online Shop",
-          "type": "fixed",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EXTRA15",
-          "description": "10% off gift cards over",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CODESSAVE",
-          "description": "Easyjet Holiday Big Orange",
-          "type": "fixed",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "BALANCESEPT",
-          "description": "5% Off When You Pay £10 with eBay",
-          "type": "percentage",
-          "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "WITHIN",
-          "description": "Voxi",
-          "type": "fixed",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CASHBACK",
-          "description": "£5/£15/£20/£35 off on selected items [possible 10% cashback in credit] using",
-          "type": "fixed",
-          "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "PER",
-          "description": "50% Off Parcel Sent to a Locker or Shop With",
-          "type": "percentage",
-          "value": 50,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SWEET20",
-          "description": "20% off selected sellers eBay w/",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "HUKDBTS20",
-          "description": "20% off UK train travel new customers via app w/ code (max £8 discount) + 5% UK train ticket auto discount 10/09 17:00 to 11/09",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "PLAYTIME",
-          "description": "5% off across site w/",
-          "type": "percentage",
-          "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "lensesoff.co.uk": {
       "name": "Lenses 65% Off",
       "category": "general",
@@ -261,7 +15,7 @@
           "description": "Glasses direct sale on Lenses 65% Off and 30% Off Frames plus Free Delivery on Orders Over £30 (Excludes £9",
           "type": "percentage",
           "value": 65,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "hotukdeals",
           "sources": [
@@ -304,8 +58,8 @@
         }
       ]
     },
-    "boots.com": {
-      "name": "Boots Opticians Plus",
+    "boots.co.uk": {
+      "name": "Boots",
       "category": "general",
       "codes": [
         {
@@ -397,9 +151,30 @@
           "expiry": null,
           "source": "voucherbox",
           "sources": [
-            "voucherbox"
+            "voucherbox",
+            "myvouchercodes"
           ],
           "url": "https://www.voucherbox.co.uk/vouchers/boots",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BA1",
+          "description": "Boots Discount",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "myvouchercodes",
+          "sources": [
+            "myvouchercodes"
+          ],
+          "url": "https://www.myvouchercodes.co.uk/boots",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -1469,7 +1244,7 @@
       ]
     },
     "k4g.com": {
-      "name": "K4G.com",
+      "name": "K4G",
       "category": "general",
       "codes": [
         {
@@ -2307,7 +2082,7 @@
       ]
     },
     "planetplay.com": {
-      "name": "Planetplay",
+      "name": "PlanetPlay",
       "category": "general",
       "codes": [
         {
@@ -2949,7 +2724,7 @@
       ]
     },
     "gamesplanet.com": {
-      "name": "Gamesplanet US",
+      "name": "Gamesplanet",
       "category": "general",
       "codes": [
         {
@@ -3245,7 +3020,7 @@
       ]
     },
     "gameseal.com": {
-      "name": "GAMESEAL",
+      "name": "GameSeal",
       "category": "general",
       "codes": [
         {
@@ -3501,7 +3276,7 @@
       ]
     },
     "allyouplay.com": {
-      "name": "Allyouplay",
+      "name": "AllYouPlay",
       "category": "general",
       "codes": [
         {
@@ -4129,7 +3904,7 @@
           "description": "Exclusive Extra 10% off orders over £35 at Absolute",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -7024,7 +6799,7 @@
         {
           "code": "SUNNEI",
           "description": "Camper × SUNNEI Collaboration from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -7798,7 +7573,7 @@
         {
           "code": "TWINFRY",
           "description": "Cosori Air Fryers from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -8322,7 +8097,7 @@
           "description": "Summer Sale: 10% off orders over £79 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 79,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -8342,7 +8117,7 @@
           "description": "Exclusive £5 off Full-Priced orders over £65 at",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 65,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -8362,7 +8137,7 @@
           "description": "Exclusive £10 off Full-Priced orders over £85 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 85,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -8382,7 +8157,7 @@
           "description": "Exclusive 15% off Full-Priced orders over £70 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -9190,7 +8965,7 @@
           "description": "Free Gift on orders over £110 at",
           "type": "fixed",
           "value": 110,
-          "minSpend": null,
+          "minSpend": 110,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -9210,7 +8985,7 @@
           "description": "Free Gifts on orders over £85 at",
           "type": "fixed",
           "value": 85,
-          "minSpend": null,
+          "minSpend": 85,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -9230,7 +9005,7 @@
           "description": "Free Mini Circular Hydration Serum on orders over £50 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -9250,7 +9025,7 @@
           "description": "Free Powerbright Dark Spot System Worth £139 on orders over £160 at",
           "type": "fixed",
           "value": 139,
-          "minSpend": null,
+          "minSpend": 160,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -10892,7 +10667,7 @@
         {
           "code": "BANKHOL",
           "description": "Fussy Deodorant Cases from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -11596,7 +11371,7 @@
           "description": "£20 off Key'n Go Bookings over £200 at",
           "type": "fixed",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -12604,7 +12379,7 @@
         {
           "code": "HPAUG15",
           "description": "Free Delivery on Built-in Cooking Appliances over",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -16546,7 +16321,7 @@
           "description": "Extra 10% off orders over £35 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -16586,7 +16361,7 @@
           "description": "Free Good Intent Cleansing Duo on orders over £45 at",
           "type": "fixed",
           "value": 45,
-          "minSpend": null,
+          "minSpend": 45,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -16718,7 +16493,7 @@
           "description": "£15 off Selected orders over £70 at",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -17006,7 +16781,7 @@
       ]
     },
     "ocado.co.uk": {
-      "name": "Ocado Discount Codes for September 2026",
+      "name": "Ocado",
       "category": "general",
       "codes": [
         {
@@ -17121,7 +16896,7 @@
           "description": "5 Free Gfits on orders over £50 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -17451,7 +17226,7 @@
           "description": "4% off orders over £550 at Office Furniture",
           "type": "percentage",
           "value": 4,
-          "minSpend": null,
+          "minSpend": 550,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -20181,7 +19956,7 @@
           "description": "10% off orders over £120 at Salons",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -20201,7 +19976,7 @@
           "description": "20% off First order over £50 at Salons",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -20219,7 +19994,7 @@
       ]
     },
     "ryanair.co.uk": {
-      "name": "RyanAir Discount Codes - in September 2026",
+      "name": "Ryanair",
       "category": "general",
       "codes": [
         {
@@ -21483,7 +21258,7 @@
           "description": "Up to 50% off Summer Sale plus Extra 25% off orders over £99 at",
           "type": "percentage",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 99,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -21503,7 +21278,7 @@
           "description": "Member Exclusive: 16% off Round Lab orders over £50 plus Free Soybean Panthenol Mask at",
           "type": "percentage",
           "value": 16,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -21543,7 +21318,7 @@
           "description": "Member Exclusive: Extra 16% off orders over £89 at",
           "type": "percentage",
           "value": 16,
-          "minSpend": null,
+          "minSpend": 89,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -22825,7 +22600,7 @@
           "description": "Bank Holiday Sale: Up to 20% off orders over £40 at Tower",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -23481,7 +23256,7 @@
           "description": "£100 off Family Flight to Asia over £7000 at",
           "type": "fixed",
           "value": 100,
-          "minSpend": null,
+          "minSpend": 7000,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -24180,7 +23955,7 @@
         {
           "code": "KICKSTART15",
           "description": "Village Hotels' Sale Rooms from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -24415,7 +24190,7 @@
           "description": "£10 off orders over £50 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -28726,7 +28501,7 @@
           "description": "£5 off orders plus Free Delivery on orders over £39 at Baker",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 39,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -28766,7 +28541,7 @@
           "description": "20% off orders over £35 at Baker",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -29166,7 +28941,7 @@
         {
           "code": "20OFF",
           "description": "Baukjen E-Gift Card from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -30397,7 +30172,7 @@
           "description": "Free Delivery on orders over £25 at",
           "type": "fixed",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 25,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -30417,7 +30192,7 @@
           "description": "£15 off orders over £100 at",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -30437,7 +30212,7 @@
           "description": "£9 off orders over £75 at",
           "type": "fixed",
           "value": 9,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -30457,7 +30232,7 @@
           "description": "£5 off orders over £50 at",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -30543,7 +30318,7 @@
           "description": "£10 off all Bouquets over £35 at Blossoming",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -30563,7 +30338,7 @@
           "description": "£10 off Bouquets over £35 at Blossoming",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -30623,7 +30398,7 @@
           "description": "£12 off all Bouquets over £45 at Blossoming",
           "type": "fixed",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 45,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -31441,7 +31216,7 @@
           "description": "Free Delivery on orders over £35 at Cartridge",
           "type": "fixed",
           "value": 35,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -33415,7 +33190,7 @@
           "description": "£50 off orders over £200 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -33435,7 +33210,7 @@
           "description": "£10 off orders over £50 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -35371,7 +35146,7 @@
           "description": "12% off orders over £20 at",
           "type": "percentage",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -36955,7 +36730,7 @@
           "description": "Win Membership for Life Worth over £2500 at English Heritage",
           "type": "fixed",
           "value": 2500,
-          "minSpend": null,
+          "minSpend": 2500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -37351,7 +37126,7 @@
           "description": "£150 off all Mauritius Holidays over £1500 at Etihad",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 1500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -37371,7 +37146,7 @@
           "description": "£150 off all Thailand Holidays over £1500 at Etihad",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 1500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -37391,7 +37166,7 @@
           "description": "£150 off all Sri Lanka Holidays over £1500 at Etihad",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 1500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -37411,7 +37186,7 @@
           "description": "£150 off all Maldives Holidays over £1500 at Etihad",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 1500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -37650,7 +37425,7 @@
           "description": "£15 off First order over £100 with Eve Lom's Newsletter Sign",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -38720,7 +38495,7 @@
           "description": "15% off all orders over £50 at Fine Food",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -41129,7 +40904,7 @@
           "description": "20% off orders plus Free Gifts on orders over £75 at Green",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -41683,7 +41458,7 @@
           "description": "30% off orders plus Free Gift on orders over £15 at",
           "type": "percentage",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 15,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -42225,7 +42000,7 @@
           "description": "£10 off orders over £50 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -42673,7 +42448,7 @@
           "description": "20% off Selected Indoor Furniture orders over £100 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -43673,7 +43448,7 @@
           "description": "Free Eye Palette on orders over £45 at Iconic",
           "type": "fixed",
           "value": 45,
-          "minSpend": null,
+          "minSpend": 45,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -43772,52 +43547,6 @@
             "myvouchercodes"
           ],
           "url": "https://www.myvouchercodes.co.uk/iflorist",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "instant-print..co.uk": {
-      "name": "Instant Print Voucher Codes for September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "LOOKFANTASTIC",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "myvouchercodes",
-          "sources": [
-            "myvouchercodes"
-          ],
-          "url": "https://www.myvouchercodes.co.uk/instant-print.",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "22CFB0",
-          "description": "Instant Print Voucher",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "myvouchercodes",
-          "sources": [
-            "myvouchercodes"
-          ],
-          "url": "https://www.myvouchercodes.co.uk/instant-print.",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -46685,7 +46414,7 @@
           "description": "10% off orders over £1000 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 1000,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -46771,7 +46500,7 @@
           "description": "10% off orders over £125 at Lighting",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 125,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -46791,7 +46520,7 @@
           "description": "15% off orders over £350 at Lighting",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -48036,7 +47765,7 @@
           "description": "Free Delivery on orders over £299 at Make My",
           "type": "fixed",
           "value": 299,
-          "minSpend": null,
+          "minSpend": 299,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -48056,7 +47785,7 @@
           "description": "Extra 10% off orders over £149 at Make My",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 149,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -48076,7 +47805,7 @@
           "description": "Extra 15% off orders over £249 at Make My",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 249,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -48300,7 +48029,7 @@
           "description": "Free Delivery on Orders Over £19.99 at",
           "type": "fixed",
           "value": 19.99,
-          "minSpend": null,
+          "minSpend": 19.99,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -48320,7 +48049,7 @@
           "description": "20% off Orders Over £40 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -51213,7 +50942,7 @@
           "description": "Spring Event: 20% off orders over £30 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -51980,7 +51709,7 @@
           "description": "Free Overnight Mask on orders over £60 at",
           "type": "fixed",
           "value": 60,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -52736,7 +52465,7 @@
           "description": "Bank Holiday Offer: 10% off orders over £30 at Pets at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -52756,7 +52485,7 @@
           "description": "Bank Holiday Offer: 15% off orders over £60 at Pets at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -52842,7 +52571,7 @@
           "description": "Free Luna Gift on orders over £150 at",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -52862,7 +52591,7 @@
           "description": "Free Luna Gift on orders over £225 at",
           "type": "fixed",
           "value": 225,
-          "minSpend": null,
+          "minSpend": 225,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -52882,7 +52611,7 @@
           "description": "Free Miniature Scent Library and 30ml Wash Lotion on orders over £180 at",
           "type": "fixed",
           "value": 180,
-          "minSpend": null,
+          "minSpend": 180,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -53326,7 +53055,7 @@
           "description": "Free Next Day Delivery on orders over £30 at",
           "type": "fixed",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -53544,7 +53273,7 @@
           "description": "Free Shaker on orders over £50 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -54172,7 +53901,7 @@
           "description": "20% off orders over £100 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -54536,7 +54265,7 @@
           "description": "Exclusive £10 off orders over £60 at Protein",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -55469,7 +55198,7 @@
           "description": "New Customer: 20% off plus Free Delivery on First order over £125 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 125,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -55489,7 +55218,7 @@
           "description": "Free Gift on orders over £150 at",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -56295,7 +56024,7 @@
           "description": "Summer Sale: 20% off orders over £180 Royal Doulton",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 180,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -56757,7 +56486,7 @@
           "description": "20% off orders over £30 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -59017,7 +58746,7 @@
           "description": "Summer Sale: £10 off orders over £60 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -59037,7 +58766,7 @@
           "description": "Summer Sale: £15 off orders over £85 at",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 85,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -60862,7 +60591,7 @@
           "description": "15% off orders over £60 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -64518,7 +64247,7 @@
         {
           "code": "NAVCUKEGJAZ59WCK79",
           "description": "Viator Vatican Museums Tours and Tickets from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -65082,7 +64811,7 @@
           "description": "Exclusive 15% off orders over £40 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -66548,7 +66277,7 @@
           "description": "Free Delivery on orders over £60 at Wood Finishes",
           "type": "fixed",
           "value": 60,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -67682,7 +67411,7 @@
       ]
     },
     "zara.co.uk": {
-      "name": "Zara Discount Codes for September 2026",
+      "name": "Zara",
       "category": "general",
       "codes": [
         {
@@ -67717,6 +67446,106 @@
             "myvouchercodes"
           ],
           "url": "https://www.myvouchercodes.co.uk/zara",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "REPELLENT",
+          "description": "Get 50% Off on WATER-REPELLENT PUFFER GILET when you activate this discount promo at",
+          "type": "percentage",
+          "value": 50,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "HOODED",
+          "description": "Get 44% Off on HOODED PUFFER JACKET when you activate this discount promo at",
+          "type": "percentage",
+          "value": 44,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CORDUROY",
+          "description": "Get 38% Off on FINE CORDUROY SHIRT when you activate this discount promo at",
+          "type": "percentage",
+          "value": 38,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PUFFER",
+          "description": "Get 37% Off on PUFFER JACKET when you activate this discount promo at",
+          "type": "percentage",
+          "value": 37,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "STRAIGHT",
+          "description": "Get 33% Off on STRAIGHT-FIT TRF JEANS when you activate this discount promo at",
+          "type": "percentage",
+          "value": 33,
+          "minSpend": null,
+          "expiry": null,
+          "source": "codesuk",
+          "sources": [
+            "codesuk"
+          ],
+          "url": "https://codes.co.uk/zara",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -68996,7 +68825,7 @@
           "description": "Free Big Box on orders over £249 at",
           "type": "fixed",
           "value": 249,
-          "minSpend": null,
+          "minSpend": 249,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -69248,7 +69077,7 @@
           "description": "3 in 1: 45% off Frames over £49 plus 30% off Lenses plus Free Second Pair at Glasses",
           "type": "percentage",
           "value": 45,
-          "minSpend": null,
+          "minSpend": 49,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -69894,7 +69723,7 @@
       ]
     },
     "just-eat.co.uk": {
-      "name": "Just Eat Discount Codes | 54% OFF | September 2026",
+      "name": "Just Eat",
       "category": "general",
       "codes": [
         {
@@ -70372,7 +70201,7 @@
           "description": "£10 off First Orders Over £100 on the Mamas & Papas",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -72255,7 +72084,7 @@
       ]
     },
     "adidas.co.uk": {
-      "name": "Adidas Voucher Codes | Exclusive 5% OFF | September 2026",
+      "name": "Adidas",
       "category": "general",
       "codes": [
         {
@@ -72363,7 +72192,7 @@
           "description": "10% off orders over £100 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -72877,7 +72706,7 @@
         {
           "code": "BABY20",
           "description": "Alex and Alexa Delivery from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -73141,7 +72970,7 @@
       ]
     },
     "argos.co.uk": {
-      "name": "Argos Discount Codes | 50% OFF | September 2026",
+      "name": "Argos",
       "category": "general",
       "codes": [
         {
@@ -73574,7 +73403,7 @@
       ]
     },
     "b-and-q.co.uk": {
-      "name": "B&Q Discount Codes | £10 OFF | September 2026",
+      "name": "B&Q",
       "category": "general",
       "codes": [
         {
@@ -73609,6 +73438,46 @@
             "myvouchercodes"
           ],
           "url": "https://www.myvouchercodes.co.uk/b-and-q",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PBDPMR",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/b-and-q-discount-codes",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MEGABAG",
+          "description": "20% off Garden Furniture plus Extra 5% off all orders at",
+          "type": "percentage",
+          "value": 20,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/b-and-q-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -74493,52 +74362,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/boots-kitchen-appliances-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "boots.co.uk": {
-      "name": "Boots Discount Codes | 20% OFF | September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "LOOKFANTASTIC",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "myvouchercodes",
-          "sources": [
-            "myvouchercodes"
-          ],
-          "url": "https://www.myvouchercodes.co.uk/boots",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "BA1",
-          "description": "Boots Discount",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "myvouchercodes",
-          "sources": [
-            "myvouchercodes"
-          ],
-          "url": "https://www.myvouchercodes.co.uk/boots",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -75952,7 +75775,7 @@
           "description": "10% off orders over £70 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -76200,7 +76023,7 @@
       ]
     },
     "currys.co.uk": {
-      "name": "Currys Discount Codes | 10% OFF | September 2026",
+      "name": "Currys",
       "category": "general",
       "codes": [
         {
@@ -77878,7 +77701,7 @@
       ]
     },
     "expedia.co.uk": {
-      "name": "Expedia Discount Codes | Exclusive 8% OFF | September 2026",
+      "name": "Expedia",
       "category": "general",
       "codes": [
         {
@@ -78316,7 +78139,7 @@
           "description": "Summer: Free Next Day Delivery on Selected orders over £80 at",
           "type": "fixed",
           "value": 80,
-          "minSpend": null,
+          "minSpend": 80,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -78718,7 +78541,7 @@
           "description": "Extra 10% off Footstools over £100 at Furniture",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -79311,7 +79134,7 @@
       ]
     },
     "game.co.uk": {
-      "name": "GAME Discount Codes for September 2026",
+      "name": "GAME",
       "category": "general",
       "codes": [
         {
@@ -79378,7 +79201,7 @@
       ]
     },
     "groupon.co.uk": {
-      "name": "Groupon Discount Codes | Exclusive 12% OFF | September 2026",
+      "name": "Groupon",
       "category": "general",
       "codes": [
         {
@@ -80272,7 +80095,7 @@
           "description": "£40 off orders over £200 at Hawes &",
           "type": "fixed",
           "value": 40,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -80510,7 +80333,7 @@
           "description": "20% off orders over £35 at Holland and",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -80530,7 +80353,7 @@
           "description": "Up to 20% off orders over £40 at Holland and",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -80550,7 +80373,7 @@
           "description": "25% off orders over £35 at Holland and",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -81300,7 +81123,7 @@
         {
           "code": "EXTRA20",
           "description": "JD Sports Gift Cards from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -81320,7 +81143,7 @@
       ]
     },
     "jet2holidays.co.uk": {
-      "name": "Jet2holidays Discount Codes | September 2026",
+      "name": "Jet2holidays",
       "category": "general",
       "codes": [
         {
@@ -83096,7 +82919,7 @@
       ]
     },
     "lookfantastic.co.uk": {
-      "name": "LOOKFANTASTIC Promo Codes | 22% OFF | September 2026",
+      "name": "LOOKFANTASTIC",
       "category": "general",
       "codes": [
         {
@@ -83108,7 +82931,9 @@
           "expiry": null,
           "source": "myvouchercodes",
           "sources": [
-            "myvouchercodes"
+            "myvouchercodes",
+            "savoo",
+            "codesuk"
           ],
           "url": "https://www.myvouchercodes.co.uk/lookfantastic",
           "addedAt": "2026-09-06T10:22:14.188Z",
@@ -83148,9 +82973,70 @@
           "expiry": null,
           "source": "myvouchercodes",
           "sources": [
-            "myvouchercodes"
+            "myvouchercodes",
+            "savoo"
           ],
           "url": "https://www.myvouchercodes.co.uk/lookfantastic",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PBDPMR",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EXTRA10",
+          "description": "Up to 40% off Plus Extra 10% off Selected Beauty Products at",
+          "type": "percentage",
+          "value": 40,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MILANO",
+          "description": "Exclusive 10% off Full-Priced Items and 5% off Sale Items at BPerfect",
+          "type": "percentage",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -83670,7 +83556,7 @@
         {
           "code": "25OFF",
           "description": "Marisota Standard Delivery for",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -83758,7 +83644,7 @@
           "description": "£30 off orders over £200 at Made in",
           "type": "fixed",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -83778,7 +83664,7 @@
           "description": "15% off orders over £200 at Made in",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -83862,7 +83748,7 @@
       ]
     },
     "marks-and-spencer.co.uk": {
-      "name": "Marks and Spencer Discount Codes for September 2026",
+      "name": "Marks & Spencer",
       "category": "general",
       "codes": [
         {
@@ -83897,6 +83783,46 @@
             "myvouchercodes"
           ],
           "url": "https://www.myvouchercodes.co.uk/marks-and-spencer",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PBDPMR",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/marks-and-spencer-discount-codes",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "MADELEINE",
+          "description": "10% off all Ties Planet",
+          "type": "percentage",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/marks-and-spencer-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -84795,7 +84721,7 @@
       ]
     },
     "morrisons.co.uk": {
-      "name": "Morrisons Discount Codes | £5 Gift Card | September 2026",
+      "name": "Morrisons",
       "category": "general",
       "codes": [
         {
@@ -84953,7 +84879,7 @@
       ]
     },
     "myprotein.co.uk": {
-      "name": "Myprotein Discount Codes | 30% OFF | September 2026",
+      "name": "Myprotein",
       "category": "general",
       "codes": [
         {
@@ -85349,21 +85275,82 @@
       ]
     },
     "new-look.co.uk": {
-      "name": "New Look Discount Codes September 2026",
+      "name": "New Look",
       "category": "general",
       "codes": [
         {
           "code": "LOOKFANTASTIC",
+          "description": "10% off New Look Student",
+          "type": "percentage",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "myvouchercodes",
+          "sources": [
+            "myvouchercodes",
+            "savoo"
+          ],
+          "url": "https://www.myvouchercodes.co.uk/new-look",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PBDPMR",
           "description": "",
           "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
-          "source": "myvouchercodes",
+          "source": "savoo",
           "sources": [
-            "myvouchercodes"
+            "savoo"
           ],
-          "url": "https://www.myvouchercodes.co.uk/new-look",
+          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "APP10",
+          "description": "Bank Holiday: 20% off Everything at New",
+          "type": "percentage",
+          "value": 20,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "APP25",
+          "description": "25% off Orders Plus Free Next Day Delivery on the New Look App - Today",
+          "type": "percentage",
+          "value": 25,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -85375,7 +85362,7 @@
       ]
     },
     "next.co.uk": {
-      "name": "Next Discount Codes for September 2026",
+      "name": "Next",
       "category": "general",
       "codes": [
         {
@@ -85641,7 +85628,7 @@
           "description": "12% off orders over £40 at Not On The High",
           "type": "percentage",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -85814,7 +85801,7 @@
           "description": "£10 off orders over £89 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 89,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -86382,7 +86369,7 @@
           "description": "Bank Holiday Sale: Extra £5 off orders over £250 at One",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 250,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -86402,7 +86389,7 @@
           "description": "£25 off orders over £1,000 at One",
           "type": "fixed",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 1,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -86422,7 +86409,7 @@
           "description": "£10 off orders over £500 at One",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -87164,7 +87151,7 @@
       ]
     },
     "premier-inn.co.uk": {
-      "name": "Premier Inn Discount Codes | 30% OFF | September 2026",
+      "name": "Premier Inn",
       "category": "general",
       "codes": [
         {
@@ -87319,7 +87306,7 @@
           "description": "50% off Photo Books, Wall Art and Gifts on orders over £25 at",
           "type": "percentage",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 25,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -87339,7 +87326,7 @@
           "description": "50% off Photo Books, Wall Art and Gifts over £35 at",
           "type": "percentage",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -88343,7 +88330,7 @@
       ]
     },
     "sainsburys.co.uk": {
-      "name": "Sainsbury's Discount Codes | 10% OFF | September 2026",
+      "name": "Sainsbury's",
       "category": "general",
       "codes": [
         {
@@ -89143,7 +89130,7 @@
           "description": "10% off orders over £100 at Soak and",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -89163,7 +89150,7 @@
           "description": "7% off orders over £350 at Soak and",
           "type": "percentage",
           "value": 7,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -89183,7 +89170,7 @@
           "description": "10% off Full-Priced Items over £100 at Soak and",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -89203,7 +89190,7 @@
           "description": "10% off orders over £85 at Soak and",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 85,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -89223,7 +89210,7 @@
           "description": "20% off orders over £150 at Soak and",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -89309,7 +89296,7 @@
           "description": "Free Flex Backpack on orders over £85 at",
           "type": "fixed",
           "value": 85,
-          "minSpend": null,
+          "minSpend": 85,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -89347,7 +89334,7 @@
       ]
     },
     "sports-direct.co.uk": {
-      "name": "Sports Direct Discount Codes | Exclusive £5 Gift Card | September 2026",
+      "name": "Sports Direct",
       "category": "general",
       "codes": [
         {
@@ -90121,7 +90108,7 @@
       ]
     },
     "superdrug.co.uk": {
-      "name": "Superdrug Discount Codes | September 2026",
+      "name": "Superdrug",
       "category": "general",
       "codes": [
         {
@@ -90156,6 +90143,26 @@
             "myvouchercodes"
           ],
           "url": "https://www.myvouchercodes.co.uk/superdrug",
+          "addedAt": "2026-09-06T10:22:14.188Z",
+          "lastSeen": "2026-09-06T10:22:14.188Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PBDPMR",
+          "description": "",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "savoo",
+          "sources": [
+            "savoo"
+          ],
+          "url": "https://www.savoo.co.uk/brands/superdrug-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -90213,7 +90220,7 @@
       ]
     },
     "tesco.co.uk": {
-      "name": "Tesco Discount Code for September 2026",
+      "name": "Tesco",
       "category": "general",
       "codes": [
         {
@@ -91177,7 +91184,7 @@
       ]
     },
     "travelodge.co.uk": {
-      "name": "Travelodge Discount Codes September 2026",
+      "name": "Travelodge",
       "category": "general",
       "codes": [
         {
@@ -91375,7 +91382,7 @@
       ]
     },
     "tui.co.uk": {
-      "name": "TUI Discount Codes | £400 OFF | September 2026",
+      "name": "TUI",
       "category": "general",
       "codes": [
         {
@@ -92148,7 +92155,7 @@
           "description": "Up to 45% off Photo Gifts over £50 at",
           "type": "percentage",
           "value": 45,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -92701,7 +92708,7 @@
       ]
     },
     "wickes.co.uk": {
-      "name": "Wickes Discount Codes | 10% OFF | September 2026",
+      "name": "Wickes",
       "category": "general",
       "codes": [
         {
@@ -94271,7 +94278,7 @@
           "description": "Back to School Sale: £10 off BTS Collection over £130 at Kicks",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 130,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -94595,7 +94602,7 @@
           "description": "20% off orders over £99.98 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 99.98,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -95052,7 +95059,7 @@
           "description": "Summer Ready Weekend: Free Beta Carotene Oil on orders over £25 at",
           "type": "fixed",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 25,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -95388,7 +95395,7 @@
           "description": "Buy More, Save More: £15 off orders over £99 at",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 99,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -95408,7 +95415,7 @@
           "description": "Buy More, Save More: £9 off orders over £65 at",
           "type": "fixed",
           "value": 9,
-          "minSpend": null,
+          "minSpend": 65,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -95428,7 +95435,7 @@
           "description": "Extra 15% off orders over £65 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 65,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -96015,7 +96022,7 @@
           "description": "10% off Selected Items over £350 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -96127,7 +96134,7 @@
           "description": "15% off orders over £30 at Lloyds",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -96567,7 +96574,7 @@
           "description": "10% off orders over £100 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -96795,7 +96802,7 @@
         {
           "code": "V34",
           "description": "HiSmile iD Stain Whitening Mouthwash from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -97033,7 +97040,7 @@
           "description": "Exclusive 10% off orders over £50 at Addison",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -97915,7 +97922,7 @@
           "description": "Free Delivery on orders over £43.96 at",
           "type": "fixed",
           "value": 43.96,
-          "minSpend": null,
+          "minSpend": 43.96,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -97935,7 +97942,7 @@
           "description": "£44.65 off orders over £185.32 at",
           "type": "fixed",
           "value": 44.65,
-          "minSpend": null,
+          "minSpend": 185.32,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -98231,7 +98238,7 @@
           "description": "Up to 20% off orders over £40 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -98251,7 +98258,7 @@
           "description": "£5 off orders over £30 at",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -98343,7 +98350,7 @@
           "description": "£5 off Ink and Toners on orders over £25 at",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 25,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -98599,7 +98606,7 @@
       ]
     },
     "debenhams.com": {
-      "name": "Debenhams Discount Codes - September 2026",
+      "name": "Debenhams",
       "category": "general",
       "codes": [
         {
@@ -98687,7 +98694,7 @@
           "description": "10% off Orders Over £75 at Debenhams - Today",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -98705,7 +98712,7 @@
       ]
     },
     "amazon.co.uk": {
-      "name": "Amazon Discount Codes - September 2026",
+      "name": "Amazon",
       "category": "general",
       "codes": [
         {
@@ -99287,7 +99294,7 @@
           "description": "15% off Gifts over £20 at ASDA",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -99370,8 +99377,8 @@
         }
       ]
     },
-    "samsung.com": {
-      "name": "Samsung Discount Codes - September 2026",
+    "samsung.co.uk": {
+      "name": "Samsung",
       "category": "general",
       "codes": [
         {
@@ -99897,92 +99904,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/fishing-tackle-and-bait-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "newlook.com": {
-      "name": "New Look Discount Codes - September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PBDPMR",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LOOKFANTASTIC",
-          "description": "10% off New Look Student",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "APP10",
-          "description": "Bank Holiday: 20% off Everything at New",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "APP25",
-          "description": "25% off Orders Plus Free Next Day Delivery on the New Look App - Today",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -100728,7 +100649,7 @@
           "description": "July Summer Sale: Up to 40% off orders over £150 at",
           "type": "percentage",
           "value": 40,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -100788,7 +100709,7 @@
           "description": "Up to 40% off orders over £150 at",
           "type": "percentage",
           "value": 40,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -101320,7 +101241,7 @@
         {
           "code": "SPRING25",
           "description": "Pangaia Kids' Accessories from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -102544,7 +102465,7 @@
         {
           "code": "DIAMOND30",
           "description": "Marshall Amps from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -102736,7 +102657,7 @@
           "description": "10% off orders over £125 at Castlegate",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 125,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -102756,7 +102677,7 @@
           "description": "15% off orders over £350 at Castlegate",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -102776,7 +102697,7 @@
           "description": "£5 off orders over £100 at Castlegate",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -103090,7 +103011,7 @@
       ]
     },
     "shein.co.uk": {
-      "name": "SHEIN Discount Codes - September 2026",
+      "name": "SHEIN",
       "category": "general",
       "codes": [
         {
@@ -103446,7 +103367,7 @@
           "description": "20% off orders over £60 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -103660,7 +103581,7 @@
       ]
     },
     "very.co.uk": {
-      "name": "Very Discount Codes - September 2026",
+      "name": "Very",
       "category": "general",
       "codes": [
         {
@@ -103774,7 +103695,7 @@
           "description": "10% off Selected orders over £150 for New Customers at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -103998,7 +103919,7 @@
           "description": "£11 off orders over £90 at",
           "type": "fixed",
           "value": 11,
-          "minSpend": null,
+          "minSpend": 90,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -104018,7 +103939,7 @@
           "description": "£9 off orders over £70 at",
           "type": "fixed",
           "value": 9,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -104038,7 +103959,7 @@
           "description": "£6 off orders over £50 at",
           "type": "fixed",
           "value": 6,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -104810,7 +104731,7 @@
           "description": "£9 off orders over £119 at",
           "type": "fixed",
           "value": 9,
-          "minSpend": null,
+          "minSpend": 119,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -104873,113 +104794,6 @@
         }
       ]
     },
-    "lookfantastic.com": {
-      "name": "LOOKFANTASTIC Discount Codes - September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PBDPMR",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LOOKFANTASTIC",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo",
-            "codesuk"
-          ],
-          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SPF50",
-          "description": "20% off Medik8 Advanced Day Ultimate Protect SPF50+ 50ml in the LOOKFANTASTIC",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EXTRA10",
-          "description": "Up to 40% off Plus Extra 10% off Selected Beauty Products at",
-          "type": "percentage",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "MILANO",
-          "description": "Exclusive 10% off Full-Priced Items and 5% off Sale Items at BPerfect",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/lookfantastic-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "fat-buddha-store.co.uk": {
       "name": "Fat Buddha Store Vouchers - September 2026",
       "category": "general",
@@ -105009,7 +104823,7 @@
           "description": "Free Delivery on orders over £50 at Fat Buddha",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -105147,7 +104961,7 @@
           "description": "10% off orders over £100 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -105167,7 +104981,7 @@
           "description": "13% off orders over £150 at",
           "type": "percentage",
           "value": 13,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -105316,8 +105130,8 @@
         }
       ]
     },
-    "boohoo.com": {
-      "name": "boohoo Discount Codes - September 2026",
+    "boohoo.co.uk": {
+      "name": "boohoo",
       "category": "general",
       "codes": [
         {
@@ -105537,7 +105351,7 @@
           "description": "Mother's Day Sale: Extra 10% off orders plus Free Floor Mat on orders over £400 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 400,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -105583,7 +105397,7 @@
           "description": "Exclusive £80 off orders over £999 at",
           "type": "fixed",
           "value": 80,
-          "minSpend": null,
+          "minSpend": 999,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -105709,7 +105523,7 @@
           "description": "7% off orders over £70 at Incontinence",
           "type": "percentage",
           "value": 7,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -105729,7 +105543,7 @@
           "description": "9% off orders over £100 at Incontinence",
           "type": "percentage",
           "value": 9,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -106623,7 +106437,7 @@
           "description": "£75 orders over £300 at TM",
           "type": "fixed",
           "value": 75,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -106871,7 +106685,7 @@
         {
           "code": "PAYDAY10",
           "description": "Nikura Clearance Items from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -107533,7 +107347,7 @@
         {
           "code": "BLL15",
           "description": "RunnerInn Nutrition from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -108431,7 +108245,7 @@
           "description": "Free Intense Renewal 7 Dose Serum on orders over £450 at Noble",
           "type": "fixed",
           "value": 450,
-          "minSpend": null,
+          "minSpend": 450,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -108753,7 +108567,7 @@
           "description": "Up to 3 Free Bracelet on orders over £300 at Olivia &",
           "type": "fixed",
           "value": 300,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -109033,7 +108847,7 @@
         {
           "code": "HEY15",
           "description": "River Island x Del Maar from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -109443,7 +109257,7 @@
           "description": "Extra 10% off orders over £750 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 750,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -109463,7 +109277,7 @@
           "description": "10% off all Climbing Frames over £750 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 750,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -109483,7 +109297,7 @@
           "description": "Extra 10% off orders over £750 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 750,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -109627,7 +109441,7 @@
           "description": "£85 off orders over £350 at",
           "type": "fixed",
           "value": 85,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -109647,7 +109461,7 @@
           "description": "12% off orders over £99 at",
           "type": "percentage",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 99,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -109871,7 +109685,7 @@
           "description": "Extra 10% off orders over £200 at Swift Direct",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -109891,7 +109705,7 @@
           "description": "15% off orders over £299 at Swift Direct",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 299,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -110069,7 +109883,7 @@
           "description": "8% off orders over £1000 at",
           "type": "percentage",
           "value": 8,
-          "minSpend": null,
+          "minSpend": 1000,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -110181,7 +109995,7 @@
           "description": "25% off orders over £55 at Purr and",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 55,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -110367,7 +110181,7 @@
           "description": "10% off orders over £100 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -110663,7 +110477,7 @@
           "description": "20% off First order over £15 at James",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 15,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -110683,7 +110497,7 @@
           "description": "15% off orders over £40 at James",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -111208,52 +111022,6 @@
         }
       ]
     },
-    "diy.com": {
-      "name": "B&Q Discount Codes - September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PBDPMR",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/b-and-q-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "MEGABAG",
-          "description": "20% off Garden Furniture plus Extra 5% off all orders at",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/b-and-q-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "represent.co.uk": {
       "name": "Represent Discount Codes - September 2026",
       "category": "general",
@@ -111717,7 +111485,7 @@
           "description": "Exclusive £60 off orders over £499 at",
           "type": "fixed",
           "value": 60,
-          "minSpend": null,
+          "minSpend": 499,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -112159,7 +111927,7 @@
         {
           "code": "5GB",
           "description": "Sky SIM Only 5GB for",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -112322,8 +112090,8 @@
         }
       ]
     },
-    "dunelm.com": {
-      "name": "Dunelm Discount Codes - September 2026",
+    "dunelm.co.uk": {
+      "name": "Dunelm",
       "category": "general",
       "codes": [
         {
@@ -113121,7 +112889,7 @@
           "description": "10% off orders over £400 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 400,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -113285,7 +113053,7 @@
           "description": "Free Eau des Sens Fragrance (7.5ml) on orders over £160 at",
           "type": "fixed",
           "value": 160,
-          "minSpend": null,
+          "minSpend": 160,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -113305,7 +113073,7 @@
           "description": "Free New Shiso Mini Candle on orders over £140 at",
           "type": "fixed",
           "value": 140,
-          "minSpend": null,
+          "minSpend": 140,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -113325,7 +113093,7 @@
           "description": "Free Figuier Mini Candle on orders over £120 at",
           "type": "fixed",
           "value": 120,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -113765,7 +113533,7 @@
           "description": "FIFA Word Cup: £20 off orders over £250 at William",
           "type": "fixed",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 250,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -114323,7 +114091,7 @@
           "description": "£30 off Costa Voucher on orders over £500 at ESE",
           "type": "fixed",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -114607,7 +114375,7 @@
           "description": "20% off orders over £100 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -114831,7 +114599,7 @@
           "description": "Free Delivery on orders over £50 at Hotel",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -115700,7 +115468,7 @@
           "description": "£180 off orders over £1499 at",
           "type": "fixed",
           "value": 180,
-          "minSpend": null,
+          "minSpend": 1499,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -116718,7 +116486,7 @@
       ]
     },
     "ebay.co.uk": {
-      "name": "eBay Discount Codes - September 2026",
+      "name": "eBay",
       "category": "general",
       "codes": [
         {
@@ -116766,7 +116534,7 @@
           "description": "Exclusive £50 off orders over £999 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 999,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -117094,7 +116862,7 @@
         {
           "code": "STUDIO25OFF",
           "description": "Matt & Nat Gift Cards from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -117622,7 +117390,7 @@
         {
           "code": "EXTRA20",
           "description": "Soft Stretch Crew Neck Knitted Jumpers for",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -118084,7 +117852,7 @@
           "description": "Free Pair of Fiskars Scissors on orders over £75 at Minerva",
           "type": "fixed",
           "value": 75,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -118230,7 +117998,7 @@
           "description": "Up to 50% off Photo Books, Wall Art and Gifts over £35 at Photobook",
           "type": "percentage",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -118274,7 +118042,7 @@
         {
           "code": "15OFF",
           "description": "Real Madrid Premium Gifts from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -120307,7 +120075,7 @@
           "description": "5% off orders over £50 at Online Home",
           "type": "percentage",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -120485,7 +120253,7 @@
           "description": "£35 off orders over £450 at",
           "type": "fixed",
           "value": 35,
-          "minSpend": null,
+          "minSpend": 450,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -120505,7 +120273,7 @@
           "description": "£20 off orders over £250 at",
           "type": "fixed",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 250,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -121153,7 +120921,7 @@
           "description": "Summer Sale: 25% off Everything on orders over £85 at Press",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 85,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -121213,7 +120981,7 @@
           "description": "25% off orders over £100 at Press",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -121963,7 +121731,7 @@
           "description": "Exclusive £50 off orders over £999 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 999,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -122621,7 +122389,7 @@
           "description": "Free Clear Pouch Bag on orders over £50 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -123969,7 +123737,7 @@
           "description": "£5 over £20 at The Knitting",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -124127,7 +123895,7 @@
           "description": "Exclusive £20 off orders over £500 at",
           "type": "fixed",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -124503,7 +124271,7 @@
           "description": "Free Delivery on orders over £75 at",
           "type": "fixed",
           "value": 75,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -126709,7 +126477,7 @@
           "description": "Festive Season Travel Deals: £15 off all Flight and Hotel Bookings over £300 at Travel",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -126729,7 +126497,7 @@
           "description": "Halloween Travel Deals: £15 off all Flight and Hotel Bookings over £300 at Travel",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -126749,7 +126517,7 @@
           "description": "Summer Travel Deals: £15 off all Flight and Hotel Bookings over £300 at Travel",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -126769,7 +126537,7 @@
           "description": "USA Independence Day Travel Deals: £15 off all Flight and Hotel Bookings over £300 at Travel",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -126967,7 +126735,7 @@
           "description": "£10 off Bouquets over £40 at Appleyard",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -127013,7 +126781,7 @@
           "description": "Free Weekday Delivery on Summer Gifting orders over £25 at Patisserie",
           "type": "fixed",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 25,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -127053,7 +126821,7 @@
           "description": "Father's Day: 10% off Cakes and Gifts orders over £15 at Patisserie",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 15,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -127703,7 +127471,7 @@
         {
           "code": "26TB",
           "description": "Western Digital Clearance Items from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -127949,7 +127717,7 @@
           "description": "The Summer Kit and Must Have 10 Essentials on orders over £215 at",
           "type": "fixed",
           "value": 215,
-          "minSpend": null,
+          "minSpend": 215,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -127969,7 +127737,7 @@
           "description": "New Customers: £5 off orders over £100 at",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -128338,7 +128106,7 @@
           "description": "22nd Anniversary Sale: £9 off orders over £60 at",
           "type": "fixed",
           "value": 9,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -128358,7 +128126,7 @@
           "description": "22nd Anniversary Sale: £28 off orders over £500 at",
           "type": "fixed",
           "value": 28,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -128378,7 +128146,7 @@
           "description": "22nd Anniversary Sale: £24 off orders over £365 at",
           "type": "fixed",
           "value": 24,
-          "minSpend": null,
+          "minSpend": 365,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -128398,7 +128166,7 @@
           "description": "22nd Anniversary Sale: £18 off orders over £215 at",
           "type": "fixed",
           "value": 18,
-          "minSpend": null,
+          "minSpend": 215,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -128418,7 +128186,7 @@
           "description": "22nd Anniversary Sale: £12 off orders over £75 at",
           "type": "fixed",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -128812,7 +128580,7 @@
           "description": "Savings Day: 20% off Autumn Must-Haves orders over £59.99 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 59.99,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -129490,7 +129258,7 @@
       ]
     },
     "wayfair.co.uk": {
-      "name": "Wayfair Discount Codes - September 2026",
+      "name": "Wayfair",
       "category": "general",
       "codes": [
         {
@@ -129518,7 +129286,7 @@
           "description": "Free Delivery on orders over £59 at",
           "type": "fixed",
           "value": 59,
-          "minSpend": null,
+          "minSpend": 59,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -129938,7 +129706,7 @@
           "description": "Extra 10% off Tub Starter Bundle plus Free Delivery on orders over £30 at Sneak",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -130490,7 +130258,7 @@
           "description": "£15 off orders over £80 at Oxford Online",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 80,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -130530,7 +130298,7 @@
           "description": "£30 off Weight Loss Tablet Bundle on orders over £150 at Oxford Online",
           "type": "fixed",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -130550,7 +130318,7 @@
           "description": "£15 off New Weight Loss Pill on orders over £80 at Oxford Online",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 80,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131038,7 +130806,7 @@
           "description": "Summer Clearance Sale: £15 off orders over £119 at",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 119,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131058,7 +130826,7 @@
           "description": "Smart Study Spaces: 10% off orders over £119 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 119,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131190,7 +130958,7 @@
           "description": "15% off orders plus Free Standard Delivery on orders over £20 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131354,7 +131122,7 @@
           "description": "£7 off orders over £69 at",
           "type": "fixed",
           "value": 7,
-          "minSpend": null,
+          "minSpend": 69,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131374,7 +131142,7 @@
           "description": "£12 off orders over £109 at",
           "type": "fixed",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 109,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131394,7 +131162,7 @@
           "description": "£21 off orders over £179 at",
           "type": "fixed",
           "value": 21,
-          "minSpend": null,
+          "minSpend": 179,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131414,7 +131182,7 @@
           "description": "£33 off orders over £279 at",
           "type": "fixed",
           "value": 33,
-          "minSpend": null,
+          "minSpend": 279,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131434,7 +131202,7 @@
           "description": "£32 off orders over £279 at",
           "type": "fixed",
           "value": 32,
-          "minSpend": null,
+          "minSpend": 279,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131477,8 +131245,8 @@
         }
       ]
     },
-    "johnlewis.com": {
-      "name": "John Lewis Discount Codes - September 2026",
+    "john-lewis.co.uk": {
+      "name": "John Lewis",
       "category": "general",
       "codes": [
         {
@@ -131790,7 +131558,7 @@
           "description": "Student Discount: 15% off orders over £49 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 49,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131922,7 +131690,7 @@
           "description": "15% off orders over £1100 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 1100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -131962,7 +131730,7 @@
           "description": "10% off orders over £500 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -133140,7 +132908,7 @@
           "description": "Free OxyGreens on orders over £70 at",
           "type": "fixed",
           "value": 70,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -133318,7 +133086,7 @@
           "description": "Exclusive 15% off orders over £350 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -133338,7 +133106,7 @@
           "description": "10% off orders over £200 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -134312,7 +134080,7 @@
           "description": "Free Delivery on orders over £100 at Harrod",
           "type": "fixed",
           "value": 100,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -136312,7 +136080,7 @@
           "description": "10% off orders over £100 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -136898,7 +136666,7 @@
           "description": "10% off orders over £39 at Best",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 39,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -137050,7 +136818,7 @@
           "description": "Free Tea and Bubbles Luxury Gift Set on orders over £550 at UK Office",
           "type": "fixed",
           "value": 550,
-          "minSpend": null,
+          "minSpend": 550,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -137452,39 +137220,13 @@
           "description": "Extra 15% off orders over £75 at Julian",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/julian-charles-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "flower-and-plants-co..co.uk": {
-      "name": "Flowers & Plants Co Discount Codes - September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PBDPMR",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/flower-and-plants-co.-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -137686,7 +137428,7 @@
         {
           "code": "LINKSLEGEND",
           "description": "Titleist Golf Gear and Accessories from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -138045,7 +137787,7 @@
           "description": "5% off orders over £1000 at",
           "type": "percentage",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 1000,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -138065,7 +137807,7 @@
           "description": "5% off Selected orders over £1000 at",
           "type": "percentage",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 1000,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -139047,7 +138789,7 @@
           "description": "10% off Performance Parts orders over £50 at GSF Car",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -139337,7 +139079,7 @@
           "description": "Over £125 off Next Gen Smart Monitor at Boiler",
           "type": "fixed",
           "value": 125,
-          "minSpend": null,
+          "minSpend": 125,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -140586,32 +140328,6 @@
         }
       ]
     },
-    "superdrug.com": {
-      "name": "Superdrug Discount Codes - September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PBDPMR",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/superdrug-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "onlinedoctor-lloydspharmacy.co.uk": {
       "name": "Lloyds Pharmacy Online Doctor Discount Codes - September 2026",
       "category": "general",
@@ -140989,7 +140705,7 @@
           "description": "£10 off orders over £50 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -141009,7 +140725,7 @@
           "description": "18% off orders over £48 at",
           "type": "percentage",
           "value": 18,
-          "minSpend": null,
+          "minSpend": 48,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -141029,7 +140745,7 @@
           "description": "20% off orders over £50 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -141693,7 +141409,7 @@
           "description": "Exclusive £50 off orders over £999 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 999,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -141891,7 +141607,7 @@
           "description": "Exclusive £50 off orders over £999 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 999,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -142489,7 +142205,7 @@
       ]
     },
     "nike.com": {
-      "name": "Nike Discount Codes - September 2026",
+      "name": "Nike",
       "category": "general",
       "codes": [
         {
@@ -142504,52 +142220,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/nike-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "marksandspencer.com": {
-      "name": "Marks & Spencer Discount Codes - September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PBDPMR",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/marks-and-spencer-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "MADELEINE",
-          "description": "10% off all Ties Planet",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/marks-and-spencer-discount-codes",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {
@@ -142615,7 +142285,7 @@
           "description": "Free The Summer Edit Worth £78 on orders over £120 at",
           "type": "fixed",
           "value": 78,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -142635,7 +142305,7 @@
           "description": "Free 6-Piece Gift Worth £70 on orders over £120 at",
           "type": "fixed",
           "value": 70,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -142655,7 +142325,7 @@
           "description": "Free 5-Piece Gift Worth £76 on orders over £130 at",
           "type": "fixed",
           "value": 76,
-          "minSpend": null,
+          "minSpend": 130,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -142675,7 +142345,7 @@
           "description": "Free 5-Piece Gift Worth £89 on orders over £120 at",
           "type": "fixed",
           "value": 89,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -142739,7 +142409,7 @@
         {
           "code": "HOTELONLY",
           "description": "Virgin Holidays Special Offers from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -142827,7 +142497,7 @@
           "description": "Up to £50 off orders over £230 at Lakeland",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 230,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -142873,7 +142543,7 @@
           "description": "Win Back to School Vouchers on orders over £50 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -143265,7 +142935,7 @@
         {
           "code": "TBINIAV3YK",
           "description": "Fossil Gifts from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -143503,7 +143173,7 @@
           "description": "Free Click and Collect on orders over £15 at Getting",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 15,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -143575,7 +143245,7 @@
           "description": "20% off orders over £30 at Ambrose",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -144095,7 +143765,7 @@
           "description": "20% off orders over £20 at The",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -144211,7 +143881,7 @@
         {
           "code": "CHOCO10Q225",
           "description": "Chocolate Trading Company Superior Selection Chocolates from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -144449,7 +144119,7 @@
           "description": "£2 off orders over £20 at",
           "type": "fixed",
           "value": 2,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -144469,7 +144139,7 @@
           "description": "£15 off orders over £120 at",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -144765,7 +144435,7 @@
           "description": "10% off orders over £30 at Hotter",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -145007,7 +144677,7 @@
           "description": "£10 off orders over £120 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -145047,7 +144717,7 @@
           "description": "10% off orders over £90 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 90,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -145067,7 +144737,7 @@
           "description": "£10 off orders over £120 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 120,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -145087,7 +144757,7 @@
           "description": "£10 off orders over £150 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -145487,7 +145157,7 @@
           "description": "10% off orders over £30 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -145507,7 +145177,7 @@
           "description": "Bath - Oldfield Park: 50% off orders over £30 at",
           "type": "percentage",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -145527,7 +145197,7 @@
           "description": "Lichfield: 50% off orders over £30 at",
           "type": "percentage",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -146502,8 +146172,8 @@
         }
       ]
     },
-    "asos.com": {
-      "name": "ASOS Discount Codes - September 2026",
+    "asos.co.uk": {
+      "name": "ASOS",
       "category": "general",
       "codes": [
         {
@@ -146769,7 +146439,7 @@
           "description": "Exclusive £50 off orders over £999 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 999,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -149953,7 +149623,7 @@
           "description": "20% off orders over £100 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -149993,7 +149663,7 @@
           "description": "15% off orders over £80 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 80,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -150359,7 +150029,7 @@
         {
           "code": "WELCOME10",
           "description": "Joy The Store Gift Cards from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -150405,7 +150075,7 @@
       ]
     },
     "wowcher.com": {
-      "name": "Wowcher Discount Codes - September 2026",
+      "name": "Wowcher",
       "category": "general",
       "codes": [
         {
@@ -150675,7 +150345,7 @@
         {
           "code": "MSE37TB",
           "description": "Specky Four Eyes Clearance Items from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -150874,7 +150544,7 @@
         {
           "code": "3FOR33SUB",
           "description": "3 Months GlossyBox Subscription for",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -151141,7 +150811,7 @@
           "description": "Extra 10% off Sale Items plus Free Delivery on orders over £10 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 10,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -151489,7 +151159,7 @@
           "description": "£10 off orders over £150 at Lamp Shop",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -151561,7 +151231,7 @@
           "description": "20% off Sandals and Espadrilles orders over £39 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 39,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -151871,7 +151541,7 @@
           "description": "£25 off Mother's Day Gift orders over £16 at Lily",
           "type": "fixed",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 16,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -152515,7 +152185,7 @@
         {
           "code": "SPRING20",
           "description": "Isabella Oliver Eco Laundry from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -152899,7 +152569,7 @@
           "description": "20% off orders over £250 at Saks Fifth",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 250,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -152965,7 +152635,7 @@
           "description": "15% off Your First order over £100 at Vestiaire",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -153707,7 +153377,7 @@
         {
           "code": "SUMMER10",
           "description": "Shuperb New Arrivals from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -154611,7 +154281,7 @@
           "description": "5% off Large Kitchen Appliances Over £399 - Currys Discount",
           "type": "percentage",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 399,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -155202,8 +154872,8 @@
         }
       ]
     },
-    "halfords.com": {
-      "name": "Halfords Discount Codes - September 2026",
+    "halfords.co.uk": {
+      "name": "Halfords",
       "category": "general",
       "codes": [
         {
@@ -155297,7 +154967,7 @@
           "description": "Free Next Day Delivery on orders over £40 at Miss",
           "type": "fixed",
           "value": 40,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -155553,7 +155223,7 @@
         {
           "code": "GU10",
           "description": "Led Hut GU10 LED Bulbs and Fittings from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -155897,7 +155567,7 @@
           "description": "Up to 15% off orders over £149 at UK Office",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 149,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -156167,7 +155837,7 @@
           "description": "3% off all orders over £100 at Lights 4",
           "type": "percentage",
           "value": 3,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -156187,7 +155857,7 @@
           "description": "Extra 2% off all orders over £100 at Lights 4",
           "type": "percentage",
           "value": 2,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -156845,7 +156515,7 @@
           "description": "£50 off orders over £150 at Peruvian",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -157523,7 +157193,7 @@
           "description": "New Customer Offer: 30% off orders over £95 plus Free Delivery at The Sunday Times Wine",
           "type": "percentage",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 95,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -157765,7 +157435,7 @@
         {
           "code": "S25",
           "description": "Tech21 UK's Accessories from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -158129,7 +157799,7 @@
           "description": "£5 off orders over £125 at House Of",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 125,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -158149,7 +157819,7 @@
           "description": "£12 off orders over £140 at House Of",
           "type": "fixed",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 140,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -159003,7 +158673,7 @@
         {
           "code": "TALK50OFF",
           "description": "Fonehouse Digital Gaming Accessories from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -159281,7 +158951,7 @@
           "description": "Free Delivery on orders over £15 at Pact",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 15,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -159939,7 +159609,7 @@
         {
           "code": "RB4441D",
           "description": "Ray-Ban Sunglasses Promotion from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -160625,7 +160295,7 @@
           "description": "10% off plus Free Standard UK Delivery on orders over £70 at Wentworth Wooden",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -160715,7 +160385,7 @@
         {
           "code": "AELTCCOMMUNITY15",
           "description": "Wimbledon Men's Clothing from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -161387,7 +161057,7 @@
           "description": "20% off orders over £300 at Balsam",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -161407,7 +161077,7 @@
           "description": "£15 off orders over £350 at Balsam",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -161427,7 +161097,7 @@
           "description": "£20 off orders over £450 at Balsam",
           "type": "fixed",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 450,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -161447,7 +161117,7 @@
           "description": "£30 off orders over £650 at Balsam",
           "type": "fixed",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 650,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -161467,7 +161137,7 @@
           "description": "£50 off orders over £1000 at Balsam",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 1000,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -161683,7 +161353,7 @@
           "description": "£150 off orders over £2599 at",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 2599,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -162129,7 +161799,7 @@
           "description": "£10 off orders over £60 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -162287,7 +161957,7 @@
           "description": "10% off orders over £25 at Jigsaw Puzzle - Exclusive",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 25,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -162307,7 +161977,7 @@
           "description": "10% off orders over £40 at Jigsaw",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -162419,7 +162089,7 @@
           "description": "£5 off orders over £40 at Source",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -162673,7 +162343,7 @@
         {
           "code": "CWS10",
           "description": "C.W. Sellors Jewellery Sale from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -163589,7 +163259,7 @@
           "description": "Up to 15% off Playtime Bloom orders over £35 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -163751,7 +163421,7 @@
         {
           "code": "JOLLY650",
           "description": "Slingsby Workshop and Maintenance from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -164067,7 +163737,7 @@
           "description": "Free Meal on orders over £75 at Gold Standard",
           "type": "fixed",
           "value": 75,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -164403,7 +164073,7 @@
           "description": "10% off Tiles and Wall Panels with Bathroom or Heating orders over £500 at Wholesale",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -164661,7 +164331,7 @@
           "description": "£5 off orders over £70 at Muscle",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -165023,7 +164693,7 @@
           "description": "Spring Sale: 25% off orders over £150 at La",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -166071,7 +165741,7 @@
         {
           "code": "BG25",
           "description": "Bakerdays Cupcakes from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -166943,7 +166613,7 @@
           "description": "10% off orders over £50 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -167842,7 +167512,7 @@
         {
           "code": "RNLIFIN22",
           "description": "finisterre Women's Bestsellers from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -168192,7 +167862,7 @@
           "description": "Exclusive 20% off orders over £300 at Cambridge",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -171960,7 +171630,7 @@
         {
           "code": "SUMMER20",
           "description": "The Spark Company Kids Clothing from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -172048,7 +171718,7 @@
           "description": "Exclusive 15% off orders over £350 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172120,7 +171790,7 @@
           "description": "15% off orders over £40 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172140,7 +171810,7 @@
           "description": "20% off Full Price Items over £60 at",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172184,7 +171854,7 @@
         {
           "code": "SAVOOEXT10",
           "description": "Skincare Without Labels Gift Set plus Signature Bag from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -172318,7 +171988,7 @@
           "description": "15% off orders over £45 at XY",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 45,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172338,7 +172008,7 @@
           "description": "£14 off orders over £70 at XY",
           "type": "fixed",
           "value": 14,
-          "minSpend": null,
+          "minSpend": 70,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172358,7 +172028,7 @@
           "description": "13% off orders over £45 at XY",
           "type": "percentage",
           "value": 13,
-          "minSpend": null,
+          "minSpend": 45,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172378,7 +172048,7 @@
           "description": "£8 off orders over £60 at XY",
           "type": "fixed",
           "value": 8,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172554,7 +172224,7 @@
         {
           "code": "THRIFT25",
           "description": "justyouroutfit Clothing under",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -172840,7 +172510,7 @@
           "description": "£10 off orders over £60 at Christophe",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -172978,7 +172648,7 @@
           "description": "30% off Coffee orders over £40 at CAFEPOD Coffee",
           "type": "percentage",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -173068,7 +172738,7 @@
         {
           "code": "6HP8M2JY3",
           "description": "Bemz' Furniture Accessories from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -174746,7 +174416,7 @@
           "description": "Free Delivery on orders over £29 at",
           "type": "fixed",
           "value": 29,
-          "minSpend": null,
+          "minSpend": 29,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -175022,7 +174692,7 @@
           "description": "Up to 25% off orders over £60 at Revive",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -175068,7 +174738,7 @@
           "description": "Free 5ml Fragrance over £190 at L'Artisan",
           "type": "fixed",
           "value": 190,
-          "minSpend": null,
+          "minSpend": 190,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -175088,7 +174758,7 @@
           "description": "Free Gift on orders over £150 at L'Artisan",
           "type": "fixed",
           "value": 150,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -175186,7 +174856,7 @@
           "description": "0% Interest-Free Credit on orders over £250 at Woods",
           "type": "fixed",
           "value": 250,
-          "minSpend": null,
+          "minSpend": 250,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -175576,7 +175246,7 @@
           "description": "10% off Bank Holiday Sale orders over £99 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 99,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -175832,7 +175502,7 @@
           "description": "25% off orders over £85 at",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 85,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -176324,7 +175994,7 @@
         {
           "code": "AF10",
           "description": "Priority Booker VIP Club Bookings from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -176656,7 +176326,7 @@
           "description": "7% off orders over £300 at Marks",
           "type": "percentage",
           "value": 7,
-          "minSpend": null,
+          "minSpend": 300,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -176998,7 +176668,7 @@
           "description": "£20 off Summer Sale over £200 at",
           "type": "fixed",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -177018,7 +176688,7 @@
           "description": "£100 off Summer Sale over £500 at",
           "type": "fixed",
           "value": 100,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -177038,7 +176708,7 @@
           "description": "£50 off Summer Sale over £350 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -177332,7 +177002,7 @@
         {
           "code": "CYBER20",
           "description": "Playful Promises' New Items from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -177446,7 +177116,7 @@
           "description": "Free Bracelet on orders over £40 at Estella",
           "type": "fixed",
           "value": 40,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -177888,7 +177558,7 @@
           "description": "Cyber Monday: £10 off orders over £100 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -178228,7 +177898,7 @@
         {
           "code": "AUTO10",
           "description": "Saint + Sofia Digital Gift Card from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -179175,52 +178845,6 @@
         }
       ]
     },
-    "furn..co.uk": {
-      "name": "Furn Discount codes - September 2026",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PBDPMR",
-          "description": "",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/furn.-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "TOPTEN",
-          "description": "Up to 30% off Outdoor Living at",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/furn.-discount-codes",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "reverse-life.co.uk": {
       "name": "Reverse Life Discount codes - September 2026",
       "category": "general",
@@ -179730,7 +179354,7 @@
           "description": "£11 off orders over £75 at",
           "type": "fixed",
           "value": 11,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -179874,7 +179498,7 @@
           "description": "Free Delivery on orders over £40 at",
           "type": "fixed",
           "value": 40,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -180328,7 +179952,7 @@
           "description": "£20 off orders over £100 at Princess",
           "type": "fixed",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -180348,7 +179972,7 @@
           "description": "£50 off orders over £200 at Princess",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -180414,7 +180038,7 @@
           "description": "£10 off orders over £60 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -180434,7 +180058,7 @@
           "description": "£15 off orders over £80 at",
           "type": "fixed",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 80,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -181760,7 +181384,7 @@
           "description": "Up to 25% off orders over £499 at",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 499,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -181780,7 +181404,7 @@
           "description": "£30 off Full-Priced orders over £220 at",
           "type": "fixed",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 220,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -181826,7 +181450,7 @@
           "description": "25% off orders over £50 at",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -182324,7 +181948,7 @@
           "description": "Extra 5% off orders over £249 at California",
           "type": "percentage",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 249,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -182408,7 +182032,7 @@
       ]
     },
     "deliveroo.co.uk": {
-      "name": "Deliveroo Discount Codes - September 2026",
+      "name": "Deliveroo",
       "category": "general",
       "codes": [
         {
@@ -182456,7 +182080,7 @@
           "description": "50% off First order over £15 at",
           "type": "percentage",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 15,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -182476,7 +182100,7 @@
           "description": "£12 off orders over £15 at",
           "type": "fixed",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 15,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -183048,7 +182672,7 @@
           "description": "£5 off orders over £20 at The INKEY",
           "type": "fixed",
           "value": 5,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -183114,7 +182738,7 @@
           "description": "Free Delivery on orders over £35 at Wild",
           "type": "fixed",
           "value": 35,
-          "minSpend": null,
+          "minSpend": 35,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -184172,7 +183796,7 @@
           "description": "12% off orders over £40 at Harkness",
           "type": "percentage",
           "value": 12,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -184718,7 +184342,7 @@
         {
           "code": "HEAVENLY20",
           "description": "Heavenly London Sample Sale from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -185048,7 +184672,7 @@
           "description": "Exclusive 15% off orders over £40 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -185114,7 +184738,7 @@
           "description": "10% off orders over £500 at Grass",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -185226,7 +184850,7 @@
           "description": "Exclusive 15% off orders over £350 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 350,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -185588,7 +185212,7 @@
           "description": "Exclusive £10 off orders over £150 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -185852,7 +185476,7 @@
           "description": "£10 off orders over £89 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 89,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -188544,7 +188168,7 @@
         {
           "code": "24H",
           "description": "Laundryheap Dry Cleaning from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -189960,7 +189584,7 @@
           "description": "10% off orders over £20 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -189980,7 +189604,7 @@
           "description": "10% off orders over £20 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -190000,7 +189624,7 @@
           "description": "10% off orders over £20 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -190020,7 +189644,7 @@
           "description": "10% off orders over £20 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 20,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -190482,7 +190106,7 @@
           "description": "YUPLAY is Feeling Generous: 10% off orders over £30 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -191276,7 +190900,7 @@
         {
           "code": "PAYDAY",
           "description": "Posh Totty Designs New Season Edit from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -191817,7 +191441,7 @@
         {
           "code": "53T8R5",
           "description": "Hunza G Resortwear from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -192187,7 +191811,7 @@
           "description": "25% off orders over £200 at Jonathan",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -192371,7 +191995,7 @@
           "description": "Up to 20% off orders over £50 at Healthspan",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -193115,7 +192739,7 @@
           "description": "20% off orders over £30 at Cutter and",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -193159,7 +192783,7 @@
         {
           "code": "NRCLBWHQ",
           "description": "Murci Spring Collection from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -193477,7 +193101,7 @@
           "description": "Exclusive Extra 6% off orders over £500 at",
           "type": "percentage",
           "value": 6,
-          "minSpend": null,
+          "minSpend": 500,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -194455,7 +194079,7 @@
           "description": "30% off orders over £200 at Hey Big",
           "type": "percentage",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 200,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -194851,7 +194475,7 @@
           "description": "20% off Gifts and Wall Art orders over £30 at Max",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
+          "minSpend": 30,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -195609,7 +195233,7 @@
           "description": "£9 off orders over £17 at",
           "type": "fixed",
           "value": 9,
-          "minSpend": null,
+          "minSpend": 17,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -195701,7 +195325,7 @@
           "description": "Free Delivery on orders over £75 at Alex",
           "type": "fixed",
           "value": 75,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -195771,7 +195395,7 @@
         {
           "code": "EXTRA15",
           "description": "ergoPouch Spring and Summer Collections from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -197129,7 +196753,7 @@
           "description": "Free 4-Piece Routine Gift on orders over £75 at",
           "type": "fixed",
           "value": 75,
-          "minSpend": null,
+          "minSpend": 75,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -197615,7 +197239,7 @@
           "description": "Free Delivery on orders over £50 at",
           "type": "fixed",
           "value": 50,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -197635,7 +197259,7 @@
           "description": "10% off The Bubble 20L Puffy 15.6\" Laptop Work Tote plus Free Delivery on orders over £50 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 50,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -197889,7 +197513,7 @@
         {
           "code": "SPRING20",
           "description": "Daylesford Easter Collection from",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -197911,7 +197535,7 @@
           "description": "£30 off orders over £150 at",
           "type": "fixed",
           "value": 30,
-          "minSpend": null,
+          "minSpend": 150,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -197931,7 +197555,7 @@
           "description": "£10 off orders over £60 at",
           "type": "fixed",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 60,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -197997,7 +197621,7 @@
           "description": "Free Gift Worth £63 on orders over £100 at",
           "type": "fixed",
           "value": 63,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -198017,7 +197641,7 @@
           "description": "Free Brightening Eye Cream on orders over £100 at",
           "type": "fixed",
           "value": 100,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -198261,7 +197885,7 @@
           "description": "10% off Sunglass plus Transitions® Lenses orders over £40 at",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
+          "minSpend": 40,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -200299,7 +199923,7 @@
           "description": "Extra 15% off orders over £100 at",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
+          "minSpend": 100,
           "expiry": null,
           "source": "savoo",
           "sources": [
@@ -200605,7 +200229,7 @@
       ]
     },
     "ao.com": {
-      "name": "AO.com Discount Codes",
+      "name": "AO.com",
       "category": "general",
       "codes": [
         {
@@ -200963,7 +200587,7 @@
         {
           "code": "128GB",
           "description": "Quick Savings! Use this Offer to get Buy iPhone 14 5G 128GB Mobile for",
-          "type": "fixed",
+          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -201096,112 +200720,6 @@
             "voucherbox"
           ],
           "url": "https://www.voucherbox.co.uk/vouchers/gopro",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "zara.com": {
-      "name": "ZARA voucher codes",
-      "category": "general",
-      "codes": [
-        {
-          "code": "REPELLENT",
-          "description": "Get 50% Off on WATER-REPELLENT PUFFER GILET when you activate this discount promo at",
-          "type": "percentage",
-          "value": 50,
-          "minSpend": null,
-          "expiry": null,
-          "source": "codesuk",
-          "sources": [
-            "codesuk"
-          ],
-          "url": "https://codes.co.uk/zara",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "HOODED",
-          "description": "Get 44% Off on HOODED PUFFER JACKET when you activate this discount promo at",
-          "type": "percentage",
-          "value": 44,
-          "minSpend": null,
-          "expiry": null,
-          "source": "codesuk",
-          "sources": [
-            "codesuk"
-          ],
-          "url": "https://codes.co.uk/zara",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CORDUROY",
-          "description": "Get 38% Off on FINE CORDUROY SHIRT when you activate this discount promo at",
-          "type": "percentage",
-          "value": 38,
-          "minSpend": null,
-          "expiry": null,
-          "source": "codesuk",
-          "sources": [
-            "codesuk"
-          ],
-          "url": "https://codes.co.uk/zara",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "PUFFER",
-          "description": "Get 37% Off on PUFFER JACKET when you activate this discount promo at",
-          "type": "percentage",
-          "value": 37,
-          "minSpend": null,
-          "expiry": null,
-          "source": "codesuk",
-          "sources": [
-            "codesuk"
-          ],
-          "url": "https://codes.co.uk/zara",
-          "addedAt": "2026-09-06T10:22:14.188Z",
-          "lastSeen": "2026-09-06T10:22:14.188Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "STRAIGHT",
-          "description": "Get 33% Off on STRAIGHT-FIT TRF JEANS when you activate this discount promo at",
-          "type": "percentage",
-          "value": 33,
-          "minSpend": null,
-          "expiry": null,
-          "source": "codesuk",
-          "sources": [
-            "codesuk"
-          ],
-          "url": "https://codes.co.uk/zara",
           "addedAt": "2026-09-06T10:22:14.188Z",
           "lastSeen": "2026-09-06T10:22:14.188Z",
           "testResults": {

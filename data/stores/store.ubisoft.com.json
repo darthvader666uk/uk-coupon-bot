@@ -1,0 +1,27 @@
+{
+  "domain": "store.ubisoft.com",
+  "name": "Ubisoft Store",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PROMO20",
+      "description": "20% off gamesEnd:in a week — Ubisoft",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "cache/ggdeals/page-1.md",
+      "addedAt": "2026-09-06T10:22:14.188Z",
+      "lastSeen": "2026-09-06T10:22:14.188Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1,6 +1,9 @@
-const LOG_FILE = new URL("../scrape-log.json", import.meta.url).pathname;
-
 import { readFileSync, writeFileSync, existsSync } from "fs";
+import { fileURLToPath } from "url";
+
+// `new URL(...).pathname` yields "/C:/..." on Windows, which fs then resolves
+// against the drive root as "C:\C:\...". fileURLToPath handles both platforms.
+const LOG_FILE = fileURLToPath(new URL("../scrape-log.json", import.meta.url));
 
 export function loadLog() {
   if (!existsSync(LOG_FILE)) return { runs: [] };

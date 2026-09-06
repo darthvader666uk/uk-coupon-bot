@@ -1,0 +1,27 @@
+{
+  "domain": "burger-king.co.uk",
+  "name": "Burger King Discount Codes",
+  "category": "general",
+  "codes": [
+    {
+      "code": "2PM",
+      "description": "Double Whopper, Bacon Double Cheese XL or Bacon for only £3 between 2PM - 5PM with Mobile",
+      "type": "fixed",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "voucherbox",
+      "sources": [
+        "voucherbox"
+      ],
+      "url": "https://www.voucherbox.co.uk/vouchers/burger-king",
+      "addedAt": "2026-09-06T10:22:14.188Z",
+      "lastSeen": "2026-09-06T10:22:14.188Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

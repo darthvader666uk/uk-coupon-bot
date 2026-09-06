@@ -2084,6 +2084,202 @@
         "zizzi: browser.newContext: Target page, context or browser has been closed",
         "zooplus: browser.newContext: Target page, context or browser has been closed"
       ]
+    },
+    {
+      "timestamp": "2026-09-06T13:36:15.448Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 131,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T13:37:02.338Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 307,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T13:46:09.943Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 160,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T13:59:41.682Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 209,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:02:55.324Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 139,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:03:54.035Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 212,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:05:30.049Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 136,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:13:51.073Z",
+      "source": "selftest",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:20:47.012Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 194,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:43:32.206Z",
+      "source": "vouchercodes",
+      "codesFound": 1954,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 2630521,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:43:32.213Z",
+      "source": "ggdeals",
+      "codesFound": 150,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 4,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-06T14:43:39.762Z",
+      "source": "myvouchercodes",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:43:43.079Z",
+      "source": "savoo",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:43:43.245Z",
+      "source": "coupert",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:43:43.334Z",
+      "source": "netvouchercodes",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:43:43.420Z",
+      "source": "voucherbox",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:43:45.633Z",
+      "source": "codesuk",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:43:45.640Z",
+      "source": "latestdeals",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:43:45.647Z",
+      "source": "moneysavingexpert",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 0,
+      "errors": [
+        "browserType.launch: Executable doesn't exist at C:\\Users\\darth\\AppData\\Local\\ms-playwright\\chromium_headless_shell-1228\\chrome-headless-shell-win64\\chrome-headless-shell.exe\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      ]
+    },
+    {
+      "timestamp": "2026-09-06T14:45:14.871Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 185,
+      "errors": []
     }
   ]
 }

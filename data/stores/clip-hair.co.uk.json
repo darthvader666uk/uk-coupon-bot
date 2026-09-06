@@ -1,0 +1,27 @@
+{
+  "domain": "clip-hair.co.uk",
+  "name": "ClipHair Discount Codes",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SOCKSHOP",
+      "description": "Receive 15% off Everything at",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "voucherbox",
+      "sources": [
+        "voucherbox"
+      ],
+      "url": "https://www.voucherbox.co.uk/vouchers/clip-hair",
+      "addedAt": "2026-09-06T10:22:14.188Z",
+      "lastSeen": "2026-09-06T10:22:14.188Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

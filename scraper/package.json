@@ -16,7 +16,10 @@
     "scrape:voucherbox": "node index.js --source voucherbox",
     "scrape:codesuk": "node index.js --source codesuk",
     "scrape:latestdeals": "node index.js --source latestdeals",
-    "scrape:moneysavingexpert": "node index.js --source moneysavingexpert"
+    "scrape:moneysavingexpert": "node index.js --source moneysavingexpert",
+    "test:userscript": "node scripts/test-userscript.mjs",
+    "test:pipeline": "node scripts/test-pipeline.mjs",
+    "test": "node scripts/test-pipeline.mjs && node scripts/test-userscript.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

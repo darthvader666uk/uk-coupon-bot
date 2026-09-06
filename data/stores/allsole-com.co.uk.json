@@ -1,0 +1,27 @@
+{
+  "domain": "allsole-com.co.uk",
+  "name": "AllSole Discount Codes",
+  "category": "general",
+  "codes": [
+    {
+      "code": "UNIDAYS",
+      "description": "20% off with UNIDAYS at AllSole - No Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "voucherbox",
+      "sources": [
+        "voucherbox"
+      ],
+      "url": "https://www.voucherbox.co.uk/vouchers/allsole-com",
+      "addedAt": "2026-09-06T10:22:14.188Z",
+      "lastSeen": "2026-09-06T10:22:14.188Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

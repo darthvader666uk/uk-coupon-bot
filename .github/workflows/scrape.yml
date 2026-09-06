@@ -4,14 +4,36 @@ on:
   schedule:
     - cron: '0 6 * * *'  # Daily at 6am UTC
   workflow_dispatch:       # Manual trigger from Actions tab
+    inputs:
+      sources:
+        description: 'Comma-separated sources to run (blank = all)'
+        required: false
+        default: ''
 
+# Each source runs as its own job and uploads only its raw entries. A single
+# merge job then combines every artifact and commits once. Previously all
+# sources ran sequentially in one job, so one Cloudflare-blocked or hanging
+# scraper took the whole nightly run with it.
 jobs:
   scrape:
     runs-on: ubuntu-latest
     environment: FIRECRAWL_API_KEY
-    permissions:
-      contents: write
-      issues: write
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        source:
+          - hotukdeals
+          - vouchercodes
+          - ggdeals
+          - myvouchercodes
+          - savoo
+          - coupert
+          - netvouchercodes
+          - voucherbox
+          - codesuk
+          - latestdeals
+          - moneysavingexpert
 
     steps:
       - name: Checkout repo
@@ -33,27 +55,73 @@ jobs:
         run: npx playwright install chromium --with-deps
 
       - name: Refresh GG.deals cache via Firecrawl
+        if: matrix.source == 'ggdeals'
         working-directory: scraper
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: node scripts/fetch-ggdeals.js
 
-      - name: Run scraper
+      - name: Scrape ${{ matrix.source }}
+        working-directory: scraper
+        run: node index.js --source=${{ matrix.source }} --emit=artifacts/${{ matrix.source }}.json
+
+      - name: Upload raw entries
+        uses: actions/upload-artifact@v4
+        with:
+          name: entries-${{ matrix.source }}
+          path: scraper/artifacts/${{ matrix.source }}.json
+          retention-days: 3
+          if-no-files-found: warn
+
+  merge:
+    needs: scrape
+    # Runs even when some sources failed — partial data beats no data, and the
+    # collapse guard in index.js refuses to save if too little came back.
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scraper/package-lock.json
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: npm ci || npm install
+
+      - name: Download all scrape artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: scraper/artifacts
+          pattern: entries-*
+          merge-multiple: true
+
+      - name: Merge, clean and shard
         working-directory: scraper
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: darthvader666uk/uk-coupon-bot
           GITHUB_BRANCH: main
-        run: node index.js
+        run: node index.js --merge-dir=artifacts
 
       - name: Commit and push changes
         run: |
           git config user.name "coupon-bot[bot]"
           git config user.email "coupon-bot[bot]@users.noreply.github.com"
-          git stash
+          git stash --include-untracked
           git pull --rebase origin main
-          git stash pop
-          git add data/uk-coupons.json
+          git stash pop || true
+          git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

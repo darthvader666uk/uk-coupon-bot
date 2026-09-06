@@ -1,0 +1,67 @@
+{
+  "domain": "gameseal.com",
+  "name": "GameSeal",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GIFT4GG",
+      "description": "4% off gift cards —",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "cache/ggdeals/page-2.md",
+      "addedAt": "2026-09-06T10:22:14.188Z",
+      "lastSeen": "2026-09-06T10:22:14.188Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "XBOX5GG",
+      "description": "5% off Game Pass —",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "cache/ggdeals/page-2.md",
+      "addedAt": "2026-09-06T10:22:14.188Z",
+      "lastSeen": "2026-09-06T10:22:14.188Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SEALGG13",
+      "description": "9,03€ off games —",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "cache/ggdeals/page-3.md",
+      "addedAt": "2026-09-06T10:22:14.188Z",
+      "lastSeen": "2026-09-06T10:22:14.188Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
