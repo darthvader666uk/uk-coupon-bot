@@ -842,6 +842,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "EMBER5",
+      "description": "5% discount on games, software & ingame items",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kinguin-net",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

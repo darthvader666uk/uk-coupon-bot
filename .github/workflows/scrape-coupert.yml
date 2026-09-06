@@ -1,0 +1,74 @@
+name: Scrape Coupert (self-hosted)
+
+# Coupert's Cloudflare accepts a residential IP but refuses GitHub's
+# datacentre ranges — from a cloud runner every store is challenged and every
+# retry fails, while the identical code returns codes from a home connection.
+# So this one source runs on a self-hosted runner instead.
+#
+# It is deliberately a separate workflow rather than another job in scrape.yml:
+# a job that needs a self-hosted runner sits queued indefinitely when the
+# machine is off, which would hold up the merge job in the main run.
+#
+# Setup (once), on the machine that will run it:
+#   1. Repo -> Settings -> Actions -> Runners -> New self-hosted runner
+#   2. Follow the download/configure steps it shows
+#   3. Install it as a service so it survives reboots:
+#        ./svc.sh install   (Linux/macOS)
+#        .\svc.cmd install  (Windows, from an elevated prompt)
+#
+# No xvfb here: a desktop machine already has a display, and the scrape needs
+# a headful browser. A browser window will appear while it runs.
+
+on:
+  schedule:
+    - cron: '30 7 * * *'   # 07:30 UTC, after the main 06:00 cloud run
+  workflow_dispatch:
+
+# If the machine was off, don't let queued runs pile up — only the newest
+# matters, since each run re-scrapes everything anyway.
+concurrency:
+  group: scrape-coupert
+  cancel-in-progress: true
+
+jobs:
+  coupert:
+    runs-on: self-hosted
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: npm ci || npm install
+
+      - name: Install Playwright chromium
+        working-directory: scraper
+        run: npx playwright install chromium
+
+      # Runs the full pipeline for this one source: scrape, merge into the
+      # database, re-clean, and write the shards. The collapse guard in
+      # index.js refuses to save if the code count drops by half, so a blocked
+      # or empty scrape can't wipe anything.
+      - name: Scrape Coupert and merge
+        working-directory: scraper
+        run: node index.js --source=coupert --no-push
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "coupon-bot[bot]"
+          git config user.email "coupon-bot[bot]@users.noreply.github.com"
+          git stash --include-untracked
+          git pull --rebase origin main
+          git stash pop || true
+          git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🎟 Coupert scrape $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

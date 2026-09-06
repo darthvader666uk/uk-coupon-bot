@@ -274,7 +274,33 @@ export async function scrape(stores = null) {
     }
   }
 
-  for (const slug of storeList) await scrapeStore(slug, false);
+  /*
+   * Cloudflare accepts a residential IP but rejects GitHub's datacentre
+   * ranges outright — every store is challenged and every retry fails. Rather
+   * than spend five minutes proving that on each CI run, bail once enough
+   * stores in a row have failed with nothing succeeding.
+   */
+  const ABORT_AFTER_CONSECUTIVE_FAILURES = 4;
+  let consecutiveFailures = 0;
+  let anySuccess = false;
+
+  for (const slug of storeList) {
+    const before = entries.length;
+    await scrapeStore(slug, false);
+    if (entries.length > before) {
+      anySuccess = true;
+      consecutiveFailures = 0;
+    } else {
+      consecutiveFailures++;
+    }
+    if (!anySuccess && consecutiveFailures >= ABORT_AFTER_CONSECUTIVE_FAILURES) {
+      const msg = `blocked after ${consecutiveFailures} consecutive failures — this IP is refused by Cloudflare`;
+      console.log(`[Coupert] ${msg}`);
+      errors.push(msg);
+      failed.length = 0; // retrying would be equally pointless
+      break;
+    }
+  }
 
   if (failed.length) {
     console.log(`[Coupert] Retrying ${failed.length} store(s) now clearance is established…`);

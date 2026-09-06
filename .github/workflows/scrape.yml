@@ -21,13 +21,15 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
+        # coupert is absent deliberately: Cloudflare accepts a residential IP
+        # but refuses GitHub's datacentre ranges, so it runs on the
+        # self-hosted runner via scrape-coupert.yml instead.
         source:
           - hotukdeals
           - vouchercodes
           - ggdeals
           - myvouchercodes
           - savoo
-          - coupert
           - netvouchercodes
           - voucherbox
           - codesuk

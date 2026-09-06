@@ -82,6 +82,286 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "GET40NOW",
+      "description": "40% Off on Three Delivery Orders",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "50SAVE",
+      "description": "Take 50% off orders over £20 with this code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FEAST40",
+      "description": "40% off for select Deliveroo customers",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "10BAG",
+      "description": "£10 off your first shopping order over £10 using this code",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 10,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CLAIM40NOW",
+      "description": "Take 40% off orders over £15 with discount code",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": 15,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BAG10",
+      "description": "Take £10 off your first order over £15",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 15,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET7NOW",
+      "description": "£7 off for existing customers with this Deliveroo code",
+      "type": "fixed",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "50WKND",
+      "description": "Save £50 on select orders when you spend £20",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DEANI7742",
+      "description": "Maximize your savings at checkout",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVED7",
+      "description": "Get £7 off your next four Deliveroo orders",
+      "type": "fixed",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ANUSHREEA5667",
+      "description": "Find Meaningful Price Reductions",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE40",
+      "description": "Get 40% off with this code",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WEEKEND6",
+      "description": "deliveroo.co.uk is offering you a great deal",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE10",
+      "description": "Deliveroo Discount Code: Get £10 off First 3 Grocery or Retail Store Orders",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/deliveroo",
+      "addedAt": "2026-09-06T17:33:03.812Z",
+      "lastSeen": "2026-09-06T17:33:03.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
