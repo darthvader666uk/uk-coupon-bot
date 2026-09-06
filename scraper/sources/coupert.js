@@ -219,20 +219,45 @@ export async function scrape(stores = null) {
    */
   const failed = [];
 
+  /*
+   * One page, reused for every store. Opening a fresh tab per store crashed
+   * the browser partway through a 20-store run:
+   *   "browserContext.newPage: Protocol error (Target.createTarget):
+   *    Failed to open a new tab"
+   */
+  let page = null;
+  async function getPage() {
+    if (page && !page.isClosed()) return page;
+    page = await context.newPage();
+    return page;
+  }
+
   async function scrapeStore(slug, isRetry) {
     const url = `${BASE_URL}/${slug}`;
-    let page;
     try {
-      page = await context.newPage();
+      page = await getPage();
       await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
 
-      // Wait for the offer list rather than a fixed delay: a Cloudflare
-      // interstitial resolves into the real page after a few seconds.
+      /*
+       * Cloudflare shows a "Just a moment..." interstitial that clears itself
+       * after a few seconds and hands the context a clearance cookie, after
+       * which the rest of the run sails through. Sit through it rather than
+       * treating it as a failure — bailing early was throwing away the very
+       * request that would have earned the clearance.
+       */
+      if (/just a moment/i.test(await page.title().catch(() => ""))) {
+        await page.waitForFunction(
+          () => !/just a moment/i.test(document.title),
+          { timeout: 25000 }
+        ).catch(() => {});
+      }
+
       try {
         await page.waitForSelector(".item-wrapper", { timeout: 12000 });
       } catch {
-        // No offer list. Either still challenged (retry is worth it) or the
-        // slug simply has no codes / doesn't exist (retrying wastes 12s).
+        // No offer list. Either still challenged (retrying may help once
+        // clearance lands) or the slug has no page at all (retrying wastes
+        // 12s), which the title tells us apart.
         const title = await page.title().catch(() => "");
         if (!/just a moment/i.test(title)) {
           console.log(`[Coupert] ${slug}: no offers on page — skipping`);
@@ -270,15 +295,18 @@ export async function scrape(stores = null) {
         console.log(`[Coupert] ${slug}: ${reason} (retry failed)`);
       }
     } finally {
-      if (page) await page.close().catch(() => {});
+      // The page is shared, so don't close it — but a crashed page must be
+      // replaced or every subsequent store fails with the same error.
+      if (page && page.isClosed()) page = null;
     }
   }
 
   /*
    * Cloudflare accepts a residential IP but rejects GitHub's datacentre
    * ranges outright — every store is challenged and every retry fails. Rather
-   * than spend five minutes proving that on each CI run, bail once enough
-   * stores in a row have failed with nothing succeeding.
+   * than spend five minutes proving that on each run, bail once enough stores
+   * in a row have failed with nothing succeeding. The threshold allows for the
+   * first couple of requests being challenged before clearance is granted.
    */
   const ABORT_AFTER_CONSECUTIVE_FAILURES = 4;
   let consecutiveFailures = 0;
@@ -287,6 +315,9 @@ export async function scrape(stores = null) {
   for (const slug of storeList) {
     const before = entries.length;
     await scrapeStore(slug, false);
+    // Pace the requests. Twenty back-to-back loads tripped Cloudflare from
+    // halfway down the list even on a residential IP.
+    await new Promise((r) => setTimeout(r, 2000));
     if (entries.length > before) {
       anySuccess = true;
       consecutiveFailures = 0;
@@ -304,9 +335,13 @@ export async function scrape(stores = null) {
 
   if (failed.length) {
     console.log(`[Coupert] Retrying ${failed.length} store(s) now clearance is established…`);
-    for (const slug of failed) await scrapeStore(slug, true);
+    for (const slug of failed) {
+      await scrapeStore(slug, true);
+      await new Promise((r) => setTimeout(r, 3000));
+    }
   }
 
+  if (page && !page.isClosed()) await page.close().catch(() => {});
   await context.close().catch(() => {});
   await browser.close().catch(() => {});
 
