@@ -18,6 +18,11 @@ import {
   pruneDeadCodes, purgeDeadFromStores,
 } from "../lib/deadcodes.js";
 import { writeShards } from "../lib/shard.js";
+import { parseCoupertMarkdown, slugToDomain, trimToOffers } from "../sources/coupert.js";
+import { fileURLToPath } from "url";
+import { dirname } from "path";
+
+const FIXTURES = join(dirname(fileURLToPath(import.meta.url)), "..", "test", "fixtures");
 
 let passed = 0;
 let failed = 0;
@@ -165,6 +170,45 @@ console.log("\nDescription cleaning");
   check("nav garbage is dropped", cleanDescription("Travel\n\nView all Categories") === "");
   check("HTML is stripped", cleanDescription("<b>20% off</b> everything") === "20% off everything");
   check("min spend from 'orders over'", extractMinSpend("20% off orders over £50") === 50);
+}
+
+console.log("\nCoupert parsing");
+{
+  const md = readFileSync(join(FIXTURES, "coupert-driffle.md"), "utf8");
+  const offers = parseCoupertMarkdown(md);
+  const codes = offers.map((o) => o.code);
+
+  check("parses every live code", offers.length === 9, `got ${offers.length}: ${codes.join(",")}`);
+  check("finds the codes we were missing",
+    ["CJ05", "VLADDY10", "PLSDONATES15", "GGBOOST"].every((c) => codes.includes(c)));
+
+  // The "Alternatives" block lists OTHER retailers' codes. Attributing those
+  // to the current store would put working codes on the wrong shop.
+  check("does not leak Alternatives codes", !codes.includes("GGDUU16KI") && !codes.includes("MS10"),
+    `leaked: ${codes.join(",")}`);
+  check("does not include the expired section", !codes.includes("GG9GG") && !codes.includes("plsdonate2"));
+
+  const byCode = Object.fromEntries(offers.map((o) => [o.code, o]));
+  check("percentage read from the offer block", byCode.CJ05.value === 5 && byCode.CJ05.type === "percentage");
+  check("percentage read from the description", byCode.GGBOOST.value === 12);
+  // A backward scan crossing offer boundaries gave this the previous offer's 15%.
+  check("reward code gets no bogus discount", byCode.FREECODE666.value === null,
+    `got ${byCode.FREECODE666.value}`);
+  check("description attached to the right code", byCode.VLADDY10.description.includes("10% Savings"));
+}
+{
+  // "driffle-com" previously became "drifflecom.co.uk" -- a store that cannot
+  // exist, so these codes never reached driffle.com.
+  check("slug -com -> .com", slugToDomain("driffle-com") === "driffle.com");
+  check("slug -co-uk -> .co.uk", slugToDomain("amazon-co-uk") === "amazon.co.uk");
+  check("mapped slug wins", slugToDomain("cdkeys-uk") === "cdkeys.com");
+  check("plain slug defaults to .co.uk", slugToDomain("argos") === "argos.co.uk");
+  check("already-a-domain slug passes through", slugToDomain("primelicense.com") === "primelicense.com");
+}
+{
+  const trimmed = trimToOffers(readFileSync(join(FIXTURES, "coupert-driffle.md"), "utf8"));
+  check("trims before the Alternatives section", !trimmed.includes("GGDUU16KI"));
+  check("keeps the live offers", trimmed.includes("CJ05"));
 }
 
 console.log("\nSharding");

@@ -63,6 +63,10 @@ jobs:
 
       - name: Scrape ${{ matrix.source }}
         working-directory: scraper
+        env:
+          # Coupert is behind Cloudflare and goes through Firecrawl, same as
+          # the GG.deals pre-fetch. Without the key it skips itself.
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: node index.js --source=${{ matrix.source }} --emit=artifacts/${{ matrix.source }}.json
 
       - name: Upload raw entries

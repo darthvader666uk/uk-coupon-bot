@@ -4,6 +4,8 @@
  * Each source extends this with its own URL patterns and code extraction.
  */
 import { chromium } from "playwright";
+import { readdirSync, existsSync } from "fs";
+import { join } from "path";
 
 const BROWSER_OPTS = {
   headless: true,
@@ -22,11 +24,47 @@ const CONTEXT_OPTS = {
 };
 
 /**
+ * Find a chromium build already on disk.
+ *
+ * Playwright insists on a browser build matching its own version. Bumping the
+ * package without re-running `playwright install` leaves every scraper dead
+ * locally with "Executable doesn't exist", even though an older, perfectly
+ * usable chromium is sitting in the cache. CI installs the matching build, so
+ * this only ever kicks in for local development.
+ */
+function findCachedChromium() {
+  const root = process.env.PLAYWRIGHT_BROWSERS_PATH
+    || (process.env.LOCALAPPDATA && join(process.env.LOCALAPPDATA, "ms-playwright"))
+    || (process.env.HOME && join(process.env.HOME, ".cache", "ms-playwright"));
+  if (!root || !existsSync(root)) return null;
+
+  const candidates = readdirSync(root)
+    .filter((d) => d.startsWith("chromium-"))
+    .sort()
+    .reverse()
+    .flatMap((d) => [
+      join(root, d, "chrome-win64", "chrome.exe"),
+      join(root, d, "chrome-win", "chrome.exe"),
+      join(root, d, "chrome-linux", "chrome"),
+      join(root, d, "chrome-mac", "Chromium.app", "Contents", "MacOS", "Chromium"),
+    ]);
+  return candidates.find((p) => existsSync(p)) || null;
+}
+
+/**
  * Launch a shared browser instance for batch scraping.
  * Call browser.close() when done.
  */
 export async function launchBrowser() {
-  return chromium.launch(BROWSER_OPTS);
+  try {
+    return await chromium.launch(BROWSER_OPTS);
+  } catch (err) {
+    if (!/Executable doesn't exist/.test(err.message)) throw err;
+    const executablePath = findCachedChromium();
+    if (!executablePath) throw err;
+    console.log(`[Playwright] Version mismatch — using cached chromium: ${executablePath}`);
+    return chromium.launch({ ...BROWSER_OPTS, executablePath });
+  }
 }
 
 /**

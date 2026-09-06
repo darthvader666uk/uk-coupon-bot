@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.0.0
+// @version      2.1.0
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
+// @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
+// @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @match        https://*/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
