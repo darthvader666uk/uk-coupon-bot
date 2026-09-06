@@ -1,0 +1,27 @@
+{
+  "domain": "amazon-prime.co.uk",
+  "name": "Amazon Prime Discount Codes",
+  "category": "general",
+  "codes": [
+    {
+      "code": "LOOKFANTASTIC",
+      "description": "20% off Your Next Order with this Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "voucherbox",
+      "sources": [
+        "voucherbox"
+      ],
+      "url": "https://www.voucherbox.co.uk/vouchers/amazon-prime",
+      "addedAt": "2026-09-06T15:26:56.564Z",
+      "lastSeen": "2026-09-06T15:26:56.564Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
