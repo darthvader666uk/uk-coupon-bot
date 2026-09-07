@@ -1,4 +1,5 @@
 import { canonicalDomain, displayName, isJunkDomain } from "./stores.js";
+import { belongsToStore } from "./attribution.js";
 
 /**
  * Normalize a coupon code string: uppercase, strip spaces/hyphens
@@ -291,6 +292,7 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
         existing.testResults.worked = Math.round(entry.successRate * existing.testResults.total);
       }
       existing.lastSeen = now;
+      if (entry.verified !== undefined) existing.verified = !!entry.verified;
       if (entry.source && !existing.sources?.includes(entry.source)) {
         existing.sources = [...(existing.sources || []), entry.source];
       }
@@ -318,6 +320,8 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
         addedAt: now,
         lastSeen: now,
         testResults: { total: 0, worked: 0, lastTested: null },
+        // Some sources say whether they have checked the code works.
+        ...(entry.verified !== undefined ? { verified: !!entry.verified } : {}),
       };
       enrichCode(created);
       store.codes.push(created);
@@ -382,6 +386,28 @@ export function dropCrossStoreNoise(stores, maxStores = MAX_STORES_PER_CODE) {
   return { removed, distinctNoisy: noisy.size };
 }
 
+/**
+ * Drop codes whose own description names a different retailer.
+ *
+ * Every aggregator pads a store's page with other shops' offers, labelled
+ * "... at <Retailer>". The scrapers filter these out now, but codes collected
+ * before that landed are still on file, so the cleanup runs over the whole
+ * database on every scrape rather than only on new entries.
+ */
+export function dropMisattributed(stores) {
+  let removed = 0;
+  for (const domain of Object.keys(stores)) {
+    const store = stores[domain];
+    const before = (store.codes || []).length;
+    store.codes = (store.codes || []).filter((c) =>
+      belongsToStore(c.description, domain, store.name)
+    );
+    removed += before - store.codes.length;
+    if (store.codes.length === 0) delete stores[domain];
+  }
+  return removed;
+}
+
 export function sanitizeStores(stores) {
   const result = {};
   const stats = { merged: 0, droppedStores: 0, droppedCodes: 0, cleanedCodes: 0, renamed: 0 };
@@ -439,6 +465,9 @@ export function sanitizeStores(stores) {
       target.codes.push(code);
     }
   }
+
+  // Codes whose description names another retailer.
+  stats.misattributed = dropMisattributed(result);
 
   // Strip sidebar/brand-name artifacts before dropping empty stores.
   const noise = dropCrossStoreNoise(result);

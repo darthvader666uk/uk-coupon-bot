@@ -19,7 +19,7 @@ import {
 } from "../lib/deadcodes.js";
 import { writeShards } from "../lib/shard.js";
 import { normaliseOffers, slugToDomain } from "../sources/coupert.js";
-import { belongsToStore } from "../sources/savoo.js";
+import { belongsToStore } from "../lib/attribution.js";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
 
@@ -170,17 +170,22 @@ console.log("\nSavoo store ownership");
   // says whose they are. Believing the page instead of the title is what put
   // Wayfair and LOOKFANTASTIC codes under B&Q.
   check("own offer accepted",
-    belongsToStore("£5 off First Orders Over £30 at B&Q", "b-and-q-discount-codes"));
+    belongsToStore("£5 off First Orders Over £30 at B&Q", "b-and-q", "b-and-q.co.uk"));
   check("other retailer rejected",
-    !belongsToStore("5% off Recycling and Waste Bins at BiGDUG", "b-and-q-discount-codes"));
+    !belongsToStore("5% off Recycling and Waste Bins at BiGDUG", "b-and-q", "b-and-q.co.uk"));
   check("another retailer rejected",
-    !belongsToStore("Exclusive 10% off orders at Christmas Tree World", "b-and-q-discount-codes"));
+    !belongsToStore("Exclusive 10% off orders at Christmas Tree World", "b-and-q", "b-and-q.co.uk"));
   check("no 'at X' suffix is treated as the page's own",
-    belongsToStore("20% off Selected Toys", "argos-discount-codes"));
+    belongsToStore("20% off Selected Toys", "argos", "argos.co.uk"));
   check("domain spelling still matches",
-    belongsToStore("10% off HP Printers at Currys", "currys-discount-codes"));
+    belongsToStore("10% off HP Printers at Currys", "currys", "currys.co.uk"));
   check("hyphenated store name matches",
-    belongsToStore("15% off shoes at Sports Direct", "sports-direct-discount-codes"));
+    belongsToStore("15% off shoes at Sports Direct", "sports-direct", "sports-direct.co.uk"));
+  // Knoji's "similar coupons" block: US retailers on a UK store's page.
+  check("knoji similar-coupon block rejected",
+    !belongsToStore("30% off at Macy's", "anastasiabeverlyhills", "anastasia-beverly-hills.co.uk"));
+  check("knoji own offer accepted",
+    belongsToStore("20% off sitewide at Anastasia Beverly Hills", "anastasiabeverlyhills", "anastasia-beverly-hills.co.uk"));
 }
 
 console.log("\nCross-store noise");

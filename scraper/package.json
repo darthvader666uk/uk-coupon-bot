@@ -12,7 +12,8 @@
     "scrape:coupert": "node index.js --source coupert",
     "test:userscript": "node scripts/test-userscript.mjs",
     "test:pipeline": "node scripts/test-pipeline.mjs",
-    "test": "node scripts/test-pipeline.mjs && node scripts/test-userscript.mjs"
+    "test": "node scripts/test-pipeline.mjs && node scripts/test-userscript.mjs",
+    "scrape:knoji": "node index.js --source=knoji"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

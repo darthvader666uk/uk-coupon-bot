@@ -72,11 +72,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -212,11 +213,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -317,6 +319,286 @@
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
       "lastSeen": "2026-09-07T12:13:14.338Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AKSPRO",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "INGAMES5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PK8",
+      "description": "8% off",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FALL10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUGGG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JUNGG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "KINGDROP5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APRGG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FEBGG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JANGG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JANGG5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GG8NOV",
+      "description": "8% off",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUM10MER",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FAILEDPAYMENT",
+      "description": "8% off",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://g2play.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,

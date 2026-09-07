@@ -193,11 +193,12 @@
       "source": "ggdeals",
       "sources": [
         "ggdeals",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -255,11 +256,12 @@
       "source": "ggdeals",
       "sources": [
         "ggdeals",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -315,11 +317,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/k4g-com",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -380,6 +383,346 @@
       "url": "https://uk.coupert.com/promo-code/k4g-com",
       "addedAt": "2026-09-07T12:13:14.338Z",
       "lastSeen": "2026-09-07T12:13:14.338Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DLC12DEAL",
+      "description": "12% off",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "XXLG12OFF",
+      "description": "12% off",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SP10HELP25",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PK12DEAL",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GCDK14DEAL",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SP10HELP24",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GAMECAMP",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GGD10HUG",
+      "description": "4% off",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "G5OFF",
+      "description": "$5 off",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "10CUT",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SIMPLYCODES3",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SIMPLYCODES6",
+      "description": "6% off",
+      "type": "percentage",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AKS14DEAL",
+      "description": "14% off",
+      "type": "percentage",
+      "value": 14,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "11OFF",
+      "description": "11% off",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HEATWAVE",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "K4G010X",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BACK10AGAIN",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://k4g.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,

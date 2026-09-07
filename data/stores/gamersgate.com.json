@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -92,11 +93,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=4",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -232,11 +234,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=4",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -292,11 +295,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=5",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -457,6 +461,266 @@
       "url": "https://gg.deals/vouchers/?page=5",
       "addedAt": "2026-09-07T12:13:14.338Z",
       "lastSeen": "2026-09-07T12:13:14.338Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ALLKEY",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "KODEG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEWSLETTERSPECIAL",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COUPERT10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "URBANPOKEMON",
+      "description": "21% off",
+      "type": "percentage",
+      "value": 21,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SALUTSALUTORS",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "KEEPSBURNING",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RGAMEDEALS",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DPF10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PYRONATION",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BANGERALERT",
+      "description": "18% off",
+      "type": "percentage",
+      "value": 18,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MARCHMADNESS",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://gamersgate.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,

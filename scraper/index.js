@@ -27,6 +27,7 @@ import { scrape as scrapeHotUKDeals } from "./sources/hotukdeals.js";
 import { scrape as scrapeGGdeals } from "./sources/ggdeals.js";
 import { scrape as scrapeSavoo } from "./sources/savoo.js";
 import { scrape as scrapeCoupert } from "./sources/coupert.js";
+import { scrape as scrapeKnoji } from "./sources/knoji.js";
 import { mergeCodes, pruneStaleCodes, pruneExpiredCodes, normalizeCode, removeCode, sanitizeStores } from "./lib/normalizer.js";
 import { canonicalDomain } from "./lib/stores.js";
 import { loadDeadCodes, saveDeadCodes, addDeadCode, isDeadCode, pruneDeadCodes, purgeDeadFromStores } from "./lib/deadcodes.js";
@@ -147,6 +148,7 @@ async function main() {
   if (!sourceFlag || sourceFlag === "ggdeals") scrapers.push({ name: "ggdeals", fn: scrapeGGdeals });
   if (!sourceFlag || sourceFlag === "savoo") scrapers.push({ name: "savoo", fn: scrapeSavoo });
   if (!sourceFlag || sourceFlag === "coupert") scrapers.push({ name: "coupert", fn: scrapeCoupert });
+  if (!sourceFlag || sourceFlag === "knoji") scrapers.push({ name: "knoji", fn: scrapeKnoji });
 
   if (mergeDirFlag) {
     // Merge-only: the scraping already happened in the matrix jobs.

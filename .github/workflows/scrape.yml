@@ -28,6 +28,7 @@ jobs:
           - hotukdeals
           - ggdeals
           - savoo
+          - knoji
 
     steps:
       - name: Checkout repo

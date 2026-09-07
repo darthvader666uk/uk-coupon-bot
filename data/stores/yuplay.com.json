@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -32,11 +33,472 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "knoji"
       ],
       "url": "https://gg.deals/vouchers/?page=5",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "YUSUMMER",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GAMEON",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "YU3SUMMER",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "3GAME",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CURSED5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "4THEGAMER",
+      "description": "4% off",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "YUPLAY",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "YUDEAL3",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GREATOFFER",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WINTERGIFT",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "UP10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CHILLPLAY3",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DL4DEAL",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPOOKY3",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BOO3",
+      "description": "3% off",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "YUDEAL4",
+      "description": "4% off",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "YU4LESS",
+      "description": "4% off",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "L94KMHSS",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GOODBYE2020",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "10OFF",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VLADDY10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "READTHEBOOK",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW300",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://yuplay.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-07T14:44:36.803Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -16,6 +16,7 @@
  * Target: https://www.savoo.co.uk/brands/{slug}
  */
 import { launchBrowser, isValidCode, guessType } from "../lib/playwright-base.js";
+import { belongsToStore } from "../lib/attribution.js";
 
 const BASE_URL = "https://www.savoo.co.uk/brands";
 
@@ -69,31 +70,6 @@ export function extractDomain(slug) {
 
 export function cleanStoreName(slug) {
   return slugName(slug).replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
-}
-
-// "&" has to become "and" before the strip, or the title "B&Q" reduces to "bq"
-// while the slug "b-and-q" reduces to "bandq" and the store fails to match
-// its own offers.
-const normalise = (s) => (s || "").toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]/g, "");
-
-/**
- * Savoo pads every brand page with offers from *other* retailers, and their
- * titles say so: "5% off Recycling and Waste Bins at BiGDUG" on the B&Q page.
- * Attributing those to the current store is what put Wayfair and LOOKFANTASTIC
- * codes under B&Q, so a title naming a different retailer is rejected.
- *
- * @param {string} title  offer title, e.g. "£10 off First Orders at B&Q"
- * @param {string} slug   the page we are on, e.g. "b-and-q-discount-codes"
- */
-export function belongsToStore(title, slug) {
-  const m = /\bat ([A-Za-z0-9&'. -]{2,40})$/.exec((title || "").trim());
-  if (!m) return true; // no "at X" suffix — assume it's the page's own offer
-  const claimed = normalise(m[1]);
-  if (!claimed) return true;
-  const store = normalise(slugName(slug));
-  const domain = normalise(extractDomain(slug).replace(/\.(co\.uk|com|net)$/, ""));
-  return claimed.includes(store) || store.includes(claimed)
-    || claimed.includes(domain) || domain.includes(claimed);
 }
 
 /**
@@ -196,7 +172,7 @@ export async function scrape(stores = null) {
       const storeName = cleanStoreName(slug);
       let found = 0;
       for (const card of cards) {
-        if (!belongsToStore(card.title, slug)) continue;
+        if (!belongsToStore(card.title, slugName(slug), extractDomain(slug), storeName)) continue;
         if (!isValidCode(card.code)) continue;
         entries.push({
           code: card.code,
