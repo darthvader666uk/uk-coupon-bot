@@ -4,106 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "PLAYER4",
-      "description": "4% off selected products —",
-      "type": "percentage",
-      "value": 4,
-      "minSpend": null,
-      "expiry": null,
-      "source": "ggdeals",
-      "sources": [
-        "ggdeals"
-      ],
-      "url": "cache/ggdeals/page-1.md",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PLAYER2",
-      "description": "2% off selected products —",
-      "type": "percentage",
-      "value": 2,
-      "minSpend": null,
-      "expiry": null,
-      "source": "ggdeals",
-      "sources": [
-        "ggdeals"
-      ],
-      "url": "cache/ggdeals/page-1.md",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PLAYER13",
-      "description": "13% off selected products —",
-      "type": "percentage",
-      "value": 13,
-      "minSpend": null,
-      "expiry": null,
-      "source": "ggdeals",
-      "sources": [
-        "ggdeals"
-      ],
-      "url": "cache/ggdeals/page-1.md",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "ESCAPE16",
-      "description": "16% off selected products —",
-      "type": "percentage",
-      "value": 16,
-      "minSpend": null,
-      "expiry": null,
-      "source": "ggdeals",
-      "sources": [
-        "ggdeals"
-      ],
-      "url": "cache/ggdeals/page-1.md",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-06T15:49:58.426Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "ULTI9",
-      "description": "9% off selected products —",
-      "type": "percentage",
-      "value": 9,
-      "minSpend": null,
-      "expiry": null,
-      "source": "ggdeals",
-      "sources": [
-        "ggdeals"
-      ],
-      "url": "cache/ggdeals/page-1.md",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-06T15:49:58.426Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WAY10",
       "description": "10% off selected products — Player.land",
       "type": "percentage",
@@ -115,8 +15,68 @@
         "ggdeals"
       ],
       "url": "https://gg.deals/vouchers/",
-      "addedAt": "2026-09-06T16:58:41.934Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PLAYER13",
+      "description": "13% off selected products — Player.land",
+      "type": "percentage",
+      "value": 13,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PLAYER4",
+      "description": "4% off selected products — Player.land",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PLAYER2",
+      "description": "2% off selected products — Player.land",
+      "type": "percentage",
+      "value": 2,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/?page=2",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T12:13:14.338Z",
       "testResults": {
         "total": 0,
         "worked": 0,

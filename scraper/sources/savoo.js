@@ -1,222 +1,224 @@
 /**
- * Savoo.co.uk Scraper (Playwright)
- * Renders JavaScript to extract dynamically-loaded voucher codes.
- * Target: https://www.savoo.co.uk/brands/{store}-discount-codes
+ * Savoo.co.uk scraper (Playwright)
+ *
+ * Savoo shows ~18 offers per brand page but only puts two or three codes in
+ * the HTML; the rest are revealed on the retailer's own site after an
+ * affiliate redirect, which there is no honest way to capture. Clicking "Get
+ * Code" changes nothing — a 16-minute test clicking every card returned zero
+ * codes, while reading what is already there returns them in two seconds.
+ *
+ * The previous implementation regex-matched uppercase words out of anything
+ * whose class contained "deal"/"offer"/"voucher". It never captured a real
+ * code, harvesting navigation links and related-store cards instead: 7122
+ * database entries of which none were genuine, with "PBDPMR" filed against
+ * 2750 different stores.
+ *
+ * Target: https://www.savoo.co.uk/brands/{slug}
  */
-import {
-  launchBrowser, closeContext,
-  isValidCode, guessType,
-} from "../lib/playwright-base.js";
+import { launchBrowser, isValidCode, guessType } from "../lib/playwright-base.js";
 
 const BASE_URL = "https://www.savoo.co.uk/brands";
 
-// Kept as fallback when sitemap discovery fails
-const POPULAR_STORES = [
+export const POPULAR_STORES = [
   "amazon-discount-codes", "argos-discount-codes", "asos-discount-codes",
   "boohoo-discount-codes", "currys-discount-codes", "john-lewis-discount-codes",
   "next-discount-codes", "very-discount-codes", "tesco-discount-codes",
   "sainsburys-discount-codes", "morrisons-discount-codes", "marks-and-spencer-discount-codes",
   "new-look-discount-codes", "hm-discount-codes", "zara-discount-codes",
   "sports-direct-discount-codes", "nike-discount-codes", "adidas-discount-codes",
-  "just-eat-discount-codes", "dominos-pizza-discount-codes", "uber-eats-discount-codes",
+  "just-eat-discount-codes", "dominos-pizza-discount-codes",
   "deliveroo-discount-codes", "ebay-discount-codes", "shein-discount-codes",
   "dunelm-discount-codes", "wayfair-discount-codes", "wickes-discount-codes",
   "b-and-q-discount-codes", "boots-discount-codes", "superdrug-discount-codes",
   "lookfantastic-discount-codes", "myprotein-discount-codes", "halfords-discount-codes",
   "game-promo-codes", "tui-discount-codes", "debenhams-discount-codes",
   "samsung-discount-codes", "ao-com-discount-codes", "wowcher-discount-codes",
-  "groupon-discount-codes", "booking-com-discount-codes", "expedia-discount-codes",
+  "groupon-discount-codes", "expedia-discount-codes",
 ];
 
 const DOMAIN_MAP = {
-  "amazon": "amazon.co.uk", "argos": "argos.co.uk", "asos": "asos.com",
-  "boohoo": "boohoo.com", "currys": "currys.co.uk", "john-lewis": "johnlewis.com",
-  "next": "next.co.uk", "very": "very.co.uk", "tesco": "tesco.com",
+  "amazon": "amazon.co.uk", "argos": "argos.co.uk", "asos": "asos.co.uk",
+  "boohoo": "boohoo.co.uk", "currys": "currys.co.uk", "john-lewis": "john-lewis.co.uk",
+  "next": "next.co.uk", "very": "very.co.uk", "tesco": "tesco.co.uk",
   "sainsburys": "sainsburys.co.uk", "morrisons": "morrisons.co.uk",
-  "marks-and-spencer": "marksandspencer.com", "new-look": "newlook.com",
-  "hm": "hm.com", "zara": "zara.com", "sports-direct": "sportsdirect.com",
+  "marks-and-spencer": "marks-and-spencer.co.uk", "new-look": "new-look.co.uk",
+  "hm": "hm.com", "zara": "zara.co.uk", "sports-direct": "sports-direct.co.uk",
   "nike": "nike.com", "adidas": "adidas.co.uk", "just-eat": "just-eat.co.uk",
-  "dominos-pizza": "dominos.co.uk", "uber-eats": "ubereats.com",
+  "dominos-pizza": "dominos.co.uk",
   "deliveroo": "deliveroo.co.uk", "ebay": "ebay.co.uk", "shein": "shein.co.uk",
-  "dunelm": "dunelm.com", "wayfair": "wayfair.co.uk", "wickes": "wickes.co.uk",
-  "b-and-q": "diy.com", "boots": "boots.com", "superdrug": "superdrug.com",
-  "lookfantastic": "lookfantastic.com", "myprotein": "myprotein.co.uk",
-  "halfords": "halfords.com", "game": "game.co.uk", "tui": "tui.co.uk",
-  "debenhams": "debenhams.com", "samsung": "samsung.com", "ao-com": "ao.com",
-  "wowcher": "wowcher.com", "groupon": "groupon.co.uk",
-  "booking-com": "booking.com", "expedia": "expedia.co.uk",
+  "dunelm": "dunelm.co.uk", "wayfair": "wayfair.co.uk", "wickes": "wickes.co.uk",
+  "b-and-q": "b-and-q.co.uk", "boots": "boots.co.uk", "superdrug": "superdrug.co.uk",
+  "lookfantastic": "lookfantastic.co.uk", "myprotein": "myprotein.co.uk",
+  "halfords": "halfords.co.uk", "game": "game.co.uk", "tui": "tui.co.uk",
+  "debenhams": "debenhams.com", "samsung": "samsung.co.uk", "ao-com": "ao.com",
+  "wowcher": "wowcher.com", "groupon": "groupon.co.uk", "expedia": "expedia.co.uk",
 };
 
-function extractDomain(slug) {
-  const name = slug.replace(/-discount-codes$/, "").replace(/-promo-codes$/, "");
-  return DOMAIN_MAP[name] || `${name}.co.uk`;
+function slugName(slug) {
+  return slug.replace(/-discount-codes$/, "").replace(/-promo-codes$/, "");
 }
 
-function cleanStoreName(slug) {
-  return slug
-    .replace(/-discount-codes$/, "")
-    .replace(/-promo-codes$/, "")
-    .replace(/-/g, " ")
-    .replace(/\b\w/g, (c) => c.toUpperCase());
+export function extractDomain(slug) {
+  const name = slugName(slug);
+  if (DOMAIN_MAP[name]) return DOMAIN_MAP[name];
+  // Some slugs already carry their TLD ("box.co.uk-discount-codes"), which
+  // naively became "box.co.uk.co.uk".
+  if (/\.(co\.uk|com|net|org|io|gg)$/.test(name)) return name;
+  return `${name}.co.uk`;
+}
+
+export function cleanStoreName(slug) {
+  return slugName(slug).replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+// "&" has to become "and" before the strip, or the title "B&Q" reduces to "bq"
+// while the slug "b-and-q" reduces to "bandq" and the store fails to match
+// its own offers.
+const normalise = (s) => (s || "").toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]/g, "");
+
+/**
+ * Savoo pads every brand page with offers from *other* retailers, and their
+ * titles say so: "5% off Recycling and Waste Bins at BiGDUG" on the B&Q page.
+ * Attributing those to the current store is what put Wayfair and LOOKFANTASTIC
+ * codes under B&Q, so a title naming a different retailer is rejected.
+ *
+ * @param {string} title  offer title, e.g. "£10 off First Orders at B&Q"
+ * @param {string} slug   the page we are on, e.g. "b-and-q-discount-codes"
+ */
+export function belongsToStore(title, slug) {
+  const m = /\bat ([A-Za-z0-9&'. -]{2,40})$/.exec((title || "").trim());
+  if (!m) return true; // no "at X" suffix — assume it's the page's own offer
+  const claimed = normalise(m[1]);
+  if (!claimed) return true;
+  const store = normalise(slugName(slug));
+  const domain = normalise(extractDomain(slug).replace(/\.(co\.uk|com|net)$/, ""));
+  return claimed.includes(store) || store.includes(claimed)
+    || claimed.includes(domain) || domain.includes(claimed);
 }
 
 /**
- * Process items concurrently with a fixed pool size.
- * @param {Array} items - Items to process
- * @param {number} concurrency - Max concurrent workers
- * @param {Function} fn - Async function(item, index) => result
- * @returns {Promise<Array>} Results in original order
+ * Offer cards whose code is actually present in the page.
+ *
+ * Savoo shows "Get Code" on ~18 offers per page but only puts two or three
+ * codes in the HTML; the rest are revealed on the retailer's own site after
+ * the affiliate redirect, which there is no honest way to capture. Clicking
+ * changes nothing — the codes that are readable are readable before any click.
  */
-async function processInPool(items, concurrency, fn) {
-  const results = [];
-  let index = 0;
-
-  async function worker() {
-    while (index < items.length) {
-      const i = index++;
-      results[i] = await fn(items[i], i);
-    }
-  }
-
-  const workers = Array.from({ length: Math.min(concurrency, items.length) }, () => worker());
-  await Promise.all(workers);
-  return results;
+export function collectCodeCards() {
+  return Array.from(document.querySelectorAll(".module-deal"))
+    .map((card) => {
+      const code = card.querySelector(".code")?.textContent?.trim() || "";
+      if (!code) return null;
+      return {
+        code,
+        title: card.querySelector(".deal-title, h3, h2, [class*='title']")?.textContent?.trim() || "",
+      };
+    })
+    .filter(Boolean);
 }
 
+const SITEMAP = "https://www.savoo.co.uk/sitemap_merchants_1.xml";
+
 /**
- * Dynamically discover all stores from Savoo sitemaps.
- * Fetches the sitemap index, then the merchant sub-sitemap to extract store slugs.
- * Falls back to POPULAR_STORES on failure.
- * @returns {Promise<string[]>}
+ * How many brand pages to scrape per run. Savoo lists ~2720 and each takes
+ * under a second, but the whole set would dominate the nightly job, so take a
+ * rotating slice: the offset advances by day so every store is visited within
+ * a few days rather than only ever the first N alphabetically.
  */
-async function discoverStores() {
+export const STORES_PER_RUN = 600;
+
+/** Pull every brand slug from Savoo's merchant sitemap. */
+export async function discoverStores() {
   try {
-    const indexRes = await fetch("https://www.savoo.co.uk/sitemap.xml", { headers: { Accept: "application/xml" } });
-    if (!indexRes.ok) throw new Error(`Sitemap index HTTP ${indexRes.status}`);
-    const indexXml = await indexRes.text();
-
-    // Extract merchant sub-sitemap URLs (e.g., sitemap_merchants_1.xml)
-    const subSitemapUrls = [...indexXml.matchAll(/<loc>([^<]+)<\/loc>/g)]
-      .map(m => m[1])
-      .filter(u => u.includes("merchant"));
-
-    if (subSitemapUrls.length === 0) throw new Error("No merchant sub-sitemaps found");
-
-    const allStores = new Set();
-
-    for (const url of subSitemapUrls) {
-      try {
-        const res = await fetch(url, { headers: { Accept: "application/xml" } });
-        if (!res.ok) continue;
-        const xml = await res.text();
-        const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
-        for (const u of urls) {
-          // Store URLs are like https://www.savoo.co.uk/brands/{store-slug}
-          const match = u.match(/savoo\.co\.uk\/brands\/([^/?#]+)$/);
-          if (match) allStores.add(match[1]);
-        }
-      } catch (_) { /* skip failed sub-sitemap */ }
-    }
-
-    if (allStores.size > 0) {
-      const stores = [...allStores];
-      console.log(`[Savoo] Discovered ${stores.length} stores from sitemaps`);
-      return stores;
-    }
-  } catch (e) {
-    console.log(`[Savoo] Sitemap discovery failed: ${e.message}`);
+    const res = await fetch(SITEMAP, {
+      headers: { Accept: "application/xml", "User-Agent": "Mozilla/5.0" },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const xml = await res.text();
+    const slugs = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)]
+      .map((m) => /\/brands\/([^/?#]+)\/?$/.exec(m[1])?.[1])
+      .filter((s) => s && s.length > 3 && /-(discount|promo|voucher)-codes?$/.test(s));
+    if (!slugs.length) throw new Error("no brand slugs in sitemap");
+    console.log(`[Savoo] Discovered ${slugs.length} brand pages`);
+    return slugs;
+  } catch (err) {
+    console.log(`[Savoo] Sitemap discovery failed (${err.message}) — using ${POPULAR_STORES.length} known stores`);
+    return POPULAR_STORES;
   }
+}
 
-  console.log(`[Savoo] Falling back to ${POPULAR_STORES.length} hardcoded stores`);
-  return POPULAR_STORES;
+/** Rotating slice so every store is covered over successive days. */
+export function selectSlice(all, perRun = STORES_PER_RUN, day = Math.floor(Date.now() / 86400000)) {
+  if (all.length <= perRun) return all;
+  const start = (day * perRun) % all.length;
+  const slice = all.slice(start, start + perRun);
+  return slice.length < perRun ? slice.concat(all.slice(0, perRun - slice.length)) : slice;
 }
 
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
+  const storeList = stores || selectSlice(await discoverStores());
 
-  const storeList = stores || await discoverStores();
-  console.log(`[Savoo] Scraping ${storeList.length} stores (Playwright)…`);
+  console.log(`[Savoo] Scraping ${storeList.length} stores…`);
 
-  const browser = await launchBrowser();
+  let browser;
+  try {
+    browser = await launchBrowser();
+  } catch (err) {
+    const msg = `could not launch browser: ${err.message}`;
+    console.log(`[Savoo] ${msg}`);
+    return { entries, duration: Date.now() - start, errors: [msg] };
+  }
+
   const context = await browser.newContext({
     userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
     locale: "en-GB",
+    viewport: { width: 1280, height: 900 },
   });
 
-  let codesFound = 0;
-
-  await processInPool(storeList, 5, async (store, idx) => {
+  for (const slug of storeList) {
+    const url = `${BASE_URL}/${slug}`;
     let page;
     try {
-      const url = `${BASE_URL}/${store}`;
       page = await context.newPage();
-      await page.route("**/*.{png,jpg,jpeg,gif,svg,webp,mp4,mp3}", (r) => r.abort());
+      // Revealing a code opens the retailer in a new tab. Close popups as they
+      // appear, or a 40-store run ends with hundreds of tabs. This must be
+      // page.on("popup") rather than context.on("page"): the latter also fires
+      // for newPage() and would close the page we are about to use.
+      page.on("popup", (p) => p.close().catch(() => {}));
+      await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
+      await page.waitForSelector(".module-deal", { timeout: 15000 });
 
-      await page.goto(url, { waitUntil: "domcontentloaded", timeout: 10000 });
-
-      const storeName = await page.$eval("h1", (el) => el.textContent.trim()).catch(() => cleanStoreName(store));
-
-      const rawCodes = await page.evaluate(() => {
-        const results = [];
-        document.querySelectorAll("[data-code], [data-voucher], [data-coupon]").forEach((el) => {
-          const code = el.getAttribute("data-code") || el.getAttribute("data-voucher") || el.getAttribute("data-coupon");
-          if (code) {
-            const parent = el.closest("[class*='deal'], [class*='offer'], [class*='voucher'], article, li");
-            const desc = parent?.querySelector("p, [class*='desc'], [class*='title']")?.textContent?.trim() || "";
-            results.push({ code: code.trim(), description: desc.substring(0, 200) });
-          }
+      const cards = await page.evaluate(collectCodeCards);
+      const storeDomain = extractDomain(slug);
+      const storeName = cleanStoreName(slug);
+      let found = 0;
+      for (const card of cards) {
+        if (!belongsToStore(card.title, slug)) continue;
+        if (!isValidCode(card.code)) continue;
+        entries.push({
+          code: card.code,
+          storeName,
+          storeDomain,
+          description: card.title,
+          type: guessType(card.title),
+          source: "savoo",
+          url,
         });
-
-        document.querySelectorAll("[class*='deal'], [class*='offer'], [class*='voucher'], article").forEach((el) => {
-          const text = el.textContent;
-          const matches = text.match(/\b([A-Z0-9]{3,20})\b/g);
-          if (matches) {
-            for (const m of matches) {
-              const hasLetter = /[A-Z]/i.test(m);
-              const hasDigit = /\d/.test(m);
-              const isLongCaps = m.length >= 6 && m === m.toUpperCase();
-              if (hasLetter && (hasDigit || isLongCaps) && !/^(THE|AND|FOR|ARE|BUT|NOT|YOU|ALL|CAN|GET|CODE|FREE|DEAL|OFFER|SAVE|VIEW|COPY|EXCLUSIVE|VERIFIED|TESTED|TODAY|VALID|SPONSORED|ARTICLES)/.test(m) && !/^20\d{2}$/.test(m)) {
-                const desc = el.querySelector("p, [class*='desc'], [class*='title']")?.textContent?.trim() || "";
-                results.push({ code: m, description: desc.substring(0, 200) });
-                break;
-              }
-            }
-          }
-        });
-
-        return results;
-      });
-
-      const seenCodes = new Set();
-      for (const { code, description } of rawCodes) {
-        if (isValidCode(code) && !seenCodes.has(code)) {
-          seenCodes.add(code);
-          entries.push({
-            code,
-            storeName,
-            storeDomain: extractDomain(store),
-            description,
-            type: guessType(description),
-            source: "savoo",
-            url,
-          });
-        }
+        found++;
       }
 
-      codesFound += seenCodes.size;
+      console.log(`[Savoo] ${slug}: ${found} codes -> ${storeDomain}`);
     } catch (err) {
-      errors.push(`${store}: ${err.message}`);
+      const reason = err.message.split("\n")[0];
+      errors.push(`${slug}: ${reason}`);
+      console.log(`[Savoo] ${slug}: ${reason}`);
     } finally {
       if (page) await page.close().catch(() => {});
     }
-
-    // Progress log every 50 stores
-    if ((idx + 1) % 50 === 0) {
-      console.log(`[Savoo] Progress: ${idx + 1}/${storeList.length} stores scraped (${codesFound} codes found so far)`);
-    }
-  });
+  }
 
   await context.close().catch(() => {});
   await browser.close().catch(() => {});

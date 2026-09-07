@@ -2298,6 +2298,80 @@
       "codesUpdated": 0,
       "duration": 36653,
       "errors": []
+    },
+    {
+      "timestamp": "2026-09-07T12:01:47.629Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 175,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-07T12:01:52.562Z",
+      "source": "ggdeals",
+      "codesFound": 209,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 4931,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-07T12:05:33.365Z",
+      "source": "savoo",
+      "codesFound": 603,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 220800,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-07T12:06:30.072Z",
+      "source": "coupert",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 56705,
+      "errors": [
+        "blocked after 4 consecutive failures — this IP is refused by Cloudflare"
+      ]
+    },
+    {
+      "timestamp": "2026-09-07T12:07:40.586Z",
+      "source": "hotukdeals",
+      "codesFound": 16,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 248,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-07T12:07:45.548Z",
+      "source": "ggdeals",
+      "codesFound": 209,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 4956,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-07T12:11:34.997Z",
+      "source": "savoo",
+      "codesFound": 603,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 229446,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-07T12:13:14.336Z",
+      "source": "coupert",
+      "codesFound": 125,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 99337,
+      "errors": []
     }
   ]
 }

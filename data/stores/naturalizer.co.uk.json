@@ -1,11 +1,31 @@
 {
   "domain": "naturalizer.co.uk",
-  "name": "Naturalizer Discount Codes - September 2026",
+  "name": "Naturalizer",
   "category": "general",
   "codes": [
     {
-      "code": "PBDPMR",
-      "description": "",
+      "code": "ALISSA10",
+      "description": "£10 off orders at Naturalizer",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/naturalizer-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T12:13:14.338Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HOTDEAL",
+      "description": "£‌27 off orders over £‌135 at Naturalizer",
       "type": "unknown",
       "value": null,
       "minSpend": null,
@@ -15,48 +35,8 @@
         "savoo"
       ],
       "url": "https://www.savoo.co.uk/brands/naturalizer-discount-codes",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "HOTDEAL",
-      "description": "Up to 65% off Summer Sale at",
-      "type": "percentage",
-      "value": 65,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/naturalizer-discount-codes",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "HEYDUDE",
-      "description": "20% off orders at",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/naturalizer-discount-codes",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T12:13:14.338Z",
       "testResults": {
         "total": 0,
         "worked": 0,

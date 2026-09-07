@@ -337,6 +337,51 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
  * - Replaces scraped-page-title names with real store names
  * - Re-cleans every code's description and backfills type/value/minSpend
  */
+/**
+ * A code found on this many different stores is a scraping artifact, not a
+ * coupon.
+ *
+ * Several sources hunt for uppercase tokens inside anything whose class name
+ * contains "deal"/"offer"/"voucher", which sweeps up related-store sidebars and
+ * brand names. The fingerprint is unmistakable: "PBDPMR" was filed against
+ * 2750 stores and "LOOKFANTASTIC" against 1339. A genuine code shared by even
+ * eight unrelated retailers is implausible, so this is a safe cut.
+ */
+export const MAX_STORES_PER_CODE = 8;
+
+/**
+ * Tokens the uppercase-word matchers pick up that are obviously not codes:
+ * storage sizes, console names, bare units.
+ */
+const NOT_A_CODE = /^(\d+(GB|TB|MB|KG|ML|CM|MM|W|K)|PS\d|XBOX|HDMI|USB|LED|LCD|OLED|SIM|VAT|UK|EU|USA)$/i;
+
+/** Drop codes that appear on implausibly many stores, plus obvious non-codes. */
+export function dropCrossStoreNoise(stores, maxStores = MAX_STORES_PER_CODE) {
+  const storeCount = new Map();
+  for (const store of Object.values(stores)) {
+    for (const c of store.codes || []) {
+      const k = normalizeCode(c.code);
+      storeCount.set(k, (storeCount.get(k) || 0) + 1);
+    }
+  }
+
+  const noisy = new Set();
+  for (const [code, n] of storeCount) if (n >= maxStores) noisy.add(code);
+
+  let removed = 0;
+  for (const domain of Object.keys(stores)) {
+    const before = (stores[domain].codes || []).length;
+    stores[domain].codes = (stores[domain].codes || []).filter((c) => {
+      const k = normalizeCode(c.code);
+      return !noisy.has(k) && !NOT_A_CODE.test(k);
+    });
+    removed += before - stores[domain].codes.length;
+    if (stores[domain].codes.length === 0) delete stores[domain];
+  }
+
+  return { removed, distinctNoisy: noisy.size };
+}
+
 export function sanitizeStores(stores) {
   const result = {};
   const stats = { merged: 0, droppedStores: 0, droppedCodes: 0, cleanedCodes: 0, renamed: 0 };
@@ -394,6 +439,11 @@ export function sanitizeStores(stores) {
       target.codes.push(code);
     }
   }
+
+  // Strip sidebar/brand-name artifacts before dropping empty stores.
+  const noise = dropCrossStoreNoise(result);
+  stats.noiseRemoved = noise.removed;
+  stats.noisyCodes = noise.distinctNoisy;
 
   // Drop stores left with nothing after cleaning.
   for (const domain of Object.keys(result)) {

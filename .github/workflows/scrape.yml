@@ -26,15 +26,8 @@ jobs:
         # self-hosted runner via scrape-coupert.yml instead.
         source:
           - hotukdeals
-          - vouchercodes
           - ggdeals
-          - myvouchercodes
           - savoo
-          - netvouchercodes
-          - voucherbox
-          - codesuk
-          - latestdeals
-          - moneysavingexpert
 
     steps:
       - name: Checkout repo

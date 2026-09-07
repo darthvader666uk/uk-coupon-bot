@@ -10,7 +10,7 @@ import { mkdtempSync, rmSync, readFileSync, existsSync } from "fs";
 import { tmpdir } from "os";
 import { join } from "path";
 import {
-  mergeCodes, sanitizeStores, pruneExpiredCodes, extractExpiry, isExpired, enrichCode, extractValue,
+  mergeCodes, sanitizeStores, pruneExpiredCodes, extractExpiry, isExpired, enrichCode, extractValue, dropCrossStoreNoise,
   extractMinSpend, cleanDescription, removeCode,
 } from "../lib/normalizer.js";
 import {
@@ -19,6 +19,7 @@ import {
 } from "../lib/deadcodes.js";
 import { writeShards } from "../lib/shard.js";
 import { normaliseOffers, slugToDomain } from "../sources/coupert.js";
+import { belongsToStore } from "../sources/savoo.js";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
 
@@ -161,6 +162,65 @@ console.log("\nExpiry");
   check("isExpired flags a passed date", isExpired({ expiry: recent }));
   check("isExpired ignores a future date", !isExpired({ expiry: "2099-01-01" }));
   check("isExpired ignores no date", !isExpired({ expiry: null }));
+}
+
+console.log("\nSavoo store ownership");
+{
+  // Savoo pads each brand page with other retailers' offers, and the title
+  // says whose they are. Believing the page instead of the title is what put
+  // Wayfair and LOOKFANTASTIC codes under B&Q.
+  check("own offer accepted",
+    belongsToStore("£5 off First Orders Over £30 at B&Q", "b-and-q-discount-codes"));
+  check("other retailer rejected",
+    !belongsToStore("5% off Recycling and Waste Bins at BiGDUG", "b-and-q-discount-codes"));
+  check("another retailer rejected",
+    !belongsToStore("Exclusive 10% off orders at Christmas Tree World", "b-and-q-discount-codes"));
+  check("no 'at X' suffix is treated as the page's own",
+    belongsToStore("20% off Selected Toys", "argos-discount-codes"));
+  check("domain spelling still matches",
+    belongsToStore("10% off HP Printers at Currys", "currys-discount-codes"));
+  check("hyphenated store name matches",
+    belongsToStore("15% off shoes at Sports Direct", "sports-direct-discount-codes"));
+}
+
+console.log("\nCross-store noise");
+{
+  // Several sources harvested uppercase tokens out of nav bars and
+  // related-store sidebars, so brand names became "codes" attached to every
+  // page they appeared on: PBDPMR was filed against 2750 stores.
+  const stores = {};
+  for (let i = 0; i < 12; i++) {
+    stores[`shop${i}.co.uk`] = {
+      name: `Shop ${i}`,
+      codes: [{ code: "LOOKFANTASTIC", description: "" }, { code: `REAL${i}`, description: "10% off" }],
+    };
+  }
+  const { removed, distinctNoisy } = dropCrossStoreNoise(stores);
+  check("code on many stores is dropped", removed === 12 && distinctNoisy === 1, `removed ${removed}`);
+  check("per-store codes survive", Object.keys(stores).length === 12);
+  check("the real code is kept", stores["shop0.co.uk"].codes.length === 1
+    && stores["shop0.co.uk"].codes[0].code === "REAL0");
+}
+{
+  // A code shared by two or three retailers is plausible; don't cut those.
+  const stores = {
+    "a.co.uk": { name: "A", codes: [{ code: "SHARED10" }] },
+    "b.co.uk": { name: "B", codes: [{ code: "SHARED10" }] },
+    "c.co.uk": { name: "C", codes: [{ code: "SHARED10" }] },
+  };
+  check("a genuinely shared code survives", dropCrossStoreNoise(stores).removed === 0);
+}
+{
+  // Storage sizes and console names came from product copy, not offers.
+  const stores = {
+    "a.co.uk": { name: "A", codes: [
+      { code: "100GB" }, { code: "256GB" }, { code: "PS5" }, { code: "SAVE20" },
+    ]},
+  };
+  dropCrossStoreNoise(stores);
+  check("spec strings are not codes", stores["a.co.uk"].codes.length === 1
+    && stores["a.co.uk"].codes[0].code === "SAVE20",
+    JSON.stringify(stores["a.co.uk"].codes.map((c) => c.code)));
 }
 
 console.log("\nDiscount values");

@@ -1,42 +1,22 @@
 {
   "domain": "cherry-lane-garden-centres.co.uk",
-  "name": "Cherry Lane Garden Centres Discount Codes - September 2026",
+  "name": "Cherry Lane Garden Centres",
   "category": "general",
   "codes": [
     {
-      "code": "PBDPMR",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
+      "code": "SAVER40",
+      "description": "£40 off Full-Priced orders over £2000 at Cherry Lane Garden Centres",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 2000,
       "expiry": null,
       "source": "savoo",
       "sources": [
         "savoo"
       ],
       "url": "https://www.savoo.co.uk/brands/cherry-lane-garden-centres-discount-codes",
-      "addedAt": "2026-09-06T10:22:14.188Z",
-      "lastSeen": "2026-09-07T11:21:31.627Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "STREAM",
-      "description": "10% off orders at Living and Home",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/cherry-lane-garden-centres-discount-codes",
-      "addedAt": "2026-09-06T15:49:58.426Z",
-      "lastSeen": "2026-09-06T15:49:58.426Z",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-07T12:13:14.338Z",
       "testResults": {
         "total": 0,
         "worked": 0,

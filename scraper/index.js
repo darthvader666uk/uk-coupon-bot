@@ -24,16 +24,9 @@ if (existsSync(envPath)) {
 }
 
 import { scrape as scrapeHotUKDeals } from "./sources/hotukdeals.js";
-import { scrape as scrapeVoucherCodes } from "./sources/vouchercodes.js";
 import { scrape as scrapeGGdeals } from "./sources/ggdeals.js";
-import { scrape as scrapeMyVoucherCodes } from "./sources/myvouchercodes.js";
 import { scrape as scrapeSavoo } from "./sources/savoo.js";
 import { scrape as scrapeCoupert } from "./sources/coupert.js";
-import { scrape as scrapeNetVoucherCodes } from "./sources/netvouchercodes.js";
-import { scrape as scrapeVoucherbox } from "./sources/voucherbox.js";
-import { scrape as scrapeCodesUK } from "./sources/codesuk.js";
-import { scrape as scrapeLatestDeals } from "./sources/latestdeals.js";
-import { scrape as scrapeMSE } from "./sources/moneysavingexpert.js";
 import { mergeCodes, pruneStaleCodes, pruneExpiredCodes, normalizeCode, removeCode, sanitizeStores } from "./lib/normalizer.js";
 import { canonicalDomain } from "./lib/stores.js";
 import { loadDeadCodes, saveDeadCodes, addDeadCode, isDeadCode, pruneDeadCodes, purgeDeadFromStores } from "./lib/deadcodes.js";
@@ -69,7 +62,15 @@ async function main() {
 
   // Load existing database
   let database;
+  // Deliberate rebuild: start empty so only what the current sources return
+  // survives. Without it the run merges into the remote database and entries
+  // from removed sources live on.
+  const fresh = args.includes("--fresh");
   try {
+    if (fresh) {
+      console.log("\n🆕 --fresh: starting from an empty database");
+      throw new Error("fresh start requested");
+    }
     if (process.env.GITHUB_TOKEN) {
       console.log("\n📦 Loading from GitHub repo…");
       const { json } = await readJSON();
@@ -79,15 +80,19 @@ async function main() {
       database = JSON.parse(readFileSync(LOCAL_JSON, "utf8"));
     }
   } catch (err) {
-    console.log(`  ⚠ Could not load existing data: ${err.message}`);
-    // Never start from an empty database while a populated local file exists —
-    // the run would end by writing its handful of fresh codes over the lot.
-    try {
-      database = JSON.parse(readFileSync(LOCAL_JSON, "utf8"));
-      const recovered = Object.values(database.stores || {}).reduce((n, s) => n + (s.codes?.length || 0), 0);
-      console.log(`  ↩ Fell back to local file (${recovered} codes)`);
-    } catch {
-      database = { meta: { lastUpdated: new Date().toISOString(), totalCodes: 0, version: "1.0", sources: [] }, stores: {} };
+    if (fresh) {
+      database = { meta: { lastUpdated: new Date().toISOString(), totalCodes: 0, version: "2.0", sources: [] }, stores: {} };
+    } else {
+      console.log(`  ⚠ Could not load existing data: ${err.message}`);
+      // Never start from an empty database while a populated local file exists
+      // — the run would end by writing its handful of fresh codes over the lot.
+      try {
+        database = JSON.parse(readFileSync(LOCAL_JSON, "utf8"));
+        const recovered = Object.values(database.stores || {}).reduce((n, s) => n + (s.codes?.length || 0), 0);
+        console.log(`  ↩ Fell back to local file (${recovered} codes)`);
+      } catch {
+        database = { meta: { lastUpdated: new Date().toISOString(), totalCodes: 0, version: "1.0", sources: [] }, stores: {} };
+      }
     }
   }
 
@@ -139,16 +144,9 @@ async function main() {
   // Run scrapers
   const scrapers = [];
   if (!sourceFlag || sourceFlag === "hotukdeals") scrapers.push({ name: "hotukdeals", fn: scrapeHotUKDeals });
-  if (!sourceFlag || sourceFlag === "vouchercodes") scrapers.push({ name: "vouchercodes", fn: scrapeVoucherCodes });
   if (!sourceFlag || sourceFlag === "ggdeals") scrapers.push({ name: "ggdeals", fn: scrapeGGdeals });
-  if (!sourceFlag || sourceFlag === "myvouchercodes") scrapers.push({ name: "myvouchercodes", fn: scrapeMyVoucherCodes });
   if (!sourceFlag || sourceFlag === "savoo") scrapers.push({ name: "savoo", fn: scrapeSavoo });
   if (!sourceFlag || sourceFlag === "coupert") scrapers.push({ name: "coupert", fn: scrapeCoupert });
-  if (!sourceFlag || sourceFlag === "netvouchercodes") scrapers.push({ name: "netvouchercodes", fn: scrapeNetVoucherCodes });
-  if (!sourceFlag || sourceFlag === "voucherbox") scrapers.push({ name: "voucherbox", fn: scrapeVoucherbox });
-  if (!sourceFlag || sourceFlag === "codesuk") scrapers.push({ name: "codesuk", fn: scrapeCodesUK });
-  if (!sourceFlag || sourceFlag === "latestdeals") scrapers.push({ name: "latestdeals", fn: scrapeLatestDeals });
-  if (!sourceFlag || sourceFlag === "moneysavingexpert") scrapers.push({ name: "moneysavingexpert", fn: scrapeMSE });
 
   if (mergeDirFlag) {
     // Merge-only: the scraping already happened in the matrix jobs.
