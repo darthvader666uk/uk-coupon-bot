@@ -1,0 +1,27 @@
+{
+  "domain": "gamestop.com",
+  "name": "Gamestop",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PRODISCOUNT",
+      "description": "5% off storewide for Gamestop Pro subscribers — Gamestop",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/?page=5",
+      "addedAt": "2026-09-07T15:08:25.222Z",
+      "lastSeen": "2026-09-07T15:08:25.222Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

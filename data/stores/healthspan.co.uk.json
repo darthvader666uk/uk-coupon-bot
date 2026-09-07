@@ -1,0 +1,27 @@
+{
+  "domain": "healthspan.co.uk",
+  "name": "Healthspan",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE15",
+      "description": "Extra 15% off all orders at Healthspan",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/healthspan-discount-codes",
+      "addedAt": "2026-09-07T15:08:25.222Z",
+      "lastSeen": "2026-09-07T15:08:25.222Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

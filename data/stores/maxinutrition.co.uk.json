@@ -1,0 +1,27 @@
+{
+  "domain": "maxinutrition.co.uk",
+  "name": "Maxinutrition",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SECRET15",
+      "description": "Exclusive 15% off all Protein Powders at MaxiNutrition",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/maxinutrition-discount-codes",
+      "addedAt": "2026-09-07T15:08:25.222Z",
+      "lastSeen": "2026-09-07T15:08:25.222Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

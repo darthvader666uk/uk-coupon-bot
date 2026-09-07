@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "EXTRA10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://grassdirect.knoji.com/",
-      "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-07T14:44:36.803Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAVE20",
       "description": "20% off",
       "type": "percentage",
@@ -137,6 +117,66 @@
       "url": "https://grassdirect.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
       "lastSeen": "2026-09-07T14:44:36.803Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE10",
+      "description": "10% off orders over £500 at Grass Direct",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 500,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/grass-direct-discount-codes",
+      "addedAt": "2026-09-07T15:08:25.222Z",
+      "lastSeen": "2026-09-07T15:08:25.222Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE15",
+      "description": "15% off orders over £1,000 at Grass Direct",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 1,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/grass-direct-discount-codes",
+      "addedAt": "2026-09-07T15:08:25.222Z",
+      "lastSeen": "2026-09-07T15:08:25.222Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA15",
+      "description": "Extra 15% off orders at Grass Direct",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/grass-direct-discount-codes",
+      "addedAt": "2026-09-07T15:08:25.222Z",
+      "lastSeen": "2026-09-07T15:08:25.222Z",
       "testResults": {
         "total": 0,
         "worked": 0,
