@@ -1,0 +1,27 @@
+{
+  "domain": "pharmacy2u-shop.co.uk",
+  "name": "Pharmacy2u Shop",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PAY40",
+      "description": "Extra 15% When you Spend £40 Health and Wellness at Pharmacy2u",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pharmacy2u-shop-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

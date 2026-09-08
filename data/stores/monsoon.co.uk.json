@@ -1,0 +1,47 @@
+{
+  "domain": "monsoon.co.uk",
+  "name": "Monsoon",
+  "category": "general",
+  "codes": [
+    {
+      "code": "MDFORYOU",
+      "description": "15% off orders over £100 at Monsoon",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/monsoon-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MD10",
+      "description": "Extra 10% off Sale Items at Monsoon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/monsoon-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

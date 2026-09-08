@@ -1,0 +1,67 @@
+{
+  "domain": "crocus.co.uk",
+  "name": "Crocus",
+  "category": "general",
+  "codes": [
+    {
+      "code": "MMH15",
+      "description": "15% off Full-Priced Items at Crocus",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/crocus-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPEND200",
+      "description": "£50 off orders over £200 at Crocus",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 200,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/crocus-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPEND50",
+      "description": "£10 off orders over £50 at Crocus",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/crocus-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

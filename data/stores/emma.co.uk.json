@@ -1,0 +1,27 @@
+{
+  "domain": "emma.co.uk",
+  "name": "Emma",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EXTRA50",
+      "description": "Extra £50 off orders over £600 at Emma",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 600,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/emma-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

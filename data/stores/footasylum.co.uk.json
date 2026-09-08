@@ -1,0 +1,47 @@
+{
+  "domain": "footasylum.co.uk",
+  "name": "Footasylum",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FA20",
+      "description": "20% off Full-Priced Items at Footasylum",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/footasylum-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEXTDAY",
+      "description": "Summer: Free Next Day Delivery on Selected orders over £80 at Footasylum",
+      "type": "fixed",
+      "value": 80,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/footasylum-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

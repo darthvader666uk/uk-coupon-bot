@@ -1,0 +1,27 @@
+{
+  "domain": "national-express.co.uk",
+  "name": "National Express",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EASTERSALE",
+      "description": "Up to 50% off plus Up to 25% off Easter Peak at National Express",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/national-express-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "domain": "the-protein-works.co.uk",
+  "name": "The Protein Works",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EX17",
+      "description": "Extra 17% off orders at Protein Works",
+      "type": "percentage",
+      "value": 17,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/the-protein-works-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVTEN",
+      "description": "Exclusive £10 off orders over £60 at Protein Works",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/the-protein-works-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

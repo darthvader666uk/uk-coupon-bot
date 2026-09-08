@@ -1,0 +1,47 @@
+{
+  "domain": "hotel-chocolat.co.uk",
+  "name": "Hotel Chocolat",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SPRINGEVENT26",
+      "description": "Easter: £5 off orders over £35 at Hotel Chocolat",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 35,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hotel-chocolat-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VELVETISERSPRING26",
+      "description": "£20 off Velvetiser at Hotel Chocolat - Limited Time Only",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hotel-chocolat-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

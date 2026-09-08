@@ -1,0 +1,27 @@
+{
+  "domain": "picniq.co.uk",
+  "name": "Picniq",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PERKSFORPALS5",
+      "description": "Black Friday: £5 off orders over £50 at Picniq",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/picniq-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

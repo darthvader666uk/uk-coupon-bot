@@ -1,0 +1,27 @@
+{
+  "domain": "viovet.co.uk",
+  "name": "Viovet",
+  "category": "general",
+  "codes": [
+    {
+      "code": "VAJUL26",
+      "description": "£5 off orders over £60 at Viovet",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/viovet-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "domain": "tm-lewin.co.uk",
+  "name": "Tm Lewin",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE75",
+      "description": "£75 orders over £300 at TM Lewin",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 300,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tm-lewin-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TMLCYBER10",
+      "description": "10% off Sale Items at TM Lewin",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tm-lewin-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

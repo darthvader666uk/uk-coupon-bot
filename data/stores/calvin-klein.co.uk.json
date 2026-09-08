@@ -1,0 +1,27 @@
+{
+  "domain": "calvin-klein.co.uk",
+  "name": "Calvin Klein",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EXTRA10",
+      "description": "Extra 10% off orders over £45 on Underwear at Calvin Klein - Limited Time Only!",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 45,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/calvin-klein-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

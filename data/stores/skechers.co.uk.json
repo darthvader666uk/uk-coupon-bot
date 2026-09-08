@@ -1,0 +1,27 @@
+{
+  "domain": "skechers.co.uk",
+  "name": "Skechers",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DOGDAY",
+      "description": "INTL Dog Day: Buy 1, Get 15% off or Buy 2 or More, Get 20% off at Skechers",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/skechers-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

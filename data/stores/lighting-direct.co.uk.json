@@ -1,0 +1,67 @@
+{
+  "domain": "lighting-direct.co.uk",
+  "name": "Lighting Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DIRECT10",
+      "description": "10% off orders over £125 at Lighting Direct",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 125,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lighting-direct-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DIRECT15",
+      "description": "15% off orders over £350 at Lighting Direct",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 350,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lighting-direct-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE40",
+      "description": "£40 off orders over £300 at Lighting Direct",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 300,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lighting-direct-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

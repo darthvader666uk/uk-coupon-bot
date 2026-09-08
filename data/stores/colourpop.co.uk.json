@@ -1,0 +1,27 @@
+{
+  "domain": "colourpop.co.uk",
+  "name": "Colourpop",
+  "category": "general",
+  "codes": [
+    {
+      "code": "20OFF60",
+      "description": "20% off orders over £60 at ColourPop",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/colourpop-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

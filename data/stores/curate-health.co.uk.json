@@ -1,0 +1,27 @@
+{
+  "domain": "curate-health.co.uk",
+  "name": "Curate Health",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CURATE20",
+      "description": "20% off Curate Health orders Plus Free Delivery",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/curate-health-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
