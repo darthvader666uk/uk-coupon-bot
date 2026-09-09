@@ -1,0 +1,27 @@
+{
+  "domain": "banggood.co.uk",
+  "name": "Banggood",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BGSUBCAR5",
+      "description": "5% off RC Vehicles at Banggood",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/banggood-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

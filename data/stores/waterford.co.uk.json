@@ -1,0 +1,27 @@
+{
+  "domain": "waterford.co.uk",
+  "name": "Waterford",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CHEERS",
+      "description": "2 Free Set of Craft Beer Glasses on orders over £280 at Waterford",
+      "type": "fixed",
+      "value": 280,
+      "minSpend": 280,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/waterford-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "domain": "carparts4less.co.uk",
+  "name": "Carparts4less.Co.Uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE25",
+      "description": "25% off orders over £100 at carparts4less.co.uk",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/carparts4less.co.uk-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE30",
+      "description": "30% off orders over £150 at carparts4less.co.uk",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/carparts4less.co.uk-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

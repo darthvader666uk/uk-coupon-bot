@@ -1,0 +1,27 @@
+{
+  "domain": "western-union.co.uk",
+  "name": "Western Union",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WU50",
+      "description": "50% off Your Next Online Transfer Fee at Western Union",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/western-union-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

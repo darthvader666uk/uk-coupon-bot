@@ -1,0 +1,27 @@
+{
+  "domain": "swell-uk.co.uk",
+  "name": "Swell Uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE3",
+      "description": "£3 off orders over £60 at Swell UK",
+      "type": "fixed",
+      "value": 3,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/swell-uk-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

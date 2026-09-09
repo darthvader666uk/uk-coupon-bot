@@ -1,0 +1,27 @@
+{
+  "domain": "dormeo.co.uk",
+  "name": "Dormeo",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SLEEP10",
+      "description": "10% off orders over £299 at Dormeo",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 299,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/dormeo-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

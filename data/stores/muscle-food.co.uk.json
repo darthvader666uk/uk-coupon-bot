@@ -1,0 +1,47 @@
+{
+  "domain": "muscle-food.co.uk",
+  "name": "Muscle Food",
+  "category": "general",
+  "codes": [
+    {
+      "code": "JULY5OFF",
+      "description": "£5 off orders over £70 at Muscle Food",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 70,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/muscle-food-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CHICK24",
+      "description": "5kg Premium Chicken Breasts for £24.99 at MuscleFood",
+      "type": "fixed",
+      "value": 24.99,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/muscle-food-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "domain": "miss-selfridge.co.uk",
+  "name": "Miss Selfridge",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NDDFREE",
+      "description": "Free Next Day Delivery on orders over £40 at Miss Selfridge",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/miss-selfridge-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GO20",
+      "description": "20% off Selected Items at Miss Selfridge",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/miss-selfridge-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

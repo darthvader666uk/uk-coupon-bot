@@ -1,0 +1,27 @@
+{
+  "domain": "iherb.co.uk",
+  "name": "Iherb",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AUG26SW",
+      "description": "Up to 20% off orders over £45 at iHerb",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 45,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/iherb-promo-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

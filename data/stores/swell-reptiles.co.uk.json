@@ -1,0 +1,27 @@
+{
+  "domain": "swell-reptiles.co.uk",
+  "name": "Swell Reptiles",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE2",
+      "description": "£2 off orders over £40 at Swell Reptiles",
+      "type": "fixed",
+      "value": 2,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/swell-reptiles-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

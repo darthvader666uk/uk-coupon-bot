@@ -1,0 +1,27 @@
+{
+  "domain": "the-sunday-times-wine-club.co.uk",
+  "name": "The Sunday Times Wine Club",
+  "category": "general",
+  "codes": [
+    {
+      "code": "30OFF",
+      "description": "New Customer Offer: 30% off orders over £95 plus Free Delivery at The Sunday Times Wine Club",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 95,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/the-sunday-times-wine-club-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

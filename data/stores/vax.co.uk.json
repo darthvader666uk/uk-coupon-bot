@@ -1,0 +1,27 @@
+{
+  "domain": "vax.co.uk",
+  "name": "Vax",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EXTRA15",
+      "description": "Extra 15% off Sale Items at Vax",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/vax-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
