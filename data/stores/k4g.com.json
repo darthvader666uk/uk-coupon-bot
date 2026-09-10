@@ -92,11 +92,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -236,11 +237,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -262,7 +264,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -324,7 +326,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/k4g-com",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -422,11 +424,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -548,11 +551,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -716,11 +720,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -748,6 +753,66 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "4U10",
+      "description": "Use this K4G Promo Code for savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-10T12:18:12.005Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GGDEALS3",
+      "description": "Use K4G Discount Code for 5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-10T12:18:12.005Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CLONEWARS",
+      "description": "Unlock 11% Off K4G with Discount Code",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-10T12:18:12.005Z",
+      "lastSeen": "2026-09-10T12:18:12.005Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
