@@ -1,0 +1,47 @@
+{
+  "domain": "trip.com",
+  "name": "Trip.Com",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FLYTOASIACNH",
+      "description": "11% off China Hotel Bookings over £150 at Trip.com",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/trip.com-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FLYTOASIA100",
+      "description": "£100 off Family Flight to Asia over £7000 at Trip.com",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 7000,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/trip.com-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

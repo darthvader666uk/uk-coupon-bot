@@ -1,0 +1,27 @@
+{
+  "domain": "reboxed.co.uk",
+  "name": "Reboxed",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BACK2SCHOOL",
+      "description": "£15 off orders over £400 at Reboxed",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": 400,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/reboxed-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

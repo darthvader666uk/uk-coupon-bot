@@ -1,0 +1,27 @@
+{
+  "domain": "air-france.co.uk",
+  "name": "Air France",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AFUK60JN26",
+      "description": "£60 off Flight at Air France - Limited Time Only!",
+      "type": "fixed",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/air-france-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

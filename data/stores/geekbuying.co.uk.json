@@ -1,0 +1,67 @@
+{
+  "domain": "geekbuying.co.uk",
+  "name": "Geekbuying",
+  "category": "general",
+  "codes": [
+    {
+      "code": "26DEALS",
+      "description": "7% off orders plus Up to 63% off Exclusive Deals Week at geekbuying",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/geekbuying-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "26MAYS1U",
+      "description": "£35 off orders over £450 at geekbuying",
+      "type": "fixed",
+      "value": 35,
+      "minSpend": 450,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/geekbuying-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "26MAYS2U",
+      "description": "£20 off orders over £250 at geekbuying",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 250,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/geekbuying-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

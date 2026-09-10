@@ -1,0 +1,27 @@
+{
+  "domain": "hunter.co.uk",
+  "name": "Hunter",
+  "category": "general",
+  "codes": [
+    {
+      "code": "REHUNTER15",
+      "description": "15% off orders at Hunter",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hunter-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

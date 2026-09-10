@@ -1,0 +1,27 @@
+{
+  "domain": "bulk-powders.co.uk",
+  "name": "Bulk Powders",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PLUS10",
+      "description": "Extra 10% off Bulk Sale on orders over £59",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 59,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/bulk-powders-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

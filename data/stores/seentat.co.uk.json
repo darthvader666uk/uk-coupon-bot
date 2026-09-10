@@ -1,0 +1,47 @@
+{
+  "domain": "seentat.co.uk",
+  "name": "Seentat",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ST401K",
+      "description": "£40 off orders over £1000 at Seentat",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 1000,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/seentat-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "STSV3",
+      "description": "Exclusive 3% off orders at Seentat",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/seentat-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

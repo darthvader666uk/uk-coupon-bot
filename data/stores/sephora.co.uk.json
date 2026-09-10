@@ -1,0 +1,27 @@
+{
+  "domain": "sephora.co.uk",
+  "name": "Sephora",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVING",
+      "description": "Up to 20% off Full-Priced orders at Sephora",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/sephora-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

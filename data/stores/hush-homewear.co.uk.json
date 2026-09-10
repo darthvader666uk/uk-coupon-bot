@@ -1,0 +1,27 @@
+{
+  "domain": "hush-homewear.co.uk",
+  "name": "Hush Homewear",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NEXTDAY",
+      "description": "Free Next-Day Delivery on orders over £100 at Hush",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hush-homewear-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

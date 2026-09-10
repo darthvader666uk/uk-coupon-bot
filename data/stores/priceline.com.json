@@ -1,0 +1,67 @@
+{
+  "domain": "priceline.com",
+  "name": "Priceline.Com",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FREEDOM250",
+      "description": "£189.70 off Hotel Express deals at Priceline.com",
+      "type": "fixed",
+      "value": 189.7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/priceline.com-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ROADTRIP",
+      "description": "£15 off Hotel and Car Rental on Bookings over £185 at Priceline.com",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": 185,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/priceline.com-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BEATTHECOLD",
+      "description": "Winter Warm-Up Sale: £219 off Sunny Packages at Priceline.com",
+      "type": "fixed",
+      "value": 219,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/priceline.com-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

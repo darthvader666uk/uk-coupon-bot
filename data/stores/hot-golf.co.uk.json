@@ -1,0 +1,27 @@
+{
+  "domain": "hot-golf.co.uk",
+  "name": "Hot Golf",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HOT5",
+      "description": "5% off orders at HOTGOLF",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hot-golf-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

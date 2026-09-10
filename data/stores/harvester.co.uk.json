@@ -1,0 +1,27 @@
+{
+  "domain": "harvester.co.uk",
+  "name": "Harvester",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GRILLTIME",
+      "description": "20% off orders over £30 at Harvester",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/harvester-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

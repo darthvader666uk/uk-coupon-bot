@@ -1,0 +1,27 @@
+{
+  "domain": "bookshop.org",
+  "name": "Bookshop.Org",
+  "category": "general",
+  "codes": [
+    {
+      "code": "LOVEBOOKS",
+      "description": "15% off Selected orders at Bookshop.org",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/bookshop.org-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

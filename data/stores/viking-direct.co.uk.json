@@ -1,0 +1,27 @@
+{
+  "domain": "viking-direct.co.uk",
+  "name": "Viking Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "VGBPAPER5",
+      "description": "£5 off orders over £50 at Viking",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/viking-direct-voucher-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

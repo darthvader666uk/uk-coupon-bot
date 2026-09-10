@@ -1,0 +1,47 @@
+{
+  "domain": "luxury-escapes.co.uk",
+  "name": "Luxury Escapes",
+  "category": "general",
+  "codes": [
+    {
+      "code": "TOURPLUS",
+      "description": "Up to £500 off Tours at Luxury Escapes",
+      "type": "fixed",
+      "value": 500,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/luxury-escapes-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXP10LP",
+      "description": "10% off all Experiences at Luxury Escapes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/luxury-escapes-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

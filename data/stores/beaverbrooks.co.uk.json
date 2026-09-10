@@ -1,0 +1,47 @@
+{
+  "domain": "beaverbrooks.co.uk",
+  "name": "Beaverbrooks",
+  "category": "general",
+  "codes": [
+    {
+      "code": "JEWEL15OFF",
+      "description": "15% off Jewellery and Diamonds at Beaverbrooks",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/beaverbrooks-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET100",
+      "description": "£100 off orders over £500 at Beaverbrooks",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 500,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/beaverbrooks-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

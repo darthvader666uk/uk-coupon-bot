@@ -1,0 +1,47 @@
+{
+  "domain": "card-factory.co.uk",
+  "name": "Card Factory",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE6",
+      "description": "Extra 6% off Personalised Gifts at Card Factory",
+      "type": "percentage",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/card-factory-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RM48SAVE50",
+      "description": "50% off 2nd Class Delivery on orders over £15 at Card Factory",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": 15,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/card-factory-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
