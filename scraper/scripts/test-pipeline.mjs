@@ -11,7 +11,7 @@ import { tmpdir } from "os";
 import { join } from "path";
 import {
   mergeCodes, sanitizeStores, pruneExpiredCodes, extractExpiry, isExpired, enrichCode, extractValue, dropCrossStoreNoise,
-  extractMinSpend, cleanDescription, removeCode,
+  extractMinSpend, cleanDescription, removeCode, dropForeignCurrency, dropRetiredSources,
 } from "../lib/normalizer.js";
 import {
   loadDeadCodes, saveDeadCodes, addDeadCode, isDeadCode,
@@ -19,7 +19,9 @@ import {
 } from "../lib/deadcodes.js";
 import { writeShards } from "../lib/shard.js";
 import { normaliseOffers, slugToDomain } from "../sources/coupert.js";
+import { extractDomain } from "../sources/savoo.js";
 import { belongsToStore } from "../lib/attribution.js";
+import { isEmptyScrape, hasCollapsed } from "../lib/guards.js";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
 
@@ -125,10 +127,10 @@ console.log("\nStore canonicalisation");
   // real offer text. The good description must win and re-derive the value.
   const { stores } = sanitizeStores({
     "boots.co.uk": { name: "Boots Discount Codes | July 2026", codes: [
-      { code: "X1", description: "Travel\n\nView all Categories\n\nFlights", type: "unknown", value: null, sources: ["a"] },
+      { code: "X1", description: "Travel\n\nView all Categories\n\nFlights", type: "unknown", value: null, sources: ["savoo"] },
     ]},
     "boots.com": { name: "Boots", codes: [
-      { code: "X1", description: "22% off Selected Orders", type: "percentage", value: null, sources: ["b"] },
+      { code: "X1", description: "22% off Selected Orders", type: "percentage", value: null, sources: ["knoji"] },
     ]},
   });
   const code = stores["boots.co.uk"].codes[0];
@@ -170,11 +172,11 @@ console.log("\nSavoo store ownership");
   // says whose they are. Believing the page instead of the title is what put
   // Wayfair and LOOKFANTASTIC codes under B&Q.
   check("own offer accepted",
-    belongsToStore("£5 off First Orders Over £30 at B&Q", "b-and-q", "b-and-q.co.uk"));
+    belongsToStore("£5 off First Orders Over £30 at B&Q", "b-and-q", "diy.com"));
   check("other retailer rejected",
-    !belongsToStore("5% off Recycling and Waste Bins at BiGDUG", "b-and-q", "b-and-q.co.uk"));
+    !belongsToStore("5% off Recycling and Waste Bins at BiGDUG", "b-and-q", "diy.com"));
   check("another retailer rejected",
-    !belongsToStore("Exclusive 10% off orders at Christmas Tree World", "b-and-q", "b-and-q.co.uk"));
+    !belongsToStore("Exclusive 10% off orders at Christmas Tree World", "b-and-q", "diy.com"));
   check("no 'at X' suffix is treated as the page's own",
     belongsToStore("20% off Selected Toys", "argos", "argos.co.uk"));
   check("domain spelling still matches",
@@ -351,6 +353,97 @@ console.log("\nTombstone persistence");
   } finally {
     rmSync(dir, { recursive: true, force: true });
   }
+}
+
+console.log("\nShort retailer names in attribution");
+{
+  // A four-character floor on the claimed name waved every short retailer
+  // through, which filed "$20 Off Storewide at HSN" under De'Longhi. Short
+  // names now have to match a store identifier exactly, because substring
+  // matching on two or three letters is worse than useless.
+  check("short foreign retailer rejected",
+    !belongsToStore("$20 Off Storewide at HSN", "delonghi", "delonghi.co.uk", "De'Longhi"));
+  check("short own name still accepted",
+    belongsToStore("10% off at CPC", "cpc", "cpc.co.uk", "CPC"));
+  check("short name is not matched as a substring",
+    !belongsToStore("20% off at UR", "purely", "purely.co.uk", "Purely"));
+  check("B&Q matches through its display name",
+    belongsToStore("£5 off First Orders at B&Q", "bq", "diy.com", "B&Q"));
+}
+
+console.log("\nForeign currency on UK stores");
+{
+  // Knoji is a US site, so its "UK" pages are often the American ones:
+  // 7 For All Mankind arrived as 44 codes reading "$15 off".
+  const stores = {
+    "funko.co.uk": { codes: [{ code: "A", description: "$25 off" }, { code: "B", description: "20% off" }] },
+    "diy.com": { codes: [{ code: "C", description: "Earn 500 Euros" }, { code: "D", description: "10% off" }] },
+    "debenhams.com": { codes: [{ code: "E", description: "$5 off" }] },
+    "eneba.com": { codes: [{ code: "F", description: "$100 Xbox Gift Card For $86" }] },
+  };
+  const removed = dropForeignCurrency(stores);
+  check("dollar code dropped from a UK store", !stores["funko.co.uk"].codes.some((c) => c.code === "A"));
+  check("sterling code kept", stores["funko.co.uk"].codes.some((c) => c.code === "B"));
+  check("euro code dropped", !stores["diy.com"].codes.some((c) => c.code === "C"));
+  // A ".com means global" rule would have kept this one.
+  check("UK store on a .com is still filtered", stores["debenhams.com"].codes.length === 0);
+  check("game-key reseller keeps its dollars", stores["eneba.com"].codes.length === 1);
+  check("removal is counted", removed === 3, `got ${removed}`);
+}
+
+console.log("\nSavoo slug suffixes");
+{
+  // Savoo uses all three suffixes. Missing -voucher-codes invented phantom
+  // stores that shadow the real ones.
+  check("voucher-codes suffix stripped", extractDomain("direct-fireplaces-voucher-codes") === "direct-fireplaces.co.uk");
+  check("discount-codes suffix stripped", extractDomain("currys-discount-codes") === "currys.co.uk");
+  check("slug carrying its own TLD is left alone", extractDomain("box.co.uk-discount-codes") === "box.co.uk");
+}
+
+console.log("\nRetired sources");
+{
+  // HotUKDeals invented its store domains out of offer text ("full price
+  // items" -> fullprice.co.uk). Deleting the scraper has to take its codes
+  // with it, or they sit there forever with nothing able to re-confirm them.
+  const stores = {
+    "a.co.uk": { codes: [{ code: "A", sources: ["hotukdeals"] }, { code: "B", sources: ["savoo"] }] },
+    "b.co.uk": { codes: [{ code: "C", sources: ["hotukdeals", "savoo"] }] },
+    "c.co.uk": { codes: [{ code: "D", source: "hotukdeals" }] },
+  };
+  const removed = dropRetiredSources(stores);
+  check("retired-only code dropped", !stores["a.co.uk"].codes.some((c) => c.code === "A"));
+  check("live code kept", stores["a.co.uk"].codes.some((c) => c.code === "B"));
+  check("code with one live source kept", stores["b.co.uk"].codes.length === 1);
+  check("legacy single-source field honoured", stores["c.co.uk"].codes.length === 0);
+  check("removal counted", removed === 2, `got ${removed}`);
+}
+
+console.log("\nRefusing to save");
+{
+  // A headful browser with no X server fails in 130ms and returns zero codes.
+  // That used to save, exit 0 and push a commit, so a dead scraper looked
+  // exactly like a quiet night.
+  check("empty scrape is refused",
+    isEmptyScrape({ scraped: true, entryCount: 0 }));
+  check("a normal run is not refused",
+    !isEmptyScrape({ scraped: true, entryCount: 1200 }));
+  check("one code is enough to proceed",
+    !isEmptyScrape({ scraped: true, entryCount: 1 }));
+  check("--reclean scrapes nothing and is exempt",
+    !isEmptyScrape({ scraped: false, entryCount: 0 }));
+  check("--force overrides",
+    !isEmptyScrape({ scraped: true, entryCount: 0, force: true }));
+
+  check("halving the database is refused",
+    hasCollapsed({ before: 2662, after: 4 }));
+  check("ordinary churn is allowed",
+    !hasCollapsed({ before: 2662, after: 2600 }));
+  check("exactly half is refused",
+    hasCollapsed({ before: 2000, after: 999 }));
+  check("a small database is exempt from the collapse guard",
+    !hasCollapsed({ before: 40, after: 1 }));
+  check("--force overrides the collapse guard",
+    !hasCollapsed({ before: 2662, after: 4, force: true }));
 }
 
 console.log(`\n${passed} passed, ${failed} failed\n`);

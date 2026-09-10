@@ -42,7 +42,7 @@ const DOMAIN_MAP = {
   "ebay-co-uk": "ebay.co.uk",
   "cdkeys-uk": "cdkeys.com",
   "apple-uk": "apple.com",
-  "b-and-q": "b-and-q.co.uk",
+  "b-and-q": "diy.com",
   "john-lewis": "john-lewis.co.uk",
   "sports-direct": "sports-direct.co.uk",
   "dominos-pizza": "dominos.co.uk",

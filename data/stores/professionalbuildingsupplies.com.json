@@ -1,0 +1,47 @@
+{
+  "domain": "professionalbuildingsupplies.com",
+  "name": "Professional Building Supplies",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AFFPBSL350",
+      "description": "5% off orders over £300 at Professional Building Supplies",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 300,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/professional-building-supplies-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AFFPBSL750",
+      "description": "£50 off orders over £750 at Professional Building Supplies",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 750,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/professional-building-supplies-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

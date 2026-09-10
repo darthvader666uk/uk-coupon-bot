@@ -1,0 +1,47 @@
+{
+  "domain": "lacoqueta.com",
+  "name": "La Coqueta",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SPRING25",
+      "description": "Spring Sale: 25% off orders over £150 at La Coqueta",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/la-coqueta-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA15",
+      "description": "Up to 30% off plus Extra 15% off Selected Styles in the Mid Season Sale at La Coqueta",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/la-coqueta-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

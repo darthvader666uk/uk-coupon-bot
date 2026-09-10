@@ -15,12 +15,40 @@
  * dropped rather than shown against a store that doesn't exist.
  */
 
+import { readFileSync } from "fs";
+import { dirname, join } from "path";
+import { fileURLToPath } from "url";
+
+/**
+ * Domains repaired by probing, and the ones no probe could place.
+ *
+ * Savoo derives a store domain by appending .co.uk to its slug, so `alo-yoga`
+ * became `alo-yoga.co.uk` when the shop is aloyoga.com. That silently broke
+ * 41% of the database: the userscript looks up the hostname it is actually on
+ * and never finds those keys, so the codes may as well not exist.
+ *
+ * Regenerate with scripts/verify-domains.mjs when a source starts inventing
+ * new ones. Corrections fold into ALIASES, unreachable ones into JUNK_DOMAINS.
+ */
+const CORRECTIONS = JSON.parse(
+  readFileSync(join(dirname(fileURLToPath(import.meta.url)), "domain-corrections.json"), "utf8")
+);
+
+/**
+ * Scrapers that still exist. A code whose every source has been retired can no
+ * longer be re-confirmed by anything, so it is dropped rather than left to age
+ * quietly in the database claiming a provenance the project no longer has.
+ */
+export const ACTIVE_SOURCES = new Set(["coupert", "ggdeals", "knoji", "savoo"]);
+
 /** Alias domain -> canonical domain. */
 export const ALIASES = {
   "asos.com": "asos.co.uk",
   "boohoo.com": "boohoo.co.uk",
   "boots.com": "boots.co.uk",
-  "diy.com": "b-and-q.co.uk",
+  // B&Q trades as diy.com and b-and-q.co.uk does not resolve at all, so
+  // the canonical domain has to be the one a shopper is actually on.
+  "b-and-q.co.uk": "diy.com",
   "dominos-pizza.co.uk": "dominos.co.uk",
   "dunelm.com": "dunelm.co.uk",
   "halfords.com": "halfords.co.uk",
@@ -33,6 +61,7 @@ export const ALIASES = {
   "superdrug.com": "superdrug.co.uk",
   "tesco.com": "tesco.co.uk",
   "zara.com": "zara.co.uk",
+  ...CORRECTIONS.corrections,
 };
 
 /**
@@ -62,6 +91,30 @@ export const HOSTNAME_ALIASES = {
   "store.playstation.com": "store.playstation.com",
 };
 
+/**
+ * Stores that price globally, so a dollar or euro figure is genuine rather
+ * than a US page scraped in error.
+ *
+ * Game-key resellers are the whole of this list: they sell the same regionless
+ * key worldwide and quote USD or EUR to a UK buyer as a matter of course. A
+ * TLD test cannot stand in for this, because B&Q trades on diy.com and
+ * Debenhams on debenhams.com while being unambiguously UK retailers.
+ */
+export const GLOBAL_STORES = new Set([
+  "2game.com", "allkeyshop.com", "allyouplay.com", "cdkeys.com",
+  "difmark.com", "discovergames.com", "dreamgame.com", "driffle.com",
+  "ea.com", "eldorado.gg", "electronicfirst.com", "eneba.com",
+  "epicgames.com", "fanatical.com", "g2a.com", "g2play.com",
+  "gamebillet.com", "gameboost.com", "gamersgate.com", "gamerthor.com",
+  "gameseal.com", "gamesplanet.com", "gamestop.com", "gamivo.com",
+  "gog.com", "greenmangaming.com", "hrkgame.com", "humblebundle.com",
+  "instant-gaming.com", "joybuggy.com", "k4g.com", "keycense.com",
+  "kinguin.net", "loaded.com", "lootbar.gg", "nuuvem.com",
+  "planetplay.com", "player.land", "playsum.com", "premiumcdkeys.com",
+  "store.steampowered.com", "store.ubisoft.com", "wingamestore.com",
+  "yuplay.com",
+]);
+
 /** Canonical domain -> human-readable store name. */
 export const DISPLAY_NAMES = {
   "adidas.co.uk": "Adidas",
@@ -70,7 +123,6 @@ export const DISPLAY_NAMES = {
   "ao.com": "AO.com",
   "argos.co.uk": "Argos",
   "asos.co.uk": "ASOS",
-  "b-and-q.co.uk": "B&Q",
   "boohoo.co.uk": "boohoo",
   "boots.co.uk": "Boots",
   "bulk.com": "Bulk",
@@ -78,6 +130,7 @@ export const DISPLAY_NAMES = {
   "debenhams.com": "Debenhams",
   "deliveroo.co.uk": "Deliveroo",
   "difmark.com": "Difmark",
+  "diy.com": "B&Q",
   "dominos.co.uk": "Domino's Pizza",
   "dreamgame.com": "Dreamgame",
   "driffle.com": "Driffle",
@@ -158,6 +211,15 @@ export const JUNK_DOMAINS = new Set([
   "northwesternrailway.co.uk",
   "sainsburysasda.co.uk",
   "todayavailable.co.uk",
+  // Invented by the retired HotUKDeals scraper out of offer text:
+  // "Airport", "full price items", "Google Local Guides", "Lenses 65% Off".
+  "airport.co.uk",
+  "fullprice.co.uk",
+  "fullprice.com",
+  "googlelocal.co.uk",
+  "lensesoff.co.uk",
+  // Keys that fail DNS and that no candidate domain could be verified for.
+  ...CORRECTIONS.unreachable,
 ]);
 
 /** Strip `www.` and lowercase. */

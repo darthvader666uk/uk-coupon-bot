@@ -1,0 +1,47 @@
+{
+  "domain": "buyshedsdirect.co.uk",
+  "name": "Buy Sheds Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE5",
+      "description": "Extra 5% off Forest orders over £599 at Buy Sheds Direct",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 599,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/buy-sheds-direct-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FORESTSAVE5",
+      "description": "5% off Forest Sheds and Summerhouses Extended at Buy Sheds Direct",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/buy-sheds-direct-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -37,13 +37,25 @@ export function claimedStore(title) {
 export function belongsToStore(title, ...identifiers) {
   const claimed = normaliseName(claimedStore(title));
   // No "at X" suffix — treat it as the page's own offer.
-  if (!claimed || claimed.length < 4) return true;
+  if (!claimed || claimed.length < 2) return true;
+
+  // Short names are matched whole. Accepting a substring here would let a
+  // three-letter retailer match any store that merely contains those letters
+  // ("at UR" against purely.co.uk), and the old four-character floor waved
+  // every short name through instead: that is how a "$20 off at HSN" coupon
+  // came to sit under De'Longhi and an END. offer under Paul Smith.
+  const exactOnly = claimed.length < 4;
 
   for (const id of identifiers) {
     const known = normaliseName(
       String(id || "").replace(/\.(co\.uk|com|net|org|io|gg|land)$/, "")
     );
-    if (!known || known.length < 3) continue;
+    if (!known) continue;
+    if (exactOnly) {
+      if (known === claimed) return true;
+      continue;
+    }
+    if (known.length < 3) continue;
     if (claimed.includes(known) || known.includes(claimed)) return true;
   }
   return false;

@@ -1,0 +1,47 @@
+{
+  "domain": "supplylife.com",
+  "name": "Supply Life",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SUPPLY25",
+      "description": "£25 off First order at SupplyLife",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/supply-life-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVOO25",
+      "description": "Exclusive £25 off all Products at SupplyLife",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/supply-life-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

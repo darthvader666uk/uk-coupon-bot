@@ -25,7 +25,6 @@ jobs:
         # but refuses GitHub's datacentre ranges, so it runs on the
         # self-hosted runner via scrape-coupert.yml instead.
         source:
-          - hotukdeals
           - ggdeals
           - savoo
           - knoji

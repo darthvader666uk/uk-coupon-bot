@@ -48,7 +48,7 @@ const DOMAIN_MAP = {
   "dominos-pizza": "dominos.co.uk",
   "deliveroo": "deliveroo.co.uk", "ebay": "ebay.co.uk", "shein": "shein.co.uk",
   "dunelm": "dunelm.co.uk", "wayfair": "wayfair.co.uk", "wickes": "wickes.co.uk",
-  "b-and-q": "b-and-q.co.uk", "boots": "boots.co.uk", "superdrug": "superdrug.co.uk",
+  "b-and-q": "diy.com", "boots": "boots.co.uk", "superdrug": "superdrug.co.uk",
   "lookfantastic": "lookfantastic.co.uk", "myprotein": "myprotein.co.uk",
   "halfords": "halfords.co.uk", "game": "game.co.uk", "tui": "tui.co.uk",
   "debenhams": "debenhams.com", "samsung": "samsung.co.uk", "ao-com": "ao.com",
@@ -56,7 +56,10 @@ const DOMAIN_MAP = {
 };
 
 function slugName(slug) {
-  return slug.replace(/-discount-codes$/, "").replace(/-promo-codes$/, "");
+  // Savoo uses all three suffixes. Missing -voucher-codes invented four
+  // phantom stores that shadow real ones, e.g. a whole separate
+  // "direct-fireplaces-voucher-codes.co.uk" alongside Direct Fireplaces.
+  return slug.replace(/-(discount|promo|voucher)-codes$/, "");
 }
 
 export function extractDomain(slug) {

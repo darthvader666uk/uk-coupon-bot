@@ -1,42 +1,6 @@
 {
   "runs": [
     {
-      "timestamp": "2026-07-13T10:24:11.488Z",
-      "source": "hotukdeals",
-      "codesFound": 30,
-      "codesAdded": 0,
-      "codesUpdated": 0,
-      "duration": 258,
-      "errors": []
-    },
-    {
-      "timestamp": "2026-07-13T10:24:40.251Z",
-      "source": "hotukdeals",
-      "codesFound": 30,
-      "codesAdded": 0,
-      "codesUpdated": 0,
-      "duration": 289,
-      "errors": []
-    },
-    {
-      "timestamp": "2026-07-13T10:25:12.003Z",
-      "source": "vouchercodes",
-      "codesFound": 68,
-      "codesAdded": 0,
-      "codesUpdated": 0,
-      "duration": 31747,
-      "errors": [
-        "john-lewis: HTTP 404",
-        "very: HTTP 404",
-        "marks-and-spencer: HTTP 404",
-        "new-look: HTTP 404",
-        "sports-direct: HTTP 404",
-        "booking-com: HTTP 404",
-        "dominos-pizza: HTTP 404",
-        "uber-eats: HTTP 404"
-      ]
-    },
-    {
       "timestamp": "2026-07-13T10:28:09.630Z",
       "source": "hotukdeals",
       "codesFound": 30,
@@ -2390,6 +2354,48 @@
       "codesUpdated": 0,
       "duration": 290856,
       "errors": []
+    },
+    {
+      "timestamp": "2026-09-10T09:28:36.751Z",
+      "source": "coupert",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 145,
+      "errors": [
+        "could not launch browser: browserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\nCall log:\n\u001b[2m  - <launching> /home/deathstar/.cache/ms-playwright/chromium-1228/chrome-linux64/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --disable-blink-features=AutomationControlled --user-data-dir=/tmp/playwright_chromiumdev_profile-FTROxY --remote-debugging-pipe --no-startup-window\u001b[22m\n\u001b[2m  - <launched> pid=75378\u001b[22m\n\u001b[2m  - [pid=75378][err] [75378:75378:0910/102836.724618:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:257] Missing X server or $DISPLAY\u001b[22m\n\u001b[2m  - [pid=75378][err] [75378:75378:0910/102836.724687:ERROR:ui/aura/env.cc:246] The platform failed to initialize.  Exiting.\u001b[22m\n\u001b[2m  - [pid=75378] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=75378] <kill>\u001b[22m\n\u001b[2m  - [pid=75378] <will force kill>\u001b[22m\n\u001b[2m  - [pid=75378] <process did exit: exitCode=1, signal=null>\u001b[22m\n\u001b[2m  - [pid=75378] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=75378] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=75378] <gracefully close end>\u001b[22m\n"
+      ]
+    },
+    {
+      "timestamp": "2026-09-10T09:28:43.762Z",
+      "source": "coupert",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 135,
+      "errors": [
+        "could not launch browser: browserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\nCall log:\n\u001b[2m  - <launching> /home/deathstar/.cache/ms-playwright/chromium-1228/chrome-linux64/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --disable-blink-features=AutomationControlled --user-data-dir=/tmp/playwright_chromiumdev_profile-ME39I5 --remote-debugging-pipe --no-startup-window\u001b[22m\n\u001b[2m  - <launched> pid=75488\u001b[22m\n\u001b[2m  - [pid=75488][err] [75488:75488:0910/102843.738816:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:257] Missing X server or $DISPLAY\u001b[22m\n\u001b[2m  - [pid=75488][err] [75488:75488:0910/102843.738884:ERROR:ui/aura/env.cc:246] The platform failed to initialize.  Exiting.\u001b[22m\n\u001b[2m  - [pid=75488] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=75488] <kill>\u001b[22m\n\u001b[2m  - [pid=75488] <will force kill>\u001b[22m\n\u001b[2m  - [pid=75488] <process did exit: exitCode=1, signal=null>\u001b[22m\n\u001b[2m  - [pid=75488] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=75488] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=75488] <gracefully close end>\u001b[22m\n"
+      ]
+    },
+    {
+      "timestamp": "2026-09-10T09:29:46.628Z",
+      "source": "coupert",
+      "codesFound": 139,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 55154,
+      "errors": []
+    },
+    {
+      "timestamp": "2026-09-10T09:29:46.344Z",
+      "source": "coupert",
+      "codesFound": 0,
+      "codesAdded": 0,
+      "codesUpdated": 0,
+      "duration": 125,
+      "errors": [
+        "could not launch browser: browserType.launch: Target page, context or browser has been closed\nBrowser logs:\n\n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\nCall log:\n\u001b[2m  - <launching> /home/deathstar/.cache/ms-playwright/chromium-1228/chrome-linux64/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --disable-blink-features=AutomationControlled --user-data-dir=/tmp/playwright_chromiumdev_profile-P6j9d5 --remote-debugging-pipe --no-startup-window\u001b[22m\n\u001b[2m  - <launched> pid=76734\u001b[22m\n\u001b[2m  - [pid=76734][err] [76734:76734:0910/102946.314786:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:257] Missing X server or $DISPLAY\u001b[22m\n\u001b[2m  - [pid=76734][err] [76734:76734:0910/102946.314858:ERROR:ui/aura/env.cc:246] The platform failed to initialize.  Exiting.\u001b[22m\n\u001b[2m  - [pid=76734] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=76734] <kill>\u001b[22m\n\u001b[2m  - [pid=76734] <will force kill>\u001b[22m\n\u001b[2m  - [pid=76734] <process did exit: exitCode=1, signal=null>\u001b[22m\n\u001b[2m  - [pid=76734] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=76734] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=76734] <gracefully close end>\u001b[22m\n"
+      ]
     }
   ]
 }

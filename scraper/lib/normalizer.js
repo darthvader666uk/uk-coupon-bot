@@ -1,4 +1,4 @@
-import { canonicalDomain, displayName, isJunkDomain } from "./stores.js";
+import { canonicalDomain, displayName, isJunkDomain, GLOBAL_STORES, ACTIVE_SOURCES } from "./stores.js";
 import { belongsToStore } from "./attribution.js";
 
 /**
@@ -408,6 +408,53 @@ export function dropMisattributed(stores) {
   return removed;
 }
 
+/**
+ * Currencies that prove a code came from a store's non-UK site.
+ *
+ * Knoji is a US site, so its "UK" store pages are often the American ones:
+ * 7 For All Mankind arrived as 44 codes reading "$15 off", none of which a
+ * shopper can use at a British checkout.
+ *
+ * Every store is filtered except the game-key resellers in GLOBAL_STORES,
+ * which genuinely quote dollars to UK buyers. The TLD cannot decide this:
+ * B&Q trades on diy.com and Debenhams on debenhams.com, so a ".com means
+ * global" rule would wave through exactly the US codes this removes.
+ */
+const FOREIGN_CURRENCY = /[$€]|\b(USD|EUR|Euros?|dollars?)\b/i;
+
+export function dropForeignCurrency(stores) {
+  let removed = 0;
+  for (const domain of Object.keys(stores)) {
+    if (GLOBAL_STORES.has(domain)) continue;
+    const store = stores[domain];
+    const before = (store.codes || []).length;
+    store.codes = (store.codes || []).filter((c) => !FOREIGN_CURRENCY.test(c.description || ""));
+    removed += before - store.codes.length;
+  }
+  return removed;
+}
+
+/**
+ * Drop codes that only a retired scraper ever vouched for.
+ *
+ * Deleting a source used to leave its codes in place forever: nothing re-scrapes
+ * them, so `lastSeen` freezes and they sit there looking merely stale. HotUKDeals
+ * is the case in point, since it invented its store domains out of offer text.
+ */
+export function dropRetiredSources(stores) {
+  let removed = 0;
+  for (const domain of Object.keys(stores)) {
+    const store = stores[domain];
+    const before = (store.codes || []).length;
+    store.codes = (store.codes || []).filter((c) => {
+      const sources = c.sources?.length ? c.sources : [c.source];
+      return sources.some((s) => ACTIVE_SOURCES.has(s));
+    });
+    removed += before - store.codes.length;
+  }
+  return removed;
+}
+
 export function sanitizeStores(stores) {
   const result = {};
   const stats = { merged: 0, droppedStores: 0, droppedCodes: 0, cleanedCodes: 0, renamed: 0 };
@@ -468,6 +515,12 @@ export function sanitizeStores(stores) {
 
   // Codes whose description names another retailer.
   stats.misattributed = dropMisattributed(result);
+
+  // Dollar/euro codes on a UK store, i.e. a US page scraped as if it were ours.
+  stats.foreignCurrency = dropForeignCurrency(result);
+
+  // Codes left behind by a scraper that has since been deleted.
+  stats.retiredSource = dropRetiredSources(result);
 
   // Strip sidebar/brand-name artifacts before dropping empty stores.
   const noise = dropCrossStoreNoise(result);

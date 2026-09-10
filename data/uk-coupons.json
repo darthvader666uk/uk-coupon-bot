@@ -1,87 +1,15 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-10T08:23:55.296Z",
-    "totalCodes": 2830,
+    "lastUpdated": "2026-09-10T09:29:46.661Z",
+    "totalCodes": 2662,
     "version": "2.0",
     "sources": []
   },
   "stores": {
-    "lensesoff.co.uk": {
-      "name": "Lenses 65% Off",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SEE",
-          "description": "Glasses direct sale on Lenses 65% Off and 30% Off Frames plus Free Delivery on Orders Over £30 (Excludes £9 Frames).",
-          "type": "percentage",
-          "value": 65,
-          "minSpend": 30,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "airport.co.uk": {
-      "name": "Airport",
-      "category": "general",
-      "codes": [
-        {
-          "code": "LUTON2",
-          "description": "10,000 £2 one",
-          "type": "fixed",
-          "value": 2,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "boots.co.uk": {
       "name": "Boots",
       "category": "general",
       "codes": [
-        {
-          "code": "ET10APPFOR",
-          "description": "£10 eye test at Boots Opticians, Plus get £30 off when you spend £120 on glasses or prescription sunglasses via App Only",
-          "type": "fixed",
-          "value": 10,
-          "minSpend": 120,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
         {
           "code": "BABY15",
           "description": "15% off when you Spend £40 on Selected Baby Products at Boots",
@@ -116,32 +44,6 @@
           "url": "https://www.savoo.co.uk/brands/boots-discount-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "fullprice.co.uk": {
-      "name": "full price items",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BTS26",
-          "description": "25% off when you spend £50+ on full price items from the Back to school range",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": 50,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6624,7 +6526,8 @@
           "expiry": null,
           "source": "knoji",
           "sources": [
-            "knoji"
+            "knoji",
+            "savoo"
           ],
           "url": "https://yuplay.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
@@ -6666,7 +6569,8 @@
           "expiry": null,
           "source": "knoji",
           "sources": [
-            "knoji"
+            "knoji",
+            "savoo"
           ],
           "url": "https://yuplay.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
@@ -12082,7 +11986,7 @@
         }
       ]
     },
-    "pets-and-friends.co.uk": {
+    "petsandfriends.co.uk": {
       "name": "Pets And Friends",
       "category": "general",
       "codes": [
@@ -12335,26 +12239,6 @@
           }
         },
         {
-          "code": "PK94371",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://prepkitchen.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "NATALIEPT",
           "description": "10% off",
           "type": "percentage",
@@ -12379,26 +12263,6 @@
           "description": "10% off",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://prepkitchen.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "PK17954",
-          "description": "$10 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -12762,7 +12626,7 @@
         }
       ]
     },
-    "johnny-loves-rosie.co.uk": {
+    "johnny-loves-rosie.com": {
       "name": "Johnny Loves Rosie",
       "category": "general",
       "codes": [
@@ -13250,7 +13114,7 @@
         }
       ]
     },
-    "california-shutters.co.uk": {
+    "californiashutters.co.uk": {
       "name": "California Shutters",
       "category": "general",
       "codes": [
@@ -13296,7 +13160,7 @@
         }
       ]
     },
-    "home-detail.co.uk": {
+    "homedetail.co.uk": {
       "name": "Home Detail",
       "category": "general",
       "codes": [
@@ -14006,7 +13870,7 @@
         }
       ]
     },
-    "john-henric.co.uk": {
+    "johnhenric.com": {
       "name": "John Henric",
       "category": "general",
       "codes": [
@@ -14176,26 +14040,6 @@
           "description": "25% off",
           "type": "percentage",
           "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://johnhenric.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "FASHION20",
-          "description": "$18 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -14705,26 +14549,6 @@
           }
         },
         {
-          "code": "WELCOMEBACK10",
-          "description": "$10 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://stepone.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "CUTTING20",
           "description": "20% off",
           "type": "percentage",
@@ -14929,26 +14753,6 @@
           "description": "70% off",
           "type": "percentage",
           "value": 70,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://stepone.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "STEPONE25",
-          "description": "$25 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -15171,46 +14975,6 @@
           }
         },
         {
-          "code": "R3PM94URLS",
-          "description": "$10 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://harrys.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SAVE26",
-          "description": "$5 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://harrys.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "LABORDAY26",
           "description": "15% off",
           "type": "percentage",
@@ -15271,66 +15035,6 @@
           }
         },
         {
-          "code": "FRIENDS",
-          "description": "$2 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://harrys.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "STAPLETON",
-          "description": "$2 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://harrys.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "GIVEFIVE",
-          "description": "$5 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://harrys.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "TENERE11346",
           "description": "",
           "type": "unknown",
@@ -15352,7 +15056,7 @@
         }
       ]
     },
-    "the-inkey-list.co.uk": {
+    "theinkeylist.co.uk": {
       "name": "The Inkey List",
       "category": "general",
       "codes": [
@@ -15598,26 +15302,6 @@
           }
         },
         {
-          "code": "INKEYINSIDERS",
-          "description": "$5 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://theinkeylist.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "FIREWORKS25",
           "description": "25% off",
           "type": "percentage",
@@ -15799,7 +15483,7 @@
         }
       ]
     },
-    "wild-nutrition.co.uk": {
+    "wildnutrition.co.uk": {
       "name": "Wild Nutrition",
       "category": "general",
       "codes": [
@@ -15949,26 +15633,6 @@
           "description": "15% off",
           "type": "percentage",
           "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://wildnutrition.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "NEW10",
-          "description": "$10 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -16366,7 +16030,7 @@
         }
       ]
     },
-    "the-ayurveda-experience.co.uk": {
+    "theayurvedaexperience.co.uk": {
       "name": "The Ayurveda Experience",
       "category": "general",
       "codes": [
@@ -16932,7 +16596,7 @@
         }
       ]
     },
-    "antonioli.co.uk": {
+    "antonioli.com": {
       "name": "Antonioli",
       "category": "general",
       "codes": [
@@ -17499,7 +17163,7 @@
         }
       ]
     },
-    "go-city.co.uk": {
+    "gocity.co.uk": {
       "name": "Go City",
       "category": "general",
       "codes": [
@@ -17589,26 +17253,6 @@
           "description": "10% off",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://gocity.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "UNITRAVEL5",
-          "description": "$10 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -18086,7 +17730,7 @@
         }
       ]
     },
-    "lrm-goods.co.uk": {
+    "lrmgoods.co.uk": {
       "name": "Lrm Goods",
       "category": "general",
       "codes": [
@@ -18198,26 +17842,6 @@
           }
         },
         {
-          "code": "MOMSDAY26",
-          "description": "$26 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://funko.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "PY25",
           "description": "25% off",
           "type": "percentage",
@@ -18242,26 +17866,6 @@
           "description": "30% off",
           "type": "percentage",
           "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://funko.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "FUNKO35",
-          "description": "$25 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -18402,26 +18006,6 @@
           "description": "10% off",
           "type": "percentage",
           "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://funko.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "WOW10",
-          "description": "$10 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -19017,7 +18601,7 @@
         }
       ]
     },
-    "world-of-roses.co.uk": {
+    "worldofroses.com": {
       "name": "World Of Roses",
       "category": "general",
       "codes": [
@@ -19109,93 +18693,7 @@
         }
       ]
     },
-    "evri-international.co.uk": {
-      "name": "Evri International",
-      "category": "general",
-      "codes": [
-        {
-          "code": "3OFFEVRI",
-          "description": "3% off UK and International Parcel Delivery at Evri International",
-          "type": "percentage",
-          "value": 3,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/evri-international-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EVRI3",
-          "description": "3% off UK and International Parcel Delivery at Evri International",
-          "type": "percentage",
-          "value": 3,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/evri-international-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EVRI10",
-          "description": "10% off UK Parcel Delivery Up to 3 Times When You Spend £10 at Evri International",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": 10,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/evri-international-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EVRI15",
-          "description": "15% off UK Parcel Delivery Up to 3 Times When You Spend £15 at Evri International",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": 15,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/evri-international-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "47-skin.co.uk": {
+    "47skin.co.uk": {
       "name": "47 Skin",
       "category": "general",
       "codes": [
@@ -19287,7 +18785,7 @@
         }
       ]
     },
-    "heavenly-london.co.uk": {
+    "heavenlylondon.co.uk": {
       "name": "Heavenly London",
       "category": "general",
       "codes": [
@@ -19399,7 +18897,7 @@
         }
       ]
     },
-    "pets-purest.co.uk": {
+    "petspurest.com": {
       "name": "Pets Purest",
       "category": "general",
       "codes": [
@@ -19465,7 +18963,7 @@
         }
       ]
     },
-    "justwears.co.uk": {
+    "just-wears.com": {
       "name": "Justwears",
       "category": "general",
       "codes": [
@@ -19551,7 +19049,7 @@
         }
       ]
     },
-    "anastasia-beverly-hills.co.uk": {
+    "anastasiabeverlyhills.com": {
       "name": "Anastasia Beverly Hills",
       "category": "general",
       "codes": [
@@ -19917,26 +19415,6 @@
           }
         },
         {
-          "code": "GOLDENHOUR",
-          "description": "$30 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://anastasiabeverlyhills.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "STUDIOTECH10",
           "description": "",
           "type": "unknown",
@@ -20124,7 +19602,7 @@
         }
       ]
     },
-    "oceans-alive.co.uk": {
+    "oceansalive.com": {
       "name": "Oceans Alive",
       "category": "general",
       "codes": [
@@ -20462,7 +19940,7 @@
         }
       ]
     },
-    "online-car-parts.co.uk": {
+    "onlinecarparts.com": {
       "name": "Online Car Parts",
       "category": "general",
       "codes": [
@@ -21375,7 +20853,7 @@
         }
       ]
     },
-    "gs-equestrian.co.uk": {
+    "gsequestrian.co.uk": {
       "name": "Gs Equestrian",
       "category": "general",
       "codes": [
@@ -21467,7 +20945,7 @@
         }
       ]
     },
-    "muscle-squad.co.uk": {
+    "musclesquad.com": {
       "name": "Muscle Squad",
       "category": "general",
       "codes": [
@@ -21574,26 +21052,6 @@
           }
         },
         {
-          "code": "PVCSET",
-          "description": "$49 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://musclesquad.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "WINTER10",
           "description": "10% off",
           "type": "percentage",
@@ -21638,46 +21096,6 @@
           "description": "5% off",
           "type": "percentage",
           "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://musclesquad.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SAVE200",
-          "description": "$200 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://musclesquad.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SAVE100",
-          "description": "$100 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -21838,26 +21256,6 @@
           "description": "7% off",
           "type": "percentage",
           "value": 7,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://musclesquad.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "RUN200",
-          "description": "$200 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -22035,7 +21433,7 @@
         }
       ]
     },
-    "acai-outdoorwear.co.uk": {
+    "acaioutdoorwear.com": {
       "name": "Acai Outdoorwear",
       "category": "general",
       "codes": [
@@ -22081,7 +21479,7 @@
         }
       ]
     },
-    "sculpted-by-aimee.co.uk": {
+    "sculptedbyaimee.com": {
       "name": "Sculpted By Aimee",
       "category": "general",
       "codes": [
@@ -22578,26 +21976,6 @@
           }
         },
         {
-          "code": "NEWHSN2026",
-          "description": "$20 Off Storewide (members Only) at HSN",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://delonghi.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "BETTERBREW",
           "description": "",
           "type": "unknown",
@@ -22745,7 +22123,7 @@
         }
       ]
     },
-    "tiger-sheds.co.uk": {
+    "tigersheds.com": {
       "name": "Tiger Sheds",
       "category": "general",
       "codes": [
@@ -23312,7 +22690,7 @@
         }
       ]
     },
-    "big-game-hunters.co.uk": {
+    "biggamehunters.co.uk": {
       "name": "Big Game Hunters",
       "category": "general",
       "codes": [
@@ -23769,26 +23147,6 @@
           }
         },
         {
-          "code": "WC15099DM",
-          "description": "15% Off Storewide at END.",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://paulsmith.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "REWARDS",
           "description": "",
           "type": "unknown",
@@ -23910,7 +23268,7 @@
         }
       ]
     },
-    "taps-uk.co.uk": {
+    "taps-uk.com": {
       "name": "Taps Uk",
       "category": "general",
       "codes": [
@@ -24735,7 +24093,7 @@
         }
       ]
     },
-    "the-essence-vault.co.uk": {
+    "theessencevault.co.uk": {
       "name": "The Essence Vault",
       "category": "general",
       "codes": [
@@ -25468,7 +24826,7 @@
         }
       ]
     },
-    "rachel-galley.co.uk": {
+    "rachelgalley.com": {
       "name": "Rachel Galley",
       "category": "general",
       "codes": [
@@ -25854,7 +25212,7 @@
         }
       ]
     },
-    "my-flowers.co.uk": {
+    "myflowers.com": {
       "name": "My Flowers",
       "category": "general",
       "codes": [
@@ -25966,7 +25324,7 @@
         }
       ]
     },
-    "reduce-my-excess.co.uk": {
+    "reducemyexcess.co.uk": {
       "name": "Reduce My Excess",
       "category": "general",
       "codes": [
@@ -26218,7 +25576,7 @@
         }
       ]
     },
-    "malin-and-goetz.co.uk": {
+    "malinandgoetz.co.uk": {
       "name": "Malin And Goetz",
       "category": "general",
       "codes": [
@@ -26244,7 +25602,7 @@
         }
       ]
     },
-    "bbc-maestro.co.uk": {
+    "bbcmaestro.com": {
       "name": "Bbc Maestro",
       "category": "general",
       "codes": [
@@ -26270,7 +25628,7 @@
         }
       ]
     },
-    "net-world-sports.co.uk": {
+    "networldsports.co.uk": {
       "name": "Net World Sports",
       "category": "general",
       "codes": [
@@ -26805,7 +26163,7 @@
         }
       ]
     },
-    "mi-supplies.co.uk": {
+    "misupplies.co.uk": {
       "name": "Mi Supplies",
       "category": "general",
       "codes": [
@@ -26857,7 +26215,7 @@
         }
       ]
     },
-    "vision-pharmacy.co.uk": {
+    "visionpharmacy.co.uk": {
       "name": "Vision Pharmacy",
       "category": "general",
       "codes": [
@@ -26987,26 +26345,6 @@
           "description": "5% off",
           "type": "percentage",
           "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://visionpharmacy.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "50FF2024",
-          "description": "$50 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -27204,7 +26542,7 @@
         }
       ]
     },
-    "7-for-all-mankind.co.uk": {
+    "7forallmankind.com": {
       "name": "7 For All Mankind",
       "category": "general",
       "codes": [
@@ -27249,50 +26587,10 @@
           }
         },
         {
-          "code": "WELCOME27FAM",
-          "description": "$20 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "GXP201Q0Y",
           "description": "20% off",
           "type": "percentage",
           "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "7BDAYACXI",
-          "description": "$25 off",
-          "type": "unknown",
-          "value": null,
           "minSpend": null,
           "expiry": null,
           "source": "knoji",
@@ -27569,386 +26867,6 @@
           }
         },
         {
-          "code": "7BDAYCW66",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "DGPB7FAM",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "7BDAYI5NF",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D242258",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D2KWB4K",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "GXP155SRI4ZWR",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D23W657",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "GXP20HHULQ19T",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D23W735",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D283888",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H79H",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H5XD",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H4C7",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H4KX",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H495",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H457",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H352",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H362",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "W15D38H2N4",
-          "description": "$15 off",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://7forallmankind.knoji.com/",
-          "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-07T14:44:36.803Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
           "code": "ZDH922YXK7X3",
           "description": "25% Off Storewide at Macy&#039;s",
           "type": "percentage",
@@ -28090,7 +27008,7 @@
         }
       ]
     },
-    "marshalls-garden.co.uk": {
+    "marshallsgarden.co.uk": {
       "name": "Marshalls Garden",
       "category": "general",
       "codes": [
@@ -28208,32 +27126,6 @@
         }
       ]
     },
-    "gatwick-holiday-parking.co.uk": {
-      "name": "Gatwick Holiday Parking",
-      "category": "general",
-      "codes": [
-        {
-          "code": "TODAY15OFF",
-          "description": "15% off Gatwick Holiday Parking Bookings",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/gatwick-holiday-parking-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "naturewall.co.uk": {
       "name": "Naturewall",
       "category": "general",
@@ -28286,7 +27178,7 @@
         }
       ]
     },
-    "netski.co.uk": {
+    "netski.com": {
       "name": "Netski",
       "category": "general",
       "codes": [
@@ -28845,7 +27737,7 @@
         }
       ]
     },
-    "discounted-sunglasses.co.uk": {
+    "discountedsunglasses.co.uk": {
       "name": "Discounted Sunglasses",
       "category": "general",
       "codes": [
@@ -28983,7 +27875,7 @@
         }
       ]
     },
-    "tymo-beauty.co.uk": {
+    "tymobeauty.com": {
       "name": "Tymo Beauty",
       "category": "general",
       "codes": [
@@ -29029,7 +27921,7 @@
         }
       ]
     },
-    "bondi-body.co.uk": {
+    "bondi-body.com": {
       "name": "Bondi Body",
       "category": "general",
       "codes": [
@@ -29055,7 +27947,7 @@
         }
       ]
     },
-    "caroline-gardner.co.uk": {
+    "carolinegardner.com": {
       "name": "Caroline Gardner",
       "category": "general",
       "codes": [
@@ -29081,7 +27973,7 @@
         }
       ]
     },
-    "royal-bathrooms.co.uk": {
+    "royal-bathrooms.com": {
       "name": "Royal Bathrooms",
       "category": "general",
       "codes": [
@@ -29107,53 +27999,7 @@
         }
       ]
     },
-    "yuplay.co.uk": {
-      "name": "Yuplay",
-      "category": "general",
-      "codes": [
-        {
-          "code": "CHILLPLAY3",
-          "description": "3% off orders at Yuplay",
-          "type": "percentage",
-          "value": 3,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/yuplay-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "WINTERGIFT",
-          "description": "3% off orders at Yuplay",
-          "type": "percentage",
-          "value": 3,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/yuplay-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "ok-mobility.co.uk": {
+    "okmobility.com": {
       "name": "Ok Mobility",
       "category": "general",
       "codes": [
@@ -29245,7 +28091,7 @@
         }
       ]
     },
-    "fenty-beauty.co.uk": {
+    "fentybeauty.co.uk": {
       "name": "Fenty Beauty",
       "category": "general",
       "codes": [
@@ -29337,7 +28183,7 @@
         }
       ]
     },
-    "farm-rio.co.uk": {
+    "farmrio.com": {
       "name": "Farm Rio",
       "category": "general",
       "codes": [
@@ -29363,33 +28209,7 @@
         }
       ]
     },
-    "forena.co.uk": {
-      "name": "Forena",
-      "category": "general",
-      "codes": [
-        {
-          "code": "NEXTDAY",
-          "description": "Free Next Day Delivery on all orders at Forena",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/forena-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "posh-totty-designs.co.uk": {
+    "poshtottydesigns.com": {
       "name": "Posh Totty Designs",
       "category": "general",
       "codes": [
@@ -29415,7 +28235,7 @@
         }
       ]
     },
-    "major-golf-direct.co.uk": {
+    "majorgolfdirect.co.uk": {
       "name": "Major Golf Direct",
       "category": "general",
       "codes": [
@@ -29501,7 +28321,7 @@
         }
       ]
     },
-    "hello-molly.co.uk": {
+    "hellomolly.co.uk": {
       "name": "Hello Molly",
       "category": "general",
       "codes": [
@@ -29639,59 +28459,7 @@
         }
       ]
     },
-    "dr-barbara-sturm.co.uk": {
-      "name": "Dr Barbara Sturm",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SS26AFF",
-          "description": "Summer Savings: Up to £105 off orders over £350 at Dr. Barbara Sturm",
-          "type": "fixed",
-          "value": 105,
-          "minSpend": 350,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/dr-barbara-sturm-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "ag1.co.uk": {
-      "name": "Ag1",
-      "category": "general",
-      "codes": [
-        {
-          "code": "HEALTHY26",
-          "description": "26% off Your AG1 First Subscription",
-          "type": "percentage",
-          "value": 26,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/ag1-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "hunza-g.co.uk": {
+    "hunzag.com": {
       "name": "Hunza G",
       "category": "general",
       "codes": [
@@ -29743,7 +28511,7 @@
         }
       ]
     },
-    "momcozy.co.uk": {
+    "momcozy.com": {
       "name": "Momcozy",
       "category": "general",
       "codes": [
@@ -29809,7 +28577,7 @@
         }
       ]
     },
-    "tatti-lashes.co.uk": {
+    "tattilashes.co.uk": {
       "name": "Tatti Lashes",
       "category": "general",
       "codes": [
@@ -29835,7 +28603,7 @@
         }
       ]
     },
-    "schoffel-country.co.uk": {
+    "schoffelcountry.com": {
       "name": "Schoffel Country",
       "category": "general",
       "codes": [
@@ -29861,7 +28629,7 @@
         }
       ]
     },
-    "sans-matin.co.uk": {
+    "sansmatin.co.uk": {
       "name": "Sans Matin",
       "category": "general",
       "codes": [
@@ -29907,7 +28675,7 @@
         }
       ]
     },
-    "city-beach.co.uk": {
+    "citybeach.co.uk": {
       "name": "City Beach",
       "category": "general",
       "codes": [
@@ -29979,7 +28747,7 @@
         }
       ]
     },
-    "healthspan-elite.co.uk": {
+    "healthspanelite.co.uk": {
       "name": "Healthspan Elite",
       "category": "general",
       "codes": [
@@ -30157,7 +28925,7 @@
         }
       ]
     },
-    "les-mills.co.uk": {
+    "lesmills.co.uk": {
       "name": "Les Mills",
       "category": "general",
       "codes": [
@@ -30321,7 +29089,7 @@
         }
       ]
     },
-    "cutter-and-squidge.co.uk": {
+    "cutterandsquidge.com": {
       "name": "Cutter And Squidge",
       "category": "general",
       "codes": [
@@ -30635,7 +29403,7 @@
         }
       ]
     },
-    "good-tuesday.co.uk": {
+    "good-tuesday.com": {
       "name": "Good Tuesday",
       "category": "general",
       "codes": [
@@ -30661,7 +29429,7 @@
         }
       ]
     },
-    "simply-sensitivity-checks.co.uk": {
+    "simplysensitivitychecks.co.uk": {
       "name": "Simply Sensitivity Checks",
       "category": "general",
       "codes": [
@@ -30677,92 +29445,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/simply-sensitivity-checks-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "unice.co.uk": {
-      "name": "Unice",
-      "category": "general",
-      "codes": [
-        {
-          "code": "LV0J4LRCCIN30",
-          "description": "15% off orders at UNice",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/unice-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LV014UT860",
-          "description": "£40.01 off orders at UNice",
-          "type": "fixed",
-          "value": 40.01,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/unice-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LV0VPVM6W7H45",
-          "description": "£28.07 off orders at UNice",
-          "type": "fixed",
-          "value": 28.07,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/unice-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LV0A2GQN20",
-          "description": "£16.04 off orders at UNice",
-          "type": "fixed",
-          "value": 16.04,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/unice-discount-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-07T15:08:25.222Z",
           "testResults": {
@@ -30845,73 +29527,7 @@
         }
       ]
     },
-    "hey-big-day.co.uk": {
-      "name": "Hey Big Day",
-      "category": "general",
-      "codes": [
-        {
-          "code": "EGPNCVXD4JC4",
-          "description": "30% off orders over £200 at Hey Big Day",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": 200,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/hey-big-day-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "15OFF",
-          "description": "15% off orders at Hey Big Day",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/hey-big-day-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "3FOR2",
-          "description": "3 for 2 on Charms at Hey Big Day",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/hey-big-day-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "bike-club.co.uk": {
+    "bikeclub.co.uk": {
       "name": "Bike Club",
       "category": "general",
       "codes": [
@@ -30957,32 +29573,6 @@
         }
       ]
     },
-    "and-other-stories.co.uk": {
-      "name": "And Other Stories",
-      "category": "general",
-      "codes": [
-        {
-          "code": "WERESORRY",
-          "description": "10% off orders at & Other Stories",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/and-other-stories-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "max-photo.co.uk": {
       "name": "Max Photo",
       "category": "general",
@@ -31009,7 +29599,7 @@
         }
       ]
     },
-    "zen-hotels.co.uk": {
+    "zenhotels.co.uk": {
       "name": "Zen Hotels",
       "category": "general",
       "codes": [
@@ -31181,7 +29771,7 @@
         }
       ]
     },
-    "anker-solix.co.uk": {
+    "ankersolix.com": {
       "name": "Anker Solix",
       "category": "general",
       "codes": [
@@ -31199,72 +29789,6 @@
           "url": "https://www.savoo.co.uk/brands/anker-solix-discount-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "leeds-united-store.co.uk": {
-      "name": "Leeds United Store",
-      "category": "general",
-      "codes": [
-        {
-          "code": "WHITEROSE",
-          "description": "Free Delivery at Leeds United Store",
-          "type": "free_shipping",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/leeds-united-store-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LUFCSAS10",
-          "description": "10% off Full-Priced orders at Leeds United Store",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/leeds-united-store-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LUFCFREESHIP",
-          "description": "Free Delivery on orders at Leeds United Store",
-          "type": "free_shipping",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/leeds-united-store-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -31411,7 +29935,7 @@
         }
       ]
     },
-    "alex-monroe.co.uk": {
+    "alexmonroe.com": {
       "name": "Alex Monroe",
       "category": "general",
       "codes": [
@@ -31529,7 +30053,7 @@
         }
       ]
     },
-    "northern-gym-equipment.co.uk": {
+    "northerngymequipment.co.uk": {
       "name": "Northern Gym Equipment",
       "category": "general",
       "codes": [
@@ -31575,7 +30099,7 @@
         }
       ]
     },
-    "mauli-rituals.co.uk": {
+    "maulirituals.com": {
       "name": "Mauli Rituals",
       "category": "general",
       "codes": [
@@ -31877,7 +30401,7 @@
         }
       ]
     },
-    "evolve-beauty.co.uk": {
+    "evolvebeauty.com": {
       "name": "Evolve Beauty",
       "category": "general",
       "codes": [
@@ -31903,7 +30427,7 @@
         }
       ]
     },
-    "orla-kiely.co.uk": {
+    "orlakiely.com": {
       "name": "Orla Kiely",
       "category": "general",
       "codes": [
@@ -31929,7 +30453,7 @@
         }
       ]
     },
-    "lola-health.co.uk": {
+    "lolahealth.com": {
       "name": "Lola Health",
       "category": "general",
       "codes": [
@@ -32127,7 +30651,7 @@
         }
       ]
     },
-    "bperfect-cosmetics.co.uk": {
+    "bperfectcosmetics.com": {
       "name": "Bperfect Cosmetics",
       "category": "general",
       "codes": [
@@ -32225,7 +30749,7 @@
         }
       ]
     },
-    "noli.co.uk": {
+    "noli.com": {
       "name": "Noli",
       "category": "general",
       "codes": [
@@ -32333,32 +30857,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/your-medicals-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "fussy-deodorant.co.uk": {
-      "name": "Fussy Deodorant",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BANKHOL",
-          "description": "20% off orders at Fussy Deodorant",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/fussy-deodorant-discount-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-07T15:08:25.222Z",
           "testResults": {
@@ -32697,7 +31195,7 @@
         }
       ]
     },
-    "sassy-saints.co.uk": {
+    "sassysaints.com": {
       "name": "Sassy Saints",
       "category": "general",
       "codes": [
@@ -32783,7 +31281,7 @@
         }
       ]
     },
-    "tangem.co.uk": {
+    "tangem.com": {
       "name": "Tangem",
       "category": "general",
       "codes": [
@@ -32881,7 +31379,7 @@
         }
       ]
     },
-    "snus-vikings.co.uk": {
+    "snusvikings.co.uk": {
       "name": "Snus Vikings",
       "category": "general",
       "codes": [
@@ -32953,7 +31451,7 @@
         }
       ]
     },
-    "tyre-pros.co.uk": {
+    "tyrepros.co.uk": {
       "name": "Tyre Pros",
       "category": "general",
       "codes": [
@@ -33065,7 +31563,7 @@
         }
       ]
     },
-    "xero-shoes.co.uk": {
+    "xeroshoes.co.uk": {
       "name": "Xero Shoes",
       "category": "general",
       "codes": [
@@ -33143,33 +31641,7 @@
         }
       ]
     },
-    "ingenious-laboratories.co.uk": {
-      "name": "Ingenious Laboratories",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SAVING",
-          "description": "Exclusive 15% off First order at Ingenious Laboratories",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/ingenious-laboratories-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T15:08:25.222Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "jomo-london.co.uk": {
+    "jomolondon.com": {
       "name": "Jomo London",
       "category": "general",
       "codes": [
@@ -33261,7 +31733,7 @@
         }
       ]
     },
-    "aliexpress.co.uk": {
+    "aliexpress.com": {
       "name": "Aliexpress",
       "category": "general",
       "codes": [
@@ -33652,52 +32124,6 @@
         }
       ]
     },
-    "new-look.co.uk": {
-      "name": "New Look",
-      "category": "general",
-      "codes": [
-        {
-          "code": "APP10",
-          "description": "10% off First Order on the LOOKFANTASTIC App",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "APP25",
-          "description": "25% off Orders Plus Free Next Day Delivery on the New Look App - Today Only",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/new-look-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "clifton-cameras.co.uk": {
       "name": "Clifton Cameras",
       "category": "general",
@@ -33714,32 +32140,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/clifton-cameras-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "emp-voucher-codes.co.uk": {
-      "name": "Emp Voucher Codes",
-      "category": "general",
-      "codes": [
-        {
-          "code": "MIDWEEK",
-          "description": "15% off Your Next Outfit over £59.99 at EMP",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": 59.99,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/emp-voucher-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -33968,7 +32368,7 @@
         }
       ]
     },
-    "princess-polly.co.uk": {
+    "princess-polly.com": {
       "name": "Princess Polly",
       "category": "general",
       "codes": [
@@ -34140,7 +32540,7 @@
         }
       ]
     },
-    "secret-sales.co.uk": {
+    "secretsales.com": {
       "name": "Secret Sales",
       "category": "general",
       "codes": [
@@ -34226,7 +32626,7 @@
         }
       ]
     },
-    "professional-building-supplies.co.uk": {
+    "professionalbuildingsupplies.com": {
       "name": "Professional Building Supplies",
       "category": "general",
       "codes": [
@@ -34714,7 +33114,7 @@
         }
       ]
     },
-    "charles-tyrwhitt.co.uk": {
+    "charlestyrwhitt.com": {
       "name": "Charles Tyrwhitt",
       "category": "general",
       "codes": [
@@ -34806,7 +33206,7 @@
         }
       ]
     },
-    "activity-superstore.co.uk": {
+    "activitysuperstore.co.uk": {
       "name": "Activity Superstore",
       "category": "general",
       "codes": [
@@ -34842,58 +33242,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/activity-superstore-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "f1-store.co.uk": {
-      "name": "F1 Store",
-      "category": "general",
-      "codes": [
-        {
-          "code": "F1TRACK",
-          "description": "40% off orders at F1 Store",
-          "type": "percentage",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/f1-store-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "dockers-uk.co.uk": {
-      "name": "Dockers Uk",
-      "category": "general",
-      "codes": [
-        {
-          "code": "GETGOING",
-          "description": "Extra £5 off Go Pants at Dockers",
-          "type": "fixed",
-          "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/dockers-uk-discount-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -34950,7 +33298,7 @@
         }
       ]
     },
-    "vivaia.co.uk": {
+    "vivaia.com": {
       "name": "Vivaia",
       "category": "general",
       "codes": [
@@ -35212,7 +33560,7 @@
         }
       ]
     },
-    "kicks-crew.co.uk": {
+    "kickscrew.com": {
       "name": "Kicks Crew",
       "category": "general",
       "codes": [
@@ -35344,32 +33692,6 @@
         }
       ]
     },
-    "teva.co.uk": {
-      "name": "Teva",
-      "category": "general",
-      "codes": [
-        {
-          "code": "JUNE15",
-          "description": "15% off Full-Priced orders at Teva",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/teva-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "vistaprint.co.uk": {
       "name": "Vistaprint",
       "category": "general",
@@ -35426,52 +33748,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/vistaprint-promo-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "green-chef.co.uk": {
-      "name": "Green Chef",
-      "category": "general",
-      "codes": [
-        {
-          "code": "GCLIST",
-          "description": "40% off First Box at Green Chef",
-          "type": "percentage",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/green-chef-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EATGREEN",
-          "description": "30% off First Box at Green Chef",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/green-chef-discount-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -35720,7 +33996,7 @@
         }
       ]
     },
-    "hot-diamonds.co.uk": {
+    "hotdiamonds.co.uk": {
       "name": "Hot Diamonds",
       "category": "general",
       "codes": [
@@ -35944,7 +34220,7 @@
         }
       ]
     },
-    "jd-williams.co.uk": {
+    "jdwilliams.co.uk": {
       "name": "Jd Williams",
       "category": "general",
       "codes": [
@@ -35970,7 +34246,7 @@
         }
       ]
     },
-    "avanti-travel-insurance.co.uk": {
+    "avantitravelinsurance.co.uk": {
       "name": "Avanti Travel Insurance",
       "category": "general",
       "codes": [
@@ -36062,7 +34338,7 @@
         }
       ]
     },
-    "supply-life.co.uk": {
+    "supplylife.com": {
       "name": "Supply Life",
       "category": "general",
       "codes": [
@@ -36194,72 +34470,6 @@
         }
       ]
     },
-    "park-and-go-airport-parking.co.uk": {
-      "name": "Park And Go Airport Parking",
-      "category": "general",
-      "codes": [
-        {
-          "code": "GOAL26",
-          "description": "14% off Airport Parking at Park and Go",
-          "type": "percentage",
-          "value": 14,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/park-and-go-airport-parking-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "MAY26",
-          "description": "14% off Airport Parking at Park and Go",
-          "type": "percentage",
-          "value": 14,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/park-and-go-airport-parking-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "ROSE14",
-          "description": "14% off orders at Park and Go Airport Parking",
-          "type": "percentage",
-          "value": 14,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/park-and-go-airport-parking-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "houseof.co.uk": {
       "name": "Houseof",
       "category": "general",
@@ -36306,7 +34516,7 @@
         }
       ]
     },
-    "malaysia-airlines.co.uk": {
+    "malaysiaairlines.com": {
       "name": "Malaysia Airlines",
       "category": "general",
       "codes": [
@@ -36398,7 +34608,7 @@
         }
       ]
     },
-    "coffee-friend.co.uk": {
+    "coffeefriend.co.uk": {
       "name": "Coffee Friend",
       "category": "general",
       "codes": [
@@ -36424,7 +34634,7 @@
         }
       ]
     },
-    "forest-holidays.co.uk": {
+    "forestholidays.co.uk": {
       "name": "Forest Holidays",
       "category": "general",
       "codes": [
@@ -36608,99 +34818,7 @@
         }
       ]
     },
-    "cherry-lane-garden-centres.co.uk": {
-      "name": "Cherry Lane Garden Centres",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SAVER40",
-          "description": "£40 off Full-Priced orders over £2000 at Cherry Lane Garden Centres",
-          "type": "fixed",
-          "value": 40,
-          "minSpend": 2000,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/cherry-lane-garden-centres-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "maxpeeding-rods.co.uk": {
-      "name": "Maxpeeding Rods",
-      "category": "general",
-      "codes": [
-        {
-          "code": "EST8",
-          "description": "8% off Easter Sale at Maxpeedingrods",
-          "type": "percentage",
-          "value": 8,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/maxpeeding-rods-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "COMBO9",
-          "description": "9% off Combined Products at Maxpeedingrods",
-          "type": "percentage",
-          "value": 9,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/maxpeeding-rods-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "WELCOME",
-          "description": "10% off orders at Maxpeedingrods",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/maxpeeding-rods-discount-codes",
-          "addedAt": "2026-09-07T15:08:25.222Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "end-clothing.co.uk": {
+    "endclothing.com": {
       "name": "End Clothing",
       "category": "general",
       "codes": [
@@ -36726,7 +34844,7 @@
         }
       ]
     },
-    "aldo-shoes.co.uk": {
+    "aldoshoes.co.uk": {
       "name": "Aldo Shoes",
       "category": "general",
       "codes": [
@@ -36752,7 +34870,7 @@
         }
       ]
     },
-    "addison-ross.co.uk": {
+    "addisonross.com": {
       "name": "Addison Ross",
       "category": "general",
       "codes": [
@@ -36818,7 +34936,7 @@
         }
       ]
     },
-    "vampire-vape.co.uk": {
+    "vampirevape.co.uk": {
       "name": "Vampire Vape",
       "category": "general",
       "codes": [
@@ -36936,7 +35054,7 @@
         }
       ]
     },
-    "books-4-people.co.uk": {
+    "books4people.co.uk": {
       "name": "Books 4 People",
       "category": "general",
       "codes": [
@@ -37054,7 +35172,7 @@
         }
       ]
     },
-    "heat-holders.co.uk": {
+    "heatholders.co.uk": {
       "name": "Heat Holders",
       "category": "general",
       "codes": [
@@ -37116,52 +35234,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/vitabiotics-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "dresslily.co.uk": {
-      "name": "Dresslily",
-      "category": "general",
-      "codes": [
-        {
-          "code": "D126",
-          "description": "20% off orders at Dresslily",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/dresslily-discount-codes",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SALE24",
-          "description": "£44.65 off orders over £185.32 at Dresslily",
-          "type": "fixed",
-          "value": 44.65,
-          "minSpend": 185.32,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/dresslily-discount-codes",
           "addedAt": "2026-09-07T12:13:14.338Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -38142,26 +36214,6 @@
           "code": "DUN23FREEFURNDEL",
           "description": "Free Shipping On Furniture at Dunelm",
           "type": "free_shipping",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "coupert",
-          "sources": [
-            "coupert"
-          ],
-          "url": "https://uk.coupert.com/promo-code/dunelm",
-          "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T12:13:14.338Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "OXFORD14",
-          "description": "Deal: Take $2 Off Your Order",
-          "type": "unknown",
           "value": null,
           "minSpend": null,
           "expiry": null,
@@ -39193,32 +37245,6 @@
         }
       ]
     },
-    "googlelocal.co.uk": {
-      "name": "Google Local Guides",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PER",
-          "description": "15% off Google Pixel 11 For Google Local Guides (Via Email / Account Specific)",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "hotukdeals",
-          "sources": [
-            "hotukdeals"
-          ],
-          "url": "",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "tennis-point.co.uk": {
       "name": "Tennis Point",
       "category": "general",
@@ -39437,7 +37463,7 @@
         }
       ]
     },
-    "online-home-shop.co.uk": {
+    "onlinehomeshop.com": {
       "name": "Online Home Shop",
       "category": "general",
       "codes": [
@@ -39463,33 +37489,7 @@
         }
       ]
     },
-    "foreo-international.co.uk": {
-      "name": "Foreo International",
-      "category": "general",
-      "codes": [
-        {
-          "code": "FOREOBD",
-          "description": "35% off orders at Foreo",
-          "type": "percentage",
-          "value": 35,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/foreo-international-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "post-my-meds.co.uk": {
+    "postmymeds.co.uk": {
       "name": "Post My Meds",
       "category": "general",
       "codes": [
@@ -39595,7 +37595,7 @@
         }
       ]
     },
-    "le-col.co.uk": {
+    "le-col.com": {
       "name": "Le Col",
       "category": "general",
       "codes": [
@@ -39661,7 +37661,7 @@
         }
       ]
     },
-    "the-double-f.co.uk": {
+    "thedoublef.com": {
       "name": "The Double F",
       "category": "general",
       "codes": [
@@ -39773,7 +37773,7 @@
         }
       ]
     },
-    "the-north-face.co.uk": {
+    "thenorthface.co.uk": {
       "name": "The North Face",
       "category": "general",
       "codes": [
@@ -40035,7 +38035,7 @@
         }
       ]
     },
-    "vegan-outfitters.co.uk": {
+    "veganoutfitters.co.uk": {
       "name": "Vegan Outfitters",
       "category": "general",
       "codes": [
@@ -40121,73 +38121,7 @@
         }
       ]
     },
-    "perch-and-parrow-ltd.co.uk": {
-      "name": "Perch And Parrow Ltd",
-      "category": "general",
-      "codes": [
-        {
-          "code": "MAY10",
-          "description": "10% off orders at Perch and Parrow",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/perch-and-parrow-ltd-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SPRING10",
-          "description": "10% off Everything at Perch and Parrow",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/perch-and-parrow-ltd-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EASTER10",
-          "description": "10% off Sitewide at Perch and Parrow",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/perch-and-parrow-ltd-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "p-and-co.co.uk": {
+    "pandco.com": {
       "name": "P And Co",
       "category": "general",
       "codes": [
@@ -40357,7 +38291,7 @@
         }
       ]
     },
-    "perfumes-club.co.uk": {
+    "perfumesclub.co.uk": {
       "name": "Perfumes Club",
       "category": "general",
       "codes": [
@@ -40445,32 +38379,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/bstn-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "allclear-travel-insurance.co.uk": {
-      "name": "Allclear Travel Insurance",
-      "category": "general",
-      "codes": [
-        {
-          "code": "NY26",
-          "description": "Up to 20% off orders at AllClear Travel Insurance",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/allclear-travel-insurance-discount-codes",
           "addedAt": "2026-09-08T10:21:39.687Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -40699,53 +38607,7 @@
         }
       ]
     },
-    "direct-fireplaces-voucher-codes.co.uk": {
-      "name": "Direct Fireplaces Voucher Codes",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SPRING5",
-          "description": "Bank Holiday Spring Sale: 5% off orders at Direct Fireplaces",
-          "type": "percentage",
-          "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/direct-fireplaces-voucher-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EVON20",
-          "description": "20% off Evonic Fires at Direct Fireplaces",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/direct-fireplaces-voucher-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "olivia-burton.co.uk": {
+    "oliviaburton.com": {
       "name": "Olivia Burton",
       "category": "general",
       "codes": [
@@ -40827,112 +38689,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/holland-and-barrett-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "honor-uk.co.uk": {
-      "name": "Honor Uk",
-      "category": "general",
-      "codes": [
-        {
-          "code": "A600AU100",
-          "description": "£100 Honor 600 8+256GB",
-          "type": "fixed",
-          "value": 100,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/honor-uk-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AWT2PRO50",
-          "description": "£40 off Honor Choice Watch 2 Pro",
-          "type": "fixed",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/honor-uk-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AWT2EP70",
-          "description": "£70 off Honor Choice Watch 2 Epic",
-          "type": "fixed",
-          "value": 70,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/honor-uk-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AHPMAX70",
-          "description": "£70 off Honor Choice Headphones Max",
-          "type": "fixed",
-          "value": 70,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/honor-uk-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "APJAPRO70",
-          "description": "£70 off Honor Choice Projector Air Pro",
-          "type": "fixed",
-          "value": 70,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/honor-uk-discount-codes",
           "addedAt": "2026-09-08T10:21:39.687Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -41379,73 +39135,7 @@
         }
       ]
     },
-    "futureyou-cambridge.co.uk": {
-      "name": "Futureyou Cambridge",
-      "category": "general",
-      "codes": [
-        {
-          "code": "WEL20",
-          "description": "20% off orders at FutureYou Cambridge",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/futureyou-cambridge-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "TAKE5",
-          "description": "£5 off orders at FutureYou Cambridge",
-          "type": "fixed",
-          "value": 5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/futureyou-cambridge-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "TAKE35",
-          "description": "35% off orders at FutureYou Cambridge",
-          "type": "percentage",
-          "value": 35,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/futureyou-cambridge-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "katie-loxton.co.uk": {
+    "katieloxton.com": {
       "name": "Katie Loxton",
       "category": "general",
       "codes": [
@@ -41471,7 +39161,7 @@
         }
       ]
     },
-    "skin-and-me.co.uk": {
+    "skinandme.com": {
       "name": "Skin And Me",
       "category": "general",
       "codes": [
@@ -41569,7 +39259,7 @@
         }
       ]
     },
-    "druids-golf.co.uk": {
+    "druidsgolf.com": {
       "name": "Druids Golf",
       "category": "general",
       "codes": [
@@ -41595,7 +39285,7 @@
         }
       ]
     },
-    "chelsea-peers-nyc.co.uk": {
+    "chelseapeersnyc.com": {
       "name": "Chelsea Peers Nyc",
       "category": "general",
       "codes": [
@@ -41641,7 +39331,7 @@
         }
       ]
     },
-    "marshall-headphones.co.uk": {
+    "marshall-headphones.com": {
       "name": "Marshall Headphones",
       "category": "general",
       "codes": [
@@ -41667,33 +39357,7 @@
         }
       ]
     },
-    "totes-isotoner.co.uk": {
-      "name": "Totes Isotoner",
-      "category": "general",
-      "codes": [
-        {
-          "code": "NEWS10",
-          "description": "10% off orders at Totes Isotoner",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/totes-isotoner-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "castlegate-lights.co.uk": {
+    "castlegatelights.co.uk": {
       "name": "Castlegate Lights",
       "category": "general",
       "codes": [
@@ -41785,7 +39449,7 @@
         }
       ]
     },
-    "martin-dawes.co.uk": {
+    "martindawesrentals.com": {
       "name": "Martin Dawes",
       "category": "general",
       "codes": [
@@ -41831,7 +39495,7 @@
         }
       ]
     },
-    "the-protein-works.co.uk": {
+    "theproteinworks.com": {
       "name": "The Protein Works",
       "category": "general",
       "codes": [
@@ -42165,7 +39829,7 @@
         }
       ]
     },
-    "pooch-and-mutt.co.uk": {
+    "poochandmutt.co.uk": {
       "name": "Pooch And Mutt",
       "category": "general",
       "codes": [
@@ -42363,7 +40027,7 @@
         }
       ]
     },
-    "pro-direct-sport.co.uk": {
+    "prodirectsport.com": {
       "name": "Pro Direct Sport",
       "category": "general",
       "codes": [
@@ -42731,7 +40395,7 @@
         }
       ]
     },
-    "fat-buddha-store.co.uk": {
+    "fatbuddhastore.com": {
       "name": "Fat Buddha Store",
       "category": "general",
       "codes": [
@@ -42863,72 +40527,6 @@
         }
       ]
     },
-    "ruby-and-oscar.co.uk": {
-      "name": "Ruby And Oscar",
-      "category": "general",
-      "codes": [
-        {
-          "code": "10DIAMOND",
-          "description": "10% off Diamond Necklaces at Ruby & Oscar",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/ruby-and-oscar-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "08ROAFF",
-          "description": "8% off orders at Ruby & Oscar",
-          "type": "percentage",
-          "value": 8,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/ruby-and-oscar-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "ROAFF10",
-          "description": "10% off orders at Ruby & Oscar",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/ruby-and-oscar-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "walking-pad.co.uk": {
       "name": "Walking Pad",
       "category": "general",
@@ -42975,7 +40573,7 @@
         }
       ]
     },
-    "diamonds-factory.co.uk": {
+    "diamondsfactory.co.uk": {
       "name": "Diamonds Factory",
       "category": "general",
       "codes": [
@@ -43153,7 +40751,7 @@
         }
       ]
     },
-    "incontinence-choice.co.uk": {
+    "incontinencechoice.co.uk": {
       "name": "Incontinence Choice",
       "category": "general",
       "codes": [
@@ -43265,7 +40863,7 @@
         }
       ]
     },
-    "cycles-uk.co.uk": {
+    "cyclesuk.com": {
       "name": "Cycles Uk",
       "category": "general",
       "codes": [
@@ -43311,7 +40909,7 @@
         }
       ]
     },
-    "cox-and-cox.co.uk": {
+    "coxandcox.co.uk": {
       "name": "Cox And Cox",
       "category": "general",
       "codes": [
@@ -43377,7 +40975,7 @@
         }
       ]
     },
-    "happy-beaks.co.uk": {
+    "happybeaks.co.uk": {
       "name": "Happy Beaks",
       "category": "general",
       "codes": [
@@ -43443,7 +41041,7 @@
         }
       ]
     },
-    "soak-and-sleep.co.uk": {
+    "soakandsleep.com": {
       "name": "Soak And Sleep",
       "category": "general",
       "codes": [
@@ -43575,7 +41173,7 @@
         }
       ]
     },
-    "make-my-blinds.co.uk": {
+    "makemyblinds.co.uk": {
       "name": "Make My Blinds",
       "category": "general",
       "codes": [
@@ -43641,7 +41239,7 @@
         }
       ]
     },
-    "4th-and-reckless.co.uk": {
+    "4thandreckless.com": {
       "name": "4th And Reckless",
       "category": "general",
       "codes": [
@@ -43667,53 +41265,7 @@
         }
       ]
     },
-    "the-inn-collection.co.uk": {
-      "name": "The Inn Collection",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BLOOM2026",
-          "description": "£39.50 Spring Escapes at The Inn Collection",
-          "type": "fixed",
-          "value": 39.5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/the-inn-collection-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "WINTER25",
-          "description": "Winter Breaks from £54.50 at The Inn Collection",
-          "type": "fixed",
-          "value": 54.5,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/the-inn-collection-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "abbott-lyon.co.uk": {
+    "abbottlyon.com": {
       "name": "Abbott Lyon",
       "category": "general",
       "codes": [
@@ -43779,7 +41331,7 @@
         }
       ]
     },
-    "peter-tyson.co.uk": {
+    "petertyson.co.uk": {
       "name": "Peter Tyson",
       "category": "general",
       "codes": [
@@ -43903,7 +41455,7 @@
         }
       ]
     },
-    "burton-snowboards.co.uk": {
+    "burtonsnowboards.co.uk": {
       "name": "Burton Snowboards",
       "category": "general",
       "codes": [
@@ -44021,7 +41573,7 @@
         }
       ]
     },
-    "hawes-and-curtis.co.uk": {
+    "hawesandcurtis.co.uk": {
       "name": "Hawes And Curtis",
       "category": "general",
       "codes": [
@@ -44159,7 +41711,7 @@
         }
       ]
     },
-    "sweatband.co.uk": {
+    "sweatband.com": {
       "name": "Sweatband",
       "category": "general",
       "codes": [
@@ -44283,7 +41835,7 @@
         }
       ]
     },
-    "alo-yoga.co.uk": {
+    "aloyoga.com": {
       "name": "Alo Yoga",
       "category": "general",
       "codes": [
@@ -44319,52 +41871,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/alo-yoga-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "runnerinn.co.uk": {
-      "name": "Runnerinn",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BLL15",
-          "description": "15% off Selected Items at RunnerInn",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/runnerinn-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "WWAP10",
-          "description": "10% off Selected Items at RunnerInn",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/runnerinn-discount-codes",
           "addedAt": "2026-09-08T10:21:39.687Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -44559,7 +42065,7 @@
         }
       ]
     },
-    "cathay-pacific.co.uk": {
+    "cathaypacific.com": {
       "name": "Cathay Pacific",
       "category": "general",
       "codes": [
@@ -44875,7 +42381,7 @@
         }
       ]
     },
-    "ideal-world.co.uk": {
+    "idealworld.com": {
       "name": "Ideal World",
       "category": "general",
       "codes": [
@@ -44901,7 +42407,7 @@
         }
       ]
     },
-    "noble-panacea.co.uk": {
+    "noblepanacea.com": {
       "name": "Noble Panacea",
       "category": "general",
       "codes": [
@@ -44947,7 +42453,7 @@
         }
       ]
     },
-    "bed-kingdom.co.uk": {
+    "bedkingdom.co.uk": {
       "name": "Bed Kingdom",
       "category": "general",
       "codes": [
@@ -45039,7 +42545,7 @@
         }
       ]
     },
-    "firestar-toys.co.uk": {
+    "firestartoys.com": {
       "name": "Firestar Toys",
       "category": "general",
       "codes": [
@@ -45085,7 +42591,7 @@
         }
       ]
     },
-    "olivia-and-pearl.co.uk": {
+    "oliviaandpearl.com": {
       "name": "Olivia And Pearl",
       "category": "general",
       "codes": [
@@ -45131,7 +42637,7 @@
         }
       ]
     },
-    "beauty-the-shop.co.uk": {
+    "beautytheshop.com": {
       "name": "Beauty The Shop",
       "category": "general",
       "codes": [
@@ -45203,7 +42709,7 @@
         }
       ]
     },
-    "heavenly-feet.co.uk": {
+    "heavenlyfeet.co.uk": {
       "name": "Heavenly Feet",
       "category": "general",
       "codes": [
@@ -45631,7 +43137,7 @@
         }
       ]
     },
-    "tj-hughes.co.uk": {
+    "tjhughes.co.uk": {
       "name": "Tj Hughes",
       "category": "general",
       "codes": [
@@ -45795,84 +43301,6 @@
         }
       ]
     },
-    "pharmacy2u-shop.co.uk": {
-      "name": "Pharmacy2u Shop",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PAY40",
-          "description": "Extra 15% When you Spend £40 Health and Wellness at Pharmacy2u",
-          "type": "fixed",
-          "value": 40,
-          "minSpend": 40,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/pharmacy2u-shop-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "alex-and-alexa.co.uk": {
-      "name": "Alex And Alexa",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BABY20",
-          "description": "20% off New Selected Items at Alex and Alexa",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/alex-and-alexa-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "john-greed-jewellery.co.uk": {
-      "name": "John Greed Jewellery",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BRSUMMER15",
-          "description": "15% off orders at John Greed",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/john-greed-jewellery-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "directblinds.co.uk": {
       "name": "Directblinds",
       "category": "general",
@@ -45985,7 +43413,7 @@
         }
       ]
     },
-    "tommee-tippee.co.uk": {
+    "tommeetippee.com": {
       "name": "Tommee Tippee",
       "category": "general",
       "codes": [
@@ -46011,93 +43439,7 @@
         }
       ]
     },
-    "purr-and-meow.co.uk": {
-      "name": "Purr And Meow",
-      "category": "general",
-      "codes": [
-        {
-          "code": "AFSAVOO30",
-          "description": "30% off New Customers' orders at Purr and Meow",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/purr-and-meow-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AFSAVOO25",
-          "description": "25% off orders over £55 at Purr and Meow",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": 55,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/purr-and-meow-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AFPURR30",
-          "description": "30% off Sitewide at Purr and Meow",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/purr-and-meow-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AFP7EX",
-          "description": "30% off Sitewide at Purr and Meow",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/purr-and-meow-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "sway-hair-extensions.co.uk": {
+    "swayhairextensions.com": {
       "name": "Sway Hair Extensions",
       "category": "general",
       "codes": [
@@ -46209,7 +43551,7 @@
         }
       ]
     },
-    "rare-london.co.uk": {
+    "rarelondon.com": {
       "name": "Rare London",
       "category": "general",
       "codes": [
@@ -46281,7 +43623,7 @@
         }
       ]
     },
-    "pro-direct-running.co.uk": {
+    "prodirectrunning.co.uk": {
       "name": "Pro Direct Running",
       "category": "general",
       "codes": [
@@ -46615,7 +43957,7 @@
         }
       ]
     },
-    "furniture-123.co.uk": {
+    "furniture123.co.uk": {
       "name": "Furniture 123",
       "category": "general",
       "codes": [
@@ -46939,7 +44281,7 @@
         }
       ]
     },
-    "eve-lom.co.uk": {
+    "evelom.co.uk": {
       "name": "Eve Lom",
       "category": "general",
       "codes": [
@@ -46985,7 +44327,7 @@
         }
       ]
     },
-    "carbeth-plants.co.uk": {
+    "carbethplants.co.uk": {
       "name": "Carbeth Plants",
       "category": "general",
       "codes": [
@@ -47037,7 +44379,7 @@
         }
       ]
     },
-    "get-the-label.co.uk": {
+    "getthelabel.com": {
       "name": "Get The Label",
       "category": "general",
       "codes": [
@@ -47233,7 +44575,7 @@
         }
       ]
     },
-    "moda-in-pelle.co.uk": {
+    "modainpelle.com": {
       "name": "Moda In Pelle",
       "category": "general",
       "codes": [
@@ -47285,7 +44627,7 @@
         }
       ]
     },
-    "give-me.co.uk": {
+    "giveme.com": {
       "name": "Give Me",
       "category": "general",
       "codes": [
@@ -47443,7 +44785,7 @@
         }
       ]
     },
-    "park-cameras.co.uk": {
+    "parkcameras.com": {
       "name": "Park Cameras",
       "category": "general",
       "codes": [
@@ -47469,7 +44811,7 @@
         }
       ]
     },
-    "randox-health.co.uk": {
+    "randoxhealth.com": {
       "name": "Randox Health",
       "category": "general",
       "codes": [
@@ -47567,7 +44909,7 @@
         }
       ]
     },
-    "art-finder.co.uk": {
+    "artfinder.com": {
       "name": "Art Finder",
       "category": "general",
       "codes": [
@@ -47705,7 +45047,7 @@
         }
       ]
     },
-    "spotlight-oral-care.co.uk": {
+    "spotlightoralcare.com": {
       "name": "Spotlight Oral Care",
       "category": "general",
       "codes": [
@@ -47747,72 +45089,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/jcrew-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "osprey-london.co.uk": {
-      "name": "Osprey London",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SMS10",
-          "description": "10% off Osprey's orders",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/osprey-london-promo-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "ENJOY10",
-          "description": "10% off Osprey's orders",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/osprey-london-promo-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "TRAVEL20",
-          "description": "20% off orders over £100 at Osprey",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": 100,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/osprey-london-promo-codes",
           "addedAt": "2026-09-08T10:21:39.687Z",
           "lastSeen": "2026-09-08T10:21:39.687Z",
           "testResults": {
@@ -47935,7 +45211,7 @@
         }
       ]
     },
-    "swoon-london.co.uk": {
+    "swoonlondon.co.uk": {
       "name": "Swoon London",
       "category": "general",
       "codes": [
@@ -48001,7 +45277,7 @@
         }
       ]
     },
-    "anker.co.uk": {
+    "anker.com": {
       "name": "Anker",
       "category": "general",
       "codes": [
@@ -48107,32 +45383,6 @@
         }
       ]
     },
-    "zsl-london-zoo.co.uk": {
-      "name": "Zsl London Zoo",
-      "category": "general",
-      "codes": [
-        {
-          "code": "AFF30",
-          "description": "30% off Feb Half Term at ZSL London Zoo",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/zsl-london-zoo-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "billyoh.co.uk": {
       "name": "Billyoh",
       "category": "general",
@@ -48219,52 +45469,6 @@
         }
       ]
     },
-    "boots-online-doctor.co.uk": {
-      "name": "Boots Online Doctor",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SUBSAVE50",
-          "description": "50% off First Erectile Dysfunction Treatment at Boots Online Doctor",
-          "type": "percentage",
-          "value": 50,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/boots-online-doctor-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "POLLEN20",
-          "description": "20% off the Hayfever Service at Boots Online Doctor",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/boots-online-doctor-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "easylife.co.uk": {
       "name": "Easylife",
       "category": "general",
@@ -48291,7 +45495,7 @@
         }
       ]
     },
-    "olight.co.uk": {
+    "uk.olight.com": {
       "name": "Olight",
       "category": "general",
       "codes": [
@@ -48489,7 +45693,7 @@
         }
       ]
     },
-    "kwikfit.co.uk": {
+    "kwik-fit.com": {
       "name": "Kwikfit",
       "category": "general",
       "codes": [
@@ -48627,52 +45831,6 @@
         }
       ]
     },
-    "boots-photo.co.uk": {
-      "name": "Boots Photo",
-      "category": "general",
-      "codes": [
-        {
-          "code": "CANVASAUG",
-          "description": "£10 off 20X30cm Photo Canvas at Boots Photo",
-          "type": "fixed",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/boots-photo-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CANVAS",
-          "description": "15% off Photo at Boots Photo",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/boots-photo-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "coals2u.co.uk": {
       "name": "Coals2u",
       "category": "general",
@@ -48699,7 +45857,7 @@
         }
       ]
     },
-    "muck-boot.co.uk": {
+    "muckboot.co.uk": {
       "name": "Muck Boot",
       "category": "general",
       "codes": [
@@ -48765,7 +45923,7 @@
         }
       ]
     },
-    "new-skills-academy.co.uk": {
+    "newskillsacademy.co.uk": {
       "name": "New Skills Academy",
       "category": "general",
       "codes": [
@@ -48857,7 +46015,7 @@
         }
       ]
     },
-    "curate-health.co.uk": {
+    "curatehealth.co.uk": {
       "name": "Curate Health",
       "category": "general",
       "codes": [
@@ -48935,79 +46093,7 @@
         }
       ]
     },
-    "east-midlands-airport-car-park.co.uk": {
-      "name": "East Midlands Airport Car Park",
-      "category": "general",
-      "codes": [
-        {
-          "code": "AFFSUMMERDEAL",
-          "description": "25% off Airport Parking at East Midlands Airport Car Park - Limited Time Only!",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/east-midlands-airport-car-park-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "hay-hampers.co.uk": {
-      "name": "Hay Hampers",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BLACKFRIDAY3",
-          "description": "Black Friday: 17% off orders over £500 at Hay Hampers",
-          "type": "percentage",
-          "value": 17,
-          "minSpend": 500,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/hay-hampers-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "BLACKFRIDAY2",
-          "description": "Black Friday: 15% off orders from £150 to £499.99 at Hay Hampers",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/hay-hampers-discount-codes",
-          "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-08T10:21:39.687Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "matt-and-nat.co.uk": {
+    "mattandnat.com": {
       "name": "Matt And Nat",
       "category": "general",
       "codes": [
@@ -49283,7 +46369,7 @@
         }
       ]
     },
-    "tokyo-laundry.co.uk": {
+    "tokyolaundry.com": {
       "name": "Tokyo Laundry",
       "category": "general",
       "codes": [
@@ -49329,7 +46415,7 @@
         }
       ]
     },
-    "tough-mudder.co.uk": {
+    "uk.toughmudder.com": {
       "name": "Tough Mudder",
       "category": "general",
       "codes": [
@@ -49723,7 +46809,7 @@
         }
       ]
     },
-    "isango.co.uk": {
+    "isango.com": {
       "name": "Isango",
       "category": "general",
       "codes": [
@@ -49795,7 +46881,7 @@
         }
       ]
     },
-    "glasses-direct.co.uk": {
+    "glassesdirect.co.uk": {
       "name": "Glasses Direct",
       "category": "general",
       "codes": [
@@ -49917,32 +47003,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/wood-finishes-direct-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "laithwaites-voucher-codes.co.uk": {
-      "name": "Laithwaites Voucher Codes",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SAV30",
-          "description": "New Customers: Exclusive 30% off orders over £85 plus Free Delivery at Laithwaites",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": 85,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/laithwaites-voucher-codes",
           "addedAt": "2026-09-09T10:28:19.283Z",
           "lastSeen": "2026-09-09T10:28:19.283Z",
           "testResults": {
@@ -50085,7 +47145,7 @@
         }
       ]
     },
-    "ted-baker.co.uk": {
+    "tedbaker.com": {
       "name": "Ted Baker",
       "category": "general",
       "codes": [
@@ -50223,7 +47283,7 @@
         }
       ]
     },
-    "holiday-taxis.co.uk": {
+    "holidaytaxis.com": {
       "name": "Holiday Taxis",
       "category": "general",
       "codes": [
@@ -50295,7 +47355,7 @@
         }
       ]
     },
-    "go-ape.co.uk": {
+    "goape.co.uk": {
       "name": "Go Ape",
       "category": "general",
       "codes": [
@@ -50427,32 +47487,6 @@
         }
       ]
     },
-    "evan-evans-tours.co.uk": {
-      "name": "Evan Evans Tours",
-      "category": "general",
-      "codes": [
-        {
-          "code": "HP30",
-          "description": "30% off Warner Bros. Studio Tour London – The Making of Harry Potter at Evan Evans Tours",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/evan-evans-tours-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "printerinks.co.uk": {
       "name": "Printerinks",
       "category": "general",
@@ -50519,7 +47553,7 @@
         }
       ]
     },
-    "long-tall-sally.co.uk": {
+    "longtallsally.com": {
       "name": "Long Tall Sally",
       "category": "general",
       "codes": [
@@ -50545,7 +47579,7 @@
         }
       ]
     },
-    "ordnance-survey.co.uk": {
+    "ordnancesurvey.co.uk": {
       "name": "Ordnance Survey",
       "category": "general",
       "codes": [
@@ -50581,32 +47615,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/ordnance-survey-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "scholastic-book-clubs.co.uk": {
-      "name": "Scholastic Book Clubs",
-      "category": "general",
-      "codes": [
-        {
-          "code": "READ20",
-          "description": "20% off orders over £30 at Scholastic",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": 30,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/scholastic-book-clubs-discount-codes",
           "addedAt": "2026-09-09T10:28:19.283Z",
           "lastSeen": "2026-09-09T10:28:19.283Z",
           "testResults": {
@@ -50669,53 +47677,7 @@
         }
       ]
     },
-    "pharmacy-2u-online-doctor.co.uk": {
-      "name": "Pharmacy 2u Online Doctor",
-      "category": "general",
-      "codes": [
-        {
-          "code": "TXU27C",
-          "description": "£40 off First WL consultation with P2U at Pharmacy2U",
-          "type": "fixed",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/pharmacy-2u-online-doctor-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "KMLCWP",
-          "description": "20% off 1st Consultation for Erectile Dysfunction Treatments, 20% off your 1st Consultation for Hair Loss Treatments at Pharmacy2U",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/pharmacy-2u-online-doctor-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "attitude-clothing.co.uk": {
+    "attitudeclothing.co.uk": {
       "name": "Attitude Clothing",
       "category": "general",
       "codes": [
@@ -50761,33 +47723,7 @@
         }
       ]
     },
-    "wynsor.co.uk": {
-      "name": "Wynsor",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BF20SALE",
-          "description": "Black Friday: Up to 75% off plus Extra 20% off at Wynsors",
-          "type": "percentage",
-          "value": 75,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/wynsor-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "wiltshire-farm-foods.co.uk": {
+    "wiltshirefarmfoods.com": {
       "name": "Wiltshire Farm Foods",
       "category": "general",
       "codes": [
@@ -50813,7 +47749,7 @@
         }
       ]
     },
-    "cast-in-style.co.uk": {
+    "castinstyle.co.uk": {
       "name": "Cast In Style",
       "category": "general",
       "codes": [
@@ -50957,118 +47893,6 @@
         }
       ]
     },
-    "smart-buy-glasses.co.uk": {
-      "name": "Smart Buy Glasses",
-      "category": "general",
-      "codes": [
-        {
-          "code": "20MIDYEAR",
-          "description": "20% off Lenses at Smart Buy Glasses",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/smart-buy-glasses-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "GIFTHIM",
-          "description": "75% off all Designer Eyewear plus 10% off Selected Frames and Lenses at Smart Buy Glasses",
-          "type": "percentage",
-          "value": 75,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/smart-buy-glasses-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SMART12",
-          "description": "12% off Frames and Lenses at Smart Buy Glasses",
-          "type": "percentage",
-          "value": 12,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/smart-buy-glasses-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "magix-multimedia-software-for-pc.co.uk": {
-      "name": "Magix Multimedia Software For Pc",
-      "category": "general",
-      "codes": [
-        {
-          "code": "UNLUCKY15",
-          "description": "Extra 15% off orders at MAGIX",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/magix-multimedia-software-for-pc-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "BIGWIN10",
-          "description": "10% off orders at MAGIX",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/magix-multimedia-software-for-pc-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "dobies.co.uk": {
       "name": "Dobies",
       "category": "general",
@@ -51175,7 +47999,7 @@
         }
       ]
     },
-    "garden-buildings-direct.co.uk": {
+    "gardenbuildingsdirect.co.uk": {
       "name": "Garden Buildings Direct",
       "category": "general",
       "codes": [
@@ -51393,52 +48217,6 @@
         }
       ]
     },
-    "virgin-experience-days.co.uk": {
-      "name": "Virgin Experience Days",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PAY20",
-          "description": "20% off orders at Virgin Experience Days",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/virgin-experience-days-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "DEAL10",
-          "description": "10% off orders at Virgin Experience Days",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/virgin-experience-days-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "danielfootwear.co.uk": {
       "name": "Danielfootwear",
       "category": "general",
@@ -51465,7 +48243,7 @@
         }
       ]
     },
-    "white-stores.co.uk": {
+    "whitestores.co.uk": {
       "name": "White Stores",
       "category": "general",
       "codes": [
@@ -51597,32 +48375,6 @@
         }
       ]
     },
-    "music-magpie-voucher-codes.co.uk": {
-      "name": "Music Magpie Voucher Codes",
-      "category": "general",
-      "codes": [
-        {
-          "code": "FR10",
-          "description": "10% off Black Friday Deals at Music Magpie",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/music-magpie-voucher-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "parallels.co.uk": {
       "name": "Parallels",
       "category": "general",
@@ -51715,7 +48467,7 @@
         }
       ]
     },
-    "garden-trading.co.uk": {
+    "gardentrading.co.uk": {
       "name": "Garden Trading",
       "category": "general",
       "codes": [
@@ -51761,7 +48513,7 @@
         }
       ]
     },
-    "stena-line.co.uk": {
+    "stenaline.co.uk": {
       "name": "Stena Line",
       "category": "general",
       "codes": [
@@ -51787,53 +48539,7 @@
         }
       ]
     },
-    "yumi-direct.co.uk": {
-      "name": "Yumi Direct",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BANK20",
-          "description": "20% off Everything at Yumi",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/yumi-direct-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "BANK25",
-          "description": "Bank Holiday: 25% off Everything at Yumi",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/yumi-direct-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "jules-b.co.uk": {
+    "julesb.co.uk": {
       "name": "Jules B",
       "category": "general",
       "codes": [
@@ -51905,7 +48611,7 @@
         }
       ]
     },
-    "direct-sight.co.uk": {
+    "directsight.co.uk": {
       "name": "Direct Sight",
       "category": "general",
       "codes": [
@@ -52247,7 +48953,7 @@
         }
       ]
     },
-    "joy-the-store.co.uk": {
+    "joythestore.com": {
       "name": "Joy The Store",
       "category": "general",
       "codes": [
@@ -52273,7 +48979,7 @@
         }
       ]
     },
-    "pretty-green.co.uk": {
+    "prettygreen.co.uk": {
       "name": "Pretty Green",
       "category": "general",
       "codes": [
@@ -52325,7 +49031,7 @@
         }
       ]
     },
-    "ties-planet.co.uk": {
+    "tiesplanet.com": {
       "name": "Ties Planet",
       "category": "general",
       "codes": [
@@ -52509,7 +49215,7 @@
         }
       ]
     },
-    "stuarts-london.co.uk": {
+    "stuartslondon.com": {
       "name": "Stuarts London",
       "category": "general",
       "codes": [
@@ -52555,7 +49261,7 @@
         }
       ]
     },
-    "muddy-puddles.co.uk": {
+    "muddypuddles.co.uk": {
       "name": "Muddy Puddles",
       "category": "general",
       "codes": [
@@ -52799,7 +49505,7 @@
         }
       ]
     },
-    "lamp-shop-online.co.uk": {
+    "lampshoponline.com": {
       "name": "Lamp Shop Online",
       "category": "general",
       "codes": [
@@ -52825,7 +49531,7 @@
         }
       ]
     },
-    "prestige-flowers.co.uk": {
+    "prestigeflowers.co.uk": {
       "name": "Prestige Flowers",
       "category": "general",
       "codes": [
@@ -52851,7 +49557,7 @@
         }
       ]
     },
-    "not-on-the-high-street.co.uk": {
+    "notonthehighstreet.com": {
       "name": "Not On The High Street",
       "category": "general",
       "codes": [
@@ -52995,7 +49701,7 @@
         }
       ]
     },
-    "lily-lolo.co.uk": {
+    "lilylolo.co.uk": {
       "name": "Lily Lolo",
       "category": "general",
       "codes": [
@@ -53113,7 +49819,7 @@
         }
       ]
     },
-    "wet-and-forget.co.uk": {
+    "wetandforget.com": {
       "name": "Wet And Forget",
       "category": "general",
       "codes": [
@@ -53139,7 +49845,7 @@
         }
       ]
     },
-    "perfect-cellar.co.uk": {
+    "perfectcellar.com": {
       "name": "Perfect Cellar",
       "category": "general",
       "codes": [
@@ -53231,7 +49937,7 @@
         }
       ]
     },
-    "original-penguin.co.uk": {
+    "originalpenguin.co.uk": {
       "name": "Original Penguin",
       "category": "general",
       "codes": [
@@ -53297,7 +50003,7 @@
         }
       ]
     },
-    "isabella-oliver.co.uk": {
+    "isabellaoliver.com": {
       "name": "Isabella Oliver",
       "category": "general",
       "codes": [
@@ -53441,7 +50147,7 @@
         }
       ]
     },
-    "saks-fifth-avenue.co.uk": {
+    "saksfifthavenue.com": {
       "name": "Saks Fifth Avenue",
       "category": "general",
       "codes": [
@@ -53711,7 +50417,7 @@
         }
       ]
     },
-    "masdings.co.uk": {
+    "masdings.com": {
       "name": "Masdings",
       "category": "general",
       "codes": [
@@ -53727,32 +50433,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/masdings-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "the-royal-mint.co.uk": {
-      "name": "The Royal Mint",
-      "category": "general",
-      "codes": [
-        {
-          "code": "EASTER26",
-          "description": "Free Delivery on all orders over £35 at The Royal Mint",
-          "type": "fixed",
-          "value": 35,
-          "minSpend": 35,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/the-royal-mint-discount-codes",
           "addedAt": "2026-09-09T10:28:19.283Z",
           "lastSeen": "2026-09-09T10:28:19.283Z",
           "testResults": {
@@ -53789,7 +50469,7 @@
         }
       ]
     },
-    "western-union.co.uk": {
+    "westernunion.com": {
       "name": "Western Union",
       "category": "general",
       "codes": [
@@ -53913,7 +50593,7 @@
         }
       ]
     },
-    "new-era-cap.co.uk": {
+    "neweracap.co.uk": {
       "name": "New Era Cap",
       "category": "general",
       "codes": [
@@ -53985,7 +50665,7 @@
         }
       ]
     },
-    "fine-food-specialist.co.uk": {
+    "finefoodspecialist.com": {
       "name": "Fine Food Specialist",
       "category": "general",
       "codes": [
@@ -54083,7 +50763,7 @@
         }
       ]
     },
-    "clear-chemist.co.uk": {
+    "clearchemist.co.uk": {
       "name": "Clear Chemist",
       "category": "general",
       "codes": [
@@ -54195,7 +50875,7 @@
         }
       ]
     },
-    "samuel-johnston.co.uk": {
+    "samuel-johnston.com": {
       "name": "Samuel Johnston",
       "category": "general",
       "codes": [
@@ -54511,7 +51191,7 @@
         }
       ]
     },
-    "go-outdoors.co.uk": {
+    "go-outdoors.com": {
       "name": "Go Outdoors",
       "category": "general",
       "codes": [
@@ -54537,7 +51217,7 @@
         }
       ]
     },
-    "alpha-travel-insurance.co.uk": {
+    "alphatravelinsurance.co.uk": {
       "name": "Alpha Travel Insurance",
       "category": "general",
       "codes": [
@@ -54563,7 +51243,7 @@
         }
       ]
     },
-    "express-trainers.co.uk": {
+    "expresstrainers.com": {
       "name": "Express Trainers",
       "category": "general",
       "codes": [
@@ -54813,7 +51493,7 @@
         }
       ]
     },
-    "papa-johns.co.uk": {
+    "papajohns.com": {
       "name": "Papa Johns",
       "category": "general",
       "codes": [
@@ -54839,7 +51519,7 @@
         }
       ]
     },
-    "fashion-world.co.uk": {
+    "fashionworld.com": {
       "name": "Fashion World",
       "category": "general",
       "codes": [
@@ -54865,7 +51545,7 @@
         }
       ]
     },
-    "urban-outfitters.co.uk": {
+    "urbanoutfitters.com": {
       "name": "Urban Outfitters",
       "category": "general",
       "codes": [
@@ -54891,7 +51571,7 @@
         }
       ]
     },
-    "dorothy-perkins.co.uk": {
+    "dorothyperkins.com": {
       "name": "Dorothy Perkins",
       "category": "general",
       "codes": [
@@ -55035,7 +51715,7 @@
         }
       ]
     },
-    "uk-office-direct.co.uk": {
+    "ukofficedirect.co.uk": {
       "name": "Uk Office Direct",
       "category": "general",
       "codes": [
@@ -55127,7 +51807,7 @@
         }
       ]
     },
-    "crafters-companion.co.uk": {
+    "crafterscompanion.co.uk": {
       "name": "Crafters Companion",
       "category": "general",
       "codes": [
@@ -55173,7 +51853,7 @@
         }
       ]
     },
-    "lights-4-living.co.uk": {
+    "lights4living.com": {
       "name": "Lights 4 Living",
       "category": "general",
       "codes": [
@@ -55279,7 +51959,7 @@
         }
       ]
     },
-    "bloom-and-wild.co.uk": {
+    "bloomandwild.com": {
       "name": "Bloom And Wild",
       "category": "general",
       "codes": [
@@ -55325,7 +52005,7 @@
         }
       ]
     },
-    "shoes-for-crews.co.uk": {
+    "shoesforcrews.co.uk": {
       "name": "Shoes For Crews",
       "category": "general",
       "codes": [
@@ -55371,7 +52051,7 @@
         }
       ]
     },
-    "peruvian-connection.co.uk": {
+    "peruvianconnection.co.uk": {
       "name": "Peruvian Connection",
       "category": "general",
       "codes": [
@@ -55477,7 +52157,7 @@
         }
       ]
     },
-    "british-newspaper-archive.co.uk": {
+    "britishnewspaperarchive.com": {
       "name": "British Newspaper Archive",
       "category": "general",
       "codes": [
@@ -55569,7 +52249,7 @@
         }
       ]
     },
-    "just-travel-cover.co.uk": {
+    "justtravelcover.com": {
       "name": "Just Travel Cover",
       "category": "general",
       "codes": [
@@ -55595,93 +52275,7 @@
         }
       ]
     },
-    "english-heritage-shop.co.uk": {
-      "name": "English Heritage Shop",
-      "category": "general",
-      "codes": [
-        {
-          "code": "MAY20",
-          "description": "20% off Annual Memberships at English Heritage Shop",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/english-heritage-shop-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EHMAPR25",
-          "description": "25% off English Heritage Shop Gift and Annual Memberships",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/english-heritage-shop-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EASTER26",
-          "description": "25% off Gifts and Annual Memberships at English Heritage Shop",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/english-heritage-shop-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AFFEH1526",
-          "description": "15% off Gifts & Annual Memberships at English Heritage Shop",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/english-heritage-shop-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "rattan-direct.co.uk": {
+    "rattandirect.co.uk": {
       "name": "Rattan Direct",
       "category": "general",
       "codes": [
@@ -55845,32 +52439,6 @@
         }
       ]
     },
-    "the-sunday-times-wine-club.co.uk": {
-      "name": "The Sunday Times Wine Club",
-      "category": "general",
-      "codes": [
-        {
-          "code": "30OFF",
-          "description": "New Customer Offer: 30% off orders over £95 plus Free Delivery at The Sunday Times Wine Club",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": 95,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/the-sunday-times-wine-club-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "waterford.co.uk": {
       "name": "Waterford",
       "category": "general",
@@ -56009,7 +52577,7 @@
         }
       ]
     },
-    "nba-league-pass.co.uk": {
+    "nbaleaguepass.com": {
       "name": "Nba League Pass",
       "category": "general",
       "codes": [
@@ -56193,52 +52761,6 @@
         }
       ]
     },
-    "manchester-airport-car-park.co.uk": {
-      "name": "Manchester Airport Car Park",
-      "category": "general",
-      "codes": [
-        {
-          "code": "AFFSUMMERDEAL",
-          "description": "25% off Airport Parking at Manchester Airport Car Park - Limited Time Only!",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/manchester-airport-car-park-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CM20AFF",
-          "description": "Cyber Monday: 20% off at Manchester Airport Car Park",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/manchester-airport-car-park-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "vans.co.uk": {
       "name": "Vans",
       "category": "general",
@@ -56337,7 +52859,7 @@
         }
       ]
     },
-    "science-in-sport.co.uk": {
+    "scienceinsport.com": {
       "name": "Science In Sport",
       "category": "general",
       "codes": [
@@ -56429,7 +52951,7 @@
         }
       ]
     },
-    "direct-stoves.co.uk": {
+    "directstoves.com": {
       "name": "Direct Stoves",
       "category": "general",
       "codes": [
@@ -56455,7 +52977,7 @@
         }
       ]
     },
-    "pact-coffee.co.uk": {
+    "pactcoffee.com": {
       "name": "Pact Coffee",
       "category": "general",
       "codes": [
@@ -56501,7 +53023,7 @@
         }
       ]
     },
-    "blue-vanilla.co.uk": {
+    "bluevanilla.com": {
       "name": "Blue Vanilla",
       "category": "general",
       "codes": [
@@ -56757,7 +53279,7 @@
         }
       ]
     },
-    "public-desire.co.uk": {
+    "publicdesire.com": {
       "name": "Public Desire",
       "category": "general",
       "codes": [
@@ -56829,7 +53351,7 @@
         }
       ]
     },
-    "world-of-books.co.uk": {
+    "worldofbooks.com": {
       "name": "World Of Books",
       "category": "general",
       "codes": [
@@ -56927,7 +53449,7 @@
         }
       ]
     },
-    "everton-direct.co.uk": {
+    "evertondirect.com": {
       "name": "Everton Direct",
       "category": "general",
       "codes": [
@@ -56973,7 +53495,7 @@
         }
       ]
     },
-    "wimbledon-shop.co.uk": {
+    "wimbledonshop.com": {
       "name": "Wimbledon Shop",
       "category": "general",
       "codes": [
@@ -57025,53 +53547,7 @@
         }
       ]
     },
-    "wentworth-wooden-puzzles.co.uk": {
-      "name": "Wentworth Wooden Puzzles",
-      "category": "general",
-      "codes": [
-        {
-          "code": "HPUKSU261",
-          "description": "10% off plus Free Standard UK Delivery on orders over £70 at Wentworth Wooden Puzzles",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": 70,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/wentworth-wooden-puzzles-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "AUKSS26",
-          "description": "40% off Selected Puzzles at Wentworth Wooden Puzzles",
-          "type": "percentage",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/wentworth-wooden-puzzles-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "rokit-vintage.co.uk": {
+    "rokitvintage.co.uk": {
       "name": "Rokit Vintage",
       "category": "general",
       "codes": [
@@ -57087,72 +53563,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/rokit-vintage-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "secret-linen.co.uk": {
-      "name": "Secret Linen",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PICNIC426",
-          "description": "Extra 10% off Everything at Secret Linen",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/secret-linen-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SECRETSALE526",
-          "description": "20% off orders at Secret Linen - Limited Time Only!",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/secret-linen-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EARLYNIGHT526",
-          "description": "20% off Full-Priced Linen Bed at Secret Linen",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/secret-linen-discount-codes",
           "addedAt": "2026-09-09T10:28:19.283Z",
           "lastSeen": "2026-09-09T10:28:19.283Z",
           "testResults": {
@@ -57189,7 +53599,7 @@
         }
       ]
     },
-    "latest-in-beauty.co.uk": {
+    "latestinbeauty.com": {
       "name": "Latest In Beauty",
       "category": "general",
       "codes": [
@@ -57287,7 +53697,7 @@
         }
       ]
     },
-    "balsam-hill.co.uk": {
+    "balsamhill.co.uk": {
       "name": "Balsam Hill",
       "category": "general",
       "codes": [
@@ -57605,7 +54015,7 @@
         }
       ]
     },
-    "dell-outlet.co.uk": {
+    "dell-outlet.com": {
       "name": "Dell Outlet",
       "category": "general",
       "codes": [
@@ -57651,7 +54061,7 @@
         }
       ]
     },
-    "trade-radiators.co.uk": {
+    "traderadiators.com": {
       "name": "Trade Radiators",
       "category": "general",
       "codes": [
@@ -57677,7 +54087,7 @@
         }
       ]
     },
-    "just-go-holidays.co.uk": {
+    "justgoholidays.com": {
       "name": "Just Go Holidays",
       "category": "general",
       "codes": [
@@ -57815,7 +54225,7 @@
         }
       ]
     },
-    "crazy-price-beds.co.uk": {
+    "crazypricebeds.com": {
       "name": "Crazy Price Beds",
       "category": "general",
       "codes": [
@@ -57841,7 +54251,7 @@
         }
       ]
     },
-    "contiki.co.uk": {
+    "contiki.com": {
       "name": "Contiki",
       "category": "general",
       "codes": [
@@ -57867,7 +54277,7 @@
         }
       ]
     },
-    "perricone-md.co.uk": {
+    "perriconemd.co.uk": {
       "name": "Perricone Md",
       "category": "general",
       "codes": [
@@ -57999,7 +54409,7 @@
         }
       ]
     },
-    "source-bmx.co.uk": {
+    "sourcebmx.co.uk": {
       "name": "Source Bmx",
       "category": "general",
       "codes": [
@@ -58177,7 +54587,7 @@
         }
       ]
     },
-    "the-sports-edit.co.uk": {
+    "thesportsedit.com": {
       "name": "The Sports Edit",
       "category": "general",
       "codes": [
@@ -58203,7 +54613,7 @@
         }
       ]
     },
-    "rebellious-fashion.co.uk": {
+    "rebelliousfashion.co.uk": {
       "name": "Rebellious Fashion",
       "category": "general",
       "codes": [
@@ -58269,7 +54679,7 @@
         }
       ]
     },
-    "choice-furniture-superstore.co.uk": {
+    "choicefurnituresuperstore.co.uk": {
       "name": "Choice Furniture Superstore",
       "category": "general",
       "codes": [
@@ -58367,7 +54777,7 @@
         }
       ]
     },
-    "slingsby.co.uk": {
+    "slingsby.com": {
       "name": "Slingsby",
       "category": "general",
       "codes": [
@@ -58393,7 +54803,7 @@
         }
       ]
     },
-    "moda-operandi.co.uk": {
+    "modaoperandi.com": {
       "name": "Moda Operandi",
       "category": "general",
       "codes": [
@@ -58439,7 +54849,7 @@
         }
       ]
     },
-    "gold-standard-nutrition.co.uk": {
+    "goldstandardnutrition.co.uk": {
       "name": "Gold Standard Nutrition",
       "category": "general",
       "codes": [
@@ -58511,7 +54921,7 @@
         }
       ]
     },
-    "fashion-eyewear.co.uk": {
+    "fashion-eyewear.com": {
       "name": "Fashion Eyewear",
       "category": "general",
       "codes": [
@@ -58583,7 +54993,7 @@
         }
       ]
     },
-    "mindful-chef.co.uk": {
+    "mindfulchef.com": {
       "name": "Mindful Chef",
       "category": "general",
       "codes": [
@@ -58781,7 +55191,7 @@
         }
       ]
     },
-    "muscle-food.co.uk": {
+    "musclefood.com": {
       "name": "Muscle Food",
       "category": "general",
       "codes": [
@@ -58827,33 +55237,7 @@
         }
       ]
     },
-    "the-health-lottery.co.uk": {
-      "name": "The Health Lottery",
-      "category": "general",
-      "codes": [
-        {
-          "code": "DOUBLEUP",
-          "description": "First Deposit Promotion at The Health Lottery",
-          "type": "unknown",
-          "value": null,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/the-health-lottery-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "simon-jersey.co.uk": {
+    "simonjersey.com": {
       "name": "Simon Jersey",
       "category": "general",
       "codes": [
@@ -58879,7 +55263,7 @@
         }
       ]
     },
-    "la-coqueta.co.uk": {
+    "lacoqueta.com": {
       "name": "La Coqueta",
       "category": "general",
       "codes": [
@@ -58925,53 +55309,7 @@
         }
       ]
     },
-    "we-are-knitters.co.uk": {
-      "name": "We Are Knitters",
-      "category": "general",
-      "codes": [
-        {
-          "code": "NEW15",
-          "description": "15% off orders at We Are Knitters",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/we-are-knitters-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "THANKYOU25",
-          "description": "25% off orders at We Are Knitters",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/we-are-knitters-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "frescobol-carioca.co.uk": {
+    "frescobolcarioca.co.uk": {
       "name": "Frescobol Carioca",
       "category": "general",
       "codes": [
@@ -59013,52 +55351,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/nordvpn-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "qustodio.co.uk": {
-      "name": "Qustodio",
-      "category": "general",
-      "codes": [
-        {
-          "code": "READY10",
-          "description": "10% off orders at Qustodio",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/qustodio-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "START15",
-          "description": "15% off Annual Subscription at Qustodio",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/qustodio-discount-codes",
           "addedAt": "2026-09-09T10:28:19.283Z",
           "lastSeen": "2026-09-09T10:28:19.283Z",
           "testResults": {
@@ -59443,7 +55735,7 @@
         }
       ]
     },
-    "look-fabulous-forever.co.uk": {
+    "lookfabulousforever.com": {
       "name": "Look Fabulous Forever",
       "category": "general",
       "codes": [
@@ -59489,7 +55781,7 @@
         }
       ]
     },
-    "maple-parking.co.uk": {
+    "mapleparking.co.uk": {
       "name": "Maple Parking",
       "category": "general",
       "codes": [
@@ -59647,7 +55939,7 @@
         }
       ]
     },
-    "protein-world.co.uk": {
+    "proteinworld.co.uk": {
       "name": "Protein World",
       "category": "general",
       "codes": [
@@ -59713,7 +56005,7 @@
         }
       ]
     },
-    "gsf-car-parts.co.uk": {
+    "gsfcarparts.com": {
       "name": "Gsf Car Parts",
       "category": "general",
       "codes": [
@@ -59845,7 +56137,7 @@
         }
       ]
     },
-    "monthly-tee-club.co.uk": {
+    "monthlyteeclub.com": {
       "name": "Monthly Tee Club",
       "category": "general",
       "codes": [
@@ -59911,7 +56203,7 @@
         }
       ]
     },
-    "tootbus.co.uk": {
+    "tootbus.com": {
       "name": "Tootbus",
       "category": "general",
       "codes": [
@@ -59937,7 +56229,7 @@
         }
       ]
     },
-    "cambridge-satchel.co.uk": {
+    "cambridgesatchel.com": {
       "name": "Cambridge Satchel",
       "category": "general",
       "codes": [
@@ -60107,33 +56399,7 @@
         }
       ]
     },
-    "brook-wilde.co.uk": {
-      "name": "Brook Wilde",
-      "category": "general",
-      "codes": [
-        {
-          "code": "ULTIMA40",
-          "description": "40% off Ultima Mattress at Brook + Wilde",
-          "type": "percentage",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/brook-wilde-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "pretty-you-london.co.uk": {
+    "prettyyoulondon.co.uk": {
       "name": "Pretty You London",
       "category": "general",
       "codes": [
@@ -60205,7 +56471,7 @@
         }
       ]
     },
-    "fantastic-services.co.uk": {
+    "fantasticservices.com": {
       "name": "Fantastic Services",
       "category": "general",
       "codes": [
@@ -60231,7 +56497,7 @@
         }
       ]
     },
-    "england-store.co.uk": {
+    "englandstore.com": {
       "name": "England Store",
       "category": "general",
       "codes": [
@@ -60257,7 +56523,7 @@
         }
       ]
     },
-    "tu-clothing.co.uk": {
+    "tuclothing.co.uk": {
       "name": "Tu Clothing",
       "category": "general",
       "codes": [
@@ -60553,7 +56819,7 @@
         }
       ]
     },
-    "biovea.co.uk": {
+    "biovea.com": {
       "name": "Biovea",
       "category": "general",
       "codes": [
@@ -60605,7 +56871,7 @@
         }
       ]
     },
-    "boomf.co.uk": {
+    "boomf.com": {
       "name": "Boomf",
       "category": "general",
       "codes": [
@@ -60749,7 +57015,7 @@
         }
       ]
     },
-    "just-lawnmowers.co.uk": {
+    "justlawnmowers.com": {
       "name": "Just Lawnmowers",
       "category": "general",
       "codes": [
@@ -60795,7 +57061,7 @@
         }
       ]
     },
-    "buy-sheds-direct.co.uk": {
+    "buyshedsdirect.co.uk": {
       "name": "Buy Sheds Direct",
       "category": "general",
       "codes": [
@@ -60933,7 +57199,7 @@
         }
       ]
     },
-    "bloombox-club.co.uk": {
+    "bloomboxclub.com": {
       "name": "Bloombox Club",
       "category": "general",
       "codes": [
@@ -60959,7 +57225,7 @@
         }
       ]
     },
-    "swell-uk.co.uk": {
+    "swelluk.com": {
       "name": "Swell Uk",
       "category": "general",
       "codes": [
@@ -60985,33 +57251,7 @@
         }
       ]
     },
-    "swell-reptiles.co.uk": {
-      "name": "Swell Reptiles",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SAVE2",
-          "description": "£2 off orders over £40 at Swell Reptiles",
-          "type": "fixed",
-          "value": 2,
-          "minSpend": 40,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/swell-reptiles-discount-codes",
-          "addedAt": "2026-09-09T10:28:19.283Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "the-spark-company.co.uk": {
+    "thesparkcompany.com": {
       "name": "The Spark Company",
       "category": "general",
       "codes": [
@@ -61123,7 +57363,7 @@
         }
       ]
     },
-    "xy-london.co.uk": {
+    "xylondon.com": {
       "name": "Xy London",
       "category": "general",
       "codes": [
@@ -61229,7 +57469,7 @@
         }
       ]
     },
-    "justyouroutfit.co.uk": {
+    "justyouroutfit.com": {
       "name": "Justyouroutfit",
       "category": "general",
       "codes": [
@@ -61393,7 +57633,7 @@
         }
       ]
     },
-    "pleasance-and-harper.co.uk": {
+    "pleasanceandharper.co.uk": {
       "name": "Pleasance And Harper",
       "category": "general",
       "codes": [
@@ -61801,7 +58041,7 @@
         }
       ]
     },
-    "dell-refurbished.co.uk": {
+    "dellrefurbished.co.uk": {
       "name": "Dell Refurbished",
       "category": "general",
       "codes": [

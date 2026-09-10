@@ -23,13 +23,13 @@ if (existsSync(envPath)) {
   }
 }
 
-import { scrape as scrapeHotUKDeals } from "./sources/hotukdeals.js";
 import { scrape as scrapeGGdeals } from "./sources/ggdeals.js";
 import { scrape as scrapeSavoo } from "./sources/savoo.js";
 import { scrape as scrapeCoupert } from "./sources/coupert.js";
 import { scrape as scrapeKnoji } from "./sources/knoji.js";
 import { mergeCodes, pruneStaleCodes, pruneExpiredCodes, normalizeCode, removeCode, sanitizeStores } from "./lib/normalizer.js";
 import { canonicalDomain } from "./lib/stores.js";
+import { isEmptyScrape, hasCollapsed } from "./lib/guards.js";
 import { loadDeadCodes, saveDeadCodes, addDeadCode, isDeadCode, pruneDeadCodes, purgeDeadFromStores } from "./lib/deadcodes.js";
 import { writeShards } from "./lib/shard.js";
 import { logRun } from "./lib/logger.js";
@@ -144,11 +144,19 @@ async function main() {
 
   // Run scrapers
   const scrapers = [];
-  if (!sourceFlag || sourceFlag === "hotukdeals") scrapers.push({ name: "hotukdeals", fn: scrapeHotUKDeals });
   if (!sourceFlag || sourceFlag === "ggdeals") scrapers.push({ name: "ggdeals", fn: scrapeGGdeals });
   if (!sourceFlag || sourceFlag === "savoo") scrapers.push({ name: "savoo", fn: scrapeSavoo });
   if (!sourceFlag || sourceFlag === "coupert") scrapers.push({ name: "coupert", fn: scrapeCoupert });
   if (!sourceFlag || sourceFlag === "knoji") scrapers.push({ name: "knoji", fn: scrapeKnoji });
+
+  // Re-run the cleaning rules over the stored database without scraping.
+  // The registry decides which domain a code belongs to, so when it is
+  // corrected the existing data needs re-folding too, and a scrape is a slow
+  // and noisy way to trigger that.
+  if (args.includes("--reclean")) {
+    scrapers.length = 0;
+    console.log("\n🧼 Reclean: no scraping, re-applying the cleaning rules to the stored database");
+  }
 
   if (mergeDirFlag) {
     // Merge-only: the scraping already happened in the matrix jobs.
@@ -173,6 +181,12 @@ async function main() {
       console.log(`\n🔍 Scraping ${name}…`);
       const result = await fn();
       allEntries.push(...result.entries);
+      // Worth saying out loud even when other sources carried the run: a
+      // source silently dropping to zero is how a scraper stays broken for
+      // weeks while the totals still look healthy.
+      if (result.entries.length === 0) {
+        console.log(`  ⚠ ${name} returned no codes at all — treat this as broken, not quiet`);
+      }
       logRun(name, { found: result.entries.length, duration: result.duration }, result.errors || []);
       if (result.errors?.length) errors.push(...result.errors.map((e) => `[${name}] ${e}`));
     } catch (err) {
@@ -183,6 +197,26 @@ async function main() {
   }
 
   console.log(`\n📊 Total raw codes found: ${allEntries.length}`);
+
+  // A scrape that returns nothing is a broken scrape, not an empty internet.
+  // --reclean is exempt: finding nothing is the whole point of it.
+  if (isEmptyScrape({
+    scraped: scrapers.length > 0 || Boolean(mergeDirFlag),
+    entryCount: allEntries.length,
+    force: args.includes("--force"),
+  })) {
+    console.error("\n🛑 No codes returned by any source — refusing to save or push.");
+    if (errors.length) {
+      console.error("   Errors reported:");
+      for (const e of errors.slice(0, 10)) console.error(`     • ${e}`);
+      if (errors.length > 10) console.error(`     …and ${errors.length - 10} more`);
+    } else {
+      console.error("   No source reported an error, which usually means the browser never launched.");
+    }
+    console.error("   The database on disk is unchanged. Re-run with --force to save anyway.");
+    process.exitCode = 1;
+    return;
+  }
 
   if (emitFlag) {
     // Emit-only: hand the raw entries to the merge job and touch nothing else.
@@ -264,14 +298,18 @@ async function main() {
   // Save locally
   // Guard against a partial run wiping the database. A single source failing
   // shouldn't be able to replace 700+ codes with the 4 it managed to scrape.
-  const collapsed = startingCodeCount > 50 && database.meta.totalCodes < startingCodeCount * 0.5;
-  if (collapsed && !args.includes("--force")) {
-    console.log(
-      `
-🛑 Refusing to save: code count collapsed from ${startingCodeCount} to ${database.meta.totalCodes}.` +
-      `
-   The database on disk is unchanged. Re-run with --force if this is intentional.`
+  if (hasCollapsed({
+    before: startingCodeCount,
+    after: database.meta.totalCodes,
+    force: args.includes("--force"),
+  })) {
+    console.error(
+      `\n🛑 Refusing to save: code count collapsed from ${startingCodeCount} to ${database.meta.totalCodes}.` +
+      `\n   The database on disk is unchanged. Re-run with --force if this is intentional.`
     );
+    // Exit non-zero, or CI treats the refusal as a clean run and the commit
+    // step cheerfully reports "No changes to commit".
+    process.exitCode = 1;
     return;
   }
 

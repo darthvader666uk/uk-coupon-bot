@@ -1,0 +1,47 @@
+{
+  "domain": "samuel-johnston.com",
+  "name": "Samuel Johnston",
+  "category": "general",
+  "codes": [
+    {
+      "code": "100OFF",
+      "description": "£100 off orders over £1000 at Samuel Johnston",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 1000,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/samuel-johnston-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BLUE10",
+      "description": "10% off orders at Samuel Johnston",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/samuel-johnston-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-09T10:28:19.283Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

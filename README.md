@@ -1,6 +1,6 @@
 # 🎟 UK Coupon Bot
 
-Automated UK coupon code scraper + browser checker. Scrapes codes from HotUKDeals and VoucherCodes.co.uk, stores them in a JSON database, and shows available codes via a Tampermonkey script when you visit UK stores.
+Automated UK coupon code scraper + browser checker. Scrapes codes from Savoo, Knoji, GG.deals and Coupert, stores them in a JSON database, and shows available codes via a Tampermonkey script when you visit UK stores.
 
 ## 🏗 Architecture
 
@@ -77,19 +77,14 @@ uk-coupon-bot/
 ├── scraper/
 │   ├── index.js                   # Main scraper orchestrator
 │   ├── sources/
-│   │   ├── hotukdeals.js          # RSS feed scraper
-│   │   ├── vouchercodes.js        # HTML scraper
-│   │   ├── ggdeals.js             # Gaming cache scraper
-│   │   ├── myvouchercodes.js      # Playwright scraper
-│   │   ├── savoo.js               # Playwright scraper
-│   │   ├── coupert.js             # Playwright scraper
-│   │   ├── netvouchercodes.js     # Playwright scraper
-│   │   ├── voucherbox.js          # Playwright scraper
-│   │   ├── codesuk.js             # Playwright scraper
-│   │   ├── latestdeals.js         # Playwright scraper
-│   │   └── moneysavingexpert.js   # Playwright scraper
+│   │   ├── savoo.js               # Playwright scraper — best UK breadth
+│   │   ├── knoji.js               # Playwright (headful) — densest per store
+│   │   ├── ggdeals.js             # Playwright (headful) — gaming stores
+│   │   └── coupert.js             # Playwright (headful) — self-hosted runner
 │   ├── lib/
 │   │   ├── stores.js              # Canonical domains, aliases, display names
+│   │   ├── domain-corrections.json # Generated: wrong store key -> real domain
+│   │   ├── attribution.js         # Rejects other retailers' offers
 │   │   ├── deadcodes.js           # Tombstones for reported-broken codes
 │   │   ├── shard.js               # Writes index.json + per-store files
 │   │   ├── normalizer.js          # Code dedup + normalization
@@ -172,9 +167,9 @@ Each code entry:
   "value": 20,
   "minSpend": 50,
   "expiry": "2026-08-01",
-  "source": "hotukdeals",
-  "sources": ["hotukdeals", "vouchercodes"],
-  "url": "https://www.hotukdeals.com/vouchers/amazon.co.uk",
+  "source": "savoo",
+  "sources": ["savoo", "knoji"],
+  "url": "https://www.savoo.co.uk/amazon-discount-codes",
   "addedAt": "2026-07-13T12:00:00Z",
   "lastSeen": "2026-07-13T12:00:00Z",
   "testResults": {
@@ -220,21 +215,21 @@ Or just report failed codes via the Tampermonkey script — it creates GitHub Is
 
 ## 📊 Sources
 
-| Source | Method | UK Focus | Codes/Run | Notes |
-|--------|--------|----------|-----------|-------|
-| HotUKDeals | RSS | ✅ | 15-20 | Fast, community-voted |
-| VoucherCodes.co.uk | HTML | ✅ | 30-40 | Reliable UK retailer codes |
-| GG.deals | Playwright (headful) | 🎮 | 200+ | Gaming stores, scraped live |
-| MyVoucherCodes | Playwright | ✅ | 80-100 | Dynamic JS rendering |
-| Savoo | Playwright | ✅ | 100+ | Best UK coverage |
-| Coupert | Playwright (headful) | 🌍 | 100+ | 20 verified store slugs |
-| NetVoucherCodes | Playwright | ✅ | 0-10 | May have browser issues |
-| Voucherbox | Playwright | ✅ | 5-10 | UK exclusive codes |
-| Codes.co.uk | Playwright | ✅ | 10-15 | Daily updated |
-| LatestDeals | Playwright | ✅ | 1-5 | Community-posted codes |
-| MoneySavingExpert | Playwright | ✅ | 1-3 | Curated list |
+| Source | Method | Focus | Codes/Run | Notes |
+|--------|--------|-------|-----------|-------|
+| Savoo | Playwright | 🇬🇧 | 1,400+ | Best UK breadth, ~600 stores per run |
+| Knoji | Playwright (headful) | 🇬🇧 | 1,000+ | Densest per store; codes in a `data-code` attribute |
+| GG.deals | Playwright (headful) | 🎮 | 200+ | Game-key resellers, global pricing |
+| Coupert | Playwright (headful) | 🇬🇧 | 120+ | Self-hosted runner: Cloudflare refuses datacentre IPs |
 
-**Retired sources:** Honey (bot protection), Vouchercloud (Cloudflare), RetailMeNot (no codes), Wowcher (browser crashes)
+**Retired sources:** HotUKDeals (invented store domains out of offer text, 4 usable
+entries in 18), VoucherCodes, MyVoucherCodes, NetVoucherCodes, Voucherbox, Codes.co.uk,
+LatestDeals, MoneySavingExpert (all click-to-reveal: no codes in the HTML at all),
+Honey (bot protection), Vouchercloud (Cloudflare), RetailMeNot, Wowcher
+
+Codes are only kept for a store whose domain actually resolves, and non-sterling
+codes are dropped except on the game-key resellers listed in `GLOBAL_STORES`,
+which genuinely quote dollars to UK buyers.
 
 ## ⚠️ Notes
 

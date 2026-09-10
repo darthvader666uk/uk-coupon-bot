@@ -19,6 +19,7 @@ import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import { launchHeadfulBrowser, isValidCode, guessType } from "../lib/playwright-base.js";
 import { belongsToStore } from "../lib/attribution.js";
+import { DISPLAY_NAMES } from "../lib/stores.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_FILE = join(__dirname, "..", ".cache", "knoji-stores.json");
@@ -27,8 +28,20 @@ const MISS_TTL_MS = 30 * 24 * 60 * 60 * 1000;
 /** Cap per run so this can't dominate the nightly job. */
 export const STORES_PER_RUN = 120;
 
+/**
+ * Canonical domain -> Knoji subdomain, for the stores where stripping the
+ * domain doesn't produce it. B&Q trades as diy.com but Knoji files it under
+ * `bq`, so the derived `diy` 410s and the store looks absent from Knoji when
+ * it in fact has more codes than any other source carries for it.
+ */
+export const SUBDOMAIN_OVERRIDES = {
+  "diy.com": "bq",
+};
+
 /** Strip a store domain down to the bare name Knoji uses as a subdomain. */
 export function storeKey(domain) {
+  const override = SUBDOMAIN_OVERRIDES[(domain || "").toLowerCase().replace(/^www\./, "")];
+  if (override) return override;
   return (domain || "")
     .toLowerCase()
     .replace(/^www\./, "")
@@ -72,9 +85,17 @@ export function selectTargets(knownDomains, cache, perRun = STORES_PER_RUN, now 
   const refresh = [];
   const discover = [];
 
-  for (const domain of knownDomains) {
+  // A store only gets an override because someone confirmed its Knoji page by
+  // hand, so probe it even when no source has filed a code against it yet.
+  // Otherwise a store no other source covers can never be discovered here:
+  // it isn't in the index, so it is never probed, so it never enters the index.
+  const candidates = new Set([...knownDomains, ...Object.keys(SUBDOMAIN_OVERRIDES)]);
+
+  for (const domain of candidates) {
     const sub = storeKey(domain);
-    if (!sub || sub.length < 3) continue;
+    // `bq` is a legitimate subdomain, so only guess-derived keys need the
+    // minimum length that guards against junk like `hm` matching everything.
+    if (!sub || (sub.length < 3 && !SUBDOMAIN_OVERRIDES[domain])) continue;
     const seen = cache[sub];
     // A store known not to be on Knoji costs one request a month, not one a night.
     if (seen?.miss && now - new Date(seen.at).getTime() < MISS_TTL_MS) continue;
@@ -183,7 +204,10 @@ export async function scrape(stores = null) {
         // Knoji shows a "similar coupons" block of other retailers' codes,
         // titled "... at Macy's". Filing those here is how a Kohl's code ended
         // up under Anastasia Beverly Hills.
-        if (!belongsToStore(description, subdomain, storeDomain)) continue;
+        // The display name matters here: Knoji's subdomain can be too short
+        // to match on (`bq`) and the domain can share no letters with the
+        // retailer (`diy.com` vs "B&Q"), which would reject its own offers.
+        if (!belongsToStore(description, subdomain, storeDomain, DISPLAY_NAMES[storeDomain])) continue;
         entries.push({
           code: item.code,
           storeName: storeDomain,
