@@ -64,6 +64,18 @@ jobs:
           retention-days: 3
           if-no-files-found: warn
 
+      # Knoji records which subdomains it has already probed. That file has to
+      # reach the merge job to be committed, or every run starts blind and
+      # discovery never advances past its per-run cap.
+      - name: Upload Knoji probe cache
+        if: matrix.source == 'knoji'
+        uses: actions/upload-artifact@v4
+        with:
+          name: knoji-probes
+          path: data/knoji-probes.json
+          retention-days: 3
+          if-no-files-found: warn
+
   merge:
     needs: scrape
     # Runs even when some sources failed — partial data beats no data, and the
@@ -97,13 +109,32 @@ jobs:
           pattern: entries-*
           merge-multiple: true
 
+      - name: Download Knoji probe cache
+        uses: actions/download-artifact@v4
+        continue-on-error: true   # absent when the knoji job failed
+        with:
+          name: knoji-probes
+          path: data
+
       - name: Merge, clean and shard
         working-directory: scraper
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: darthvader666uk/uk-coupon-bot
           GITHUB_BRANCH: main
-        run: node index.js --merge-dir=artifacts
+        # --no-push: the API push has never worked here (403 on /git/blobs)
+        # and the commit step below is what actually lands the data.
+        run: node index.js --merge-dir=artifacts --no-push
+
+      # Savoo derives a domain by appending .co.uk to its slug, so every run
+      # that discovers new stores invents new dead keys: 86 of the 216 added on
+      # 2026-09-10. Re-probing here and re-folding means the database corrects
+      # itself nightly instead of drifting until someone audits it by hand.
+      - name: Re-verify store domains and re-clean
+        working-directory: scraper
+        run: |
+          node scripts/verify-domains.mjs --write
+          node index.js --reclean --local --no-push
 
       - name: Commit and push changes
         run: |
@@ -112,7 +143,8 @@ jobs:
           git stash --include-untracked
           git pull --rebase origin main
           git stash pop || true
-          git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json
+          git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json \
+                  data/knoji-probes.json scraper/lib/domain-corrections.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

@@ -22,7 +22,15 @@ import { belongsToStore } from "../lib/attribution.js";
 import { DISPLAY_NAMES } from "../lib/stores.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const CACHE_FILE = join(__dirname, "..", ".cache", "knoji-stores.json");
+/*
+ * Committed, not in scraper/.cache/, which is gitignored. The matrix job that
+ * scrapes Knoji is a different machine from the merge job that commits, so an
+ * ignored cache never survived a CI run at all: every night started with an
+ * empty cache, every store therefore counted as undiscovered, and discovery is
+ * capped at a third of the run. Knoji had reached 52 stores out of 753 and was
+ * never going to reach more.
+ */
+const CACHE_FILE = join(__dirname, "..", "..", "data", "knoji-probes.json");
 /** How long to trust a "this store isn't on Knoji" result before retrying. */
 const MISS_TTL_MS = 30 * 24 * 60 * 60 * 1000;
 /** Cap per run so this can't dominate the nightly job. */
@@ -90,6 +98,7 @@ export function selectTargets(knownDomains, cache, perRun = STORES_PER_RUN, now 
   // Otherwise a store no other source covers can never be discovered here:
   // it isn't in the index, so it is never probed, so it never enters the index.
   const candidates = new Set([...knownDomains, ...Object.keys(SUBDOMAIN_OVERRIDES)]);
+  const pinned = [];
 
   for (const domain of candidates) {
     const sub = storeKey(domain);
@@ -100,13 +109,18 @@ export function selectTargets(knownDomains, cache, perRun = STORES_PER_RUN, now 
     // A store known not to be on Knoji costs one request a month, not one a night.
     if (seen?.miss && now - new Date(seen.at).getTime() < MISS_TTL_MS) continue;
     const target = { subdomain: sub, storeDomain: domain };
-    if (seen && !seen.miss) refresh.push(target);
+    // An override exists because someone confirmed the page by hand, so it
+    // takes a slot rather than queueing behind 900 guesses for a third of the
+    // run. B&Q sat unprobed for exactly that reason.
+    if (SUBDOMAIN_OVERRIDES[domain]) pinned.push(target);
+    else if (seen && !seen.miss) refresh.push(target);
     else discover.push(target);
   }
 
-  const discoverBudget = Math.max(1, Math.floor(perRun / 3));
+  const budget = Math.max(0, perRun - pinned.length);
+  const discoverBudget = Math.max(1, Math.floor(budget / 3));
   const taken = discover.slice(0, discoverBudget);
-  return [...refresh.slice(0, perRun - taken.length), ...taken];
+  return [...pinned, ...refresh.slice(0, budget - taken.length), ...taken];
 }
 
 /**

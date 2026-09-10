@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-10T10:20:27.910Z",
-    "totalCodes": 3089,
+    "lastUpdated": "2026-09-10T10:31:17.613Z",
+    "totalCodes": 3066,
     "version": "2.0",
     "sources": []
   },
@@ -1858,11 +1858,12 @@
           "expiry": null,
           "source": "knoji",
           "sources": [
-            "knoji"
+            "knoji",
+            "savoo"
           ],
           "url": "https://greenmangaming.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
+          "lastSeen": "2026-09-10T10:20:27.653Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -1963,11 +1964,12 @@
           "expiry": null,
           "source": "knoji",
           "sources": [
-            "knoji"
+            "knoji",
+            "savoo"
           ],
           "url": "https://greenmangaming.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-09T10:28:19.283Z",
+          "lastSeen": "2026-09-10T10:20:27.653Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -57784,7 +57786,7 @@
         }
       ]
     },
-    "pong-cheese.co.uk": {
+    "pongcheese.co.uk": {
       "name": "Pong Cheese",
       "category": "general",
       "codes": [
@@ -57810,53 +57812,7 @@
         }
       ]
     },
-    "photobook-uk.co.uk": {
-      "name": "Photobook Uk",
-      "category": "general",
-      "codes": [
-        {
-          "code": "MIDYEARSALE2026",
-          "description": "Up to 60% off Square Softcover Books at Photobook UK",
-          "type": "percentage",
-          "value": 60,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/photobook-uk-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "PROMO50",
-          "description": "Up to 50% off Photo Books, Wall Art and Gifts over £35 at Photobook UK",
-          "type": "percentage",
-          "value": 50,
-          "minSpend": 35,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/photobook-uk-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "real-madrid.co.uk": {
+    "realmadrid.co.uk": {
       "name": "Real Madrid",
       "category": "general",
       "codes": [
@@ -57908,7 +57864,7 @@
         }
       ]
     },
-    "only-curls.co.uk": {
+    "onlycurls.com": {
       "name": "Only Curls",
       "category": "general",
       "codes": [
@@ -57934,7 +57890,7 @@
         }
       ]
     },
-    "lily-obriens.co.uk": {
+    "lilyobriens.co.uk": {
       "name": "Lily Obriens",
       "category": "general",
       "codes": [
@@ -57986,7 +57942,7 @@
         }
       ]
     },
-    "lisa-angel.co.uk": {
+    "lisaangel.co.uk": {
       "name": "Lisa Angel",
       "category": "general",
       "codes": [
@@ -58052,7 +58008,7 @@
         }
       ]
     },
-    "yours-clothing.co.uk": {
+    "yoursclothing.co.uk": {
       "name": "Yours Clothing",
       "category": "general",
       "codes": [
@@ -58176,7 +58132,7 @@
         }
       ]
     },
-    "who-gives-a-crap.co.uk": {
+    "uk.whogivesacrap.org": {
       "name": "Who Gives A Crap",
       "category": "general",
       "codes": [
@@ -58262,7 +58218,7 @@
         }
       ]
     },
-    "pharmacy-online.co.uk": {
+    "pharmacyonline.co.uk": {
       "name": "Pharmacy Online",
       "category": "general",
       "codes": [
@@ -58354,72 +58310,6 @@
         }
       ]
     },
-    "pure-collection-limited.co.uk": {
-      "name": "Pure Collection Limited",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SHOP20",
-          "description": "20% off Everything at Pure Collection",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/pure-collection-limited-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "HIGH10",
-          "description": "10% off all orders at Pure Collection",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/pure-collection-limited-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SHOP15",
-          "description": "15% off Everything at Pure Collection",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/pure-collection-limited-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "lights4fun.co.uk": {
       "name": "Lights4fun",
       "category": "general",
@@ -58446,33 +58336,7 @@
         }
       ]
     },
-    "dfb-fanshop-eu.co.uk": {
-      "name": "Dfb Fanshop Eu",
-      "category": "general",
-      "codes": [
-        {
-          "code": "DFB35",
-          "description": "35% off Selected Retro Shirts at DFB-Fanshop EU",
-          "type": "percentage",
-          "value": 35,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/dfb-fanshop-eu-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "patrol-store.co.uk": {
+    "patrolstore.com": {
       "name": "Patrol Store",
       "category": "general",
       "codes": [
@@ -58694,7 +58558,7 @@
         }
       ]
     },
-    "kally-sleep.co.uk": {
+    "kallysleep.com": {
       "name": "Kally Sleep",
       "category": "general",
       "codes": [
@@ -58802,32 +58666,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/navimow-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "bulk-powders.co.uk": {
-      "name": "Bulk Powders",
-      "category": "general",
-      "codes": [
-        {
-          "code": "PLUS10",
-          "description": "Extra 10% off Bulk Sale on orders over £59",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": 59,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/bulk-powders-discount-codes",
           "addedAt": "2026-09-10T10:20:27.653Z",
           "lastSeen": "2026-09-10T10:20:27.653Z",
           "testResults": {
@@ -59022,7 +58860,7 @@
         }
       ]
     },
-    "press-london.co.uk": {
+    "press-london.com": {
       "name": "Press London",
       "category": "general",
       "codes": [
@@ -59734,7 +59572,7 @@
         }
       ]
     },
-    "living-proof.co.uk": {
+    "livingproof.co.uk": {
       "name": "Living Proof",
       "category": "general",
       "codes": [
@@ -59806,7 +59644,7 @@
         }
       ]
     },
-    "insure-and-go.co.uk": {
+    "insureandgo.com": {
       "name": "Insure And Go",
       "category": "general",
       "codes": [
@@ -59858,7 +59696,7 @@
         }
       ]
     },
-    "lloyds-pharmacy.co.uk": {
+    "lloydspharmacy.com": {
       "name": "Lloyds Pharmacy",
       "category": "general",
       "codes": [
@@ -59914,32 +59752,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/lloyds-pharmacy-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "happy-puzzle-company.co.uk": {
-      "name": "Happy Puzzle Company",
-      "category": "general",
-      "codes": [
-        {
-          "code": "FC26",
-          "description": "15% off Football Crazy Range at Happy Puzzle Company",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/happy-puzzle-company-discount-codes",
           "addedAt": "2026-09-10T10:20:27.653Z",
           "lastSeen": "2026-09-10T10:20:27.653Z",
           "testResults": {
@@ -60094,7 +59906,7 @@
         }
       ]
     },
-    "the-couture-club.co.uk": {
+    "thecoutureclub.com": {
       "name": "The Couture Club",
       "category": "general",
       "codes": [
@@ -60120,7 +59932,7 @@
         }
       ]
     },
-    "finery-london.co.uk": {
+    "finerylondon.com": {
       "name": "Finery London",
       "category": "general",
       "codes": [
@@ -60290,7 +60102,7 @@
         }
       ]
     },
-    "acotis-diamonds.co.uk": {
+    "acotisdiamonds.co.uk": {
       "name": "Acotis Diamonds",
       "category": "general",
       "codes": [
@@ -60316,7 +60128,7 @@
         }
       ]
     },
-    "parsley-box.co.uk": {
+    "parsleybox.com": {
       "name": "Parsley Box",
       "category": "general",
       "codes": [
@@ -60724,32 +60536,6 @@
         }
       ]
     },
-    "fred-olsen-cruise-lines.co.uk": {
-      "name": "Fred Olsen Cruise Lines",
-      "category": "general",
-      "codes": [
-        {
-          "code": "WEEKEND",
-          "description": "£100 off 2025 Cruises at Fred Olsen Cruise Lines",
-          "type": "fixed",
-          "value": 100,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/fred-olsen-cruise-lines-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "warehouse.co.uk": {
       "name": "Warehouse",
       "category": "general",
@@ -60842,7 +60628,7 @@
         }
       ]
     },
-    "rowen-homes.co.uk": {
+    "rowenhomes.com": {
       "name": "Rowen Homes",
       "category": "general",
       "codes": [
@@ -60878,52 +60664,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/rowen-homes-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "green-man-gaming.co.uk": {
-      "name": "Green Man Gaming",
-      "category": "general",
-      "codes": [
-        {
-          "code": "MAY15",
-          "description": "15% off RRP on all PC Games at Green Man Gaming",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/green-man-gaming-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "APR15",
-          "description": "15% off RRP on all PC Games at Green Man Gaming",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/green-man-gaming-discount-codes",
           "addedAt": "2026-09-10T10:20:27.653Z",
           "lastSeen": "2026-09-10T10:20:27.653Z",
           "testResults": {
@@ -61144,7 +60884,7 @@
         }
       ]
     },
-    "go-thrift.co.uk": {
+    "go-thrift.com": {
       "name": "Go Thrift",
       "category": "general",
       "codes": [
@@ -61256,7 +60996,7 @@
         }
       ]
     },
-    "decorating-centre-online.co.uk": {
+    "decoratingcentreonline.co.uk": {
       "name": "Decorating Centre Online",
       "category": "general",
       "codes": [
@@ -61282,7 +61022,7 @@
         }
       ]
     },
-    "jshealthvitamins.co.uk": {
+    "jshealthvitamins.com": {
       "name": "Jshealthvitamins",
       "category": "general",
       "codes": [
@@ -61374,33 +61114,7 @@
         }
       ]
     },
-    "the-house-of-bruar.co.uk": {
-      "name": "The House Of Bruar",
-      "category": "general",
-      "codes": [
-        {
-          "code": "HB65",
-          "description": "Extra 10% off orders at The House of Bruar",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/the-house-of-bruar-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "first-class-watches.co.uk": {
+    "firstclasswatches.co.uk": {
       "name": "First Class Watches",
       "category": "general",
       "codes": [
@@ -61558,53 +61272,7 @@
         }
       ]
     },
-    "english-heritage-membership.co.uk": {
-      "name": "English Heritage Membership",
-      "category": "general",
-      "codes": [
-        {
-          "code": "EHSUM26",
-          "description": "Summer Special: 25% off Annual Memberships at English Heritage Membership",
-          "type": "percentage",
-          "value": 25,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/english-heritage-membership-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "LATE20",
-          "description": "20% off orders at English Heritage Membership",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/english-heritage-membership-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "lilys-kitchen.co.uk": {
+    "lilyskitchen.co.uk": {
       "name": "Lilys Kitchen",
       "category": "general",
       "codes": [
@@ -61888,7 +61556,7 @@
         }
       ]
     },
-    "piglet-in-bed.co.uk": {
+    "pigletinbed.com": {
       "name": "Piglet In Bed",
       "category": "general",
       "codes": [
@@ -61980,7 +61648,7 @@
         }
       ]
     },
-    "the-gift-experience.co.uk": {
+    "thegiftexperience.co.uk": {
       "name": "The Gift Experience",
       "category": "general",
       "codes": [
@@ -62046,7 +61714,7 @@
         }
       ]
     },
-    "vimeo.co.uk": {
+    "vimeo.com": {
       "name": "Vimeo",
       "category": "general",
       "codes": [
@@ -62118,7 +61786,7 @@
         }
       ]
     },
-    "premier-inn-at-home.co.uk": {
+    "premierinnathome.com": {
       "name": "Premier Inn At Home",
       "category": "general",
       "codes": [
@@ -62210,7 +61878,7 @@
         }
       ]
     },
-    "la-muscle.co.uk": {
+    "lamuscle.com": {
       "name": "La Muscle",
       "category": "general",
       "codes": [
@@ -62492,7 +62160,7 @@
         }
       ]
     },
-    "outdoor-action.co.uk": {
+    "outdooraction.co.uk": {
       "name": "Outdoor Action",
       "category": "general",
       "codes": [
@@ -62630,7 +62298,7 @@
         }
       ]
     },
-    "mahabis.co.uk": {
+    "mahabis.com": {
       "name": "Mahabis",
       "category": "general",
       "codes": [
@@ -62906,32 +62574,6 @@
         }
       ]
     },
-    "hush-homewear.co.uk": {
-      "name": "Hush Homewear",
-      "category": "general",
-      "codes": [
-        {
-          "code": "NEXTDAY",
-          "description": "Free Next-Day Delivery on orders over £100 at Hush",
-          "type": "fixed",
-          "value": 100,
-          "minSpend": 100,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/hush-homewear-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "thought.co.uk": {
       "name": "Thought",
       "category": "general",
@@ -62958,7 +62600,7 @@
         }
       ]
     },
-    "sneak-energy.co.uk": {
+    "sneakenergy.com": {
       "name": "Sneak Energy",
       "category": "general",
       "codes": [
@@ -63110,7 +62752,7 @@
         }
       ]
     },
-    "mz-skin.co.uk": {
+    "mzskin.com": {
       "name": "Mz Skin",
       "category": "general",
       "codes": [
@@ -63136,7 +62778,7 @@
         }
       ]
     },
-    "the-luxury-closet.co.uk": {
+    "theluxurycloset.com": {
       "name": "The Luxury Closet",
       "category": "general",
       "codes": [
@@ -63188,7 +62830,7 @@
         }
       ]
     },
-    "prettylittlething.co.uk": {
+    "prettylittlething.com": {
       "name": "Prettylittlething",
       "category": "general",
       "codes": [
@@ -63326,53 +62968,7 @@
         }
       ]
     },
-    "gemondo-discount-code.co.uk": {
-      "name": "Gemondo Discount Code",
-      "category": "general",
-      "codes": [
-        {
-          "code": "BANKHOLIDAY10",
-          "description": "May Bank Holiday Sale: 10% off Selected Jewellery at Gemondo",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/gemondo-discount-code",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "EASTER15",
-          "description": "15% off All Jewelry at Gemondo",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/gemondo-discount-code",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "pagazzi.co.uk": {
+    "pagazzi.com": {
       "name": "Pagazzi",
       "category": "general",
       "codes": [
@@ -63616,7 +63212,7 @@
         }
       ]
     },
-    "pets-at-home.co.uk": {
+    "petsathome.com": {
       "name": "Pets At Home",
       "category": "general",
       "codes": [
@@ -63662,7 +63258,7 @@
         }
       ]
     },
-    "rheal-superfoods.co.uk": {
+    "rhealsuperfoods.com": {
       "name": "Rheal Superfoods",
       "category": "general",
       "codes": [
@@ -63688,7 +63284,7 @@
         }
       ]
     },
-    "gina-bacconi.co.uk": {
+    "ginabacconi.com": {
       "name": "Gina Bacconi",
       "category": "general",
       "codes": [
@@ -63846,7 +63442,7 @@
         }
       ]
     },
-    "best-gym-equipment.co.uk": {
+    "bestgymequipment.co.uk": {
       "name": "Best Gym Equipment",
       "category": "general",
       "codes": [
@@ -63898,7 +63494,7 @@
         }
       ]
     },
-    "bad-monday.co.uk": {
+    "badmonday.com": {
       "name": "Bad Monday",
       "category": "general",
       "codes": [
@@ -63964,7 +63560,7 @@
         }
       ]
     },
-    "tower-housewares.co.uk": {
+    "towerhousewares.co.uk": {
       "name": "Tower Housewares",
       "category": "general",
       "codes": [
@@ -63990,7 +63586,7 @@
         }
       ]
     },
-    "carphone-warehouse.co.uk": {
+    "carphonewarehouse.co.uk": {
       "name": "Carphone Warehouse",
       "category": "general",
       "codes": [
@@ -64096,7 +63692,7 @@
         }
       ]
     },
-    "jane-plan.co.uk": {
+    "janeplan.com": {
       "name": "Jane Plan",
       "category": "general",
       "codes": [
@@ -64188,7 +63784,7 @@
         }
       ]
     },
-    "skinnydip-london.co.uk": {
+    "skinnydiplondon.com": {
       "name": "Skinnydip London",
       "category": "general",
       "codes": [
@@ -64214,7 +63810,7 @@
         }
       ]
     },
-    "it-luggage.co.uk": {
+    "itluggage.com": {
       "name": "It Luggage",
       "category": "general",
       "codes": [
@@ -64306,7 +63902,7 @@
         }
       ]
     },
-    "atkin-and-thyme.co.uk": {
+    "atkinandthyme.co.uk": {
       "name": "Atkin And Thyme",
       "category": "general",
       "codes": [
@@ -64536,7 +64132,7 @@
         }
       ]
     },
-    "anine-bing.co.uk": {
+    "aninebing.com": {
       "name": "Anine Bing",
       "category": "general",
       "codes": [
@@ -64714,7 +64310,7 @@
         }
       ]
     },
-    "agent-provocateur.co.uk": {
+    "agentprovocateur.com": {
       "name": "Agent Provocateur",
       "category": "general",
       "codes": [
@@ -64760,7 +64356,7 @@
         }
       ]
     },
-    "ellis-brigham.co.uk": {
+    "ellis-brigham.com": {
       "name": "Ellis Brigham",
       "category": "general",
       "codes": [
@@ -64786,7 +64382,7 @@
         }
       ]
     },
-    "joma-jewellery.co.uk": {
+    "jomajewellery.com": {
       "name": "Joma Jewellery",
       "category": "general",
       "codes": [
@@ -64832,7 +64428,7 @@
         }
       ]
     },
-    "mountain-warehouse.co.uk": {
+    "mountainwarehouse.com": {
       "name": "Mountain Warehouse",
       "category": "general",
       "codes": [
@@ -64898,7 +64494,7 @@
         }
       ]
     },
-    "built-for-athletes.co.uk": {
+    "builtforathletes.co.uk": {
       "name": "Built For Athletes",
       "category": "general",
       "codes": [
@@ -64950,7 +64546,7 @@
         }
       ]
     },
-    "harrod-horticultural.co.uk": {
+    "harrodhorticultural.com": {
       "name": "Harrod Horticultural",
       "category": "general",
       "codes": [
@@ -65128,7 +64724,7 @@
         }
       ]
     },
-    "harringtons-pet-food.co.uk": {
+    "harringtonspetfood.com": {
       "name": "Harringtons Pet Food",
       "category": "general",
       "codes": [
@@ -65214,7 +64810,7 @@
         }
       ]
     },
-    "abel-and-cole.co.uk": {
+    "abelandcole.co.uk": {
       "name": "Abel And Cole",
       "category": "general",
       "codes": [
@@ -65398,7 +64994,7 @@
         }
       ]
     },
-    "dock-and-bay.co.uk": {
+    "uk.dockandbay.com": {
       "name": "Dock And Bay",
       "category": "general",
       "codes": [
@@ -65516,52 +65112,6 @@
         }
       ]
     },
-    "national-tyres-and-autocare.co.uk": {
-      "name": "National Tyres And Autocare",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SA10",
-          "description": "10% off Two or More Selected Tyres at National Tyres and Autocare",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/national-tyres-and-autocare-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "GBP20",
-          "description": "20% off Two or Three Selected Tyres at National Tyres and Autocare",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/national-tyres-and-autocare-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "card-factory.co.uk": {
       "name": "Card Factory",
       "category": "general",
@@ -65608,7 +65158,7 @@
         }
       ]
     },
-    "philip-kingsley.co.uk": {
+    "philipkingsley.co.uk": {
       "name": "Philip Kingsley",
       "category": "general",
       "codes": [
@@ -65806,7 +65356,7 @@
         }
       ]
     },
-    "the-fish-society.co.uk": {
+    "thefishsociety.co.uk": {
       "name": "The Fish Society",
       "category": "general",
       "codes": [
@@ -65858,7 +65408,7 @@
         }
       ]
     },
-    "the-knitting-network.co.uk": {
+    "theknittingnetwork.co.uk": {
       "name": "The Knitting Network",
       "category": "general",
       "codes": [
@@ -65972,32 +65522,6 @@
             "savoo"
           ],
           "url": "https://www.savoo.co.uk/brands/selfridges-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "lonely-planet-publications.co.uk": {
-      "name": "Lonely Planet Publications",
-      "category": "general",
-      "codes": [
-        {
-          "code": "FEB2026",
-          "description": "20% off Sitewide Plus Free Delivery at Lonely Planet",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/lonely-planet-publications-discount-codes",
           "addedAt": "2026-09-10T10:20:27.653Z",
           "lastSeen": "2026-09-10T10:20:27.653Z",
           "testResults": {
@@ -66258,7 +65782,7 @@
         }
       ]
     },
-    "city-experiences.co.uk": {
+    "cityexperiences.com": {
       "name": "City Experiences",
       "category": "general",
       "codes": [
@@ -66330,7 +65854,7 @@
         }
       ]
     },
-    "wide-fit-shoes.co.uk": {
+    "widefitshoes.co.uk": {
       "name": "Wide Fit Shoes",
       "category": "general",
       "codes": [
@@ -66502,7 +66026,7 @@
         }
       ]
     },
-    "julian-charles.co.uk": {
+    "juliancharles.co.uk": {
       "name": "Julian Charles",
       "category": "general",
       "codes": [
@@ -66548,7 +66072,7 @@
         }
       ]
     },
-    "cartwright-and-butler.co.uk": {
+    "cartwrightandbutler.co.uk": {
       "name": "Cartwright And Butler",
       "category": "general",
       "codes": [
@@ -66738,72 +66262,6 @@
         }
       ]
     },
-    "fitville.co.uk": {
-      "name": "Fitville",
-      "category": "general",
-      "codes": [
-        {
-          "code": "WINTER40",
-          "description": "40% off Winter Clearance Sale at FitVille",
-          "type": "percentage",
-          "value": 40,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/fitville-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CLAIRE30",
-          "description": "30% off Full-Priced orders at FitVille",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/fitville-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "CAROLINE30",
-          "description": "30% off Full-Priced orders at FitVille",
-          "type": "percentage",
-          "value": 30,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/fitville-discount-codes",
-          "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-10T10:20:27.653Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
     "pure-electric.co.uk": {
       "name": "Pure Electric",
       "category": "general",
@@ -66830,7 +66288,7 @@
         }
       ]
     },
-    "juicy-couture.co.uk": {
+    "juicycouture.co.uk": {
       "name": "Juicy Couture",
       "category": "general",
       "codes": [
@@ -67086,7 +66544,7 @@
         }
       ]
     },
-    "zafiro-hotels.co.uk": {
+    "zafirohotels.com": {
       "name": "Zafiro Hotels",
       "category": "general",
       "codes": [
@@ -67112,7 +66570,7 @@
         }
       ]
     },
-    "hot-golf.co.uk": {
+    "hotgolf.co.uk": {
       "name": "Hot Golf",
       "category": "general",
       "codes": [
@@ -67256,7 +66714,7 @@
         }
       ]
     },
-    "blossoming-gifts.co.uk": {
+    "blossominggifts.co.uk": {
       "name": "Blossoming Gifts",
       "category": "general",
       "codes": [
@@ -67580,7 +67038,7 @@
         }
       ]
     },
-    "wiper-blades.co.uk": {
+    "wiperblades.co.uk": {
       "name": "Wiper Blades",
       "category": "general",
       "codes": [
@@ -67764,7 +67222,7 @@
         }
       ]
     },
-    "aspinal-of-london.co.uk": {
+    "aspinaloflondon.com": {
       "name": "Aspinal Of London",
       "category": "general",
       "codes": [
@@ -67836,7 +67294,7 @@
         }
       ]
     },
-    "sigma-sports.co.uk": {
+    "sigmasports.co.uk": {
       "name": "Sigma Sports",
       "category": "general",
       "codes": [
@@ -67922,7 +67380,7 @@
         }
       ]
     },
-    "airport-park-with-us.co.uk": {
+    "airportparkwithus.co.uk": {
       "name": "Airport Park With Us",
       "category": "general",
       "codes": [

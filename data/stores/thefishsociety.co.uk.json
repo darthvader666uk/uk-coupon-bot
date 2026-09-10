@@ -1,0 +1,27 @@
+{
+  "domain": "thefishsociety.co.uk",
+  "name": "The Fish Society",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BH15",
+      "description": "15% off orders over £100",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/the-fish-society-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

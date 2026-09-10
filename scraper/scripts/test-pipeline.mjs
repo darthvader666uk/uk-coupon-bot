@@ -20,6 +20,7 @@ import {
 import { writeShards } from "../lib/shard.js";
 import { normaliseOffers, slugToDomain } from "../sources/coupert.js";
 import { extractDomain } from "../sources/savoo.js";
+import { selectTargets, SUBDOMAIN_OVERRIDES, storeKey } from "../sources/knoji.js";
 import { belongsToStore } from "../lib/attribution.js";
 import { isEmptyScrape, hasCollapsed } from "../lib/guards.js";
 import { fileURLToPath } from "url";
@@ -444,6 +445,31 @@ console.log("\nRefusing to save");
     !hasCollapsed({ before: 40, after: 1 }));
   check("--force overrides the collapse guard",
     !hasCollapsed({ before: 2662, after: 4, force: true }));
+}
+
+console.log("\nKnoji target selection");
+{
+  // Discovery is capped at a third of the run, so an override queueing behind
+  // 900 guesses never got probed. B&Q sat unreachable for exactly that reason.
+  const many = Array.from({ length: 900 }, (_, i) => `store${i}.co.uk`);
+  const targets = selectTargets(many, {});
+  check("override is probed despite 900 competing stores",
+    targets.some((t) => t.subdomain === "bq"));
+  check("override is taken first", targets[0]?.subdomain === "bq");
+  check("per-run cap still respected", targets.length <= 120, `${targets.length} targets`);
+
+  // A store confirmed absent from Knoji still costs one request a month, not
+  // one a night — the pin must not defeat the miss cache.
+  const fresh = { bq: { miss: true, at: new Date().toISOString() } };
+  check("a fresh cached miss is still skipped, even when pinned",
+    !selectTargets(many, fresh).some((t) => t.subdomain === "bq"));
+
+  const old = { bq: { miss: true, at: "2020-01-01T00:00:00Z" } };
+  check("an expired miss is retried",
+    selectTargets(many, old).some((t) => t.subdomain === "bq"));
+
+  check("diy.com derives the Knoji subdomain from the override",
+    storeKey("diy.com") === "bq" && SUBDOMAIN_OVERRIDES["diy.com"] === "bq");
 }
 
 console.log(`\n${passed} passed, ${failed} failed\n`);

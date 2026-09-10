@@ -1,0 +1,47 @@
+{
+  "domain": "harrodhorticultural.com",
+  "name": "Harrod Horticultural",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FREEDEL",
+      "description": "Free Delivery on orders over £100 at Harrod Horticultural",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/harrod-horticultural-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JULY10",
+      "description": "10% off orders at Harrod Horticultural",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/harrod-horticultural-discount-codes",
+      "addedAt": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

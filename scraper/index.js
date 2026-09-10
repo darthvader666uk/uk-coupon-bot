@@ -72,7 +72,10 @@ async function main() {
       console.log("\n🆕 --fresh: starting from an empty database");
       throw new Error("fresh start requested");
     }
-    if (process.env.GITHUB_TOKEN) {
+    // --local forces the file on disk. The merge job re-cleans what it just
+    // wrote, and with a token this would otherwise reload the repo copy and
+    // silently discard the entire merge.
+    if (process.env.GITHUB_TOKEN && !args.includes("--local")) {
       console.log("\n📦 Loading from GitHub repo…");
       const { json } = await readJSON();
       database = json;
