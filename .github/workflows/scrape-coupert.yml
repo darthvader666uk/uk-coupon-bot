@@ -9,15 +9,16 @@ name: Scrape Coupert (self-hosted)
 # a job that needs a self-hosted runner sits queued indefinitely when the
 # machine is off, which would hold up the merge job in the main run.
 #
-# Setup (once), on the machine that will run it:
-#   1. Repo -> Settings -> Actions -> Runners -> New self-hosted runner
-#   2. Follow the download/configure steps it shows
-#   3. Install it as a service so it survives reboots:
-#        ./svc.sh install   (Linux/macOS)
-#        .\svc.cmd install  (Windows, from an elevated prompt)
+# The runner is a Linux one, inside WSL on the same machine, registered with
+# the label `wsl` and managed by the systemd *user* unit
+# `github-runner-uk-coupon-bot.service` (see ~/actions-runner). It was moved
+# there from a Windows registration on 2026-09-10: installing the Windows
+# runner as a service puts it in Session 0, which has no desktop, and the
+# scrape needs a headful browser. WSL shares the host's residential IP, so
+# Cloudflare still lets it through.
 #
-# No xvfb here: a desktop machine already has a display, and the scrape needs
-# a headful browser. A browser window will appear while it runs.
+# The Linux runner is headless, so the scrape runs under `xvfb-run`, exactly
+# as the cloud jobs in scrape.yml do.
 
 on:
   schedule:
@@ -32,7 +33,7 @@ concurrency:
 
 jobs:
   coupert:
-    runs-on: self-hosted
+    runs-on: [self-hosted, wsl]
     timeout-minutes: 30
     permissions:
       contents: write
@@ -56,7 +57,7 @@ jobs:
       # or empty scrape can't wipe anything.
       - name: Scrape Coupert and merge
         working-directory: scraper
-        run: node index.js --source=coupert --no-push
+        run: xvfb-run -a node index.js --source=coupert --no-push
 
       - name: Commit and push changes
         run: |
