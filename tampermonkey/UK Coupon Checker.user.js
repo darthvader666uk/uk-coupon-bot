@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.2.0
+// @version      2.3.0
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
 // @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
@@ -44,7 +44,15 @@
   const INDEX_URL = `${DATA_BASE}/index.json`;
   const STORE_URL = (domain) => `${DATA_BASE}/stores/${encodeURIComponent(domain)}.json`;
   const REPO = "darthvader666uk/uk-coupon-bot";
-  const INDEX_TTL_MS = 24 * 60 * 60 * 1000; // index is tiny and changes daily
+  /*
+   * One hour, not a day. The index holds the store keys, so a stale one hides
+   * any store whose key has changed since it was cached — and it hides it
+   * completely, because an unresolved host renders no panel and therefore no
+   * refresh button to recover with. A repair of 279 store domains on
+   * 2026-09-10 would have been invisible for 24 hours. The file is 27 KB, so
+   * bounding that at an hour costs nothing worth counting.
+   */
+  const INDEX_TTL_MS = 60 * 60 * 1000;
   const STORE_TTL_MS = 6 * 60 * 60 * 1000;
   const INDEX_KEY = "ukcp_index";
   const INDEX_TIME_KEY = "ukcp_index_time";
@@ -677,6 +685,10 @@
       const btn = e.currentTarget;
       btn.textContent = "⏳";
       try {
+        // Refresh the index too. Refreshing only the store re-reads whatever
+        // key the cached index already had, so a renamed store could never be
+        // recovered from here.
+        await fetchIndex(true).catch(() => null);
         const fresh = await fetchStore(state.domain, true);
         state.codes = sortCodes(fresh.codes || []);
         state.storeName = fresh.name || state.storeName;

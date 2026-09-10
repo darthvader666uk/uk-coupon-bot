@@ -106,7 +106,7 @@ function check(name, condition, detail) {
   }
 }
 
-async function makePage(browser, host, html) {
+async function makePage(browser, host, html, seed) {
   const context = await browser.newContext();
   await context.route("**/*", (route) => {
     const url = route.request().url();
@@ -119,6 +119,10 @@ async function makePage(browser, host, html) {
   page.on("pageerror", (e) => pageErrors.push(`${host}: ${e.message}`));
   await page.goto(`https://${host}/checkout`);
   await page.addScriptTag({ content: GM_STUBS });
+  // Pre-seed GM storage so a test can present the script with a cache that is
+  // already stale, which is the state a real browser is in after store keys
+  // change in the repo.
+  if (seed) await page.addScriptTag({ content: seed });
   await page.addScriptTag({ content: SCRIPT });
   await page.waitForTimeout(300);
   return { page, context };
@@ -263,6 +267,57 @@ console.log("\nVoting and hiding");
   await page.addScriptTag({ content: SCRIPT });
   await page.waitForTimeout(300);
   check("hide-on-site persists across reloads", await page.locator("#ukcp-badge").count() === 0);
+  await context.close();
+}
+
+console.log("\nIndex cache freshness");
+{
+  // The index holds the store keys. A stale one hides any store whose key has
+  // changed, and hides it completely: an unresolved host renders no panel, so
+  // there is no refresh button to recover with. This is why the TTL is an hour.
+  const STALE_INDEX = JSON.stringify({
+    meta: { version: 2 },
+    aliases: {},
+    stores: { "some-old-key.co.uk": 2 },
+  });
+  const seed = `
+    window.__ukcpStore["ukcp_index"] = ${JSON.stringify(STALE_INDEX)};
+    window.__ukcpStore["ukcp_index_time"] = Date.now() - (2 * 60 * 60 * 1000);
+  `;
+  const { page, context } = await makePage(browser, "www.currys.co.uk", CHECKOUT_HTML, seed);
+  const fetchedIndex = await page.evaluate(() =>
+    window.__ukcpRequests.some((u) => u.endsWith("/index.json")));
+  check("index older than the TTL is refetched", fetchedIndex);
+  check("store found again once the index is fresh",
+    await page.locator("#ukcp-badge").count() === 1);
+  await context.close();
+}
+{
+  // The other half: a fresh cache must not be re-fetched on every page load.
+  const seed = `
+    window.__ukcpStore["ukcp_index"] = ${JSON.stringify(JSON.stringify(INDEX))};
+    window.__ukcpStore["ukcp_index_time"] = Date.now();
+  `;
+  const { page, context } = await makePage(browser, "www.currys.co.uk", CHECKOUT_HTML, seed);
+  const fetchedIndex = await page.evaluate(() =>
+    window.__ukcpRequests.filter((u) => u.endsWith("/index.json")).length);
+  check("fresh index is served from cache", fetchedIndex === 0, `${fetchedIndex} requests`);
+  check("store still resolves from the cached index",
+    await page.locator("#ukcp-badge").count() === 1);
+  await context.close();
+}
+{
+  // Refreshing only the store would re-read whatever key the cached index
+  // already had, so a renamed store could never be recovered from the panel.
+  const { page, context } = await makePage(browser, "www.currys.co.uk", CHECKOUT_HTML);
+  await page.click("#ukcp-badge");
+  const before = await page.evaluate(() =>
+    window.__ukcpRequests.filter((u) => u.endsWith("/index.json")).length);
+  await page.locator(".ukcp-refresh").click();
+  await page.waitForTimeout(200);
+  const after = await page.evaluate(() =>
+    window.__ukcpRequests.filter((u) => u.endsWith("/index.json")).length);
+  check("refresh button refetches the index", after > before, `${before} -> ${after}`);
   await context.close();
 }
 
