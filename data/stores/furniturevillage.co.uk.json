@@ -1,0 +1,87 @@
+{
+  "domain": "furniturevillage.co.uk",
+  "name": "Furniture Village",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SOFA10",
+      "description": "Extra 10% off all Sofas When You Buy a Footstool at Furniture Village",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/furniture-village-discount-codes",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ACCS10",
+      "description": "Extra 10% off Accessories at Furniture Villag",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/furniture-village-discount-codes",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FOOT10",
+      "description": "Extra 10% off Footstools over £100 at Furniture Villag",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/furniture-village-discount-codes",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE501",
+      "description": "Extra £100 off orders over £1000 at Furniture Village",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 1000,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/furniture-village-discount-codes",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

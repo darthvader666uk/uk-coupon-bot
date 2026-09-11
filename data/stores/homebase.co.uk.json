@@ -1,0 +1,27 @@
+{
+  "domain": "homebase.co.uk",
+  "name": "Homebase",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FURN20",
+      "description": "20% off Selected Indoor Furniture orders over £100 at Homebase",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/homebase-discount-codes",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

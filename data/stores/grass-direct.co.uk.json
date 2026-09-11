@@ -16,12 +16,13 @@
       ],
       "url": "https://grassdirect.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
     },
     {
       "code": "SUMMER5",
@@ -36,32 +37,13 @@
       ],
       "url": "https://grassdirect.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "FREESHIP",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://grassdirect.knoji.com/",
-      "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-07T14:44:36.803Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "verified": false
     },
     {
       "code": "TSTARCH",
@@ -76,12 +58,97 @@
       ],
       "url": "https://grassdirect.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "SUMMER10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://grassdirect.knoji.com/",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAVE20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://grassdirect.knoji.com/",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAVE15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://grassdirect.knoji.com/",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LABORDAY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://grassdirect.knoji.com/",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "domain": "procook.co.uk",
+  "name": "Procook",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BH20",
+      "description": "20% off orders over £100 at ProCook",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/procook-discount-codes",
+      "addedAt": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
