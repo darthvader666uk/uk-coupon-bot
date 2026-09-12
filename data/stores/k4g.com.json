@@ -173,11 +173,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -199,7 +200,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -264,7 +265,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -326,7 +327,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/k4g-com",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -573,11 +574,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -725,7 +727,7 @@
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -843,11 +845,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -928,6 +931,26 @@
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-12T09:55:54.909Z",
       "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUPERBIRD",
+      "description": "Exclusive 6% Savings Using K4G Discount Code",
+      "type": "percentage",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-12T11:41:24.799Z",
+      "lastSeen": "2026-09-12T11:41:24.799Z",
       "testResults": {
         "total": 0,
         "worked": 0,
