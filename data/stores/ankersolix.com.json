@@ -22,6 +22,109 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ECO100",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://ankersolix.knoji.com/",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SAVE5NOW",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://ankersolix.knoji.com/",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FREEDOM",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://ankersolix.knoji.com/",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "UKAFF5",
+      "description": "5% off orders at Anker Solix",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/anker-solix-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AFF6OFF400",
+      "description": "6% off orders over £400 at Anker Solix",
+      "type": "percentage",
+      "value": 6,
+      "minSpend": 400,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/anker-solix-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

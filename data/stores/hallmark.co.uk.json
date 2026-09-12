@@ -1,0 +1,27 @@
+{
+  "domain": "hallmark.co.uk",
+  "name": "Hallmark",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AUG30",
+      "description": "30% off orders plus Free Gift on orders over £15 at Hallmark",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 15,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hallmark-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

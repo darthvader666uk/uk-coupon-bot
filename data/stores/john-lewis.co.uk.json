@@ -52,11 +52,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-11T12:16:34.403Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -332,11 +333,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-09-11T12:16:34.403Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -372,11 +374,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-09-10T12:18:12.005Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -537,6 +540,46 @@
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-09-11T12:16:34.403Z",
       "lastSeen": "2026-09-11T12:16:34.403Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JL10COM09",
+      "description": "10% off Selected Laptops for New and Existing John Lewis Members",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/john-lewis-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ELBRUSH",
+      "description": "Free Estée Lauder Makeup Brush Gift with Selected Estée Lauder Purchases at John Lewis",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/john-lewis-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,

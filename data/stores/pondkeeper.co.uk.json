@@ -1,0 +1,47 @@
+{
+  "domain": "pondkeeper.co.uk",
+  "name": "Pondkeeper",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SUN26",
+      "description": "Free Next Day Delivery on orders over £30 at Pondkeeper",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pondkeeper-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BANKHOL10",
+      "description": "10% off Bank Holiday at Pondkeeper",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pondkeeper-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

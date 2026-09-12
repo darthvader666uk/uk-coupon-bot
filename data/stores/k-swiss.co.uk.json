@@ -1,0 +1,27 @@
+{
+  "domain": "k-swiss.co.uk",
+  "name": "K Swiss",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SALE10",
+      "description": "10% off 2 orders at K-Swiss UK",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/k-swiss-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

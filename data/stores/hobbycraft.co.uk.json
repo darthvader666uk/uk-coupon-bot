@@ -1,0 +1,27 @@
+{
+  "domain": "hobbycraft.co.uk",
+  "name": "Hobbycraft",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ONLINE10",
+      "description": "£10 off orders over £50 at Hobbycraft",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hobbycraft-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

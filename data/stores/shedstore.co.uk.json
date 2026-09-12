@@ -1,0 +1,47 @@
+{
+  "domain": "shedstore.co.uk",
+  "name": "Shedstore",
+  "category": "general",
+  "codes": [
+    {
+      "code": "OFFER5",
+      "description": "Extra 5% off Forest orders over £599 at Shedstore",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 599,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/shedstore-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FOREST5",
+      "description": "5% Forest Sheds and Summerhouses at Shedstore",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/shedstore-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

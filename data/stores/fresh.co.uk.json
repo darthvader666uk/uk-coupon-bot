@@ -1,0 +1,27 @@
+{
+  "domain": "fresh.co.uk",
+  "name": "Fresh",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FORYOU",
+      "description": "Up To 30% offEarly Access Private Sale Event plus Free Gift orders over £150 at Fresh",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/fresh-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
