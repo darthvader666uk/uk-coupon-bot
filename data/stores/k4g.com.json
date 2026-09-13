@@ -52,11 +52,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -302,11 +303,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/?page=5",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-13T10:56:39.229Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -327,7 +329,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/k4g-com",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-12T11:41:24.799Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -489,11 +491,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -596,11 +599,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -727,7 +731,7 @@
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-12T11:41:24.799Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -951,6 +955,106 @@
       "url": "https://uk.coupert.com/promo-code/k4g-com",
       "addedAt": "2026-09-12T11:41:24.799Z",
       "lastSeen": "2026-09-12T11:41:24.799Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BRENICS",
+      "description": "Save 12% on Your Complete Purchase with K4G Promo Code",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-13T12:48:26.470Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CAROLA",
+      "description": "Extra 13% Off Everything Except Gift Cards",
+      "type": "percentage",
+      "value": 13,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-13T12:48:26.470Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PAWSOME21",
+      "description": "Shop smart and save more - get 20% off your order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-13T12:48:26.470Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "INFHTHD13",
+      "description": "Use this K4G Promo Code for savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-13T12:48:26.470Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PAWSOME31",
+      "description": "Take 30% off with this K4G Promo Code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-13T12:48:26.470Z",
+      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,

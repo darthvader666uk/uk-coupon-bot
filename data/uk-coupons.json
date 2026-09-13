@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-09-13T10:57:35.597Z",
-    "totalCodes": 5001,
+    "lastUpdated": "2026-09-13T12:48:26.523Z",
+    "totalCodes": 5038,
     "version": "2.0",
     "sources": []
   },
@@ -1105,11 +1105,12 @@
           "expiry": null,
           "source": "ggdeals",
           "sources": [
-            "ggdeals"
+            "ggdeals",
+            "coupert"
           ],
           "url": "https://gg.deals/vouchers/",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-11T10:20:57.737Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -1355,11 +1356,12 @@
           "expiry": null,
           "source": "ggdeals",
           "sources": [
-            "ggdeals"
+            "ggdeals",
+            "coupert"
           ],
           "url": "https://gg.deals/vouchers/?page=5",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -1380,7 +1382,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/k4g-com",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -1542,11 +1544,12 @@
           "expiry": null,
           "source": "knoji",
           "sources": [
-            "knoji"
+            "knoji",
+            "coupert"
           ],
           "url": "https://k4g.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-12T09:55:54.909Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -1649,11 +1652,12 @@
           "expiry": null,
           "source": "knoji",
           "sources": [
-            "knoji"
+            "knoji",
+            "coupert"
           ],
           "url": "https://k4g.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-12T09:55:54.909Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -1780,7 +1784,7 @@
           ],
           "url": "https://k4g.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -2004,6 +2008,106 @@
           "url": "https://uk.coupert.com/promo-code/k4g-com",
           "addedAt": "2026-09-12T11:41:24.799Z",
           "lastSeen": "2026-09-12T11:41:24.799Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BRENICS",
+          "description": "Save 12% on Your Complete Purchase with K4G Promo Code",
+          "type": "percentage",
+          "value": 12,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/k4g-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "CAROLA",
+          "description": "Extra 13% Off Everything Except Gift Cards",
+          "type": "percentage",
+          "value": 13,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/k4g-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PAWSOME21",
+          "description": "Shop smart and save more - get 20% off your order",
+          "type": "percentage",
+          "value": 20,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/k4g-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "INFHTHD13",
+          "description": "Use this K4G Promo Code for savings",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/k4g-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PAWSOME31",
+          "description": "Take 30% off with this K4G Promo Code",
+          "type": "percentage",
+          "value": 30,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/k4g-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -4725,7 +4829,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/kinguin-net",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6112,7 +6216,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/driffle-com",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6173,7 +6277,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/driffle-com",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6254,7 +6358,7 @@
           ],
           "url": "https://driffle.knoji.com/",
           "addedAt": "2026-09-07T14:44:36.803Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6626,7 +6730,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/driffle-com",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6666,7 +6770,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/driffle-com",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6706,7 +6810,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/driffle-com",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -6733,6 +6837,46 @@
             "lastTested": null
           },
           "verified": false
+        },
+        {
+          "code": "FC10",
+          "description": "Save 10% with Driffle Promo Code today",
+          "type": "percentage",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/driffle-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TWITTER1",
+          "description": "Get Exclusive Rewards with code",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/driffle-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
         }
       ]
     },
@@ -8337,11 +8481,12 @@
           "source": "ggdeals",
           "sources": [
             "ggdeals",
-            "knoji"
+            "knoji",
+            "coupert"
           ],
           "url": "https://gg.deals/vouchers/?page=3",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -8362,7 +8507,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/eneba-com",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T12:13:14.338Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -8382,7 +8527,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/eneba-com",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-10T12:18:12.005Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -8422,7 +8567,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/eneba-com",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -9192,7 +9337,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/eneba-com",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -9279,6 +9424,46 @@
             "lastTested": null
           },
           "verified": true
+        },
+        {
+          "code": "CAVERNA",
+          "description": "Use Eneba Promo Code for great offers",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/eneba-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "3DLC",
+          "description": "Take advantage of Eneba Discount Code",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/eneba-com",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
         }
       ]
     },
@@ -9559,27 +9744,6 @@
             "lastTested": null
           },
           "verified": false
-        },
-        {
-          "code": "SPRING",
-          "description": "15% off",
-          "type": "percentage",
-          "value": 15,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://difmark.knoji.com/",
-          "addedAt": "2026-09-11T10:20:57.737Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          },
-          "verified": true
         },
         {
           "code": "GIMME5",
@@ -14241,7 +14405,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14281,7 +14445,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14361,7 +14525,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14441,7 +14605,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14461,7 +14625,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T12:13:14.338Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14561,7 +14725,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-11T12:16:34.403Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14681,7 +14845,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-10T12:18:12.005Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14701,7 +14865,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14821,7 +14985,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-11T12:16:34.403Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14861,7 +15025,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -14962,6 +15126,66 @@
           "url": "https://uk.coupert.com/promo-code/deliveroo",
           "addedAt": "2026-09-12T11:41:24.799Z",
           "lastSeen": "2026-09-12T11:41:24.799Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WKND12",
+          "description": "Save Now: 50% off Selected Weekend Orders",
+          "type": "percentage",
+          "value": 50,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/deliveroo",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ROO7NOW",
+          "description": "£7 off today with this Deliveroo discount code",
+          "type": "fixed",
+          "value": 7,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/deliveroo",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "SAVE10",
+          "description": "Deliveroo Discount Code: Get £10 off First 3 Grocery or Retail Store Orders",
+          "type": "fixed",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/deliveroo",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -19785,26 +20009,6 @@
             "lastTested": null
           },
           "verified": false
-        },
-        {
-          "code": "SPRING",
-          "description": "10% off Selected Day Passes at GoCity",
-          "type": "percentage",
-          "value": 10,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/go-city-discount-codes",
-          "addedAt": "2026-09-12T09:55:54.909Z",
-          "lastSeen": "2026-09-12T09:55:54.909Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
         }
       ]
     },
@@ -52364,27 +52568,6 @@
           "verified": true
         },
         {
-          "code": "SPRING",
-          "description": "20% off",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://paramountplus.knoji.com/",
-          "addedAt": "2026-09-12T09:55:54.909Z",
-          "lastSeen": "2026-09-12T09:55:54.909Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          },
-          "verified": true
-        },
-        {
           "code": "FIRESTICK",
           "description": "Free Amazon Fire Tv Stick",
           "type": "unknown",
@@ -58921,7 +59104,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -58961,7 +59144,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -58981,7 +59164,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -59001,7 +59184,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -59041,7 +59224,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -59061,7 +59244,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-10T12:18:12.005Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -59141,7 +59324,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -59161,7 +59344,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-11T12:16:34.403Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -59261,7 +59444,47 @@
           ],
           "url": "https://uk.coupert.com/promo-code/tui",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EXCLUSIVEWINTER27",
+          "description": "Exclusive Winter Trip from £1,500pp",
+          "type": "fixed",
+          "value": 1,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/tui",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BLKFRI",
+          "description": "Enjoy ￡250 Off Your Purchase with TUI Discount Code",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/tui",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -59848,7 +60071,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/currys",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -60502,7 +60725,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/argos",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -60782,7 +61005,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/argos",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -60823,6 +61046,146 @@
           "url": "https://uk.coupert.com/promo-code/argos",
           "addedAt": "2026-09-12T11:41:24.799Z",
           "lastSeen": "2026-09-12T11:41:24.799Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "EXTRA10",
+          "description": "Special Offer: Take 50% Off Your Favorite Products",
+          "type": "percentage",
+          "value": 50,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/argos",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TOYS50",
+          "description": "50% off Toy Orders plus 5x Nectar Points at Argos",
+          "type": "percentage",
+          "value": 50,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/argos",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BAKE40",
+          "description": "Big Savings: Grab 40% Off Using this Argos Discount Code",
+          "type": "percentage",
+          "value": 40,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/argos",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WASH100",
+          "description": "Enjoy ￡100 Discount with This Argos Promo Code",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/argos",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BAKE10",
+          "description": "Exclusive Deal: Enjoy 10% Savings with Argos Discount Code",
+          "type": "percentage",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/argos",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ESCAPE20",
+          "description": "Save on Selected Camping Gear",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/argos",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BEAUTY20",
+          "description": "Take 20% Off with Argos Promo Code",
+          "type": "percentage",
+          "value": 20,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/argos",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -62003,27 +62366,6 @@
         },
         {
           "code": "FLOWERS",
-          "description": "20% off",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "knoji",
-          "sources": [
-            "knoji"
-          ],
-          "url": "https://qvc.knoji.com/",
-          "addedAt": "2026-09-13T10:56:39.229Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          },
-          "verified": true
-        },
-        {
-          "code": "SPRING",
           "description": "20% off",
           "type": "percentage",
           "value": 20,
@@ -67910,7 +68252,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/cdkeys-uk",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -67936,7 +68278,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/allkeyshop",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -67956,7 +68298,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/allkeyshop",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -67996,7 +68338,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/allkeyshop",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68096,7 +68438,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/allkeyshop",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68116,7 +68458,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/allkeyshop",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68276,7 +68618,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/allkeyshop",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68342,6 +68684,86 @@
             "worked": 0,
             "lastTested": null
           }
+        },
+        {
+          "code": "AKS14",
+          "description": "Apply Allkeyshop Discount Code for savings",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/allkeyshop",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "SOFT15",
+          "description": "Save 15% with Allkeyshop Promo Code today",
+          "type": "percentage",
+          "value": 15,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/allkeyshop",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "AKSACC",
+          "description": "Use this Allkeyshop Promo Code for savings",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/allkeyshop",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "PAWSOME17",
+          "description": "Take advantage of Allkeyshop Discount Code",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/allkeyshop",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
         }
       ]
     },
@@ -68362,7 +68784,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68382,7 +68804,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68422,7 +68844,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68442,7 +68864,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68522,7 +68944,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68542,7 +68964,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68582,7 +69004,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68602,7 +69024,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68622,7 +69044,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68642,7 +69064,47 @@
           ],
           "url": "https://uk.coupert.com/promo-code/electronic-first",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "SUMMER",
+          "description": "Enjoy 5% Off Your Order: Take this Electronic First Discount Code",
+          "type": "percentage",
+          "value": 5,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/electronic-first",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WELCOME10",
+          "description": "Use the Promo Code to get 10% off at Electronic First after sign-up",
+          "type": "percentage",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/electronic-first",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68728,7 +69190,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/very",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68808,7 +69270,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/very",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-10T12:18:12.005Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68908,7 +69370,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/very",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68948,7 +69410,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/very",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -68988,7 +69450,87 @@
           ],
           "url": "https://uk.coupert.com/promo-code/very",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "WELCOME",
+          "description": "30% Off First Order at Very for New Users with Discount Code",
+          "type": "percentage",
+          "value": 30,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/very",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "YOUR30",
+          "description": "Get 30% Off Your Order with Very Promo Code",
+          "type": "percentage",
+          "value": 30,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/very",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "NEWFORSEPTEMBER",
+          "description": "Take advantage of Very Discount Code",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/very",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "ENGLAND",
+          "description": "Exclusive Deal: Enjoy 15% Savings with Very Discount Code",
+          "type": "percentage",
+          "value": 15,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/very",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69014,7 +69556,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69034,7 +69576,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69055,7 +69597,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69095,7 +69637,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-07T12:13:14.338Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69115,7 +69657,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69315,7 +69857,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69457,7 +69999,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69573,11 +70115,12 @@
           "expiry": null,
           "source": "savoo",
           "sources": [
-            "savoo"
+            "savoo",
+            "coupert"
           ],
           "url": "https://www.savoo.co.uk/brands/john-lewis-discount-codes",
           "addedAt": "2026-09-12T09:55:54.909Z",
-          "lastSeen": "2026-09-12T09:55:54.909Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69657,7 +70200,67 @@
           ],
           "url": "https://uk.coupert.com/promo-code/john-lewis",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "V8CYCLONE",
+          "description": "Extra £10 off Dyson V8 Cyclone Cordless Vacuum Cleaner at John Lewis",
+          "type": "fixed",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/john-lewis",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "SAMSUNGGAL50",
+          "description": "£50 Off Your Order",
+          "type": "fixed",
+          "value": 50,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/john-lewis",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "2026RADLEY25",
+          "description": "Get 25% Off Your Order with John Lewis Discount Code",
+          "type": "percentage",
+          "value": 25,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/john-lewis",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69683,7 +70286,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dunelm",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69703,7 +70306,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dunelm",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69723,7 +70326,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dunelm",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69743,7 +70346,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dunelm",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69763,7 +70366,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dunelm",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69803,7 +70406,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dunelm",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69829,7 +70432,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/wickes",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69849,7 +70452,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/wickes",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69876,7 +70479,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/halfords",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -69896,7 +70499,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/halfords",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-10T12:18:12.005Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70036,7 +70639,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/halfords",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-10T12:18:12.005Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70156,7 +70759,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/halfords",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70196,7 +70799,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/halfords",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-11T12:16:34.403Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70222,6 +70825,66 @@
             "worked": 0,
             "lastTested": null
           }
+        },
+        {
+          "code": "GLOBBER15",
+          "description": "Unlock 15% savings on your order",
+          "type": "percentage",
+          "value": 15,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/halfords",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BHBIKE",
+          "description": "Enjoy a Discount of 20% Using Halfords Discount Code",
+          "type": "percentage",
+          "value": 20,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/halfords",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "BUILD10",
+          "description": "Enjoy a Special 10% Discount with Halfords Promo Code",
+          "type": "percentage",
+          "value": 10,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/halfords",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
         }
       ]
     },
@@ -70242,7 +70905,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70262,7 +70925,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70302,7 +70965,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70342,7 +71005,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70562,7 +71225,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70582,7 +71245,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-11T12:16:34.403Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70622,7 +71285,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-11T12:16:34.403Z",
-          "lastSeen": "2026-09-11T12:16:34.403Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70642,7 +71305,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70702,7 +71365,67 @@
           ],
           "url": "https://uk.coupert.com/promo-code/just-eat",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "SIZZLERS5",
+          "description": "Claim 5% Off Select Items",
+          "type": "percentage",
+          "value": 5,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/just-eat",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "LOCAL8",
+          "description": "Save 30% on Just Eat UK with Your Exclusive Discount Code",
+          "type": "percentage",
+          "value": 30,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/just-eat",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "RFQTPZS6WH3PHTVJ",
+          "description": "Enjoy ￡5 Off Your Purchase with Just Eat UK Promo Code",
+          "type": "unknown",
+          "value": null,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/just-eat",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70788,7 +71511,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dominos-pizza",
           "addedAt": "2026-09-07T12:13:14.338Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -70908,7 +71631,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dominos-pizza",
           "addedAt": "2026-09-10T12:18:12.005Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -71128,7 +71851,7 @@
           ],
           "url": "https://uk.coupert.com/promo-code/dominos-pizza",
           "addedAt": "2026-09-12T11:41:24.799Z",
-          "lastSeen": "2026-09-12T11:41:24.799Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -71189,6 +71912,86 @@
           "url": "https://uk.coupert.com/promo-code/dominos-pizza",
           "addedAt": "2026-09-12T11:41:24.799Z",
           "lastSeen": "2026-09-12T11:41:24.799Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "YKYMLNKF",
+          "description": "Save 35% with Dominos Pizza Voucher Code",
+          "type": "percentage",
+          "value": 35,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/dominos-pizza",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "FVFLRURY",
+          "description": "40% Off Using Dominos Pizza Discount Code",
+          "type": "percentage",
+          "value": 40,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/dominos-pizza",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "£20OFF£4",
+          "description": "Get £20 Off Orders over £40 at Domino's Pizza Now",
+          "type": "fixed",
+          "value": 20,
+          "minSpend": 40,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/dominos-pizza",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
+          "testResults": {
+            "total": 0,
+            "worked": 0,
+            "lastTested": null
+          }
+        },
+        {
+          "code": "TCQWVGPI",
+          "description": "Enjoy a Discount of 20% at Dominos Pizza with This Exclusive Voucher Code",
+          "type": "percentage",
+          "value": 20,
+          "minSpend": null,
+          "expiry": null,
+          "source": "coupert",
+          "sources": [
+            "coupert"
+          ],
+          "url": "https://uk.coupert.com/promo-code/dominos-pizza",
+          "addedAt": "2026-09-13T12:48:26.470Z",
+          "lastSeen": "2026-09-13T12:48:26.470Z",
           "testResults": {
             "total": 0,
             "worked": 0,
@@ -79660,26 +80463,6 @@
           ],
           "url": "https://www.savoo.co.uk/brands/rush-discount-codes",
           "addedAt": "2026-09-08T10:21:39.687Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SPRING",
-          "description": "50% off Colour with Cut plus Finish at Rush",
-          "type": "percentage",
-          "value": 50,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/rush-discount-codes",
-          "addedAt": "2026-09-13T10:56:39.229Z",
           "lastSeen": "2026-09-13T10:56:39.229Z",
           "testResults": {
             "total": 0,
@@ -93683,26 +94466,6 @@
           ],
           "url": "https://www.savoo.co.uk/brands/toner-giant-discount-codes",
           "addedAt": "2026-09-10T10:20:27.653Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        },
-        {
-          "code": "SPRING",
-          "description": "20% off all Original Ink, Toner Cartridges and Paper at Toner Giant",
-          "type": "percentage",
-          "value": 20,
-          "minSpend": null,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/toner-giant-discount-codes",
-          "addedAt": "2026-09-13T10:56:39.229Z",
           "lastSeen": "2026-09-13T10:56:39.229Z",
           "testResults": {
             "total": 0,
@@ -109059,32 +109822,6 @@
           "url": "https://www.savoo.co.uk/brands/high-street-tv-discount-codes",
           "addedAt": "2026-09-12T09:55:54.909Z",
           "lastSeen": "2026-09-12T09:55:54.909Z",
-          "testResults": {
-            "total": 0,
-            "worked": 0,
-            "lastTested": null
-          }
-        }
-      ]
-    },
-    "coffeefriend.co.uk": {
-      "name": "Coffee Friend",
-      "category": "general",
-      "codes": [
-        {
-          "code": "SPRING",
-          "description": "£5 off orders over £60 at Coffee Friend",
-          "type": "fixed",
-          "value": 5,
-          "minSpend": 60,
-          "expiry": null,
-          "source": "savoo",
-          "sources": [
-            "savoo"
-          ],
-          "url": "https://www.savoo.co.uk/brands/coffee-friend-discount-codes",
-          "addedAt": "2026-09-13T10:56:39.229Z",
-          "lastSeen": "2026-09-13T10:56:39.229Z",
           "testResults": {
             "total": 0,
             "worked": 0,
