@@ -802,26 +802,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE10",
-      "description": "Deliveroo Discount Code: Get £10 off First 3 Grocery or Retail Store Orders",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/deliveroo",
-      "addedAt": "2026-09-12T11:41:24.799Z",
-      "lastSeen": "2026-09-12T11:41:24.799Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

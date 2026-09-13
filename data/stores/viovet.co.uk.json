@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "VAAUG26",
+      "description": "5% off orders over £50 for First Time Customers at Viovet",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/viovet-discount-codes",
+      "addedAt": "2026-09-13T10:56:39.229Z",
+      "lastSeen": "2026-09-13T10:56:39.229Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
