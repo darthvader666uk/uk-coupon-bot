@@ -1,0 +1,67 @@
+{
+  "domain": "salonsdirect.com",
+  "name": "Salons Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NEWSALON15",
+      "description": "New Customers: 15% off Furniture at Salons Direct",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE10OFF",
+      "description": "10% off orders over £120 at Salons Direct",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 120,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW20SD",
+      "description": "20% off First order over £50 at Salons Direct",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

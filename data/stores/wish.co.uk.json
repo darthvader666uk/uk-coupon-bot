@@ -1,0 +1,87 @@
+{
+  "domain": "wish.co.uk",
+  "name": "Wish",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DONTPAYFULL15",
+      "description": "15% off orders at Wish",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wish-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVEONHOUSEHOLD",
+      "description": "10% off orders over £100 at Wish",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wish-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREESHIP25",
+      "description": "Up to 80% off plus Free Delivery Wish Black Friday Deals",
+      "type": "percentage",
+      "value": 80,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wish-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SINGLE11",
+      "description": "Singles Day: 11% off orders Sitewide at Wish",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wish-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

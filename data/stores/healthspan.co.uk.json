@@ -1,0 +1,27 @@
+{
+  "domain": "healthspan.co.uk",
+  "name": "Healthspan",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AUGTIER",
+      "description": "20% off orders over £50 at Healthspan",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/healthspan-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

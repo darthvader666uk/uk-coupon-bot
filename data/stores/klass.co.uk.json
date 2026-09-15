@@ -1,0 +1,47 @@
+{
+  "domain": "klass.co.uk",
+  "name": "Klass",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DELIVERY",
+      "description": "Free Delivery at Klass",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/klass-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HAPPY15",
+      "description": "Extra 15% off Full-Priced at Klass",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/klass-discount-codes",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
