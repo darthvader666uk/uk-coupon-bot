@@ -2,7 +2,9 @@ name: Scrape UK Coupons
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Daily at 6am UTC
+    # An odd minute, deliberately: on-the-hour schedules are the most
+    # oversubscribed and were starting four hours late every day.
+    - cron: '23 5 * * *'
   workflow_dispatch:       # Manual trigger from Actions tab
     inputs:
       sources:
@@ -29,15 +31,16 @@ jobs:
           - savoo
           - knoji
           - caramel
+          - coupert-www
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: scraper/package-lock.json
 
@@ -45,10 +48,25 @@ jobs:
         working-directory: scraper
         run: npm ci || npm install
 
+      # Chromium is ~150 MB and was downloaded three times a night. Cached on
+      # the lockfile, so a Playwright bump still refreshes it.
+      - name: Cache Playwright browsers
+        if: matrix.source != 'caramel' && matrix.source != 'coupert-www'   # plain HTTP, no browser
+        id: pw-cache
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('scraper/package-lock.json') }}
+
       - name: Install Playwright browsers
-        if: matrix.source != 'caramel'   # plain HTTP, no browser needed
+        if: matrix.source != 'caramel' && matrix.source != 'coupert-www' && steps.pw-cache.outputs.cache-hit != 'true'
         working-directory: scraper
         run: npx playwright install chromium --with-deps
+
+      - name: Install Playwright system deps
+        if: matrix.source != 'caramel' && matrix.source != 'coupert-www' && steps.pw-cache.outputs.cache-hit == 'true'
+        working-directory: scraper
+        run: npx playwright install-deps chromium
 
       - name: Scrape ${{ matrix.source }}
         working-directory: scraper
@@ -59,7 +77,7 @@ jobs:
         run: xvfb-run -a node index.js --source=${{ matrix.source }} --emit=artifacts/${{ matrix.source }}.json
 
       - name: Upload raw entries
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: entries-${{ matrix.source }}
           path: scraper/artifacts/${{ matrix.source }}.json
@@ -71,7 +89,7 @@ jobs:
       # discovery never advances past its per-run cap.
       - name: Upload Knoji probe cache
         if: matrix.source == 'knoji'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: knoji-probes
           path: data/knoji-probes.json
@@ -91,12 +109,12 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
-          node-version: '20'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: scraper/package-lock.json
 
@@ -105,14 +123,14 @@ jobs:
         run: npm ci || npm install
 
       - name: Download all scrape artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           path: scraper/artifacts
           pattern: entries-*
           merge-multiple: true
 
       - name: Download Knoji probe cache
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         continue-on-error: true   # absent when the knoji job failed
         with:
           name: knoji-probes

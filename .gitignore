@@ -4,3 +4,5 @@ scraper/.env
 .DS_Store
 .slim/deepwork/
 scraper/.cache/
+# Local run log only: CI never reads it and it fills with retired sources.
+scraper/scrape-log.json

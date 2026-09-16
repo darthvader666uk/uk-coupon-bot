@@ -28,6 +28,7 @@ import { scrape as scrapeSavoo } from "./sources/savoo.js";
 import { scrape as scrapeCoupert } from "./sources/coupert.js";
 import { scrape as scrapeKnoji } from "./sources/knoji.js";
 import { scrape as scrapeCaramel } from "./sources/caramel.js";
+import { scrape as scrapeCoupertWww } from "./sources/coupert-www.js";
 import { mergeCodes, pruneStaleCodes, pruneExpiredCodes, normalizeCode, removeCode, sanitizeStores } from "./lib/normalizer.js";
 import { canonicalDomain } from "./lib/stores.js";
 import { isEmptyScrape, hasCollapsed } from "./lib/guards.js";
@@ -153,6 +154,7 @@ async function main() {
   if (!sourceFlag || sourceFlag === "coupert") scrapers.push({ name: "coupert", fn: scrapeCoupert });
   if (!sourceFlag || sourceFlag === "knoji") scrapers.push({ name: "knoji", fn: scrapeKnoji });
   if (!sourceFlag || sourceFlag === "caramel") scrapers.push({ name: "caramel", fn: scrapeCaramel });
+  if (!sourceFlag || sourceFlag === "coupert-www") scrapers.push({ name: "coupert-www", fn: scrapeCoupertWww });
 
   // Re-run the cleaning rules over the stored database without scraping.
   // The registry decides which domain a code belongs to, so when it is

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.5.0
+// @version      2.5.1
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
 // @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
@@ -162,17 +162,26 @@
    */
   const HOSTED_CHECKOUT_HOSTS = /(^|\.)(shop\.app|checkout\.shopify\.com)$/;
 
-  function hostedCheckoutStore(host, indexStores, aliases) {
-    if (!HOSTED_CHECKOUT_HOSTS.test(host)) return null;
+  /** Store hostnames a hosted checkout links back to, most reliable first. */
+  function hostedCheckoutLinks(host) {
+    if (!HOSTED_CHECKOUT_HOSTS.test(host)) return [];
     const anchors = [
       document.querySelector("a#cart-link[href]"),
       ...document.querySelectorAll("header a[href], [role='banner'] a[href]"),
     ];
+    const hosts = [];
     for (const a of anchors) {
       if (!a) continue;
       let linked;
       try { linked = new URL(a.href).hostname.toLowerCase().replace(/^www\./, ""); } catch { continue; }
       if (!linked || linked === host || HOSTED_CHECKOUT_HOSTS.test(linked) || /shopify/.test(linked)) continue;
+      if (!hosts.includes(linked)) hosts.push(linked);
+    }
+    return hosts;
+  }
+
+  function hostedCheckoutStore(host, indexStores, aliases) {
+    for (const linked of hostedCheckoutLinks(host)) {
       const domain = resolveDomain(linked, indexStores, aliases);
       if (domain) return domain;
     }
@@ -964,8 +973,10 @@
       || hostedCheckoutStore(host, index?.stores || {}, index?.aliases || {});
     if (!domain) {
       // No UI, no styles, nothing injected. Only a menu entry to ask for it.
+      // On a hosted checkout, ask for the store it links to, not shop.app.
+      const wanted = hostedCheckoutLinks(host)[0] || host;
       if (typeof GM_registerMenuCommand === "function") {
-        GM_registerMenuCommand("Request codes for this store", () => requestStore(host));
+        GM_registerMenuCommand("Request codes for this store", () => requestStore(wanted));
       }
       return;
     }

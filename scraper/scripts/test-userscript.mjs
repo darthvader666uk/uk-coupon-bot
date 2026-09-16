@@ -36,6 +36,11 @@ const STORES = {
     domain: "very.co.uk", name: "Very",
     codes: [{ code: "VERY5", description: "£5 off", type: "fixed", value: 5, lastSeen: "2026-09-01T00:00:00Z", sources: ["savoo"] }],
   },
+  // Shopify basket-test fixture: GOOD15 and GOOD5 apply, the rest don't.
+  "shopmock.co.uk": {
+    domain: "shopmock.co.uk", name: "Shop Mock",
+    codes: ["DEAD1", "GOOD15", "GOOD5", "DEAD2", "EXTRA"].map((c) => ({ code: c, description: "", type: "unknown", lastSeen: "2026-09-15T00:00:00Z", sources: ["caramel"] })),
+  },
 };
 
 const INDEX = {
@@ -56,6 +61,8 @@ const GM_STUBS = `
     const s = document.createElement("style"); s.textContent = css; document.head.appendChild(s);
   };
   window.GM_openInTab = (url) => { window.__ukcpOpened = url; };
+  window.__ukcpMenu = [];
+  window.GM_registerMenuCommand = (name, fn) => { window.__ukcpMenu.push({ name, fn }); };
   window.__ukcpRequests = [];
   window.__ukcpIndex = ${JSON.stringify(INDEX)};
   window.__ukcpStores = ${JSON.stringify(STORES)};
@@ -127,6 +134,64 @@ async function makePage(browser, host, html, seed) {
   await page.waitForTimeout(300);
   return { page, context };
 }
+
+/**
+ * A store whose /cart.js and /cart/update.js behave like Shopify's. `state`
+ * is mutated by the apply rule so the test can inspect what the basket was
+ * left holding. `onUpdate(code, state)` returns 429 to simulate the limiter.
+ */
+async function makeShopifyPage(browser, host, state, onUpdate) {
+  const context = await browser.newContext();
+  const calls = [];
+  const cart = () => ({
+    token: "abc", items: state.items, item_count: state.items.length, currency: "GBP",
+    total_price: state.total, items_subtotal_price: state.subtotal, total_discount: state.subtotal - state.total,
+    cart_level_discount_applications: state.auto || [], discount_codes: state.codes || [],
+  });
+  await context.route("**/*", (route) => {
+    const url = new URL(route.request().url());
+    if (url.pathname === "/cart.js") return route.fulfill({ status: 200, contentType: "application/json", body: JSON.stringify(cart()) });
+    if (url.pathname === "/cart/update.js") {
+      const body = JSON.parse(route.request().postData() || "{}");
+      calls.push(body.discount);
+      if (onUpdate(body.discount, state) === 429) return route.fulfill({ status: 429, contentType: "text/html", body: "<html>" });
+      return route.fulfill({ status: 200, contentType: "application/json", body: JSON.stringify(cart()) });
+    }
+    if (url.hostname.includes("google.com")) return route.fulfill({ status: 200, body: "" });
+    return route.fulfill({ status: 200, contentType: "text/html", body: BARE_HTML });
+  });
+  const page = await context.newPage();
+  page.on("pageerror", (e) => pageErrors.push(`${host}: ${e.message}`));
+  await page.goto(`https://${host}/cart`);
+  await page.addScriptTag({ content: GM_STUBS });
+  await page.addScriptTag({ content: SCRIPT });
+  await page.waitForSelector("#ukcp-badge");
+  await page.$eval("#ukcp-badge", (b) => b.click());
+  return { page, context, calls };
+}
+
+/** Mock Shopify apply rule: GOOD15 = 15% off, GOOD5 = £5 off, "" clears. */
+function shopifyApply(code, st) {
+  if (code === "") { st.codes = []; st.total = st.subtotal; return; }
+  const ok = code === "GOOD15" || code === "GOOD5";
+  st.codes = [{ code, applicable: ok }];
+  st.total = code === "GOOD15" ? Math.round(st.subtotal * 0.85) : code === "GOOD5" ? st.subtotal - 500 : st.subtotal;
+}
+
+/** Runs the basket test and waits for its closing status line. */
+async function runBasketTest(page) {
+  await page.waitForSelector(".ukcp-test:not([hidden])", { timeout: 5000 });
+  await page.$eval(".ukcp-test", (b) => b.click());
+  await page.waitForFunction(() => /tested|limiting|already|first|doesn't|Every code/.test(document.querySelector(".ukcp-status").textContent), null, { timeout: 30000 });
+  return page.textContent(".ukcp-status");
+}
+
+/** The shell Shopify's checkout app renders, with its back-links to the store. */
+const HOSTED_CHECKOUT_HTML = `<!doctype html><html><head><title>Checkout - Currys</title></head><body>
+  <header><a href="https://www.currys.co.uk"><img alt="Currys"></a>
+    <a aria-label="Basket" id="cart-link" href="https://www.currys.co.uk/cart">Basket</a></header>
+  <form><label for="dc">Discount code or gift card</label><input id="dc" name="reductions" type="text" style="width:200px;height:30px"></form>
+</body></html>`;
 
 /**
  * Playwright expects a browser build matching its own version. When only an
@@ -318,6 +383,81 @@ console.log("\nIndex cache freshness");
   const after = await page.evaluate(() =>
     window.__ukcpRequests.filter((u) => u.endsWith("/index.json")).length);
   check("refresh button refetches the index", after > before, `${before} -> ${after}`);
+  await context.close();
+}
+
+console.log("\nHosted Shopify checkout");
+{
+  const { page, context } = await makePage(browser, "shop.app", HOSTED_CHECKOUT_HTML);
+  check("shop.app checkout resolves the store from its cart link", await page.locator("#ukcp-badge").count() === 1);
+  check("promo box found on the checkout", (await page.evaluate(() => { document.querySelector("#ukcp-badge").click(); return document.querySelector(".ukcp-status").textContent; })).includes("Promo box found"));
+  check("no basket test button off the store's own domain", await page.locator(".ukcp-test:not([hidden])").count() === 0);
+  await context.close();
+}
+{
+  const { page, context } = await makePage(browser, "checkout.shopify.com", HOSTED_CHECKOUT_HTML);
+  check("checkout.shopify.com resolves the store too", await page.locator("#ukcp-badge").count() === 1);
+  await context.close();
+}
+{
+  // Only the two hosted-checkout hosts read anchors; a random site linking to
+  // a known store must stay silent.
+  const { page, context } = await makePage(browser, "www.example.com", HOSTED_CHECKOUT_HTML);
+  check("cart-link on an unrelated host is ignored", await page.locator("#ukcp-badge").count() === 0);
+  await context.close();
+}
+{
+  const unknown = HOSTED_CHECKOUT_HTML.replace(/currys\.co\.uk/g, "unknownshop.com");
+  const { page, context } = await makePage(browser, "shop.app", unknown);
+  const menu = await page.evaluate(() => window.__ukcpMenu.map((m) => m.name));
+  check("unknown store on shop.app offers the request menu", menu.includes("Request codes for this store"));
+  await page.evaluate(() => window.__ukcpMenu[0].fn());
+  const opened = await page.evaluate(() => window.__ukcpOpened || "");
+  check("request names the store, not shop.app", decodeURIComponent(opened).includes("Store request: unknownshop.com"), opened);
+  await context.close();
+}
+
+console.log("\nShopify basket test");
+{
+  const state = { items: [{}], subtotal: 4000, total: 4000 };
+  const { page, context, calls } = await makeShopifyPage(browser, "www.shopmock.co.uk", state, shopifyApply);
+  const status = await runBasketTest(page);
+  check("tests four codes then clears", JSON.stringify(calls) === JSON.stringify(["DEAD1", "GOOD15", "GOOD5", "DEAD2", ""]), JSON.stringify(calls));
+  check("reports the best saving", status.includes("Best: GOOD15 saves £6.00"), status);
+  check("says how many are left", status.includes("1 left"), status);
+  const votes = await page.evaluate(() => window.__ukcpStore.ukcp_votes);
+  check("working codes get a thumbs up", votes?.["shopmock.co.uk::GOOD15"] === "up" && votes?.["shopmock.co.uk::GOOD5"] === "up");
+  check("failed codes are not thumbed down", !votes?.["shopmock.co.uk::DEAD1"]);
+  const order = await page.$$eval(".ukcp-item .ukcp-code", (els) => els.map((e) => e.textContent));
+  check("working codes rise, failed sink", order[0] === "GOOD15" && order[order.length - 1] === "DEAD2", order.join(","));
+  check("basket restored", state.total === 4000 && state.codes.length === 0);
+  check("nothing clicked on the page", (await page.evaluate(() => window.__ukcpClicks.length)) === 0);
+  await context.close();
+}
+{
+  const state = { items: [{}], subtotal: 4000, total: 3400, codes: [{ code: "MINE", applicable: true }] };
+  const { page, context, calls } = await makeShopifyPage(browser, "www.shopmock.co.uk", state, shopifyApply);
+  const status = await runBasketTest(page);
+  check("existing discount: refused", status.includes("already has MINE applied"), status);
+  check("existing discount: no cart calls at all", calls.length === 0);
+  check("existing discount: still applied", state.codes[0]?.code === "MINE" && state.total === 3400);
+  await context.close();
+}
+{
+  const state = { items: [], subtotal: 0, total: 0 };
+  const { page, context, calls } = await makeShopifyPage(browser, "www.shopmock.co.uk", state, shopifyApply);
+  const status = await runBasketTest(page);
+  check("empty basket: refused", status.includes("Add something to your basket"), status);
+  check("empty basket: no cart calls", calls.length === 0);
+  await context.close();
+}
+{
+  const state = { items: [{}], subtotal: 4000, total: 4000 };
+  const { page, context, calls } = await makeShopifyPage(browser, "www.shopmock.co.uk", state, (code, st) => (code === "GOOD5" ? 429 : shopifyApply(code, st)));
+  const status = await runBasketTest(page);
+  check("429: stops at once", status.includes("limiting code attempts"), status);
+  check("429: still clears the basket", calls[calls.length - 1] === "" && state.codes.length === 0);
+  check("429: keeps what it learned before the limit", (await page.evaluate(() => window.__ukcpStore.ukcp_votes))?.["shopmock.co.uk::GOOD15"] === "up");
   await context.close();
 }
 
