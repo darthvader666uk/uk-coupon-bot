@@ -27,10 +27,24 @@
 import { isValidCode, guessType, delay } from "../lib/playwright-base.js";
 import { displayName, canonicalDomain } from "../lib/stores.js";
 import { loadStoreDomains, queryDomains } from "./caramel.js";
+import { selectSlice } from "./savoo.js";
 
 const STORE_URL = "https://www.coupert.com/store";
 const SITEMAP_URL = "https://www.coupert.com/sitemap/stores.xml";
-const REQUEST_GAP_MS = 400;
+/**
+ * Cloudflare in front of www.coupert.com allows roughly one request a second
+ * and 429s within seconds at two and a half. Measured 2026-09-16: thirty
+ * requests at 1s spacing all passed. 1.2s leaves margin; a 429 waits and
+ * retries the same store once rather than losing it for the day.
+ */
+const REQUEST_GAP_MS = 1200;
+const RATE_LIMIT_WAIT_MS = 30000;
+/**
+ * ~1,600 stores at that pace is 45 minutes, the job's ceiling, so take a
+ * rotating slice: every store is visited every second day, which is fine for
+ * codes that live 90 days and dates that only need to be roughly fresh.
+ */
+export const STORES_PER_RUN = 800;
 const FETCH_TIMEOUT_MS = 30000;
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
@@ -138,7 +152,7 @@ export async function scrape(stores = null) {
     const known = loadStoreDomains();
     const fromSitemap = (await sitemapUkStores()).map(canonicalDomain).filter((d) => !known.includes(d));
     if (fromSitemap.length) console.log(`[Coupert-www] ${fromSitemap.length} UK store(s) from the sitemap not yet in the index`);
-    storeList = [...new Set([...known, ...fromSitemap])];
+    storeList = selectSlice([...new Set([...known, ...fromSitemap])], STORES_PER_RUN);
   }
 
   console.log(`[Coupert-www] Querying ${storeList.length} stores…`);
@@ -147,7 +161,14 @@ export async function scrape(stores = null) {
     try {
       let info = null;
       for (const site of queryDomains(domain)) {
-        info = await fetchStoreInfo(site);
+        try {
+          info = await fetchStoreInfo(site);
+        } catch (err) {
+          if (!err.rateLimited) throw err;
+          console.log(`[Coupert-www] rate limited at ${site} — waiting ${RATE_LIMIT_WAIT_MS / 1000}s`);
+          await delay(RATE_LIMIT_WAIT_MS);
+          info = await fetchStoreInfo(site);
+        }
         await delay(REQUEST_GAP_MS);
         if (info) break;
       }
@@ -160,7 +181,6 @@ export async function scrape(stores = null) {
       const reason = err.message.split("\n")[0];
       errors.push(`${domain}: ${reason}`);
       console.log(`[Coupert-www] ${domain}: ${reason}`);
-      if (err.rateLimited) await delay(60000);
     }
   }
 

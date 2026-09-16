@@ -17,7 +17,7 @@ import { readFileSync } from "fs";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 import { isValidCode, guessType, delay } from "../lib/playwright-base.js";
-import { ALIASES, HOSTNAME_ALIASES, canonicalDomain, displayName } from "../lib/stores.js";
+import { ALIASES, canonicalDomain, displayName } from "../lib/stores.js";
 import { fetchStoreRequestIssues } from "../lib/github.js";
 
 const API_URL = "https://grabcaramel.com/api/coupons";
@@ -31,15 +31,19 @@ const INDEX_JSON = join(dirname(fileURLToPath(import.meta.url)), "..", "..", "da
 /**
  * Caramel keys on the real domain, but several canonical keys here are
  * project-internal ("john-lewis.co.uk", "marks-and-spencer.co.uk") and the
- * real one lives in the alias tables. Try the canonical first and fall back
- * to every alias that folds onto it.
+ * real one lives in ALIASES. Try the canonical first and fall back to every
+ * alias that folds onto it.
+ *
+ * ALIASES only, never HOSTNAME_ALIASES: that table maps regional twins for
+ * the browser (amazon.com, ebay.com, adidas.com → the .co.uk store) so a UK
+ * shopper on the .com sees UK codes. Querying a source for amazon.com
+ * returns US Amazon's codes, which then land on amazon.co.uk. It did, on
+ * 2026-09-16: 55 of them.
  */
 export function queryDomains(domain) {
   const out = [domain];
-  for (const table of [ALIASES, HOSTNAME_ALIASES]) {
-    for (const [alias, canonical] of Object.entries(table)) {
-      if (canonical === domain && alias !== domain && !out.includes(alias)) out.push(alias);
-    }
+  for (const [alias, canonical] of Object.entries(ALIASES)) {
+    if (canonical === domain && alias !== domain && !out.includes(alias)) out.push(alias);
   }
   return out;
 }
