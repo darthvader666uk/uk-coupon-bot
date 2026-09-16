@@ -17,7 +17,8 @@ import { readFileSync } from "fs";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 import { isValidCode, guessType, delay } from "../lib/playwright-base.js";
-import { ALIASES, HOSTNAME_ALIASES, displayName } from "../lib/stores.js";
+import { ALIASES, HOSTNAME_ALIASES, canonicalDomain, displayName } from "../lib/stores.js";
+import { fetchStoreRequestIssues } from "../lib/github.js";
 
 const API_URL = "https://grabcaramel.com/api/coupons";
 const PAGE_SIZE = 50;
@@ -56,7 +57,8 @@ export function normaliseCoupon(coupon, storeDomain) {
   // ignored and the normaliser's conservative text extraction is left to it.
   const entry = {
     code: coupon.code,
-    storeName: displayName(storeDomain),
+    // Only matters for a requested store the database has never seen.
+    storeName: displayName(storeDomain, storeDomain.split(".")[0].replace(/\b\w/g, (c) => c.toUpperCase())),
     storeDomain,
     description,
     type,
@@ -104,11 +106,34 @@ export function loadStoreDomains() {
   return Object.keys(index.stores || {});
 }
 
+/**
+ * Stores people have asked for via the userscript's "Request codes for this
+ * store" menu entry. Each is an open GitHub issue; one HTTP call here is the
+ * cheapest way to find out whether anyone has codes for it. The merge job
+ * closes the issue once the store has codes in the database.
+ */
+async function requestedDomains(known) {
+  try {
+    const requests = await fetchStoreRequestIssues();
+    const fresh = requests.map((r) => canonicalDomain(r.domain)).filter((d) => d && !known.includes(d));
+    return [...new Set(fresh)];
+  } catch (err) {
+    console.log(`[Caramel] Could not read store requests: ${err.message}`);
+    return [];
+  }
+}
+
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
-  const storeList = stores || loadStoreDomains();
+  let storeList = stores;
+  if (!storeList) {
+    storeList = loadStoreDomains();
+    const requested = await requestedDomains(storeList);
+    if (requested.length) console.log(`[Caramel] ${requested.length} requested store(s): ${requested.join(", ")}`);
+    storeList = storeList.concat(requested);
+  }
 
   console.log(`[Caramel] Querying ${storeList.length} stores…`);
 

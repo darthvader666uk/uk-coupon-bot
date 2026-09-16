@@ -257,6 +257,41 @@ export async function fetchFailedCodeIssues() {
 }
 
 /**
+ * Fetch all open issues labeled "store-request" and extract the hostnames.
+ *
+ * Unlike the failed-code fetch this works without a token: the caramel matrix
+ * job has none, and reading a public repo's issues is allowed anonymously.
+ * The token is still used when present so the merge job never hits the
+ * anonymous rate limit shared across GitHub's runner IPs.
+ */
+export async function fetchStoreRequestIssues() {
+  const token = getToken();
+  const repo = getRepo();
+  const url = `${API_BASE}/repos/${repo}/issues?labels=store-request&state=open&per_page=100`;
+  const headers = {
+    Accept: "application/vnd.github.v3+json",
+    "User-Agent": "uk-coupon-bot",
+    ...(token ? { Authorization: `Bearer ${token}` } : {}),
+  };
+
+  const res = await fetch(url, { headers });
+  if (!res.ok) {
+    console.log(`[GitHub] Failed to fetch store-request issues: ${res.status}`);
+    return [];
+  }
+
+  const requests = [];
+  for (const issue of await res.json()) {
+    // Title: "🏪 Store request: zavvi.com"
+    const match = issue.title.match(/Store request: ([a-z0-9.-]+)/i);
+    if (match) requests.push({ domain: match[1].toLowerCase(), issueNumber: issue.number });
+  }
+
+  console.log(`[GitHub] Found ${requests.length} open store-request issues`);
+  return requests;
+}
+
+/**
  * Close a failed-code issue after the code has been removed
  */
 export async function closeIssue(issueNumber) {

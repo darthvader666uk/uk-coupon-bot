@@ -192,9 +192,19 @@ Each code entry:
   spend, how recently a source listed it, and how many sources agree.
 - **Copy + fill** — clicking a code copies it and fills the promo box *if* a
   high-confidence match is found. It never clicks Apply; you do that.
+- **Test codes in basket** (Shopify stores only) — tries up to four codes
+  against your basket through the store's own cart API, reads Shopify's
+  `applicable` verdict and the new total, then clears the code again. Nothing
+  on the page is clicked. Working codes get a 👍 and show their saving. Refuses
+  to run on an empty basket or one that already has a discount applied, and
+  stops at once if the store rate-limits attempts (Shopify allows about six).
 - **👍 / 👎 per code** — thumbs-down hides the code on that store and offers to
   open a prefilled `failed-code` GitHub issue, which the scraper reads on its
   next run and removes.
+- **Request codes for this store** — on a site the database does not know,
+  nothing is injected, but the Tampermonkey menu offers a prefilled
+  `store-request` issue. The nightly scrape asks Caramel for that domain and
+  closes the issue once the store has codes.
 - **Hide on this site** — persistent per-hostname, survives reloads.
 - **Cached** — the database is fetched at most once every 6 hours.
 

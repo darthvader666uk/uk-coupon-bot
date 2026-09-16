@@ -34,7 +34,7 @@ import { isEmptyScrape, hasCollapsed } from "./lib/guards.js";
 import { loadDeadCodes, saveDeadCodes, addDeadCode, isDeadCode, pruneDeadCodes, purgeDeadFromStores } from "./lib/deadcodes.js";
 import { writeShards } from "./lib/shard.js";
 import { logRun } from "./lib/logger.js";
-import { readJSON, writeJSON, pushFiles, fetchFailedCodeIssues, closeIssue } from "./lib/github.js";
+import { readJSON, writeJSON, pushFiles, fetchFailedCodeIssues, fetchStoreRequestIssues, closeIssue } from "./lib/github.js";
 
 const DATA_DIR = join(__dirname, "..", "data");
 const LOCAL_JSON = join(DATA_DIR, "uk-coupons.json");
@@ -285,6 +285,22 @@ async function main() {
     }
   } catch (err) {
     console.log(`  ⚠ Failed to process failed-code issues: ${err.message}`);
+  }
+
+  // Close store requests once the store has codes. Ones still empty stay open
+  // and are retried nightly by the caramel source.
+  try {
+    const requests = await fetchStoreRequestIssues();
+    let fulfilled = 0;
+    for (const { domain, issueNumber } of requests) {
+      if (pruned.stores[canonicalDomain(domain)]?.codes?.length) {
+        await closeIssue(issueNumber);
+        fulfilled++;
+      }
+    }
+    if (fulfilled > 0) console.log(`  🏪 Fulfilled ${fulfilled} of ${requests.length} store request(s)`);
+  } catch (err) {
+    console.log(`  ⚠ Failed to process store-request issues: ${err.message}`);
   }
 
   // Update meta

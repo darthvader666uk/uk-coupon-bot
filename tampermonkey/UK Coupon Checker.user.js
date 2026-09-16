@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.3.0
+// @version      2.4.0
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
 // @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
@@ -11,6 +11,7 @@
 // @grant        GM_getValue
 // @grant        GM_addStyle
 // @grant        GM_openInTab
+// @grant        GM_registerMenuCommand
 // @connect      raw.githubusercontent.com
 // @run-at       document-idle
 // @noframes
@@ -175,7 +176,7 @@
   function rankOf(code) {
     const vote = getVote(state.domain, code.code);
     if (vote === "down") return 3;
-    if (isExpired(code)) return 2;
+    if (isExpired(code) || state.tested[code.code]?.worked === false) return 2;
     if (vote === "up") return 0;
     return 1;
   }
@@ -478,6 +479,8 @@
       }
       .ukcp-link { background: none; border: none; color: var(--ukcp-muted); cursor: pointer; font-size: 11px; text-decoration: underline; padding: 0; }
       .ukcp-link:hover { color: #fff; }
+      .ukcp-link:disabled { opacity: .5; cursor: wait; }
+      .ukcp-foot { gap: 10px; }
       .ukcp-empty { padding: 24px 16px; text-align: center; color: var(--ukcp-muted); font-size: 12px; }
     `);
   }
@@ -489,6 +492,9 @@
     codes: [],
     panel: null,
     badge: null,
+    /** Per-session basket test results, keyed by code: { worked, saving }. */
+    tested: {},
+    testing: false,
   };
 
   function setStatus(message, ok) {
@@ -547,6 +553,186 @@
     // next run via fetchFailedCodeIssues().
     if (typeof GM_openInTab === "function") GM_openInTab(url, { active: true });
     else window.open(url, "_blank");
+  }
+
+  /**
+   * Ask for a store to be added. Lives in the Tampermonkey menu rather than
+   * the page, so unsupported sites still get nothing injected. Same shape as
+   * reportFailedCode: a prefilled issue, picked up by the nightly scrape.
+   */
+  function requestStore(host) {
+    const title = `🏪 Store request: ${host}`;
+    const body = [
+      `**Store:** ${host}`,
+      `**Page:** ${location.origin}${location.pathname}`,
+      "",
+      "Requested from the UK Coupon Checker userscript.",
+    ].join("\n");
+    const url =
+      `https://github.com/${REPO}/issues/new` +
+      `?labels=store-request&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+    if (typeof GM_openInTab === "function") GM_openInTab(url, { active: true });
+    else window.open(url, "_blank");
+  }
+
+  // ─── SHOPIFY BASKET TEST ─────────────────────────────────────────────────
+  /*
+   * The one platform where "did it work" can be read from the store itself
+   * rather than guessed from page text. Shopify's cart API accepts a discount
+   * code on POST /cart/update.js and answers with discount_codes[].applicable,
+   * which is the merchant's own verdict for THIS basket, plus the new total.
+   * Nothing on the page is clicked and the code is cleared again afterwards.
+   *
+   * Refused outright when the basket is empty (nothing to discount, and every
+   * code would read as failed) or already carries a discount (a second code
+   * replaces the first on Shopify, and taking a shopper's own discount off is
+   * the one thing this must never do). Both lessons are Caramel's, learned on
+   * live stores.
+   *
+   * Shopify also rate-limits discount attempts hard: measured 2026-09-16 on
+   * theessencevault.co.uk, the seventh attempt got a 429 and the whole site
+   * then refused the IP for several minutes. So this is a probe, not a sweep:
+   * four codes per click, leaving room for the clearing call, and a 429 stops
+   * everything at once. Clicking again tests the next four.
+   */
+  const CART_REQUEST_GAP_MS = 1000;
+  const CART_TESTS_PER_RUN = 4;
+
+  async function cartRequest(path, body) {
+    const res = await fetch(path, {
+      method: body ? "POST" : "GET",
+      credentials: "include",
+      headers: { Accept: "application/json", ...(body ? { "Content-Type": "application/json" } : {}) },
+      body: body ? JSON.stringify(body) : undefined,
+    });
+    if (res.status === 429) throw Object.assign(new Error("rate limited"), { rateLimited: true });
+    if (!res.ok) throw new Error(`cart ${res.status}`);
+    return res.json();
+  }
+
+  /** True on a Shopify storefront whose cart API is reachable from this page. */
+  async function detectShopifyCart() {
+    try {
+      const cart = await cartRequest("/cart.js");
+      return typeof cart.token === "string" && Array.isArray(cart.items);
+    } catch {
+      return false;
+    }
+  }
+
+  function money(minor, currency) {
+    const amount = (minor / 100).toFixed(2);
+    return currency === "GBP" || !currency ? `£${amount}` : `${amount} ${currency}`;
+  }
+
+  function existingDiscount(cart) {
+    const applied = (cart.discount_codes || []).find((d) => d.applicable);
+    if (applied) return applied.code;
+    const auto = cart.cart_level_discount_applications?.[0]?.title;
+    if (auto) return auto;
+    return cart.total_discount > 0 ? "a discount" : null;
+  }
+
+  async function testCodesInBasket() {
+    if (state.testing) return;
+    // Untested first, in the panel's own order, so the most promising codes go
+    // in the small budget and a second click carries on where this one stopped.
+    const untested = state.codes.filter((c) => getVote(state.domain, c.code) !== "down" && !state.tested[c.code]);
+    if (!untested.length) {
+      setStatus(Object.keys(state.tested).length ? "Every code here has been tested in this basket." : "Nothing to test — every code here is thumbed down.");
+      return;
+    }
+    const candidates = untested.slice(0, CART_TESTS_PER_RUN);
+    const remaining = untested.length - candidates.length;
+
+    let cart;
+    try {
+      cart = await cartRequest("/cart.js");
+    } catch (err) {
+      setStatus(`Couldn't read the basket: ${err.message}`);
+      return;
+    }
+    if (!cart.item_count) {
+      setStatus("Add something to your basket first — codes can't be tested against an empty one.");
+      return;
+    }
+    const held = existingDiscount(cart);
+    if (held) {
+      setStatus(`Your basket already has ${held} applied. Testing would replace it, so nothing was touched.`);
+      return;
+    }
+
+    state.testing = true;
+    const btn = state.panel.querySelector(".ukcp-test");
+    if (btn) btn.disabled = true;
+    const before = cart.total_price;
+    const currency = cart.currency;
+    let worked = 0;
+    let best = null;
+    let rateLimited = false;
+
+    try {
+      for (let i = 0; i < candidates.length; i++) {
+        const codeObj = candidates[i];
+        setStatus(`Testing ${i + 1}/${candidates.length}: ${codeObj.code}…`);
+        let result;
+        try {
+          result = await cartRequest("/cart/update.js", { discount: codeObj.code });
+        } catch (err) {
+          rateLimited = !!err.rateLimited;
+          break;
+        }
+        if (!Array.isArray(result.discount_codes)) {
+          setStatus("This store's basket doesn't accept codes before checkout.");
+          break;
+        }
+        const verdict = result.discount_codes.find((d) => d.code?.toUpperCase() === codeObj.code.toUpperCase());
+        const ok = verdict?.applicable === true;
+        // A saving has to fit inside the basket it was measured against; a
+        // total that went UP or below zero is a store glitch, not a discount.
+        const delta = before - result.total_price;
+        const saving = ok && delta > 0 && delta <= before ? delta : 0;
+        state.tested[codeObj.code] = { worked: ok, saving };
+        if (ok) {
+          worked++;
+          setVote(state.domain, codeObj.code, "up");
+          if (!best || saving > best.saving) best = { code: codeObj.code, saving };
+        }
+        await new Promise((r) => setTimeout(r, CART_REQUEST_GAP_MS));
+      }
+    } finally {
+      // Clear whatever is left on the basket, then check the total is back
+      // where it started. Never leave a shopper's cart in a state they didn't
+      // put it in.
+      let restored = false;
+      try {
+        await cartRequest("/cart/update.js", { discount: "" });
+        const after = await cartRequest("/cart.js");
+        restored = after.total_price === before;
+      } catch (err) {
+        rateLimited = rateLimited || !!err.rateLimited;
+      }
+
+      state.testing = false;
+      if (btn) btn.disabled = false;
+      state.codes = sortCodes(state.codes);
+      renderList();
+      updateBadgeCount();
+
+      const tested = Object.keys(state.tested).filter((c) => candidates.some((k) => k.code === c)).length;
+      const more = remaining ? ` ${remaining} left — click again in a few minutes.` : "";
+      if (rateLimited) {
+        setStatus(`The store is limiting code attempts.${restored ? "" : " Check your basket total before paying."} Wait a few minutes before trying more.`);
+      } else if (!restored) {
+        setStatus("Done, but the basket total didn't return to where it started — check it before paying.");
+      } else if (worked && best?.saving) {
+        setStatus(`${worked} of ${tested} tested work here. Best: ${best.code} saves ${money(best.saving, currency)}.${more}`, true);
+      } else if (worked) {
+        setStatus(`${worked} of ${tested} tested accepted by this basket.${more}`, true);
+      } else {
+        setStatus(`None of ${tested} tested applied to this basket. Some need a minimum spend or specific items.${more}`);
+      }
+    }
   }
 
   function handleVote(codeObj, vote) {
@@ -610,6 +796,12 @@
       );
     }
     if (codeObj.sources?.length > 1) tags.push(`<span class="ukcp-tag">${codeObj.sources.length} sources</span>`);
+    const tested = state.tested[codeObj.code];
+    if (tested?.worked) {
+      tags.push(`<span class="ukcp-tag ukcp-value">✓ ${tested.saving ? `saves ${escapeHtml(money(tested.saving))}` : "accepted"}</span>`);
+    } else if (tested) {
+      tags.push(`<span class="ukcp-tag ukcp-expired">✗ not for this basket</span>`);
+    }
 
     item.innerHTML = `
       <div class="ukcp-item-main" role="button" tabindex="0">
@@ -671,9 +863,18 @@
       <div class="ukcp-list"></div>
       <div class="ukcp-foot">
         <span class="ukcp-report-slot"></span>
+        <button class="ukcp-link ukcp-test" hidden title="Tries up to ${CART_TESTS_PER_RUN} codes against your basket through the store's own cart API, then clears them. Nothing is clicked.">Test codes in basket</button>
         <button class="ukcp-link ukcp-hide-site">Hide on ${escapeHtml(currentHost())}</button>
       </div>
     `;
+
+    // Only offered where the verdict can be read from the store, not guessed.
+    detectShopifyCart().then((yes) => {
+      if (!yes) return;
+      const test = panel.querySelector(".ukcp-test");
+      test.hidden = false;
+      test.addEventListener("click", testCodesInBasket);
+    });
 
     panel.querySelector(".ukcp-close").addEventListener("click", () => togglePanel(false));
     panel.querySelector(".ukcp-hide-site").addEventListener("click", () => {
@@ -733,7 +934,13 @@
     // Resolve against the index first — only then is a store file worth
     // fetching, so unsupported sites cost one small cached request and stop.
     const domain = resolveDomain(host, index?.stores || {}, index?.aliases || {});
-    if (!domain) return; // No UI, no styles, nothing injected.
+    if (!domain) {
+      // No UI, no styles, nothing injected. Only a menu entry to ask for it.
+      if (typeof GM_registerMenuCommand === "function") {
+        GM_registerMenuCommand("Request codes for this store", () => requestStore(host));
+      }
+      return;
+    }
 
     let store;
     try {
