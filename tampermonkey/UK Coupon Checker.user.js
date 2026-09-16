@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.4.0
+// @version      2.5.0
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
 // @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
@@ -148,6 +148,33 @@
       const mapped = aliases[candidate];
       if (mapped && indexStores[mapped]) return mapped;
       if (indexStores[candidate]) return candidate;
+    }
+    return null;
+  }
+
+  /**
+   * Shopify can move a store's checkout off its own domain: shop.app for Shop
+   * Pay, checkout.shopify.com for older setups. The hostname then says nothing
+   * about the store, but the checkout app links back to it in the header —
+   * `a#cart-link` points at `https://<store>/cart` and the logo link at the
+   * store root. Resolve those instead. Only on these hosts: reading anchors on
+   * every unknown page would be both a cost and a false-positive risk.
+   */
+  const HOSTED_CHECKOUT_HOSTS = /(^|\.)(shop\.app|checkout\.shopify\.com)$/;
+
+  function hostedCheckoutStore(host, indexStores, aliases) {
+    if (!HOSTED_CHECKOUT_HOSTS.test(host)) return null;
+    const anchors = [
+      document.querySelector("a#cart-link[href]"),
+      ...document.querySelectorAll("header a[href], [role='banner'] a[href]"),
+    ];
+    for (const a of anchors) {
+      if (!a) continue;
+      let linked;
+      try { linked = new URL(a.href).hostname.toLowerCase().replace(/^www\./, ""); } catch { continue; }
+      if (!linked || linked === host || HOSTED_CHECKOUT_HOSTS.test(linked) || /shopify/.test(linked)) continue;
+      const domain = resolveDomain(linked, indexStores, aliases);
+      if (domain) return domain;
     }
     return null;
   }
@@ -933,7 +960,8 @@
 
     // Resolve against the index first — only then is a store file worth
     // fetching, so unsupported sites cost one small cached request and stop.
-    const domain = resolveDomain(host, index?.stores || {}, index?.aliases || {});
+    const domain = resolveDomain(host, index?.stores || {}, index?.aliases || {})
+      || hostedCheckoutStore(host, index?.stores || {}, index?.aliases || {});
     if (!domain) {
       // No UI, no styles, nothing injected. Only a menu entry to ask for it.
       if (typeof GM_registerMenuCommand === "function") {

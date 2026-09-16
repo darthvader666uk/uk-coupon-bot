@@ -205,6 +205,10 @@ Each code entry:
   nothing is injected, but the Tampermonkey menu offers a prefilled
   `store-request` issue. The nightly scrape asks Caramel for that domain and
   closes the issue once the store has codes.
+- **Follows Shopify checkouts** — when a store's checkout lives on `shop.app`
+  or `checkout.shopify.com`, the panel resolves the store from the checkout's
+  own back-link to it, so the codes are still there at the promo box. The
+  basket test stays on the store's own domain, where the cart API is.
 - **Hide on this site** — persistent per-hostname, survives reloads.
 - **Cached** — the database is fetched at most once every 6 hours.
 
