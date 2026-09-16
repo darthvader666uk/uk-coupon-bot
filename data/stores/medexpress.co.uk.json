@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "AWINED",
+      "description": "Enter this promo code at checkout and receive a 26% discount on your first order.",
+      "type": "percentage",
+      "value": 26,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/medexpress.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "domain": "americanfizz.co.uk",
+  "name": "americanfizz.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FOODSFORFUEL10",
+      "description": "Get a 10% rebate at americanfizz.co.uk",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/americanfizz.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -12,16 +12,41 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/vision-express-discount-codes",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "2NDPAIR",
+      "description": "Get up to 50% off your second pair at VisionExpress with code—plus free shipping",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/visionexpress.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-15T00:00:00Z"
     }
   ]
 }

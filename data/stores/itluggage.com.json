@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BTS35",
+      "description": "Shop and get 35% off using this discount code on your select purchase at it Luggage.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/itluggage.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

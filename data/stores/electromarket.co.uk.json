@@ -1,0 +1,67 @@
+{
+  "domain": "electromarket.co.uk",
+  "name": "electromarket.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SB5",
+      "description": "5% Off Orders Over £50",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electromarket.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SB10",
+      "description": "10% Off at ElectroMarket",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electromarket.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SB75",
+      "description": "10% Off Orders Over £250",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 250,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electromarket.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

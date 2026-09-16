@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "caramel"
       ],
       "url": "https://www.savoo.co.uk/brands/beaverbrooks-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,6 +38,66 @@
       "url": "https://www.savoo.co.uk/brands/beaverbrooks-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
       "lastSeen": "2026-09-16T10:39:18.435Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FRIYAY10",
+      "description": "Save 10% on almost everything during black friday sale at Beaver Brooks.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/beaverbrooks.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET15",
+      "description": "Score £15 off on full-priced items on £100 or more total orders when you use this Beaverbrooks voucher code during checkout.",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/beaverbrooks.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET50",
+      "description": "Enjoy £50 off when you spend £250 and more at Beaver Brooks.",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 250,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/beaverbrooks.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,

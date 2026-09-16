@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/lloyds-pharmacy-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -32,11 +33,12 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/lloyds-pharmacy-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -77,6 +79,218 @@
       "url": "https://www.savoo.co.uk/brands/lloyds-pharmacy-discount-codes",
       "addedAt": "2026-09-15T10:50:48.606Z",
       "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COMEBACK15",
+      "description": "15% Off Storewide at LloydsPharmacy",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "BASKET10",
+      "description": "10% Off Select Items at LloydsPharmacy",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "MAG40",
+      "description": "Shop and Save £40 at Lloyds Pharmacy",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "START40",
+      "description": "£40 off your 1st consultation for Weight Loss consultation",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "FDWEND",
+      "description": "Enjoy Free Delivery Weekend and save on shipping costs across your orders",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FNDD35",
+      "description": "Free Shipping Sitewide on All Your Favorite Items",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "START30",
+      "description": "Shop Now and Save 30%",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+      "code": "DELWKND",
+      "description": "Enjoy free delivery with this code",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DELFREE",
+      "description": "Free Delivery on Your Order",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "code": "SPICY4G5",
+      "description": "Things are heating up with Checkmate . Save with the best savings app",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lloydspharmacy.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,

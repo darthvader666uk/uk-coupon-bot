@@ -1,0 +1,27 @@
+{
+  "domain": "comicsandcocktails.co.uk",
+  "name": "comicsandcocktails.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "COMICS10",
+      "description": "10% Off All Back Issue Orders over £10",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 10,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/comicsandcocktails.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

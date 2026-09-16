@@ -33,11 +33,12 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "caramel"
       ],
       "url": "https://www.savoo.co.uk/brands/tui-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -53,11 +54,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T12:41:08.114Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -113,11 +115,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T12:41:08.114Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -133,11 +136,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T12:41:08.114Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -313,31 +317,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-12T11:41:24.799Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE100",
-      "description": "Unlock 5% off using TUI Discount Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/tui",
-      "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-11T12:16:34.403Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -453,11 +438,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-14T14:17:04.136Z",
-      "lastSeen": "2026-09-14T14:17:04.136Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -538,6 +524,166 @@
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-16T12:41:08.114Z",
       "lastSeen": "2026-09-16T12:41:08.114Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVEAPP",
+      "description": "Apply this TUI discount code at checkout to claim an App exclusive promo of an extra £10per booking on all package holidays departing between 3rd May 2024 - 30th April 2026.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE5RC",
+      "description": "Save 5% on select items with this Tui code.",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DEAL300",
+      "description": "Take £300 off per booking including children when you use this TUI discount code.",
+      "type": "fixed",
+      "value": 300,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DEAL400",
+      "description": "Deal of the Week: Apply this TUI coupon code to save £400 on a 7 night All Inclusive holiday to the Aes Club Hotel departing 1st September 2023.",
+      "type": "fixed",
+      "value": 400,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SOLO100",
+      "description": "Simply apply this TUI voucher code during checkout to get £100 off your select order.",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SALE100",
+      "description": "Save £100 on short-haul &amp; mid-haul holidays with £1000 spend",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TLPUK10",
+      "description": "Apply 10% off using this coupon code on your purchase at TUI.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "UQFLIPFLOP",
+      "description": "Get £150 off your purchase using a coupon code in your cart at TUI.",
+      "type": "fixed",
+      "value": 150,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/tui.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,

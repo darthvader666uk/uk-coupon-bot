@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "caramel"
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -53,11 +54,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://gamivo.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -116,11 +118,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://gamivo.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -200,11 +203,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://gamivo.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -263,11 +267,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://gamivo.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -381,70 +386,7 @@
       "verified": false
     },
     {
-      "code": "SUP5XYOUE7R",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://gamivo.knoji.com/",
-      "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "GOGADV10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://gamivo.knoji.com/",
-      "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "OMENSEPT",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://gamivo.knoji.com/",
-      "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "ANTHONYALLEN",
       "description": "",
       "type": "unknown",
       "value": null,
@@ -484,6 +426,226 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "HIGH5",
+      "description": "Apply 5% off using this coupon code on your select purchase at Gamivo.",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TOPUPSMART",
+      "description": "Enter this promo code at checkout and receive a 60% discount on your order.",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "IAMSMART",
+      "description": "Save 8% on your purchase with this Gamivo code.",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BACKTOGAME",
+      "description": "Take 7% off your purchase using a coupon code on your cart at Gamivo.",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEWIP",
+      "description": "Enter coupon code at checkout to enjoy up to 10% off storewide at Gamivo.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SMARTPRICE",
+      "description": "Enjoy 19% off when you order the Minecraft Java Bedrock Edition using the coupon code at Gamivo checkout.",
+      "type": "percentage",
+      "value": 19,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GAMESLOVER",
+      "description": "Apply this promo code at checkout to enjoy 12% off your entire order at Gamivo. This sitewide deal covers everything from game keys to software and gift cards. Dont miss the chance to grab digital",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SMARTIAM",
+      "description": "Get up to 15% off with coupon code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PRAGMATA10",
+      "description": "Get 10% off your purchase using a coupon code in your cart at Gamivo.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TOPUPBONUS",
+      "description": "Apply this Gamivo discount code to score 2% off your next Direct Top Up. This deal is ideal for topping up gaming accounts, credits, or gift cards at a lower price. Offer applies to select digital",
+      "type": "percentage",
+      "value": 2,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "IAMSMART2",
+      "description": "Shop and take an extra 20% off your purchase using a promo code on your cart.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamivo.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "domain": "furniturebox.co.uk",
+  "name": "furniturebox.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SHOPPING10",
+      "description": "Enjoy Up to 10% Off with FurnitureBox Coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/furniturebox.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "LOVEMYHOME10",
+      "description": "L10 Off Storewide at Furniturebox",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/furniturebox.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

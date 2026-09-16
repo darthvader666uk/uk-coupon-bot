@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "SAVE40",
-      "description": "£40 off Selected Hoover Payday Deals",
-      "type": "fixed",
-      "value": 40,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/hoover-discount-codes",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "LABORDAY20",
       "description": "20% off",
       "type": "percentage",
@@ -279,27 +259,6 @@
       "description": "25% off",
       "type": "percentage",
       "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://hoover.knoji.com/",
-      "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-09-13T10:56:39.229Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "EASTER20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -651,26 +610,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "15OFF",
-      "description": "15% off Floorcare and Large Appliances at Hoover",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/hoover-discount-codes",
-      "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

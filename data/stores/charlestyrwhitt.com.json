@@ -85,27 +85,6 @@
       "verified": true
     },
     {
-      "code": "TAKE15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://charlestyrwhitt.knoji.com/",
-      "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-09-13T10:56:39.229Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "NEWYEAR",
       "description": "20% off",
       "type": "percentage",
@@ -463,48 +442,6 @@
       "verified": false
     },
     {
-      "code": "BF25",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://charlestyrwhitt.knoji.com/",
-      "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-09-13T10:56:39.229Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "BLACKFRIDAY",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://charlestyrwhitt.knoji.com/",
-      "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-09-13T10:56:39.229Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "M300CASEY",
       "description": "",
       "type": "unknown",
@@ -545,6 +482,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "TEXTCT",
+      "description": "10% Off Storewide at Charles Tyrwhitt",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

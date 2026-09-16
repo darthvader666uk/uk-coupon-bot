@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "CFEXPUK",
+      "description": "When you apply this Expedia coupon code at checkout you can save 8% off on your hotel reservation total. Travel by 6/30/26.",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/expedia.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "domain": "trainline.co.uk",
+  "name": "Trainline",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BLACKFRIDAYFUN",
+      "description": "33% off Black Friday Railcards at trainline",
+      "type": "percentage",
+      "value": 33,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/trainline-discount-codes",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -195,39 +195,19 @@
     },
     {
       "code": "TEXT20",
-      "description": "",
+      "description": "kickscrew.com coupon",
       "type": "unknown",
       "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://kickscrew.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "FIRST10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kickscrew.knoji.com/",
-      "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -237,24 +217,45 @@
     },
     {
       "code": "NOTHINGLEFTBEHIND",
-      "description": "",
+      "description": "kickscrew.com coupon",
       "type": "unknown",
       "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://kickscrew.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MAMBA15",
+      "description": "Get 15% off the exclusive Kobe Bryant Collection at Kicks Crew when you use the promo code at checkout. This limited-time offer lets you shop premium apparel and footwear inspired by the legendary",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/kickscrew.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

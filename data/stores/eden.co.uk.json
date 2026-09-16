@@ -1,0 +1,47 @@
+{
+  "domain": "eden.co.uk",
+  "name": "Eden",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EDEN9OFF100",
+      "description": "Save £9 off with this Eden promo code on £100+ orders.",
+      "type": "fixed",
+      "value": 9,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/eden.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUBSCRIBE2OFF20",
+      "description": "Score up to 10% off with this Eden coupon when used during checkout.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/eden.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

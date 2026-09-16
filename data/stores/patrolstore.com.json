@@ -12,16 +12,19 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/patrol-store-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-13T10:56:39.229Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
     },
     {
       "code": "OPZULU10SAVE",
@@ -42,6 +45,72 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BLUE5",
+      "description": "Patrol Store Discount Code: 5% Off at Patrol Store",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/patrolstore.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "BLUE10",
+      "description": "Patrol Store Promo Code: Get 10% Off Your Order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/patrolstore.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-14T00:00:00Z"
+    },
+    {
+      "code": "BLUE20",
+      "description": "Get 20% Off Using Patrol Store Coupon Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/patrolstore.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-10T00:00:00Z"
     }
   ]
 }

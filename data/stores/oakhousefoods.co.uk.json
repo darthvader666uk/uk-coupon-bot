@@ -1,0 +1,51 @@
+{
+  "domain": "oakhousefoods.co.uk",
+  "name": "oakhousefoods.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "TV5",
+      "description": "£5 Off First Order Over £30",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/oakhousefoods.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-14T00:00:00Z"
+    },
+    {
+      "code": "WEB5",
+      "description": "Get 5% Off Everything at Oakhouse Foods",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/oakhousefoods.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-14T00:00:00Z"
+    }
+  ]
+}

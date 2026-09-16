@@ -1,0 +1,49 @@
+{
+  "domain": "gravelmaster.co.uk",
+  "name": "gravelmaster.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HELLOSEPT5",
+      "description": "5% off your order in September",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/gravelmaster.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIVEOFF5",
+      "description": "Recently saved £11.10",
+      "type": "fixed",
+      "value": 11.1,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/gravelmaster.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-26T00:00:00Z"
+    }
+  ]
+}
