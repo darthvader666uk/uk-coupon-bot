@@ -282,6 +282,9 @@ async function main() {
       if (removed > 0) {
         console.log(`  ❌ Removed ${removed} failed codes from ${failedIssues.length} reports`);
       }
+      // Persist now, not after the collapse guard: the issue is already closed
+      // on GitHub, so a refused save would lose the report for good.
+      saveDeadCodes(DEAD_CODES_JSON, deadCodes);
     }
   } catch (err) {
     console.log(`  ⚠ Failed to process failed-code issues: ${err.message}`);
