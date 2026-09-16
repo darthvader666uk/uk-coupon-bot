@@ -1,0 +1,27 @@
+{
+  "domain": "purina.co.uk",
+  "name": "Purina",
+  "category": "general",
+  "codes": [
+    {
+      "code": "THANKYOU25",
+      "description": "25% off orders at Purina Direct",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/purina-discount-codes",
+      "addedAt": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

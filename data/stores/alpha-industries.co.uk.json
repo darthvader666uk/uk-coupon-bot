@@ -57,7 +57,7 @@
       ],
       "url": "https://alphaindustries.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -141,7 +141,7 @@
       ],
       "url": "https://alphaindustries.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -204,7 +204,7 @@
       ],
       "url": "https://alphaindustries.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -225,34 +225,13 @@
       ],
       "url": "https://alphaindustries.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SAVE15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://alphaindustries.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     },
     {
       "code": "NETWORK10",
@@ -288,7 +267,28 @@
       ],
       "url": "https://alphaindustries.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WPAFF15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://alphaindustries.knoji.com/",
+      "addedAt": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -1,0 +1,47 @@
+{
+  "domain": "virginholidays.co.uk",
+  "name": "Virginholidays",
+  "category": "general",
+  "codes": [
+    {
+      "code": "UNIVERSAL",
+      "description": "£50pp off Universal Orlando Holidays at Virgin Holidays",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/virginholidays-discount-codes",
+      "addedAt": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HOTELONLY",
+      "description": "Up to £150 off Selected Stays at Virgin Holidays",
+      "type": "fixed",
+      "value": 150,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/virginholidays-discount-codes",
+      "addedAt": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
