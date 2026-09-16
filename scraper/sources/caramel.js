@@ -24,7 +24,8 @@ const API_URL = "https://grabcaramel.com/api/coupons";
 const PAGE_SIZE = 50;
 /** Argos has 66 codes; nothing seen needs more than two pages. */
 const MAX_PAGES = 4;
-const REQUEST_GAP_MS = 1000;
+// 80/min against a 120/min limit: 1,400 stores in ~30 min, inside the job timeout.
+const REQUEST_GAP_MS = 750;
 const INDEX_JSON = join(dirname(fileURLToPath(import.meta.url)), "..", "..", "data", "index.json");
 
 /**
@@ -101,9 +102,20 @@ async function fetchSite(site) {
   return coupons;
 }
 
+const SEEDS_JSON = join(dirname(INDEX_JSON), "caramel-seeds.json");
+
+/**
+ * Stores in the index, plus any seeds scripts/discover-caramel-uk.mjs found
+ * on Caramel that the index has never held. A seed that yields codes is in
+ * the index from the next run on, so the file only matters until then.
+ */
 export function loadStoreDomains() {
   const index = JSON.parse(readFileSync(INDEX_JSON, "utf8"));
-  return Object.keys(index.stores || {});
+  const domains = new Set(Object.keys(index.stores || {}));
+  try {
+    for (const site of JSON.parse(readFileSync(SEEDS_JSON, "utf8")).sites || []) domains.add(canonicalDomain(site));
+  } catch { /* no seeds file, nothing to add */ }
+  return [...domains];
 }
 
 /**
