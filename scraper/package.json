@@ -12,7 +12,8 @@
     "test:userscript": "node scripts/test-userscript.mjs",
     "test:pipeline": "node scripts/test-pipeline.mjs",
     "test": "node scripts/test-pipeline.mjs && node scripts/test-userscript.mjs",
-    "scrape:knoji": "node index.js --source=knoji"
+    "scrape:knoji": "node index.js --source=knoji",
+    "scrape:caramel": "node index.js --source=caramel"
   },
   "dependencies": {
     "cheerio": "^1.0.0",

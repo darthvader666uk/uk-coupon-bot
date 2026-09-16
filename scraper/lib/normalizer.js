@@ -293,6 +293,10 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
       }
       existing.lastSeen = now;
       if (entry.verified !== undefined) existing.verified = !!entry.verified;
+      // Keep the most recent "seen working" timestamp across sources.
+      if (entry.lastWorkedAt && (!existing.lastWorkedAt || entry.lastWorkedAt > existing.lastWorkedAt)) {
+        existing.lastWorkedAt = entry.lastWorkedAt;
+      }
       if (entry.source && !existing.sources?.includes(entry.source)) {
         existing.sources = [...(existing.sources || []), entry.source];
       }
@@ -322,6 +326,7 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
         testResults: { total: 0, worked: 0, lastTested: null },
         // Some sources say whether they have checked the code works.
         ...(entry.verified !== undefined ? { verified: !!entry.verified } : {}),
+        ...(entry.lastWorkedAt ? { lastWorkedAt: entry.lastWorkedAt } : {}),
       };
       enrichCode(created);
       store.codes.push(created);

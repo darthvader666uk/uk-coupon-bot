@@ -39,7 +39,7 @@ const CORRECTIONS = JSON.parse(
  * longer be re-confirmed by anything, so it is dropped rather than left to age
  * quietly in the database claiming a provenance the project no longer has.
  */
-export const ACTIVE_SOURCES = new Set(["coupert", "ggdeals", "knoji", "savoo"]);
+export const ACTIVE_SOURCES = new Set(["caramel", "coupert", "ggdeals", "knoji", "savoo"]);
 
 /** Alias domain -> canonical domain. */
 export const ALIASES = {

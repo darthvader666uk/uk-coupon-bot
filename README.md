@@ -77,6 +77,7 @@ uk-coupon-bot/
 ├── scraper/
 │   ├── index.js                   # Main scraper orchestrator
 │   ├── sources/
+│   │   ├── caramel.js             # Plain HTTP — Caramel API, carries lastWorkedAt
 │   │   ├── savoo.js               # Playwright scraper — best UK breadth
 │   │   ├── knoji.js               # Playwright (headful) — densest per store
 │   │   ├── ggdeals.js             # Playwright (headful) — gaming stores
