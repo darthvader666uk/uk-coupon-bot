@@ -1,0 +1,47 @@
+{
+  "domain": "unicorncards.co.uk",
+  "name": "unicorncards.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "UNICORN40",
+      "description": "Save 40% On Your Purchase",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/unicorncards.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA35",
+      "description": "Save 35% On Your Orders",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/unicorncards.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

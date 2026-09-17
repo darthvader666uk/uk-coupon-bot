@@ -1,0 +1,50 @@
+{
+  "domain": "smilewhite.co.uk",
+  "name": "smilewhite.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "COUPERT10SW",
+      "description": "10% off dentist-delivered whitening",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/smilewhite.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-14T00:00:00Z"
+    },
+    {
+      "code": "COUPERT100SW",
+      "description": "£100 off dentist-delivered aligners",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/smilewhite.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    }
+  ]
+}

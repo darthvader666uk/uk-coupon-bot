@@ -210,6 +210,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "LABOR10",
+      "description": "Up to 50% off plus Extra 10% off orders at LELO",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lelo-discount-codes",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

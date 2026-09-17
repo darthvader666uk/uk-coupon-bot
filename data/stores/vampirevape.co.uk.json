@@ -22,6 +22,158 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "VV10",
+      "description": "10% Off Your First Order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vampirevape.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "VVS8",
+      "description": "8% off orders at Vampire Vape",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vampirevape.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "BLC10",
+      "description": "Take 10% Off with Vampire Vape Coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vampirevape.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "SAVO20",
+      "description": "Exclusive 20% off plus Free Delivery on orders over £60 at Vampire Vape",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vampirevape.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-13T00:00:00Z"
+    },
+    {
+      "code": "VV15",
+      "description": "Save 15% with This Promo Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vampirevape.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-15T00:00:00Z"
+    },
+    {
+      "code": "NICITUP",
+      "description": "Get Discount on NicIt Up Purchases",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vampirevape.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VCNHS10",
+      "description": "Recently saved £40.00",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vampirevape.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-11T00:00:00Z"
     }
   ]
 }

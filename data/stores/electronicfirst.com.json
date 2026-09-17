@@ -17,13 +17,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T12:41:08.114Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
     },
     {
       "code": "GO10%",
@@ -59,13 +60,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T12:41:08.114Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-08-01T00:00:00Z"
     },
     {
       "code": "OFFICE5",
@@ -81,7 +83,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T12:41:08.114Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -167,26 +169,6 @@
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-12T11:41:24.799Z",
       "lastSeen": "2026-09-16T12:41:08.114Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SPRING5",
-      "description": "Special Deals: Get 5% Off with Electronic First Discount Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/electronic-first",
-      "addedAt": "2026-09-12T11:41:24.799Z",
-      "lastSeen": "2026-09-13T12:48:26.470Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -293,7 +275,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-12T11:41:24.799Z",
-      "lastSeen": "2026-09-16T12:41:08.114Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -406,6 +388,48 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "WELCOMEBACK",
+      "description": "Receive Insider Discounts by Joining the Newsletter",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electronicfirst.com",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "WORLDCUP2026",
+      "description": "6% Off Your Order",
+      "type": "percentage",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electronicfirst.com",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

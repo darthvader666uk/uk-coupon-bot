@@ -1,0 +1,47 @@
+{
+  "domain": "jacksonsnurseries.co.uk",
+  "name": "jacksonsnurseries.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HEATHERS",
+      "description": "Low-cost Heathers: Only £3.99 Each!",
+      "type": "fixed",
+      "value": 3.99,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jacksonsnurseries.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GETDEAL10",
+      "description": "10% Off First purchase Jacksons Nurseries Discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jacksonsnurseries.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
