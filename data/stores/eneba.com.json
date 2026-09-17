@@ -159,11 +159,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://eneba.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -523,7 +524,7 @@
       ],
       "url": "https://eneba.knoji.com/",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -756,7 +757,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/eneba-com",
       "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1234,7 +1235,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/eneba-com",
       "addedAt": "2026-09-16T12:41:08.114Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1846,6 +1847,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-09T00:00:00Z"
+    },
+    {
+      "code": "SPRING",
+      "description": "Get 10% Off Your Order with Eneba Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/eneba-com",
+      "addedAt": "2026-09-17T12:40:13.987Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

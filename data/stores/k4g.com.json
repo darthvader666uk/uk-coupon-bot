@@ -60,7 +60,7 @@
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -273,7 +273,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -295,7 +295,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=5",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -339,7 +339,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/k4g-com",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -462,11 +462,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -547,11 +548,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -618,7 +620,7 @@
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -752,7 +754,7 @@
       ],
       "url": "https://k4g.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1195,6 +1197,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "SALE11",
+      "description": "Take advantage of K4G Discount Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k4g-com",
+      "addedAt": "2026-09-17T12:40:13.987Z",
+      "lastSeen": "2026-09-17T12:40:13.987Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
