@@ -42,6 +42,112 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "TRY20",
+      "description": "Take an extra 20% off your FIRST order lookfabulousforever.com with this special discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lookfabulousforever.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "SEASON",
+      "description": "20% off: The best Look Fabulous Forever code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lookfabulousforever.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "TWENTY",
+      "description": "Enjoy 10% Off NHS Discount",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lookfabulousforever.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "FREEPOST",
+      "description": "Free Shipping on All Orders",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lookfabulousforever.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MAILME",
+      "description": "Free Shipping Lookfabulousforever Coupon Code",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lookfabulousforever.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

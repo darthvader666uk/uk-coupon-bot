@@ -56,17 +56,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://fatbuddhastore.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-08-28T00:00:00Z"
     },
     {
       "code": "MAILMEUP",
@@ -224,11 +226,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://fatbuddhastore.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -279,109 +282,24 @@
       "verified": true
     },
     {
-      "code": "NETWORK10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "9ICVFSPA",
+      "description": "10% off first purchase",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://fatbuddhastore.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "url": "https://www.coupert.com/store/fatbuddhastore.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "INFG26STEPHSTRINE10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fatbuddhastore.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "ATMEMBER",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fatbuddhastore.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "GFSHIP",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fatbuddhastore.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "RAQUEL20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fatbuddhastore.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

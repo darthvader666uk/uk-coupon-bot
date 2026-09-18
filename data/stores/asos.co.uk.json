@@ -16,7 +16,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -36,7 +36,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -56,7 +56,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -76,7 +76,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -125,23 +125,26 @@
     },
     {
       "code": "STUDENTUS",
-      "description": "",
+      "description": "Quality discounts are available now",
       "type": "unknown",
       "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
     },
     {
       "code": "NEWAPP",
@@ -165,9 +168,32 @@
     },
     {
       "code": "NEWHERE",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Snag 15% Off + FREE Next Day Delivery For New Shoppers",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel",
+        "coupert"
+      ],
+      "url": "https://grabcaramel.com/coupons/asos.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "code": "LABORDAY",
+      "description": "Enjoy up to 40% off almost everything during the Labor Day sale at ASOS.",
+      "type": "percentage",
+      "value": 40,
       "minSpend": null,
       "expiry": null,
       "source": "caramel",
@@ -175,8 +201,364 @@
         "caramel"
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "UPTO30",
+      "description": "Save up to 30% off on all your purchase at asos.com.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/asos.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COLD25",
+      "description": "Claim Your 25% Discount on Asos Blue Light Products Now",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BONJOUR",
+      "description": "Asos Promo Code: Up to 15% Off Your Order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2025-12-26T00:00:00Z"
+    },
+    {
+      "code": "CA15",
+      "description": "Take Up to 5% Off at ASOS",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "code": "DEAL20",
+      "description": "75% Off Jack & Jones Premium Trouser",
+      "type": "percentage",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LOVELY",
+      "description": "Attain 50% Off Promotional Code On Asos Blue Light Orders",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MIDNIGHT",
+      "description": "49% Off Selected Styles",
+      "type": "percentage",
+      "value": 49,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MORESALE",
+      "description": "Gain Extra 25% Off at Asos Using Coupon Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NDDFORYOU",
+      "description": "Free Next Day Delivery on Orders at ASOS",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "GOASOS",
+      "description": "ASOS Discount Code: 30% Off Everything",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2025-04-14T00:00:00Z"
+    },
+    {
+      "code": "JUSTFORYOU",
+      "description": "20% off Orders with Mobile App with this Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "code": "MYDEALZ2026",
+      "description": "Get Special Offers with This ASOS Discount Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "NEWFITNOW",
+      "description": "Get Free Shipping On All asos.com Products When You Order Today",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ALISTBDAY",
+      "description": "Check Out After Placing Your Order for Even More Savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-14T00:00:00Z"
+    },
+    {
+      "code": "ASOSNEWBIE",
+      "description": "15% off First Orders at ASOS",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "code": "FREENDD",
+      "description": "Free Shipping Sitewide on All Orders",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OVER15ONLY",
+      "description": "1% off Free Shipping",
+      "type": "percentage",
+      "value": 1,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/asos.co.uk",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,

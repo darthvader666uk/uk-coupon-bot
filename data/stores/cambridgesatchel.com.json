@@ -12,16 +12,19 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/cambridge-satchel-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
     },
     {
       "code": "15OFFSAV",
@@ -62,6 +65,134 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "15OFFVC",
+      "description": "10% Off at Cambridge Satchel UK",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cambridgesatchel.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "code": "SUMMEREXTRA10",
+      "description": "10% Off On Sale at Cambridge Satchel UK",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cambridgesatchel.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DEALMOON15",
+      "description": "Save 15% with This Promo Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cambridgesatchel.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-06-28T00:00:00Z"
+    },
+    {
+      "code": "EDINBURGH",
+      "description": "Free In-store Embossing Storewide at Cambridge Satchel UK",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cambridgesatchel.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VC20300",
+      "description": "Savings are available on your shopping",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cambridgesatchel.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-13T00:00:00Z"
+    },
+    {
+      "code": "SAVOO50W30",
+      "description": "Check Out After Placing Your Order for Even More Savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cambridgesatchel.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-04-16T00:00:00Z"
     }
   ]
 }

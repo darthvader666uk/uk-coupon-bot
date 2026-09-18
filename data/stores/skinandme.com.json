@@ -22,6 +22,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "DIGID26",
+      "description": "Savings are available with this offer at skinandme.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/skinandme.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
     }
   ]
 }

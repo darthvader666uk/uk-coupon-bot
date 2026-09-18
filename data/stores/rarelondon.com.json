@@ -52,17 +52,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-08-29T00:00:00Z"
     },
     {
       "code": "VIP30",
@@ -317,27 +319,6 @@
       "verified": true
     },
     {
-      "code": "20MORE",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://rarelondon.knoji.com/",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "EXTRA50",
       "description": "50% off",
       "type": "percentage",
@@ -483,6 +464,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SMSSQUAD",
+      "description": "Free Shipping Storewide at Rare London",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/rarelondon.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MEGA10",
+      "description": "Over 75% Off Sale And Extra 10% Off",
+      "type": "percentage",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/rarelondon.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

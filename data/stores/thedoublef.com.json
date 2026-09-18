@@ -229,7 +229,7 @@
       ],
       "url": "https://thedoublef.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -252,7 +252,7 @@
       ],
       "url": "https://thedoublef.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -275,14 +275,14 @@
       ],
       "url": "https://thedoublef.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-15T00:00:00Z"
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
     },
     {
       "code": "MODESUM22",
@@ -453,27 +453,6 @@
       "verified": false
     },
     {
-      "code": "SANTA100",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://thedoublef.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "G111623",
       "description": "",
       "type": "unknown",
@@ -507,14 +486,14 @@
       ],
       "url": "https://www.coupert.com/store/thedoublef.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-17T00:00:00Z"
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
     },
     {
       "code": "SAVOKTO33",
@@ -529,14 +508,14 @@
       ],
       "url": "https://www.coupert.com/store/thedoublef.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-17T00:00:00Z"
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
     },
     {
       "code": "TDFCRAZY40",
@@ -551,12 +530,34 @@
       ],
       "url": "https://www.coupert.com/store/thedoublef.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "GROUPONAUOKTO33",
+      "description": "Special savings are available on your must-have items",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thedoublef.com",
+      "addedAt": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
     }
   ]
 }

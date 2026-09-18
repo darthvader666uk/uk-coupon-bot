@@ -299,27 +299,6 @@
       "verified": true
     },
     {
-      "code": "HELLO20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wildnutrition.knoji.com/",
-      "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "DOUBLEUP",
       "description": "Buy One Get One Free On (Storewide, Excludes Subscriptions) (Must Order 2) at Wild Nutrition",
       "type": "unknown",
@@ -507,48 +486,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "FREESHIPPING",
-      "description": "Special Offer",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wildnutrition.knoji.com/",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "NEW20",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wildnutrition.knoji.com/",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }
