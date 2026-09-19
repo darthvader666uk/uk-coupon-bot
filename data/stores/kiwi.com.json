@@ -36,14 +36,14 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
     },
     {
       "code": "NEFELIATMN10EUR",
@@ -58,14 +58,14 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
     },
     {
       "code": "KIWI20DAISYCON",
@@ -80,14 +80,14 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
     },
     {
       "code": "CVHT45OZEK",
@@ -102,7 +102,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -124,7 +124,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -232,7 +232,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -252,7 +252,135 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "9A7NTCINZ7",
+      "description": "Extra savings on your order at kiwi.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kiwi.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
+    },
+    {
+      "code": "10KIWIAPP",
+      "description": "Get up to 10% off any purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kiwi.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "KTJ8LHDFL7",
+      "description": "Enjoy 5% Off at Kiwi",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kiwi.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "J9AWW9LKG8",
+      "description": "Discounts are available on your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kiwi.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
+    },
+    {
+      "code": "JNXUF67DUS",
+      "description": "Find Meaningful Price Reductions",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kiwi.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
+    },
+    {
+      "code": "KIWIHONEY10",
+      "description": "10% Off Storewide at Kiwi.com",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kiwi.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,

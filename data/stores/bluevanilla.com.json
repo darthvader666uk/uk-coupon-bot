@@ -36,14 +36,14 @@
       ],
       "url": "https://www.coupert.com/store/bluevanilla.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
     },
     {
       "code": "BLUEHUKD17",
@@ -58,14 +58,14 @@
       ],
       "url": "https://www.coupert.com/store/bluevanilla.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
     },
     {
       "code": "BLUE15",
@@ -102,7 +102,7 @@
       ],
       "url": "https://www.coupert.com/store/bluevanilla.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -110,6 +110,48 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "code": "EMILY15",
+      "description": "15% Off at Blue Vanilla",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bluevanilla.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
+    },
+    {
+      "code": "FREE48",
+      "description": "Enjoy Free Shipping on Any Purchase",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bluevanilla.com",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
