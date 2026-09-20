@@ -22,26 +22,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE100",
-      "description": "Extra £100 off orders over £600 at Rattan Direct",
-      "type": "fixed",
-      "value": 100,
-      "minSpend": 600,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/rattan-direct-discount-codes",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-19T10:04:40.460Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

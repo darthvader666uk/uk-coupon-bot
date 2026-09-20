@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SVPMUP",
+      "description": "Vana Prime Month: Extra 16% off orders over £89 at Stylevana",
+      "type": "percentage",
+      "value": 16,
+      "minSpend": 89,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/stylevana-discount-codes",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

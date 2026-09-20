@@ -729,26 +729,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "WELCOME10",
-      "description": "Use the Promo Code to get 10% off at Electronic First after sign-up",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/electronic-first",
-      "addedAt": "2026-09-19T13:10:07.975Z",
-      "lastSeen": "2026-09-19T13:10:07.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/maxtondesign.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-17T00:00:00Z"
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
     },
     {
       "code": "BYB10",
@@ -60,7 +60,7 @@
       ],
       "url": "https://www.coupert.com/store/maxtondesign.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -68,6 +68,50 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+      "code": "BLK15",
+      "description": "Extra 15% off sale prices",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/maxtondesign.co.uk",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "code": "CARBON",
+      "description": "Unleash 5% savings at maxtondesign.co.uk",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/maxtondesign.co.uk",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
     }
   ]
 }

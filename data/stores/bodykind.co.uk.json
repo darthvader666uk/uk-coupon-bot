@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.savoo.co.uk/brands/bodykind-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "TAKE9",
@@ -64,24 +66,424 @@
       }
     },
     {
-      "code": "TAKE15",
-      "description": "£15 off orders over £100 at Bodykind",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": 100,
+      "code": "SHOP10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
       "expiry": null,
-      "source": "savoo",
+      "source": "knoji",
       "sources": [
-        "savoo"
+        "knoji"
       ],
-      "url": "https://www.savoo.co.uk/brands/bodykind-discount-codes",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
+    },
+    {
+      "code": "BODYKIND10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LAM20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HEALTH20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MAG20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "VIR20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DR20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LOVE20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LIFE20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "NAT20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELL20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CHOICE20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "PP20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "PLAN20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HN20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "IJNXZNDP",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NEWCODE20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SLEEPBETTER50",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ZACHARY01134",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HEALTH15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bodykind.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

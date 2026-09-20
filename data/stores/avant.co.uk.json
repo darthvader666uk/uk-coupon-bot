@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "AVTSUMMEREXT",
+      "description": "30% off Summer Sale plus Extra 10% off orders at Avant",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/avant-discount-codes",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

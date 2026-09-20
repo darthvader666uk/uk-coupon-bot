@@ -297,27 +297,6 @@
       "verified": true
     },
     {
-      "code": "FALL15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://nextbase.knoji.com/",
-      "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "HOLIDAY15",
       "description": "15% off",
       "type": "percentage",
@@ -589,27 +568,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "EASTER20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://nextbase.knoji.com/",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }
