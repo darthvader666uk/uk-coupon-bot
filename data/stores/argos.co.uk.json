@@ -137,7 +137,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-09-19T13:10:07.975Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -279,7 +279,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -340,7 +340,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-09-12T11:41:24.799Z",
-      "lastSeen": "2026-09-15T12:46:30.553Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1452,18 +1452,19 @@
     },
     {
       "code": "FURN20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Get 20% Off Your Order with Argos Promo Code",
+      "type": "percentage",
+      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/argos.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1563,7 +1564,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-09-17T12:40:13.987Z",
-      "lastSeen": "2026-09-18T12:18:13.772Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1603,7 +1604,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-09-17T12:40:13.987Z",
-      "lastSeen": "2026-09-17T12:40:13.987Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1664,6 +1665,66 @@
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-09-19T13:10:07.975Z",
       "lastSeen": "2026-09-19T13:10:07.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET5",
+      "description": "15% Off on Your Orders Now with Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/argos",
+      "addedAt": "2026-09-20T12:31:44.565Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COSY20",
+      "description": "Exclusive 20% Savings Using Argos Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/argos",
+      "addedAt": "2026-09-20T12:31:44.565Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APP10",
+      "description": "10% off your First Order with Mobile App with this Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/argos",
+      "addedAt": "2026-09-20T12:31:44.565Z",
+      "lastSeen": "2026-09-20T12:31:44.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
