@@ -1,0 +1,47 @@
+{
+  "domain": "towerhousewares.co.uk",
+  "name": "Tower Housewares",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BUNDLE10",
+      "description": "Bundle Weekend: Extra 10% off Bundles",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tower-housewares-discount-codes",
+      "addedAt": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HOLIDAY",
+      "description": "Bank Holiday Sale: Up to 20% off orders over £40 at Tower Housewares",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tower-housewares-discount-codes",
+      "addedAt": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
