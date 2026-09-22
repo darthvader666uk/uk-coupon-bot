@@ -16,12 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/maccosmetics.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-20T00:00:00Z"
     },
     {
       "code": "2026ELLE5",
@@ -62,6 +64,72 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "MAC20",
+      "description": "Limited Offer: 45% Off with MAC Cosmetics Promo Code",
+      "type": "percentage",
+      "value": 45,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/maccosmetics.co.uk",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-20T00:00:00Z"
+    },
+    {
+      "code": "BICESTER20",
+      "description": "MAC Cosmetics Promo Code: 20% Off Your Entire Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/maccosmetics.co.uk",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-20T00:00:00Z"
+    },
+    {
+      "code": "MAKEMAC",
+      "description": "Great Savings with MAC Cosmetics Special Coupon",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/maccosmetics.co.uk",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-20T00:00:00Z"
     }
   ]
 }

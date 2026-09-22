@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/furniturebox.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-20T00:00:00Z"
+      "lastWorkedAt": "2026-09-22T00:00:00Z"
     },
     {
       "code": "LOVEMYHOME10",
@@ -38,7 +38,7 @@
       ],
       "url": "https://www.coupert.com/store/furniturebox.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -66,6 +66,50 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "code": "NEW20",
+      "description": "20% Off Minnie Orange Accent Chair",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/furniturebox.co.uk",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-20T00:00:00Z"
+    },
+    {
+      "code": "SEPTSAVE",
+      "description": "Extra 10% Off Orders Over £400",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 400,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/furniturebox.co.uk",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-22T00:00:00Z"
     }
   ]
 }

@@ -56,14 +56,14 @@
       ],
       "url": "https://www.coupert.com/store/lookfabulousforever.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-17T00:00:00Z"
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
     },
     {
       "code": "SEASON",
@@ -122,7 +122,7 @@
       ],
       "url": "https://www.coupert.com/store/lookfabulousforever.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -142,7 +142,7 @@
       ],
       "url": "https://www.coupert.com/store/lookfabulousforever.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -162,7 +162,7 @@
       ],
       "url": "https://www.coupert.com/store/lookfabulousforever.com",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -212,6 +212,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SHOP20",
+      "description": "Exclusive 20% Off at Look Fabulous Forever",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lookfabulousforever.com",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-19T00:00:00Z"
     }
   ]
 }

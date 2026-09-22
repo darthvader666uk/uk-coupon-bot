@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/menschem.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-19T00:00:00Z"
+      "lastWorkedAt": "2026-09-22T00:00:00Z"
     },
     {
       "code": "PAY15",
@@ -38,14 +38,14 @@
       ],
       "url": "https://www.coupert.com/store/menschem.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-19T00:00:00Z"
+      "lastWorkedAt": "2026-09-22T00:00:00Z"
     },
     {
       "code": "JUL15",
@@ -60,7 +60,7 @@
       ],
       "url": "https://www.coupert.com/store/menschem.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -80,7 +80,7 @@
       ],
       "url": "https://www.coupert.com/store/menschem.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -100,14 +100,14 @@
       ],
       "url": "https://www.coupert.com/store/menschem.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-23T00:00:00Z"
+      "lastWorkedAt": "2026-08-28T00:00:00Z"
     },
     {
       "code": "SEP15",
@@ -122,14 +122,36 @@
       ],
       "url": "https://www.coupert.com/store/menschem.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
+      "lastWorkedAt": "2026-09-21T00:00:00Z"
+    },
+    {
+      "code": "MEN10",
+      "description": "10% Off Orders Over £40",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/menschem.co.uk",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-22T00:00:00Z"
     }
   ]
 }

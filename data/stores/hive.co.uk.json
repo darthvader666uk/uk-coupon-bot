@@ -1,0 +1,27 @@
+{
+  "domain": "hive.co.uk",
+  "name": "Hive.Co.Uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PAYDAY10",
+      "description": "10% off orders at Hive.co.uk",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hive.co.uk-discount-codes",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
