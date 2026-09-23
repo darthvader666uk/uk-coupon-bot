@@ -1374,26 +1374,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "NEW10",
-      "description": "Use Discount Code and Grab 15% Off Now",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/allkeyshop",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

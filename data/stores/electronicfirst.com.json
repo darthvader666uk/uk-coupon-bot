@@ -861,46 +861,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-20T00:00:00Z"
-    },
-    {
-      "code": "NEW10",
-      "description": "15% Off on Your Orders Now with Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/electronic-first",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME10",
-      "description": "Use the Promo Code to get 10% off at Electronic First after sign-up",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/electronic-first",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

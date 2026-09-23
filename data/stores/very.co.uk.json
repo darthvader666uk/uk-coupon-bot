@@ -662,46 +662,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "WELCOME",
-      "description": "30% Off First Order at Very for New Users with Discount Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/very",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE25",
-      "description": "Use Very Discount Code for 25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/very",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
