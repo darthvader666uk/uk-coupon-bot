@@ -17,14 +17,14 @@
       ],
       "url": "https://www.savoo.co.uk/brands/patrol-store-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-09-24T00:00:00Z"
     },
     {
       "code": "OPZULU10SAVE",
@@ -81,14 +81,14 @@
       ],
       "url": "https://www.coupert.com/store/patrolstore.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-09-24T00:00:00Z"
     },
     {
       "code": "BLUE20",
@@ -111,6 +111,66 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+      "code": "EXCLUSIVE20",
+      "description": "20% Off Your Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/patrolstore.com",
+      "addedAt": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GEARUP15",
+      "description": "Coupon Code: Extra 15% Off Bags & Backpacks",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/patrolstore.com",
+      "addedAt": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BLUEMAGNUM",
+      "description": "Free Shipping Patrol Store Coupon When Shopping For Any Magnum Products",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/patrolstore.com",
+      "addedAt": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

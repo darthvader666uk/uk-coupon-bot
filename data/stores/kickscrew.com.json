@@ -55,11 +55,12 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/kicks-crew-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -76,17 +77,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://kickscrew.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-05-07T00:00:00Z"
     },
     {
       "code": "BUY10",
@@ -207,7 +210,7 @@
       ],
       "url": "https://kickscrew.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -229,7 +232,7 @@
       ],
       "url": "https://kickscrew.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -252,7 +255,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/kickscrew.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -296,7 +299,7 @@
       ],
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -318,7 +321,7 @@
       ],
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -358,7 +361,7 @@
       ],
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -398,7 +401,7 @@
       ],
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -419,13 +422,14 @@
       ],
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-09-23T00:00:00Z"
     },
     {
       "code": "ELCADZ15",
@@ -448,6 +452,28 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "BWALL15",
+      "description": "Exclusive 15% Off at KicksCrew",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kickscrew.com",
+      "addedAt": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-04-29T00:00:00Z"
     }
   ]
 }
