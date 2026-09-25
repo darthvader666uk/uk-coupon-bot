@@ -147,6 +147,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-21T00:00:00Z"
+    },
+    {
+      "code": "TREAT15",
+      "description": "15% off orders at Gorgeous Shop",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/gorgeous-shop-discount-codes",
+      "addedAt": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
