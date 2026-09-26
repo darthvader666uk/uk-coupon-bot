@@ -52,16 +52,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.savoo.co.uk/brands/omio-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "SEPTRAVEL10",
@@ -98,7 +100,7 @@
       ],
       "url": "https://www.coupert.com/store/omio.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -120,7 +122,7 @@
       ],
       "url": "https://www.coupert.com/store/omio.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -142,7 +144,7 @@
       ],
       "url": "https://www.coupert.com/store/omio.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -182,11 +184,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/omio.co.uk",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -208,7 +211,7 @@
       ],
       "url": "https://www.coupert.com/store/omio.co.uk",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -230,7 +233,7 @@
       ],
       "url": "https://www.coupert.com/store/omio.co.uk",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -238,6 +241,300 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-22T00:00:00Z"
+    },
+    {
+      "code": "OMIOJP12",
+      "description": "12% off",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HELLO2026",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JAN26",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "OMIOASIA25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "OMIO10NEW",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HXGOKMP2",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "OMIOBF15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MAGIC20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAILAWAY10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SEP20",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAVE40",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "OFFER20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "RMDTO5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NYON40",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://omio.knoji.com/",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

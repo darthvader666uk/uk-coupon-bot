@@ -76,7 +76,7 @@
       ],
       "url": "https://www.coupert.com/store/cruisenation.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -98,14 +98,14 @@
       ],
       "url": "https://www.coupert.com/store/cruisenation.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
       "code": "MSC2145834C",
@@ -120,12 +120,14 @@
       ],
       "url": "https://www.coupert.com/store/cruisenation.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
       "code": "VIR50G",
@@ -140,7 +142,7 @@
       ],
       "url": "https://www.coupert.com/store/cruisenation.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -180,7 +182,7 @@
       ],
       "url": "https://www.coupert.com/store/cruisenation.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -202,12 +204,14 @@
       ],
       "url": "https://www.coupert.com/store/cruisenation.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
       "code": "BHA100",
@@ -222,7 +226,49 @@
       ],
       "url": "https://www.coupert.com/store/cruisenation.com",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HALMED100",
+      "description": "Extra Benefits with This Cruise Nation Promo Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cruisenation.com",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "code": "BHA25",
+      "description": "Cruise Nation Coupon: Save £25",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/cruisenation.com",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -1,0 +1,27 @@
+{
+  "domain": "lor.co.uk",
+  "name": "Lor",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ROUTINE30",
+      "description": "30% off orders over £25 at L'OR",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lor-discount-codes",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -525,6 +525,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "NEW25",
+      "description": "New Customers: 25% off First order at iHerb",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/iherb-promo-codes",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MYAPP25",
+      "description": "25% off First App order at iHerb",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/iherb-promo-codes",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

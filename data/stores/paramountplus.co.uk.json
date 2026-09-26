@@ -443,6 +443,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "EASTER20",
+      "description": "Easter Sale: Extra 20% off Plans at Paramount+",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/paramountplus-discount-codes",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

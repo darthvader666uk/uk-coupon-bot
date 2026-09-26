@@ -1,0 +1,27 @@
+{
+  "domain": "blinds2go.co.uk",
+  "name": "Blinds2go",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EMAIL5",
+      "description": "5% off orders at Blinds2go",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/blinds2go-discount-codes",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

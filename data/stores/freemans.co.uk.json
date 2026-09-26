@@ -1,0 +1,27 @@
+{
+  "domain": "freemans.co.uk",
+  "name": "Freemans",
+  "category": "general",
+  "codes": [
+    {
+      "code": "J9UP",
+      "description": "10% off orders over £75 at Freemans",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 75,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/freemans-discount-codes",
+      "addedAt": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

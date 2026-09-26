@@ -222,26 +222,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "HELLO20",
-      "description": "Redeem this coupon code at checkout and get a 20% discount on full-price items.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/vertbaudet.co.uk",
-      "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
