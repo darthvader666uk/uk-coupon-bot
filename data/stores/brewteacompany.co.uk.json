@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/brewteacompany.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -84,6 +84,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "EVERGREEN",
+      "description": "Deduct 10% from your purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/brewteacompany.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
     }
   ]
 }

@@ -16,7 +16,7 @@
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -36,7 +36,7 @@
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -56,7 +56,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -76,7 +76,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -96,7 +96,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -116,7 +116,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=4",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -136,14 +136,14 @@
       ],
       "url": "https://www.coupert.com/store/gameseal.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-01T00:00:00Z"
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
     },
     {
       "code": "SEAL18ISIC",
@@ -158,14 +158,14 @@
       ],
       "url": "https://www.coupert.com/store/gameseal.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
     },
     {
       "code": "SEAL17DLC",
@@ -180,14 +180,58 @@
       ],
       "url": "https://www.coupert.com/store/gameseal.com",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
+    },
+    {
+      "code": "SEAL17CDK",
+      "description": "Recently saved $11.24",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/gameseal.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
+    },
+    {
+      "code": "SEAL10CHEESE",
+      "description": "Recently saved $6.61",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/gameseal.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
     }
   ]
 }

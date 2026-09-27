@@ -16,7 +16,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -58,7 +58,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -98,14 +98,14 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-28T00:00:00Z"
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
     },
     {
       "code": "PCFIRST69",
@@ -120,12 +120,14 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
       "code": "PAYDAY40",
@@ -140,7 +142,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -272,7 +274,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -280,6 +282,72 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "code": "LAUNCH30",
+      "description": "15% Off at Phlo Clinic with Coupon",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/phloclinic.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
+    },
+    {
+      "code": "NEW45",
+      "description": "Use Phlo Clinic Coupon for Exclusive Deals and Offers",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/phloclinic.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
+    },
+    {
+      "code": "PCLOVEVOUCHER",
+      "description": "25% Off at Phlo Clinic with Promo Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/phloclinic.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
     }
   ]
 }

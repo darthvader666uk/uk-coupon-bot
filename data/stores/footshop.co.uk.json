@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/footshop-promo-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -36,7 +36,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/footshop-promo-codes",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -359,7 +359,7 @@
       "verified": false
     },
     {
-      "code": "FIRST10",
+      "code": "NOTHINGLEFTBEHIND",
       "description": "",
       "type": "unknown",
       "value": null,
@@ -380,25 +380,24 @@
       "verified": false
     },
     {
-      "code": "NOTHINGLEFTBEHIND",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "SAVOO13UK",
+      "description": "Exclusive 13% off orders at Footshop",
+      "type": "percentage",
+      "value": 13,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "savoo",
       "sources": [
-        "knoji"
+        "savoo"
       ],
-      "url": "https://footshop.knoji.com/",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "url": "https://www.savoo.co.uk/brands/footshop-promo-codes",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

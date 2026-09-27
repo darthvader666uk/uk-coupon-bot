@@ -12,11 +12,74 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/campbells-meat-discount-codes",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "STOLT15",
+      "description": "15% Off £30+ Orders",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/campbellsmeat.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "code": "FREEHAM",
+      "description": "Free Deli Meat on Orders Over £30",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/campbellsmeat.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JULY15",
+      "description": "Summer Meat Box Savings with code!",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/campbellsmeat.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,

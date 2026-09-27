@@ -12,16 +12,19 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/?page=4",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
     },
     {
       "code": "EMAIL25",
@@ -64,6 +67,94 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "code": "GOCDKEYS12",
+      "description": "Grab 15% OFF sitewide with this limited-time Promo Code before it expires",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hrkgame.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
+    },
+    {
+      "code": "ALLKEYSHOP12",
+      "description": "Grab 12% Off Coupon Code On Your Products",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hrkgame.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
+    },
+    {
+      "code": "DLC12",
+      "description": "Get 12% Off Sitewide on Everything You Need",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hrkgame.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
+    },
+    {
+      "code": "KEYSFORGAMES",
+      "description": "HRK Game coupon code - grab 5% off your purchase today",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hrkgame.com",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
     }
   ]
 }

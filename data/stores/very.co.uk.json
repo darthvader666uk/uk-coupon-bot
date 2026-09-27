@@ -784,26 +784,6 @@
       }
     },
     {
-      "code": "TREAT10",
-      "description": "Enjoy a Discount of £10 with Very Discount Code",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/very",
-      "addedAt": "2026-09-25T12:52:04.595Z",
-      "lastSeen": "2026-09-25T12:52:04.595Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "NIKE20",
       "description": "Take 20% off using Very Discount Code",
       "type": "percentage",
@@ -817,26 +797,6 @@
       "url": "https://uk.coupert.com/promo-code/very",
       "addedAt": "2026-09-25T12:52:04.595Z",
       "lastSeen": "2026-09-25T12:52:04.595Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME",
-      "description": "30% Off First Order at Very for New Users with Discount Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/very",
-      "addedAt": "2026-09-26T12:19:41.223Z",
-      "lastSeen": "2026-09-26T12:19:41.223Z",
       "testResults": {
         "total": 0,
         "worked": 0,

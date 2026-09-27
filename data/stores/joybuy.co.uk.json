@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-23T00:00:00Z"
+      "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
       "code": "RCY5KD",
@@ -38,12 +38,14 @@
       ],
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-23T00:00:00Z"
     },
     {
       "code": "JIMMYJOY90G",
@@ -78,7 +80,7 @@
       ],
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -120,14 +122,14 @@
       ],
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-23T00:00:00Z"
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
     },
     {
       "code": "JUL26COSY",
@@ -142,7 +144,7 @@
       ],
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -204,7 +206,7 @@
       ],
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -267,6 +269,108 @@
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-23T10:34:34.457Z",
       "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "UKN3NEST",
+      "description": "10% Off Joybuy Coupon on Your Purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/joybuy.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
+    },
+    {
+      "code": "SK1XAL",
+      "description": "£3 off First Orders Over £10 at Joybuy",
+      "type": "fixed",
+      "value": 3,
+      "minSpend": 10,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/joybuy.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "J6ZVYR",
+      "description": "£3 off First App Orders Over £10 at Joybuy",
+      "type": "fixed",
+      "value": 3,
+      "minSpend": 10,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/joybuy.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "21BR8O",
+      "description": "£3 off Orders Over £10 at Joybuy",
+      "type": "fixed",
+      "value": 3,
+      "minSpend": 10,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/joybuy.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JIMMYJOY90K",
+      "description": "Great savings on your order at joybuy.co.uk",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/joybuy.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
       "testResults": {
         "total": 0,
         "worked": 0,
