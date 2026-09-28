@@ -1,0 +1,47 @@
+{
+  "domain": "shop.qpr.co.uk",
+  "name": "QPR",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FALL15",
+      "description": "15% Off First Order at QPR for New Users with Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qpr",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "QVGSJE15",
+      "description": "15% Off First Order at QPR for New Users with Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qpr",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

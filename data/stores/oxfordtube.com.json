@@ -1,0 +1,27 @@
+{
+  "domain": "oxfordtube.com",
+  "name": "Oxford Tube",
+  "category": "general",
+  "codes": [
+    {
+      "code": "TUBER10",
+      "description": "10% off purchases through the official Oxford Tube app",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/oxford-tube",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

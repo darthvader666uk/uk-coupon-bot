@@ -1,0 +1,27 @@
+{
+  "domain": "ukbullion.com",
+  "name": "UK Bullion",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME£10",
+      "description": "Receive 10% Off with Newsletter Signup - Exclusive Offer",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/uk-bullion",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

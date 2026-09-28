@@ -1,0 +1,27 @@
+{
+  "domain": "sausageandciderfest.co.uk",
+  "name": "Sausage And Cider Fest",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WEEKEND",
+      "description": "Weekend Tickets for Only £10",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/sausageandciderfest-co-uk",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

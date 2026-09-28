@@ -115,28 +115,6 @@
       }
     },
     {
-      "code": "THANKS10",
-      "description": "10% Off at World of Books with This Exclusive Coupon",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/worldofbooks.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
-    },
-    {
       "code": "PRELOVED",
       "description": "10% off Orders at World Of Books",
       "type": "percentage",
@@ -1086,28 +1064,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FREESHIPPING",
-      "description": "Free Delivery on £10+ Orders",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": 10,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/worldofbooks.com",
-      "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-15T00:00:00Z"
     }
   ]
 }

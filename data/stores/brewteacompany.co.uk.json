@@ -66,26 +66,6 @@
       }
     },
     {
-      "code": "CHECKMATE15",
-      "description": "Get 15% off your cart when using Checkmate",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/brewteacompany.co.uk",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "EVERGREEN",
       "description": "Deduct 10% from your purchase",
       "type": "percentage",

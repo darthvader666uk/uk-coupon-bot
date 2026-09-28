@@ -1,0 +1,47 @@
+{
+  "domain": "quiltdirect.co.uk",
+  "name": "Quilt Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FREEGIFT24",
+      "description": "Copy the code to get 100% off your order",
+      "type": "percentage",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quilt-direct",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "QUILTDIRECT",
+      "description": "£2 Off Festival of Quilts Admission Tickets",
+      "type": "fixed",
+      "value": 2,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quilt-direct",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

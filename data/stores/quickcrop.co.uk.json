@@ -1,0 +1,27 @@
+{
+  "domain": "quickcrop.co.uk",
+  "name": "Quickcrop",
+  "category": "general",
+  "codes": [
+    {
+      "code": "MIRENDA10",
+      "description": "Deal of the Day: Take 10% Off All Items in Stock",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quickcrop",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

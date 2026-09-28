@@ -4,27 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "TAKE5",
-      "description": "£5 off orders over £100 at Castlegate Lights",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "caramel"
-      ],
-      "url": "https://www.savoo.co.uk/brands/castlegate-lights-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "EASYFIT15",
       "description": "15% off Easyfit at Castlegate Lights",
       "type": "percentage",
@@ -566,28 +545,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE40",
-      "description": "When entering this Castlegate Lights voucher code, you can save £40 on £300 total orders.",
-      "type": "fixed",
-      "value": 40,
-      "minSpend": 300,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/castlegatelights.co.uk",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "domain": "setyres.com",
+  "name": "Setyres",
+  "category": "general",
+  "codes": [
+    {
+      "code": "THANKYOU10",
+      "description": "Enjoy 10% off your order for a limited time only",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/setyres-discount",
+      "addedAt": "2026-09-28T13:19:16.812Z",
+      "lastSeen": "2026-09-28T13:19:16.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
