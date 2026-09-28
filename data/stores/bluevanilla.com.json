@@ -207,7 +207,6 @@
       "lastWorkedAt": "2026-09-28T00:00:00Z"
     },
     {
-<<<<<<< Updated upstream
       "code": "THANKS10",
       "description": "6% off",
       "type": "percentage",
@@ -231,32 +230,6 @@
       "lastWorkedAt": "2026-09-26T00:00:00Z"
     },
     {
-||||||| Stash base
-      "code": "THANKS10",
-      "description": "6% off",
-      "type": "percentage",
-      "value": 6,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://bluevanilla.knoji.com/",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-26T00:00:00Z"
-    },
-    {
-=======
->>>>>>> Stashed changes
       "code": "BACK10",
       "description": "10% off",
       "type": "percentage",

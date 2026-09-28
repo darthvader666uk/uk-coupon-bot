@@ -160,14 +160,16 @@ jobs:
         run: |
           git config user.name "coupon-bot[bot]"
           git config user.email "coupon-bot[bot]@users.noreply.github.com"
-          git stash --include-untracked
-          git pull --rebase origin main
-          git stash pop || true
+          # Commit first, then rebase onto anything pushed meanwhile. The old
+          # stash / pull / `stash pop || true` committed conflict markers
+          # into 75 data files on 2026-09-28; a conflict now fails the job
+          # with nothing pushed.
           git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json \
                   data/knoji-probes.json scraper/lib/domain-corrections.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "🎟 Auto-scrape $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash origin main
             git push
           fi

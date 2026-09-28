@@ -89,6 +89,27 @@
       "verified": true
     },
     {
+      "code": "TAKE5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wilko.knoji.com/",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
       "code": "DOOR10",
       "description": "10% off",
       "type": "percentage",
@@ -363,6 +384,27 @@
     },
     {
       "code": "LMKOL10P",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wilko.knoji.com/",
+      "addedAt": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "JULY15",
       "description": "",
       "type": "unknown",
       "value": null,

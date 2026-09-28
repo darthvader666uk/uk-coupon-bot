@@ -124,6 +124,26 @@
       }
     },
     {
+      "code": "CHECKMATE11",
+      "description": "Get 11% off your cart when using Checkmate",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jewson.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
       "code": "NHS10",
       "description": "Enjoy 10% Off NHS Discount",
       "type": "percentage",

@@ -46,6 +46,26 @@
       }
     },
     {
+      "code": "TAKE5",
+      "description": "£5 off orders over £50 at Bodykind",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/bodykind-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
       "code": "SHOP10",
       "description": "10% off",
       "type": "percentage",
@@ -445,7 +465,6 @@
       "verified": false
     },
     {
-<<<<<<< Updated upstream
       "code": "LOVE20",
       "description": "20% off",
       "type": "percentage",
@@ -467,30 +486,6 @@
       "verified": true
     },
     {
-||||||| Stash base
-      "code": "LOVE20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bodykind.knoji.com/",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-=======
->>>>>>> Stashed changes
       "code": "CARE20",
       "description": "20% off",
       "type": "percentage",

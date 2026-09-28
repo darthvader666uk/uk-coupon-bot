@@ -1308,7 +1308,6 @@
         "worked": 0,
         "lastTested": null
       }
-<<<<<<< Updated upstream
     },
     {
       "code": "EXTRA5",
@@ -1349,29 +1348,6 @@
         "worked": 0,
         "lastTested": null
       }
-||||||| Stash base
-    },
-    {
-      "code": "EXTRA25",
-      "description": "25% Off Storewide at Debenhams",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/debenhams.com",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-=======
->>>>>>> Stashed changes
     }
   ]
 }

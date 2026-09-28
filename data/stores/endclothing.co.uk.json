@@ -202,7 +202,6 @@
         "worked": 0,
         "lastTested": null
       }
-<<<<<<< Updated upstream
     },
     {
       "code": "AUTUMN15",
@@ -223,49 +222,6 @@
         "worked": 0,
         "lastTested": null
       }
-||||||| Stash base
-    },
-    {
-      "code": "BLACKFRIDAY",
-      "description": "Take 25% off select items this black friday early access by using this End Clothing code.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/endclothing.co.uk",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA25",
-      "description": "Take 25% off your order",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/endclothing.co.uk",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-=======
->>>>>>> Stashed changes
     }
   ]
 }

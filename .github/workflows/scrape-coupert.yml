@@ -53,25 +53,35 @@ jobs:
         working-directory: scraper
         run: npx playwright install chromium
 
-      # Runs the full pipeline for this one source: scrape, merge into the
-      # database, re-clean, and write the shards. The collapse guard in
-      # index.js refuses to save if the code count drops by half, so a blocked
-      # or empty scrape can't wipe anything.
-      - name: Scrape Coupert and merge
+      # Scrape to a file only. The scrape takes ~25 minutes, long enough for
+      # the cloud run to push in the meantime, and merging into the database
+      # checked out at the start then conflicted with it: on 2026-09-28 the
+      # stash pop failed, `|| true` hid it, and conflict markers were
+      # committed into 75 data files.
+      - name: Scrape Coupert
         working-directory: scraper
-        run: xvfb-run -a node index.js --source=coupert --no-push
+        run: xvfb-run -a node index.js --source=coupert --emit=artifacts/coupert.json
 
+      # Merge onto the newest database, as the merge job in scrape.yml does.
+      # The collapse guard in index.js refuses to save if the code count
+      # drops by half, so a blocked or empty scrape can't wipe anything.
+      - name: Merge onto latest main
+        run: |
+          git pull --rebase --autostash origin main
+          cd scraper && node index.js --merge-dir=artifacts --local --no-push
+
+      # Commit first, then rebase onto anything pushed during the merge. A
+      # conflict now fails the job with nothing pushed, rather than committing
+      # the markers.
       - name: Commit and push changes
         run: |
           git config user.name "coupon-bot[bot]"
           git config user.email "coupon-bot[bot]@users.noreply.github.com"
-          git stash --include-untracked
-          git pull --rebase origin main
-          git stash pop || true
           git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "🎟 Coupert scrape $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash origin main
             git push
           fi

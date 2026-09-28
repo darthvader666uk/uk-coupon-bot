@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "MAY10",
+      "description": "Extra 10% off Garden Furniture orders at Garden Trends",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/garden-trends-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

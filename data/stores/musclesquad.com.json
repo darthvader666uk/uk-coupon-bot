@@ -72,6 +72,28 @@
       "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
+      "code": "WINTER10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji",
+        "coupert"
+      ],
+      "url": "https://musclesquad.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
       "code": "CLEARANCE10",
       "description": "10% off",
       "type": "percentage",
@@ -427,6 +449,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FIRST50",
+      "description": "Save up to 50% on your orders",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/musclesquad.com",
+      "addedAt": "2026-09-25T10:47:14.050Z",
+      "lastSeen": "2026-09-25T10:47:14.050Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

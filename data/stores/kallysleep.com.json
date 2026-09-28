@@ -128,7 +128,6 @@
       "verified": true
     },
     {
-<<<<<<< Updated upstream
       "code": "TAKE5",
       "description": "5% off",
       "type": "percentage",
@@ -150,30 +149,6 @@
       "verified": true
     },
     {
-||||||| Stash base
-      "code": "TAKE5",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kallysleep.knoji.com/",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-=======
->>>>>>> Stashed changes
       "code": "ADDON5",
       "description": "5% off",
       "type": "percentage",

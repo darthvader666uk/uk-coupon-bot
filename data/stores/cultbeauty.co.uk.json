@@ -458,7 +458,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-19T00:00:00Z"
-<<<<<<< Updated upstream
     },
     {
       "code": "FIRST20",
@@ -501,31 +500,6 @@
         "worked": 0,
         "lastTested": null
       }
-||||||| Stash base
-    },
-    {
-      "code": "FIRST20",
-      "description": "Recently saved £199.90",
-      "type": "fixed",
-      "value": 199.9,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/cultbeauty.co.uk",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-02T00:00:00Z"
-=======
->>>>>>> Stashed changes
     }
   ]
 }

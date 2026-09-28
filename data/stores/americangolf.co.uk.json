@@ -242,7 +242,6 @@
         "worked": 0,
         "lastTested": null
       }
-<<<<<<< Updated upstream
     },
     {
       "code": "SAVE40",
@@ -263,29 +262,6 @@
         "worked": 0,
         "lastTested": null
       }
-||||||| Stash base
-    },
-    {
-      "code": "SAVE40",
-      "description": "Take £40 off when you spend £300 with this American Golf code.",
-      "type": "fixed",
-      "value": 40,
-      "minSpend": 300,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/americangolf.co.uk",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-=======
->>>>>>> Stashed changes
     }
   ]
 }

@@ -305,6 +305,27 @@
       "verified": true
     },
     {
+      "code": "JULY15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://greenmangaming.knoji.com/",
+      "addedAt": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-09-11T10:20:57.737Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
       "code": "NEW18",
       "description": "18% off",
       "type": "percentage",
@@ -390,7 +411,6 @@
       "verified": true
     },
     {
-<<<<<<< Updated upstream
       "code": "SEP15",
       "description": "15% Off Storewide (Members Only) at Green Man Gaming",
       "type": "percentage",
@@ -415,33 +435,6 @@
       "lastWorkedAt": "2026-09-27T00:00:00Z"
     },
     {
-||||||| Stash base
-      "code": "SEP15",
-      "description": "15% Off Storewide (Members Only) at Green Man Gaming",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "coupert",
-        "ggdeals"
-      ],
-      "url": "https://grabcaramel.com/coupons/greenmangaming.com",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
-    },
-    {
-=======
->>>>>>> Stashed changes
       "code": "GMGXPSEP",
       "description": "65% Off Your Order",
       "type": "percentage",
