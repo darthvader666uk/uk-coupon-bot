@@ -12,12 +12,26 @@
  * Target: https://uk.coupert.com/promo-code/{slug}
  */
 import { isValidCode, guessType, launchHeadfulBrowser } from "../lib/playwright-base.js";
+import { canonicalDomain } from "../lib/stores.js";
+import { selectSlice } from "./savoo.js";
 
 const BASE_URL = "https://uk.coupert.com/promo-code";
+/** Lists ~2,600 store pages (2026-09-28); the scraper used to visit 20. */
+const DIRECTORY_URL = "https://uk.coupert.com/stores";
+/**
+ * Directory stores per run, on the same rotating slice Savoo uses, so the
+ * whole directory is covered every four days. A store took ~2.5s including
+ * the pacing below when measured on 2026-09-28, so 600 is ~25 minutes on the
+ * self-hosted runner, which costs nothing to keep busy.
+ */
+export const STORES_PER_RUN = 600;
+/** Stop starting new stores after this, so a slow night still gets committed. */
+const RUN_DEADLINE_MS = 55 * 60 * 1000;
 
 /**
- * Stores to scrape, as Coupert URL slugs. Gaming key resellers first — they
- * rotate codes constantly and are the ones other sources cover worst.
+ * Stores scraped on every run, as Coupert URL slugs, ahead of the directory
+ * slice. Gaming key resellers first — they rotate codes constantly and are
+ * the ones other sources cover worst.
  */
 export const STORES = [
   // Verified live against uk.coupert.com. Plausible-looking slugs that simply
@@ -88,6 +102,42 @@ export function slugToDomain(slug) {
   if (slug.endsWith("-gg")) return `${slug.slice(0, -3).replace(/-/g, "")}.gg`;
   if (slug.endsWith("-uk")) return `${slug.slice(0, -3).replace(/-/g, "")}.co.uk`;
   return `${slug.replace(/-/g, "")}.co.uk`;
+}
+
+/**
+ * Runs inside the page. Each store page's JSON-LD names the merchant as an
+ * Organization with its real URL (`@graph[0].mainEntity`), which beats
+ * guessing from the slug: only ~730 of the directory's 2,600 slugs carry a
+ * TLD at all.
+ *
+ * @returns {{url: string, name: string}|null}
+ */
+export function collectMerchant() {
+  let found = null;
+  const walk = (o) => {
+    if (found || !o || typeof o !== "object") return;
+    if (o["@type"] === "Organization" && typeof o.url === "string" && !/coupert\.com/i.test(o.url)) {
+      found = { url: o.url, name: typeof o.name === "string" ? o.name : "" };
+      return;
+    }
+    Object.values(o).forEach(walk);
+  };
+  for (const s of document.querySelectorAll('script[type="application/ld+json"]')) {
+    try { walk(JSON.parse(s.textContent)); } catch { /* malformed block, try the next */ }
+  }
+  return found;
+}
+
+/**
+ * Store domain for a slug: the hand-checked map first, then the merchant URL
+ * from the page, then the slug guess.
+ */
+export function storeDomainFor(slug, merchantUrl) {
+  if (DOMAIN_MAP[slug]) return DOMAIN_MAP[slug];
+  try {
+    if (merchantUrl) return canonicalDomain(new URL(merchantUrl).hostname);
+  } catch { /* not a URL, fall through */ }
+  return slugToDomain(slug);
 }
 
 function cleanStoreName(slug) {
@@ -190,9 +240,7 @@ export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
   const errors = [];
-  const storeList = stores || STORES;
-
-  console.log(`[Coupert] Scraping ${storeList.length} stores (headful Playwright)…`);
+  let storeList = stores || STORES;
 
   let browser;
   try {
@@ -268,8 +316,9 @@ export async function scrape(stores = null) {
 
       const cards = await page.evaluate(collectCards);
       const offers = normaliseOffers(cards);
-      const storeDomain = slugToDomain(slug);
-      const storeName = cleanStoreName(slug);
+      const merchant = await page.evaluate(collectMerchant).catch(() => null);
+      const storeDomain = storeDomainFor(slug, merchant?.url);
+      const storeName = merchant?.name || cleanStoreName(slug);
 
       for (const offer of offers) {
         entries.push({
@@ -312,7 +361,40 @@ export async function scrape(stores = null) {
   let consecutiveFailures = 0;
   let anySuccess = false;
 
+  /*
+   * The directory page also sits behind Cloudflare, so it gets the same wait
+   * for the interstitial. If it can't be read the run falls back to the
+   * pinned stores alone, which is what every run did before.
+   */
+  if (!stores) {
+    try {
+      page = await getPage();
+      // The first request in a fresh context is challenged and stays that way
+      // on that page, but earns the cookie that lets the next one through,
+      // the same reason stores are retried at the end. So load it up to three
+      // times rather than once.
+      for (let attempt = 1; attempt <= 3; attempt++) {
+        await page.goto(DIRECTORY_URL, { waitUntil: "domcontentloaded", timeout: 45000 });
+        const listed = await page.waitForSelector('a[href*="/promo-code/"]', { timeout: 20000 }).catch(() => null);
+        if (listed) break;
+        if (attempt === 3) throw new Error(`still "${await page.title().catch(() => "")}" after 3 loads`);
+      }
+      const slugs = await page.$$eval('a[href*="/promo-code/"]', (as) =>
+        as.map((a) => /\/promo-code\/([a-z0-9-]+)\/?$/.exec(new URL(a.href).pathname)?.[1]).filter(Boolean));
+      const rest = [...new Set(slugs)].filter((s) => !STORES.includes(s)).sort();
+      console.log(`[Coupert] Directory lists ${rest.length} stores beyond the ${STORES.length} pinned`);
+      storeList = [...STORES, ...selectSlice(rest, STORES_PER_RUN)];
+    } catch (err) {
+      console.log(`[Coupert] Directory unavailable (${err.message.split("\n")[0]}) — pinned stores only`);
+    }
+  }
+  console.log(`[Coupert] Scraping ${storeList.length} stores (headful Playwright)…`);
+
   for (const slug of storeList) {
+    if (Date.now() - start > RUN_DEADLINE_MS) {
+      console.log(`[Coupert] Deadline reached — stopping with ${storeList.length - storeList.indexOf(slug)} stores unvisited`);
+      break;
+    }
     const before = entries.length;
     await scrapeStore(slug, false);
     // Pace the requests. Twenty back-to-back loads tripped Cloudflare from
@@ -336,6 +418,7 @@ export async function scrape(stores = null) {
   if (failed.length) {
     console.log(`[Coupert] Retrying ${failed.length} store(s) now clearance is established…`);
     for (const slug of failed) {
+      if (Date.now() - start > RUN_DEADLINE_MS) break;
       await scrapeStore(slug, true);
       await new Promise((r) => setTimeout(r, 3000));
     }

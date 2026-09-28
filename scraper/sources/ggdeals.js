@@ -13,7 +13,12 @@
 import { launchHeadfulBrowser } from "../lib/playwright-base.js";
 
 const BASE_URL = "https://gg.deals/vouchers/";
+/**
+ * Used when page 1's pagination can't be read. The real count is taken from
+ * the page (it was 6 on 2026-09-28 while this said 5), capped at MAX_PAGES.
+ */
 const TOTAL_PAGES = 5;
+const MAX_PAGES = 15;
 
 const GAMING_STORES = {
   "Driffle": "driffle.com",
@@ -108,15 +113,20 @@ export async function scrape() {
     Object.defineProperty(navigator, "webdriver", { get: () => undefined });
   });
 
-  console.log(`[GGdeals] Scraping ${TOTAL_PAGES} pages…`);
-
-  for (let pageNum = 1; pageNum <= TOTAL_PAGES; pageNum++) {
+  let totalPages = TOTAL_PAGES;
+  for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
     const url = pageNum === 1 ? BASE_URL : `${BASE_URL}?page=${pageNum}`;
     let page;
     try {
       page = await context.newPage();
       await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45000 });
       await page.waitForSelector(".voucher-item", { timeout: 20000 });
+      if (pageNum === 1) {
+        const last = await page.$$eval("a[href*='page=']", (as) =>
+          Math.max(0, ...as.map((a) => +new URL(a.href).searchParams.get("page") || 0)));
+        if (last) totalPages = Math.min(last, MAX_PAGES);
+        console.log(`[GGdeals] Scraping ${totalPages} pages…`);
+      }
 
       const vouchers = await page.evaluate(collectVouchers);
       for (const v of vouchers) {

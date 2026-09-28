@@ -20,7 +20,7 @@ import {
 import { writeShards } from "../lib/shard.js";
 import { normaliseOffers, slugToDomain } from "../sources/coupert.js";
 import { extractDomain } from "../sources/savoo.js";
-import { selectTargets, SUBDOMAIN_OVERRIDES, storeKey } from "../sources/knoji.js";
+import { selectTargets, SUBDOMAIN_OVERRIDES, storeKey, STORES_PER_RUN as KNOJI_PER_RUN } from "../sources/knoji.js";
 import { belongsToStore } from "../lib/attribution.js";
 import { isEmptyScrape, hasCollapsed } from "../lib/guards.js";
 import { fileURLToPath } from "url";
@@ -449,14 +449,14 @@ console.log("\nRefusing to save");
 
 console.log("\nKnoji target selection");
 {
-  // Discovery is capped at a third of the run, so an override queueing behind
+  // Discovery used to be capped at a third of the run, so an override queueing behind
   // 900 guesses never got probed. B&Q sat unreachable for exactly that reason.
   const many = Array.from({ length: 900 }, (_, i) => `store${i}.co.uk`);
   const targets = selectTargets(many, {});
   check("override is probed despite 900 competing stores",
     targets.some((t) => t.subdomain === "bq"));
   check("override is taken first", targets[0]?.subdomain === "bq");
-  check("per-run cap still respected", targets.length <= 120, `${targets.length} targets`);
+  check("per-run cap still respected", targets.length <= KNOJI_PER_RUN, `${targets.length} targets`);
 
   // A store confirmed absent from Knoji still costs one request a month, not
   // one a night — the pin must not defeat the miss cache.

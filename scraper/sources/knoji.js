@@ -33,8 +33,12 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_FILE = join(__dirname, "..", "..", "data", "knoji-probes.json");
 /** How long to trust a "this store isn't on Knoji" result before retrying. */
 const MISS_TTL_MS = 30 * 24 * 60 * 60 * 1000;
-/** Cap per run so this can't dominate the nightly job. */
-export const STORES_PER_RUN = 120;
+/**
+ * Cap per run so this can't dominate the nightly job. 120 took 5 minutes on
+ * 2026-09-27 while Caramel took 27, so 400 still finishes well before the
+ * merge job is waiting on anything else.
+ */
+export const STORES_PER_RUN = 400;
 
 /**
  * Canonical domain -> Knoji subdomain, for the stores where stripping the
@@ -118,7 +122,10 @@ export function selectTargets(knownDomains, cache, perRun = STORES_PER_RUN, now 
   }
 
   const budget = Math.max(0, perRun - pinned.length);
-  const discoverBudget = Math.max(1, Math.floor(budget / 3));
+  // A third is the floor, not the ceiling: slots refresh can't use go to
+  // discovery too, or with ~130 known hits most of the run sat idle while 750
+  // stores waited to be probed.
+  const discoverBudget = Math.max(1, Math.floor(budget / 3), budget - refresh.length);
   const taken = discover.slice(0, discoverBudget);
   return [...pinned, ...refresh.slice(0, budget - taken.length), ...taken];
 }
