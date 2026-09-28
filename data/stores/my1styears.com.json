@@ -17,7 +17,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/my-1st-years-discount-codes",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -55,11 +55,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/my1styears.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -333,11 +334,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/my1styears.com",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -398,6 +400,26 @@
       "url": "https://www.coupert.com/store/my1styears.com",
       "addedAt": "2026-09-27T11:05:01.975Z",
       "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GIFT20",
+      "description": "Spend and Save: £20 off Full-Priced orders over £80 at My 1st Years",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/my-1st-years-discount-codes",
+      "addedAt": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
         "worked": 0,

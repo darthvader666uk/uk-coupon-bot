@@ -1,0 +1,27 @@
+{
+  "domain": "lovedrobe.co.uk",
+  "name": "Lovedrobe",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FIRST10",
+      "description": "10% off First order at Lovedrobe",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lovedrobe-discount-codes",
+      "addedAt": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
