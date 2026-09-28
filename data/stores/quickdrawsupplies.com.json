@@ -1,0 +1,27 @@
+{
+  "domain": "quickdrawsupplies.com",
+  "name": "Quickdraw Supplies",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BR15",
+      "description": "Extra 15% discount on any purchase",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quickdraw-supplies",
+      "addedAt": "2026-09-28T16:07:36.446Z",
+      "lastSeen": "2026-09-28T16:07:36.446Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

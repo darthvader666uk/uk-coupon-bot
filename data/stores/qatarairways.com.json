@@ -1,0 +1,27 @@
+{
+  "domain": "qatarairways.com",
+  "name": "Qatar Airways",
+  "category": "general",
+  "codes": [
+    {
+      "code": "TAKE5",
+      "description": "Get up to 5% off on your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qatar-airways",
+      "addedAt": "2026-09-28T16:07:36.446Z",
+      "lastSeen": "2026-09-28T16:07:36.446Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

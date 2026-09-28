@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "TNG6OFF60",
+      "description": "Enjoy Sale: £6 Off",
+      "type": "fixed",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/toysngeek-co-uk",
+      "addedAt": "2026-09-28T16:07:36.446Z",
+      "lastSeen": "2026-09-28T16:07:36.446Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FUNKO10",
+      "description": "Enjoy a Special 10% Discount with Toys 'n' Geek Coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/toysngeek-co-uk",
+      "addedAt": "2026-09-28T16:07:36.446Z",
+      "lastSeen": "2026-09-28T16:07:36.446Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
