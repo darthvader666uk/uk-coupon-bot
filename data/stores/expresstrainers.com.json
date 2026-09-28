@@ -1103,6 +1103,7 @@
         "lastTested": null
       },
       "verified": false
+<<<<<<< Updated upstream
     },
     {
       "code": "JAG99",
@@ -1272,6 +1273,30 @@
         "lastTested": null
       },
       "verified": false
+||||||| Stash base
+    },
+    {
+      "code": "FALL15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://expresstrainers.knoji.com/",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+=======
+>>>>>>> Stashed changes
     }
   ]
 }

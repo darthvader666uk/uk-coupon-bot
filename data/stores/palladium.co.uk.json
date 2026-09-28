@@ -277,6 +277,7 @@
       "verified": true
     },
     {
+<<<<<<< Updated upstream
       "code": "COUPERT10",
       "description": "10% off",
       "type": "percentage",
@@ -298,6 +299,30 @@
       "verified": true
     },
     {
+||||||| Stash base
+      "code": "COUPERT10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://palladium.knoji.com/",
+      "addedAt": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+=======
+>>>>>>> Stashed changes
       "code": "4UFREEDEL",
       "description": "Free shipping",
       "type": "free_shipping",

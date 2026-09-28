@@ -85,6 +85,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "code": "WINTER10",
       "description": "Don't miss out on our last day of WINTER SALE! Save 10% site-wide with code WINTER10.",
       "type": "percentage",
@@ -105,6 +106,29 @@
       }
     },
     {
+||||||| Stash base
+      "code": "WINTER10",
+      "description": "Don't miss out on our last day of WINTER SALE! Save 10% site-wide with code WINTER10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/hotdiamonds.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+=======
+>>>>>>> Stashed changes
       "code": "EC10",
       "description": "Shout out to for sending through these beauties!! Use code EC10 for 10% off at",
       "type": "percentage",

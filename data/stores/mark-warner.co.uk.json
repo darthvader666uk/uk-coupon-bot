@@ -42,6 +42,7 @@
         "worked": 0,
         "lastTested": null
       }
+<<<<<<< Updated upstream
     },
     {
       "code": "MAY10",
@@ -62,6 +63,29 @@
         "worked": 0,
         "lastTested": null
       }
+||||||| Stash base
+    },
+    {
+      "code": "MAY10",
+      "description": "May Bank Holiday Flash Sale: 10% off Selected Summer 2026 Holidays at Mark Warner",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/mark-warner-discount-codes",
+      "addedAt": "2026-09-12T09:55:54.909Z",
+      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+=======
+>>>>>>> Stashed changes
     }
   ]
 }

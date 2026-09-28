@@ -1080,6 +1080,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/gamersgate.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
+<<<<<<< Updated upstream
       "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
@@ -1088,6 +1089,45 @@
       }
     },
     {
+||||||| Stash base
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUG15",
+      "description": "gamersgate.com coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamersgate.com",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+=======
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+>>>>>>> Stashed changes
       "code": "FMBROTHERHOOD",
       "description": "gamersgate.com coupon",
       "type": "percentage",
@@ -1520,6 +1560,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "code": "COUPERT10",
       "description": "10% Off Storewide at GamersGate",
       "type": "percentage",
@@ -1543,6 +1584,32 @@
       "lastWorkedAt": "2026-09-27T00:00:00Z"
     },
     {
+||||||| Stash base
+      "code": "COUPERT10",
+      "description": "10% Off Storewide at GamersGate",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel",
+        "coupert"
+      ],
+      "url": "https://grabcaramel.com/coupons/gamersgate.com",
+      "addedAt": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
+    },
+    {
+=======
+>>>>>>> Stashed changes
       "code": "DAVE2U",
       "description": "Simply enter this coupon code during checkout to get 15% off your select purchase.",
       "type": "percentage",

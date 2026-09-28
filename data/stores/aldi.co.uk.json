@@ -36,12 +36,48 @@
       ],
       "url": "https://grabcaramel.com/coupons/aldi.co.uk",
       "addedAt": "2026-09-24T10:42:02.864Z",
+<<<<<<< Updated upstream
       "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+||||||| Stash base
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREEDELIVERY",
+      "description": "Free Extra-Large Item Delivery on Select Products",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/aldi.co.uk",
+      "addedAt": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+=======
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+>>>>>>> Stashed changes
     }
   ]
 }

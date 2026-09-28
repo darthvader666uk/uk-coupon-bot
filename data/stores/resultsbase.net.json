@@ -1,0 +1,27 @@
+{
+  "domain": "resultsbase.net",
+  "name": "Results Base",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BANK5",
+      "description": "£5 Off Bank Holiday Special",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/results-base",
+      "addedAt": "2026-09-28T12:33:36.605Z",
+      "lastSeen": "2026-09-28T12:33:36.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

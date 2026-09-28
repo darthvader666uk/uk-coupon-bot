@@ -17,7 +17,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-07T12:13:14.338Z",
+<<<<<<< Updated upstream
       "lastSeen": "2026-09-28T12:17:26.677Z",
+||||||| Stash base
+      "lastSeen": "2026-09-28T09:12:17.245Z",
+=======
+      "lastSeen": "2026-09-28T12:33:36.605Z",
+>>>>>>> Stashed changes
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -60,7 +66,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-07T12:13:14.338Z",
+<<<<<<< Updated upstream
       "lastSeen": "2026-09-28T12:17:26.677Z",
+||||||| Stash base
+      "lastSeen": "2026-09-28T09:12:17.245Z",
+=======
+      "lastSeen": "2026-09-28T12:33:36.605Z",
+>>>>>>> Stashed changes
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -83,7 +95,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/electronic-first",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-28T09:12:17.245Z",
+      "lastSeen": "2026-09-28T12:33:36.605Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -861,26 +873,6 @@
       }
     },
     {
-      "code": "FIRST50",
-      "description": "Save up to 50% on your orders",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/electronicfirst.com",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-28T09:12:17.245Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "INSURANCE25",
       "description": "Recently saved $24.99",
       "type": "unknown",
@@ -1121,6 +1113,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-25T00:00:00Z"
+<<<<<<< Updated upstream
     },
     {
       "code": "SGEYUTUGJGD",
@@ -1297,6 +1290,29 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-27T00:00:00Z"
+||||||| Stash base
+    },
+    {
+      "code": "WELCOME10",
+      "description": "",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/electronic-first",
+      "addedAt": "2026-09-28T09:12:17.245Z",
+      "lastSeen": "2026-09-28T09:12:17.245Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+=======
+>>>>>>> Stashed changes
     }
   ]
 }

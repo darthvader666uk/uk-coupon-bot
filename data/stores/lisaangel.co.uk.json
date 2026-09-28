@@ -172,6 +172,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "code": "WINTER10",
       "description": "Shop the Winter Sale at Lisa Angel and use this coupon at checkout tot take an extra 10% off your purchase of homeware, personalized jewelry, gifts, and more.",
       "type": "percentage",
@@ -194,6 +195,31 @@
       "verified": true
     },
     {
+||||||| Stash base
+      "code": "WINTER10",
+      "description": "Shop the Winter Sale at Lisa Angel and use this coupon at checkout tot take an extra 10% off your purchase of homeware, personalized jewelry, gifts, and more.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel",
+        "knoji"
+      ],
+      "url": "https://grabcaramel.com/coupons/lisaangel.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+=======
+>>>>>>> Stashed changes
       "code": "LAEXTRA5",
       "description": "If you're a rewards member with Lisa Angel, you can use this promo code at checkout to get an extra 5% off your already discounted order of jewelry, homeware, personalized gifts, and other related",
       "type": "percentage",

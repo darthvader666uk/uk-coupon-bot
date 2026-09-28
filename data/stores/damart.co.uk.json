@@ -396,6 +396,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/damart.co.uk",
       "addedAt": "2026-09-18T10:23:42.347Z",
+<<<<<<< Updated upstream
       "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
@@ -404,6 +405,45 @@
       }
     },
     {
+||||||| Stash base
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WELCOME25",
+      "description": "Save 25% on lingerie, nightwear and more at Damart.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/damart.co.uk",
+      "addedAt": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+=======
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+>>>>>>> Stashed changes
       "code": "WRAPUP20",
       "description": "Enjoy £10 off new autumn styles when you purchase £30 or more at Damart.",
       "type": "fixed",

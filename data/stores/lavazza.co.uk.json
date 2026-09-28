@@ -80,6 +80,7 @@
       ],
       "url": "https://lavazza.knoji.com/",
       "addedAt": "2026-09-24T10:42:02.864Z",
+<<<<<<< Updated upstream
       "lastSeen": "2026-09-28T12:17:26.677Z",
       "testResults": {
         "total": 0,
@@ -89,6 +90,48 @@
       "verified": true
     },
     {
+||||||| Stash base
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "WELCOME25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://lavazza.knoji.com/",
+      "addedAt": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+=======
+      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+>>>>>>> Stashed changes
       "code": "SPIRIT24",
       "description": "Free gift",
       "type": "unknown",

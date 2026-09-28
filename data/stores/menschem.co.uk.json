@@ -66,6 +66,7 @@
       }
     },
     {
+<<<<<<< Updated upstream
       "code": "SEP15",
       "description": "Recently saved £7.35",
       "type": "fixed",
@@ -88,6 +89,53 @@
       "lastWorkedAt": "2026-09-21T00:00:00Z"
     },
     {
+||||||| Stash base
+      "code": "AUG15",
+      "description": "Recently saved £52.49",
+      "type": "fixed",
+      "value": 52.49,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/menschem.co.uk",
+      "addedAt": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "code": "SEP15",
+      "description": "Recently saved £7.35",
+      "type": "fixed",
+      "value": 7.35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/menschem.co.uk",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-21T00:00:00Z"
+    },
+    {
+=======
+>>>>>>> Stashed changes
       "code": "MEN10",
       "description": "10% Off Orders Over £40",
       "type": "percentage",
