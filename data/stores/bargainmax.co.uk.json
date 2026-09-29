@@ -32,16 +32,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.savoo.co.uk/brands/bargainmax.co.uk-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "BIKE10012",
@@ -72,16 +74,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/bargainmax.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "FB50",
@@ -97,7 +101,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/bargainmax.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -114,11 +118,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/bargainmax.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -137,11 +142,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/bargainmax.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -159,11 +165,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/bargainmax.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -181,11 +188,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/bargainmax.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -233,6 +241,279 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "PRAM10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "TRUETOYS10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CLEAR20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CLEAR10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SUNNY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HELLOAGAIN",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BOO20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BUILDER30",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HELLOSLOOMOO",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELCOME8T3BTT4V",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MDDISCO",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "JA2VYFTFAY62",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EMBDAYKBR324820",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bargainmax.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

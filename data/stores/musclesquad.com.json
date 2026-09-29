@@ -39,14 +39,14 @@
       ],
       "url": "https://musclesquad.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
+      "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
       "code": "WELCOME7",
@@ -62,14 +62,14 @@
       ],
       "url": "https://musclesquad.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
+      "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
       "code": "CLEARANCE10",
@@ -366,27 +366,6 @@
       "verified": false
     },
     {
-      "code": "EMAIL15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://musclesquad.knoji.com/",
-      "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "677P9GHCFTTRD4DSEEGMHDW",
       "description": "",
       "type": "unknown",
@@ -427,6 +406,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "WINTER10",
+      "description": "10% Off Everything for Winter Deals",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/musclesquad.com",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

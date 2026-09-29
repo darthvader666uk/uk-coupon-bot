@@ -32,16 +32,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/republicofcats.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "THELICKTASTER",
@@ -182,6 +184,132 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "EZIO50",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://republicofcats.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CHARLOTTE154",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://republicofcats.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MFF202025",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://republicofcats.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "PURECAT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://republicofcats.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "2HAPPYBOSTONS",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://republicofcats.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NEWCUSTOMER",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://republicofcats.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

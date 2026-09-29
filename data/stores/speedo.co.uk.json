@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.savoo.co.uk/brands/speedo-discount-codes",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
     },
     {
       "code": "SWIM25",
@@ -32,36 +34,480 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.savoo.co.uk/brands/speedo-discount-codes",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
-      "code": "SAVEMORE",
-      "description": "Exclusive £20 off £100 and £35 off orders over £175 at Speedo",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": 175,
+      "code": "10OUTLET",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
       "expiry": null,
-      "source": "savoo",
+      "source": "knoji",
       "sources": [
-        "savoo"
+        "knoji"
       ],
-      "url": "https://www.savoo.co.uk/brands/speedo-discount-codes",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
+    },
+    {
+      "code": "BKF6PEN20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "0XQD6E3H8TD63",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MILENAR5",
+      "description": "Free shipping",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "C3FG0YXBOGJ8G",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "RXBE69QALLK1F",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "AMBERRMJ",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MEMBER20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPEEDO20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRING30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRING25FS",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRING25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HONEY14",
+      "description": "14% off",
+      "type": "percentage",
+      "value": 14,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRINGBREAK",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "ARIAR10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPEEDO30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "VIPSAVE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "INSTRUCTOR25",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CS20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "COVIPPT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ANDREW20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "KAFTKOFAM10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://speedo.knoji.com/",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

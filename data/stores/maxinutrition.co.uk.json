@@ -526,6 +526,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FREESHAKER",
+      "description": "Free Shaker on orders over £40 at MaxiNutrition",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/maxinutrition-discount-codes",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

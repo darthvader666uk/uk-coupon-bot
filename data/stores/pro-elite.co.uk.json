@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "COUPERT10",
-      "description": "Take 10% off using Pro-Elite Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/pro-elite",
-      "addedAt": "2026-09-28T16:07:36.446Z",
-      "lastSeen": "2026-09-28T16:07:36.446Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "OMGSALE",
       "description": "Save £0.24 off with Pro-Elite Discount Codes",
       "type": "fixed",

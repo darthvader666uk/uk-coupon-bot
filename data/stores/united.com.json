@@ -72,11 +72,32 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://uk.coupert.com/promo-code/united-airlines",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-09-28T16:07:36.446Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FUNINSUN25",
+      "description": "Take up to 40% off 3+ night vacation packages when you purchase with a promo code on your cart at United Airlines.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/united.com",
+      "addedAt": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T12:01:38.582Z",
       "testResults": {
         "total": 0,
         "worked": 0,

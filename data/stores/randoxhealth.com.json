@@ -752,27 +752,6 @@
       "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
-      "code": "20OFF",
-      "description": "£20 off Selected orders at Randox Health",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "coupert"
-      ],
-      "url": "https://www.savoo.co.uk/brands/randox-health-discount-codes",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-28T13:19:16.812Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "HB10",
       "description": "Save 10% at Randox Health Today",
       "type": "percentage",
