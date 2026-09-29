@@ -1,0 +1,27 @@
+{
+  "domain": "1stairporttaxis.co.uk",
+  "name": "1ST Airport Taxis",
+  "category": "general",
+  "codes": [
+    {
+      "code": "1AT2025",
+      "description": "Apply 1ST Airport Taxis Discount Code to save £5 off",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/1stairporttaxis-co-uk",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

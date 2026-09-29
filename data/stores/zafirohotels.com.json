@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/zafiro-hotels-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -137,11 +138,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://zafirohotels.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -158,11 +160,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://zafirohotels.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -179,11 +182,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://zafirohotels.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -442,6 +446,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FEEDBACK",
+      "description": "Enjoy a 6% Discount with Exclusive Zafiro Hotels Promo Code",
+      "type": "percentage",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zafiro-hotels",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DISCOVERZAFIRO",
+      "description": "Apply Promo Code for savings at Zafiro Hotels",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zafiro-hotels",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "REPEATENJOY",
+      "description": "Use this Zafiro Hotels Promo Code for savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zafiro-hotels",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

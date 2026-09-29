@@ -1,0 +1,27 @@
+{
+  "domain": "3fatpigs.co.uk",
+  "name": "3 Fat Pigs",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FAT20WELCOME",
+      "description": "Get 20% Off Your Next Order Just for Signing Up",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/3-fat-pigs",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

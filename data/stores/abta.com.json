@@ -1,0 +1,27 @@
+{
+  "domain": "abta.com",
+  "name": "ABTA Travel Insurance",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ABTA15",
+      "description": "Exclusive Deal: Enjoy 15% Savings with ABTA Travel Insurance Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/abta-com",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

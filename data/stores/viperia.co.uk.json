@@ -1,0 +1,27 @@
+{
+  "domain": "viperia.co.uk",
+  "name": "Viperia",
+  "category": "general",
+  "codes": [
+    {
+      "code": "VIPERIA2",
+      "description": "Limited-Time Discount: Enjoy 10% Off All Items in the Store",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/viperia",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

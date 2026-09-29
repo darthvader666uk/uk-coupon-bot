@@ -1,0 +1,27 @@
+{
+  "domain": "wingie.co.uk",
+  "name": "Wingie",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WINGIE10",
+      "description": "Enjoy a Special 10% Discount with Wingie Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wingie-co-uk",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

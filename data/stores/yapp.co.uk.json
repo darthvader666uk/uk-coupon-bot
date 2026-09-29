@@ -1,0 +1,27 @@
+{
+  "domain": "yapp.co.uk",
+  "name": "Yapp Brothers",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CORSICA2026",
+      "description": "£20 Off Orders Over £100",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yapp-co-uk",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

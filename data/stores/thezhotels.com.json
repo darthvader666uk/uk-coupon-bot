@@ -1,0 +1,27 @@
+{
+  "domain": "thezhotels.com",
+  "name": "Z Hotels",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ZGLO10",
+      "description": "Save up to 10% on select items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/z-hotels",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

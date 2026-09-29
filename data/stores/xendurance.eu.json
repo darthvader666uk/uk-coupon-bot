@@ -1,0 +1,27 @@
+{
+  "domain": "xendurance.eu",
+  "name": "Xendurance",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DEADLY20",
+      "description": "20% Off First Order at Xendurance for New Users with Coupons",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xendurance",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

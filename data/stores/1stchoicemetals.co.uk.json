@@ -1,0 +1,27 @@
+{
+  "domain": "1stchoicemetals.co.uk",
+  "name": "1st Choice Metals",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NEW15",
+      "description": "Get 15% off or more - Limited stock",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/1stchoicemetals-co-uk",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

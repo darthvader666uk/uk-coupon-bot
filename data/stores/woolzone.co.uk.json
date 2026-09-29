@@ -1,0 +1,27 @@
+{
+  "domain": "woolzone.co.uk",
+  "name": "Wool Zone",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HOLIDAY10",
+      "description": "Claim 10% Off Select Items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wool-zone",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -242,26 +242,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FALL10",
-      "description": "Add this Claire's UK coupon code at checkout to save extra 10% off your entire purchase.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/claires.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

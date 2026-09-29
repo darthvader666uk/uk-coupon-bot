@@ -1,0 +1,27 @@
+{
+  "domain": "archies.com",
+  "name": "Archies",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ALWAYSREMEMBER",
+      "description": "archies.com Buy One, Get One Free On selected items",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/archies-discount",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

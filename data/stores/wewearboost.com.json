@@ -1,0 +1,27 @@
+{
+  "domain": "wewearboost.com",
+  "name": "We Wear Boost",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BUYTWO",
+      "description": "Discount via promo code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/we-wear-boost",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

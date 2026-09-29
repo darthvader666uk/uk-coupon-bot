@@ -1,0 +1,27 @@
+{
+  "domain": "w5online.co.uk",
+  "name": "W5",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HAPPY25",
+      "description": "Receive an additional 25% off your order",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/w5",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

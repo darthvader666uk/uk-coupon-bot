@@ -1,0 +1,27 @@
+{
+  "domain": "vinylwarehouse.co.uk",
+  "name": "Vinyl Warehouse",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SIANW10",
+      "description": "Unlock a 10% Discount with Vinyl Warehouse Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vinyl-warehouse",
+      "addedAt": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

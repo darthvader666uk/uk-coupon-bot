@@ -1083,52 +1083,10 @@
       }
     },
     {
-      "code": "FALL20",
-      "description": "20% Off Storewide at EMP UK",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/emp.co.uk",
-      "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BOLSTERS30",
       "description": "Exclusive 30% Off at EMP Mail Order UK Ltd",
       "type": "percentage",
       "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/emp.co.uk",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-26T00:00:00Z"
-    },
-    {
-      "code": "3FOR2",
-      "description": "Recently saved £1.4",
-      "type": "fixed",
-      "value": 1.4,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
