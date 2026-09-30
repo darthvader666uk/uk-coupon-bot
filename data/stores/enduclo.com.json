@@ -1,0 +1,47 @@
+{
+  "domain": "enduclo.com",
+  "name": "ENDU",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SMS20",
+      "description": "Get 20% off with ENDU Discount Codes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/endu",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW25",
+      "description": "Enjoy 25% off with ENDU Discount Codes",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/endu",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

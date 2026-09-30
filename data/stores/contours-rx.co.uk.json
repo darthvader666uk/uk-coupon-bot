@@ -1,0 +1,27 @@
+{
+  "domain": "contours-rx.co.uk",
+  "name": "Contours Rx",
+  "category": "general",
+  "codes": [
+    {
+      "code": "INDRE10",
+      "description": "10% Discount on a Select Offer",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/contours-rx",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

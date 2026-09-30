@@ -1,0 +1,27 @@
+{
+  "domain": "coffeekingdirect.com",
+  "name": "Coffee King",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CK24",
+      "description": "Apply Promo Codes to get 5% off at Coffee King",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/coffee-king",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

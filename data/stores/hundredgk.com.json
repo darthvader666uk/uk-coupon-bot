@@ -1,0 +1,27 @@
+{
+  "domain": "hundredgk.com",
+  "name": "Hundred",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CART10",
+      "description": "Save 10% on your order with Hundred Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hundred",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

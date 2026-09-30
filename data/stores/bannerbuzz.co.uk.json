@@ -66,28 +66,6 @@
       }
     },
     {
-      "code": "FIRSTORDER",
-      "description": "Take 20% off with promo code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/bannerbuzz.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "SHOW25",
       "description": "Receive up to 25% off your purchase using a coupon code on your cart.",
       "type": "percentage",
@@ -210,27 +188,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "HELLO20",
-      "description": "40% off",
-      "type": "percentage",
-      "value": 40,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bannerbuzz.knoji.com/",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     },
     {
       "code": "LDAY30",

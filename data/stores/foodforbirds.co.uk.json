@@ -1,0 +1,27 @@
+{
+  "domain": "foodforbirds.co.uk",
+  "name": "Food For Birds",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SPEND50",
+      "description": "Take 50% off using Food For Birds Discount Codes",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/foodforbirds-co-uk",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

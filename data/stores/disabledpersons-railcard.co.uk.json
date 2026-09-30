@@ -1,0 +1,27 @@
+{
+  "domain": "disabledpersons-railcard.co.uk",
+  "name": "Disabled Persons Railcard",
+  "category": "general",
+  "codes": [
+    {
+      "code": "RAIL5",
+      "description": "Get up to 5% off on your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/disabled-persons-railcard",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

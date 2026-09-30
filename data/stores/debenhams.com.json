@@ -1291,50 +1291,10 @@
       "lastWorkedAt": "2026-09-21T00:00:00Z"
     },
     {
-      "code": "HELLO20",
-      "description": "Save 20% on Whistles, Phase Eight, and Hobbs Use Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/debenhams.com",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SPEEDY",
       "description": "Half Price Next Day & Express Delivery",
       "type": "percentage",
       "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/debenhams.com",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Free Delivery on Every Purchase",
-      "type": "free_shipping",
-      "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

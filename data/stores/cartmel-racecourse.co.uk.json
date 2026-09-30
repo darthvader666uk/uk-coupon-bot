@@ -1,0 +1,27 @@
+{
+  "domain": "cartmel-racecourse.co.uk",
+  "name": "Cartmel Racecourse",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CARTMEL48",
+      "description": "£10 Off Paddock Tickets Flash Sale",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/cartmel-racecourse",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -202,26 +202,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "DISCOUNT5",
-      "description": "5% Off New customer order Jewson UK Promo code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jewson.co.uk",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

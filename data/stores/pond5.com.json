@@ -288,29 +288,6 @@
       }
     },
     {
-      "code": "HELLO20",
-      "description": "20% Off First Purchase",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/pond5.com",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
-    },
-    {
       "code": "SFX50",
       "description": "Pond5 Offer Code for a discount of up to 50% on Sound Effects",
       "type": "percentage",

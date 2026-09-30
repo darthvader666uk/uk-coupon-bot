@@ -1,0 +1,27 @@
+{
+  "domain": "dickies.eu",
+  "name": "Dickies",
+  "category": "general",
+  "codes": [
+    {
+      "code": "15DCKBLUK25",
+      "description": "Save 15% on your order with Dickies Discount Codes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dickies",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

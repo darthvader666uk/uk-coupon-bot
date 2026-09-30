@@ -1,0 +1,27 @@
+{
+  "domain": "shop.brentfordfc.com",
+  "name": "Brentford FC",
+  "category": "general",
+  "codes": [
+    {
+      "code": "STORIES50",
+      "description": "50% Off Before April 17th",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": "2027-04-17",
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/brentford-fc",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

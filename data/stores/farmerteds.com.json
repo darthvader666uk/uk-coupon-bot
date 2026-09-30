@@ -1,0 +1,27 @@
+{
+  "domain": "farmerteds.com",
+  "name": "Farmer Teds",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PUMPKIN20",
+      "description": "Up To 20% Off Is Available On Your Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/farmer-teds",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

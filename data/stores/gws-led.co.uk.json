@@ -1,0 +1,27 @@
+{
+  "domain": "gws-led.co.uk",
+  "name": "GWS LED",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FIRST10",
+      "description": "New User Discount - 10% Off First Purchase at GWS LED with Promo Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/gws-led",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

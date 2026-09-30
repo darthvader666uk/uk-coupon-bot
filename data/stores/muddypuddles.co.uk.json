@@ -173,27 +173,6 @@
       "verified": true
     },
     {
-      "code": "FIRSTORDER",
-      "description": "Free shipping",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://muddypuddles.knoji.com/",
-      "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "RAINYDAY",
       "description": "15% off",
       "type": "percentage",

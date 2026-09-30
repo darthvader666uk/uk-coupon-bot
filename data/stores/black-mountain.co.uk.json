@@ -1,0 +1,27 @@
+{
+  "domain": "black-mountain.co.uk",
+  "name": "Black Mountain",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BLACKMOUNTAIN10",
+      "description": "New Customers Get 10% Off First Order at Black Mountain with Promo Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/black-mountain",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

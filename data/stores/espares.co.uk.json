@@ -1,0 +1,27 @@
+{
+  "domain": "espares.co.uk",
+  "name": "ESpares",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AUGBH17",
+      "description": "Free Shipping on Any Order Over £20 at eSpares",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/espares",
+      "addedAt": "2026-09-30T14:25:47.257Z",
+      "lastSeen": "2026-09-30T14:25:47.257Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
