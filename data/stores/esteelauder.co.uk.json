@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "GOLDEN",
-      "description": "Spend £85+ on your cart and use this promo code on checkout to get a beauty gold with five luxurious makeup and skincare favourites.",
-      "type": "fixed",
-      "value": 85,
-      "minSpend": 85,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/esteelauder.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "THANKYOU1",
       "description": "Redeem this promo code at checkout and get free double wear zero smudge lengthening mascara on orders over £50.",
       "type": "fixed",
@@ -192,16 +172,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/esteelauder.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "BEAUTYSLEEP",
@@ -232,16 +214,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/esteelauder.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
     },
     {
       "code": "DREAMDUO",
@@ -282,6 +266,216 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SUMMERDUO",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "AERINDUO",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "YOURGIFT",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LIP30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "GLIMMER",
+      "description": "Free New Glimmer Eau De Parfum Spray Sample",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "80YEARS",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JUNEGIFT",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SERUM26",
+      "description": "Buy one get one free",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRINGSALE",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DVF26",
+      "description": "Free Limited Edition Makeup Bag On Any Estee Lauder X Diane Von Furstenberg Incharge Collection Purchase at Estee Lauder",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esteelauder.knoji.com/",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

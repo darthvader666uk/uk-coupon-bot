@@ -64,50 +64,10 @@
       }
     },
     {
-      "code": "FIRST10",
-      "description": "New User Discount - 10% Off First Purchase at Xplora with Promo Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/xplora",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "XPLOR15",
       "description": "15% Off Xplora Discount Codes – Limited Offer",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/xplora",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "AUTUMN",
-      "description": "Unlock Xplorauk Secret Discounts and Promo Codes",
-      "type": "unknown",
-      "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

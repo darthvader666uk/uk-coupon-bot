@@ -37,7 +37,7 @@
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -81,7 +81,7 @@
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -618,7 +618,7 @@
       ],
       "url": "https://www.coupert.com/store/hunzag.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -638,7 +638,7 @@
       ],
       "url": "https://www.coupert.com/store/hunzag.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -658,7 +658,7 @@
       ],
       "url": "https://www.coupert.com/store/hunzag.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -678,7 +678,7 @@
       ],
       "url": "https://www.coupert.com/store/hunzag.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -698,7 +698,7 @@
       ],
       "url": "https://www.coupert.com/store/hunzag.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -726,6 +726,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-01-23T00:00:00Z"
+    },
+    {
+      "code": "WEEKEND20",
+      "description": "20% Off Select Items",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hunzag.com",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-05T00:00:00Z"
     }
   ]
 }

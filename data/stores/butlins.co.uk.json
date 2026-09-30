@@ -1,0 +1,47 @@
+{
+  "domain": "butlins.co.uk",
+  "name": "Butlins",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WEEKENDERS15",
+      "description": "Extra £15 off Big Weekenders at Butlin's",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/butlins-discount-codes",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BUTLINS15",
+      "description": "Extra £15 off Family Holidays at Butlin's",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/butlins-discount-codes",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

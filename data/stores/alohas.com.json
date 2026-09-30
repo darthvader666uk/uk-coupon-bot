@@ -64,26 +64,6 @@
       }
     },
     {
-      "code": "AUG15",
-      "description": "New Customer Deal: 15% Off First Purchase at ALOHAS with Discount Codes",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/alohas",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "12HELLOSHIP",
       "description": "Free Shipping Storewide at Alohas",
       "type": "free_shipping",

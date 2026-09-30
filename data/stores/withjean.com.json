@@ -82,6 +82,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "GR5696BB",
+      "description": "Up to 10% Off Sitewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/withjean.com",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "30OFFSALE",
+      "description": "Save 30% for Clearance",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/withjean.com",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PLAYINGCARDS",
+      "description": "Get Free Gift Select Styles At With Jéan US",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/withjean.com",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

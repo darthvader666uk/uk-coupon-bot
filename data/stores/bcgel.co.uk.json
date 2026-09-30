@@ -16,12 +16,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/bc-gel",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
       "code": "DJ8P2INS",
@@ -42,6 +44,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NEW5",
+      "description": "Take up to 5% Off Your Purchase Today",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bcgel.co.uk",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-30T00:00:00Z"
     }
   ]
 }

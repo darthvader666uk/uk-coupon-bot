@@ -16,7 +16,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/z2u-discount",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -24,19 +24,59 @@
       }
     },
     {
-      "code": "SALE20",
-      "description": "Special Offer: Get 20% Off Z2U Discount Code",
+      "code": "CHEAP10",
+      "description": "10% off select items",
       "type": "percentage",
-      "value": 20,
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
       "sources": [
         "coupert"
       ],
-      "url": "https://uk.coupert.com/promo-code/z2u-discount",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "url": "https://www.coupert.com/store/z2u.com",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "Z2U",
+      "description": "Big Savings Sitewide",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/z2u.com",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CHEAPEST",
+      "description": "Extra savings on your order at z2u.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/z2u.com",
+      "addedAt": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-09-30T11:55:13.825Z",
       "testResults": {
         "total": 0,
         "worked": 0,

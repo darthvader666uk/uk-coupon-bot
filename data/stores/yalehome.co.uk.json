@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "CHECKOUT10",
-      "description": "Take 10% off using Yalehome Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/yalehome-co-uk",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "YALELB10",
       "description": "Enjoy a Generous 10% Discount with Yalehome Discount Code",
       "type": "percentage",
