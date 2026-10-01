@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "THANKYOU15",
-      "description": "Take 15% off using Zone 3 Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/zone-3",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CAROSCOOT",
       "description": "Unlock £0.3 off using Zone 3 Discount Code",
       "type": "fixed",

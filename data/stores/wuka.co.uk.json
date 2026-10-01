@@ -172,16 +172,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/wuka.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "ZEROWASTED",
@@ -342,6 +344,132 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "HONEY10",
+      "description": "11% off",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wuka.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DEMAND12",
+      "description": "12% off",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wuka.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JORDAN60332",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wuka.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SHIPSWAP",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wuka.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SMS10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wuka.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MAGGIE15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wuka.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

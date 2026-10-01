@@ -42,46 +42,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST20",
-      "description": "Save 20% on First Purchase for New Customers at Gullivers World with Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/gullivers-world-discount",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-09-30T14:25:47.257Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE20",
-      "description": "New Customers Get 20% Off First Order at Gullivers World with Voucher Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/gullivers-world-discount",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-09-30T14:25:47.257Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

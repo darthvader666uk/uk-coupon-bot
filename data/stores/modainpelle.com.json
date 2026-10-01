@@ -100,14 +100,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/modainpelle.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z"
+      "lastWorkedAt": "2026-09-28T00:00:00Z"
     },
     {
       "code": "LCPG10",
@@ -123,14 +123,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/modainpelle.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
+      "lastWorkedAt": "2026-09-28T00:00:00Z"
     },
     {
       "code": "NBEJ10",
@@ -145,14 +145,14 @@
       ],
       "url": "https://www.coupert.com/store/modainpelle.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-09-30T00:00:00Z"
     },
     {
       "code": "PINK20",
@@ -185,11 +185,100 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/modainpelle.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "code": "SANDALS20",
+      "description": "Extra 20% Off Sandals Now Available",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/modainpelle.com",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "code": "SALE20",
+      "description": "Receive 20% Off Your Clearance Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/modainpelle.com",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-13T00:00:00Z"
+    },
+    {
+      "code": "NBC210",
+      "description": "Moda In Pelle Promo Code: Save £10 Today - Average Savings",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/modainpelle.com",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "code": "3FOR2",
+      "description": "Moda in Pelle Discount: 3 for 2",
+      "type": "percentage",
+      "value": 33,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/modainpelle.com",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -152,14 +152,14 @@
       ],
       "url": "https://boohoo.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-29T00:00:00Z"
+      "lastWorkedAt": "2026-10-01T00:00:00Z"
     },
     {
       "code": "NG10",
@@ -176,7 +176,7 @@
       ],
       "url": "https://boohoo.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1314,26 +1314,6 @@
       }
     },
     {
-      "code": "ONEDAY",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/boohoo.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "LOUISA",
       "description": "Get 10% Off Your Purchase at boohoo.com",
       "type": "percentage",
@@ -1346,14 +1326,14 @@
       ],
       "url": "https://www.coupert.com/store/boohoo.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
+      "lastWorkedAt": "2026-10-01T00:00:00Z"
     },
     {
       "code": "SABRINA",
@@ -1620,6 +1600,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BHNEW10",
+      "description": "Save 70% Plus an Additional 10% for New Customers",
+      "type": "percentage",
+      "value": 70,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/boohoo.co.uk",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-01T00:00:00Z"
     }
   ]
 }

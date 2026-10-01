@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "FIRST20",
-      "description": "Save 20% on First Purchase for New Customers at Gulliver's with Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/gullivers",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-09-30T14:25:47.257Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "PROMO10",
       "description": "Save 10% at Gulliver's First Purchase with Promo Code",
       "type": "percentage",

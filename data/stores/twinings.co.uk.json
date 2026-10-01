@@ -194,11 +194,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -256,16 +257,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "TWIN5OFF",
@@ -277,11 +280,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -300,11 +304,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -344,11 +349,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -388,11 +394,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -432,11 +439,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/twinings.co.uk",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -444,6 +452,447 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "code": "XMAS2025",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPARKLE33",
+      "description": "13% off",
+      "type": "percentage",
+      "value": 13,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MVCUK10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "EARLYXMAS",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MVC10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BLACKFRIDAY25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "5OFF25",
+      "description": "5 Pounds",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "APR10AB",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "APR5AB",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JAN5AB",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "ADVENT25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CHRISTMAS10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "WELCOMESHIP",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MOBILE10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WORLDTOUR",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NEWGUEST20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "COFFEE20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SNOWYEMAIL10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "TRYLATTE20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SE557SZ6",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FREETARRAZU",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://twinings.knoji.com/",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

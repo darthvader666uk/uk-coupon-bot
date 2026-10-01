@@ -484,6 +484,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BAM25",
+      "description": "25% off Everything at BAM Clothing - Limited Time Only!",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/bamboo-clothing-discount-codes",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

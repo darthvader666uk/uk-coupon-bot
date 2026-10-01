@@ -106,7 +106,7 @@
       ],
       "url": "https://www.coupert.com/store/gsfcarparts.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1104,11 +1104,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/gsfcarparts.com",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1136,6 +1137,46 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-19T00:00:00Z"
+    },
+    {
+      "code": "SPEND30",
+      "description": "30% off Car Parts over £30 at GSF Car Parts",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE30",
+      "description": "30% off Car Parts over £30 at GSF Car Parts",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
+      "addedAt": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
