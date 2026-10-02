@@ -144,26 +144,6 @@
       }
     },
     {
-      "code": "BIRTHDAY",
-      "description": "Don't forget to enter this Travelodge voucher code at checkout to receive up to 5% off your eligible purchase.",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/travelodge.co.uk",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "KWIGHU56",
       "description": "5% off",
       "type": "percentage",
@@ -189,27 +169,6 @@
       "description": "15% off",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://travelodge.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "30OFF",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",

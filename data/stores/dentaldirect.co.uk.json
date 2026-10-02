@@ -1,0 +1,27 @@
+{
+  "domain": "dentaldirect.co.uk",
+  "name": "Dental Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "5OFF",
+      "description": "Save 5% on Dental Direct with Your Exclusive Discount Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dental-direct",
+      "addedAt": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

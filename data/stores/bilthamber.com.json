@@ -1,0 +1,27 @@
+{
+  "domain": "bilthamber.com",
+  "name": "Bilt Hamber",
+  "category": "general",
+  "codes": [
+    {
+      "code": "XMAS10",
+      "description": "Claim your 10% off now - limited time",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bilt-hamber",
+      "addedAt": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

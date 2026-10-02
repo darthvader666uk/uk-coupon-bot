@@ -283,27 +283,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Take 5% off with promo code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "savoo"
-      ],
-      "url": "https://grabcaramel.com/coupons/visiondirect.co.uk",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

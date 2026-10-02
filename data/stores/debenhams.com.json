@@ -1310,26 +1310,6 @@
       }
     },
     {
-      "code": "FREEDELIVERY",
-      "description": "Grab Free Delivery on selected products",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/debenhams.com",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MYSTERY",
       "description": "Up to an Extra 25 Percent Select Styles at Debenhams",
       "type": "unknown",

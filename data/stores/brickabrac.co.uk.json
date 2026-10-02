@@ -1,0 +1,47 @@
+{
+  "domain": "brickabrac.co.uk",
+  "name": "Brick-a-brac",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DISCOUNT",
+      "description": "Save on your order with Brick-a-brac Coupon",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/brick-a-brac-uk-com",
+      "addedAt": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "THEBRICKPOST",
+      "description": "Enjoy a 10% Discount with Your Brick-a-brac Coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/brick-a-brac-uk-com",
+      "addedAt": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

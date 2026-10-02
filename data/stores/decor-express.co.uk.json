@@ -1,0 +1,27 @@
+{
+  "domain": "decor-express.co.uk",
+  "name": "Decor Express",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DECOR5%OFF",
+      "description": "Enjoy 5% off in-store",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/decor-express",
+      "addedAt": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

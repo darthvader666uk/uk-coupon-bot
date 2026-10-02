@@ -1,0 +1,47 @@
+{
+  "domain": "9for9.co.uk",
+  "name": "9 For 9",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FREEUKSHIP",
+      "description": "Free Shipping On £75",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 75,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/9for9-co-uk",
+      "addedAt": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA5",
+      "description": "Enjoy a Discount of 5% with Your 9 For 9 Voucher Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/9for9-co-uk",
+      "addedAt": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
