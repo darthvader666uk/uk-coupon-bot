@@ -17,7 +17,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/aninebing.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,7 +37,7 @@
       ],
       "url": "https://www.coupert.com/store/aninebing.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -57,7 +57,7 @@
       ],
       "url": "https://www.coupert.com/store/aninebing.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -187,111 +187,6 @@
       "verified": true
     },
     {
-      "code": "EXTRA25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aninebing.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "FALL40",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aninebing.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "GETSTARTED15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aninebing.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "APPLEPAY",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aninebing.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "FALL50",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aninebing.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "TCCWELCOME15",
       "description": "",
       "type": "unknown",
@@ -332,6 +227,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "WHATEMWORE",
+      "description": "Get 10% off When You Shop Now",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/aninebing.com",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

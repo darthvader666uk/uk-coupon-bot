@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/vaping101.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -34,11 +35,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/vaping101.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -110,6 +112,216 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-22T00:00:00Z"
+    },
+    {
+      "code": "BUNNY10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LUV12",
+      "description": "12% off",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BF101",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "COMEBACK6",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "PATRIOT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GAMER10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "DPF15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CELEBRATE250",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "REG10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CVDS20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vaping101.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

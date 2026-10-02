@@ -76,14 +76,14 @@
       ],
       "url": "https://www.coupert.com/store/sneakenergy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-01T00:00:00Z"
     },
     {
       "code": "NEWTOSNEAK",
@@ -98,7 +98,7 @@
       ],
       "url": "https://www.coupert.com/store/sneakenergy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -120,14 +120,14 @@
       ],
       "url": "https://www.coupert.com/store/sneakenergy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-10-01T00:00:00Z"
     },
     {
       "code": "FUEL20",
@@ -164,7 +164,7 @@
       ],
       "url": "https://www.coupert.com/store/sneakenergy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -272,7 +272,7 @@
       ],
       "url": "https://www.coupert.com/store/sneakenergy.com",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -364,6 +364,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-23T00:00:00Z"
+    },
+    {
+      "code": "3FOR2",
+      "description": "Buy 2 Get 1 Free on Energy Drinks",
+      "type": "percentage",
+      "value": 33,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sneakenergy.com",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-09T00:00:00Z"
     }
   ]
 }

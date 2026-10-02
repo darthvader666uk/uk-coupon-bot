@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/proteinpackage.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -24,6 +25,174 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-09T00:00:00Z"
+    },
+    {
+      "code": "NEWYEAR26",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "ELYCIA10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DRROCIO",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "PROTEIN15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SIMPLYCODES10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HLTH10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CHECKOUT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "VALENTYNR1",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://proteinpackage.knoji.com/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

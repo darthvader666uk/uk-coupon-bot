@@ -252,6 +252,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "IMPACT",
+      "description": "10% off selected products — Planetplay",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

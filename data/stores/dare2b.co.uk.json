@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/dare2b-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -36,7 +36,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/dare2b-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -296,49 +296,7 @@
       "verified": true
     },
     {
-      "code": "TAKE15OFF",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://dare2b.knoji.com/",
-      "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "7017CAW25DENIM",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://dare2b.knoji.com/",
-      "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "GARAGE25",
       "description": "",
       "type": "unknown",
       "value": null,
@@ -441,6 +399,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "D2B10",
+      "description": "Extra 10% off orders at Dare2b",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/dare2b-discount-codes",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

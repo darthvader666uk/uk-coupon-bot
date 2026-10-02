@@ -182,6 +182,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NEWYEAR10",
+      "description": "Take extra 10% off your purchase with this Suit Direct code.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/suitdirect.co.uk",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

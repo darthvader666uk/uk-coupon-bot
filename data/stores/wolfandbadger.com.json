@@ -317,7 +317,7 @@
       ],
       "url": "https://www.coupert.com/store/wolfandbadger.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -405,7 +405,7 @@
       ],
       "url": "https://www.coupert.com/store/wolfandbadger.com",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -426,7 +426,7 @@
       ],
       "url": "https://www.coupert.com/store/wolfandbadger.com",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -444,11 +444,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://wolfandbadger.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -478,109 +479,46 @@
       "verified": true
     },
     {
-      "code": "WELCOME10NHSI5Q7XIZ4ABIFE",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "COUPERT10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://wolfandbadger.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "url": "https://www.coupert.com/store/wolfandbadger.com",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-10-02T00:00:00Z"
     },
     {
-      "code": "KSCT10BYBI5MTK7E",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "ALC030364",
+      "description": "40% off & free delivery when you shop via the app using this code",
+      "type": "percentage",
+      "value": 40,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://wolfandbadger.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "url": "https://www.coupert.com/store/wolfandbadger.com",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SHIP125",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wolfandbadger.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "HOTJAN15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wolfandbadger.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SANTA100",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wolfandbadger.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

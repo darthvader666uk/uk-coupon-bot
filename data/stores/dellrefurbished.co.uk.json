@@ -116,14 +116,14 @@
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
+      "lastWorkedAt": "2026-09-28T00:00:00Z"
     },
     {
       "code": "DESKTOP40",
@@ -183,14 +183,14 @@
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-07-31T00:00:00Z"
+      "lastWorkedAt": "2026-09-11T00:00:00Z"
     },
     {
       "code": "SAVE5440",
@@ -225,7 +225,7 @@
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -247,7 +247,7 @@
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -309,7 +309,7 @@
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -793,7 +793,7 @@
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -862,6 +862,68 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "OCTDEAL5400",
+      "description": "40% Off Latitude 5431 Laptops",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DEAL9430",
+      "description": "42% off Latitude 9430 Laptops at Dell Refurbished",
+      "type": "percentage",
+      "value": 42,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "40LAT7430",
+      "description": "40% Off on Atitude 7430 Laptop at Dell Refurbished UK",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-01T00:00:00Z"
     }
   ]
 }

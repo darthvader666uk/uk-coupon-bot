@@ -255,26 +255,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "APP10",
-      "description": "£10 off orders over £80 with App orders at Wordans",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 80,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/wordans-discount-codes",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

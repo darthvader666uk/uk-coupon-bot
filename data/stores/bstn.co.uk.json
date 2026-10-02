@@ -17,7 +17,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/bstn-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -668,7 +668,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/bstn-discount-codes",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -760,27 +760,6 @@
       "verified": true
     },
     {
-      "code": "8NDMISSANATOMIA0305",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bstn.knoji.com/",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "JKXDB1371UFF",
       "description": "5% off",
       "type": "percentage",
@@ -821,6 +800,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FALL20",
+      "description": "20% off orders at BSTN",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/bstn-discount-codes",
+      "addedAt": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
