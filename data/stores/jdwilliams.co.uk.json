@@ -209,28 +209,6 @@
       "lastWorkedAt": "2026-06-15T00:00:00Z"
     },
     {
-      "code": "SEP20",
-      "description": "Spend £30, get 20% off select orders",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": 30,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jdwilliams.co.uk",
-      "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
-    },
-    {
       "code": "WISHLIST",
       "description": "Get up to 20% off orders over £30 with this voucher code",
       "type": "percentage",
@@ -332,7 +310,7 @@
       ],
       "url": "https://www.coupert.com/store/jdwilliams.co.uk",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -400,6 +378,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "TXT25",
+      "description": "Get 25% off your purchase with this discount code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jdwilliams.co.uk",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-06-15T00:00:00Z"
     }
   ]
 }

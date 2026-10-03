@@ -571,7 +571,7 @@
       "verified": false
     },
     {
-      "code": "SHOP30",
+      "code": "MARATHONSPORTS",
       "description": "",
       "type": "unknown",
       "value": null,
@@ -592,25 +592,24 @@
       "verified": false
     },
     {
-      "code": "MARATHONSPORTS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "OUTLET20",
+      "description": "Extra 20% off Outlet Items at SPORTS DIRECT",
+      "type": "percentage",
+      "value": 20,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "savoo",
       "sources": [
-        "knoji"
+        "savoo"
       ],
-      "url": "https://sportsdirect.knoji.com/",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "url": "https://www.savoo.co.uk/brands/sportsdirect-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

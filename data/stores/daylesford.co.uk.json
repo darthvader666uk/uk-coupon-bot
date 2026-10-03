@@ -1,0 +1,47 @@
+{
+  "domain": "daylesford.co.uk",
+  "name": "Daylesford",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SPRING30",
+      "description": "£30 off orders over £150 at Daylesford",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/daylesford-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPRING10",
+      "description": "£10 off orders over £60 at Daylesford",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/daylesford-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

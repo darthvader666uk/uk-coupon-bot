@@ -246,16 +246,19 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
     },
     {
       "code": "WELCOMEPROPLAN",
@@ -271,7 +274,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -376,7 +379,7 @@
       ],
       "url": "https://www.coupert.com/store/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -398,7 +401,7 @@
       ],
       "url": "https://www.coupert.com/store/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -420,7 +423,7 @@
       ],
       "url": "https://www.coupert.com/store/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -442,7 +445,7 @@
       ],
       "url": "https://www.coupert.com/store/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -486,7 +489,7 @@
       ],
       "url": "https://www.coupert.com/store/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -657,7 +660,7 @@
       ],
       "url": "https://www.coupert.com/store/zooplus.co.uk",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -685,6 +688,48 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "UMBRELLA",
+      "description": "Free Shipping on Pet Food Orders Over £39",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": 39,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/zooplus.co.uk",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FELIX25",
+      "description": "Zooplus 25% Off Felix on Your First Order",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/zooplus.co.uk",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-01T00:00:00Z"
     }
   ]
 }

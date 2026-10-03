@@ -98,11 +98,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/snapmaker.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -162,16 +163,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/snapmaker.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "ARTISANPVA21XJ",
@@ -192,6 +195,300 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "U1KSDELAY100",
+      "description": "100% off",
+      "type": "percentage",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SNAPMAKER20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SUVIDI",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "J1SAVE20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MENTOX20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "9BIBX5VO",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "JIZA25",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FIRST5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MCCOLTYMAKES",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "20OFF150",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MOBILE10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NEWLAUNCH10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FIRST92635",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "3DPDEALSFIRSTTRY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://snapmaker.knoji.com/",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

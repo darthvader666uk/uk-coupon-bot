@@ -235,27 +235,6 @@
       "verified": false
     },
     {
-      "code": "JIMMYDOHENY",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wilko.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "DISCOUNT30",
       "description": "",
       "type": "unknown",
@@ -373,7 +352,27 @@
       ],
       "url": "https://www.savoo.co.uk/brands/wilko-discount-codes",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE25",
+      "description": "25% off Selected orders at Wilko.com",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wilko-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,

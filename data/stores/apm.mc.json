@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "GIFT10",
-      "description": "Score up to 10% discount on any purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/apm-monaco",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MONACO",
       "description": "Free Shipping Storewide",
       "type": "free_shipping",
@@ -97,26 +77,6 @@
       "url": "https://www.coupert.com/store/apm.mc",
       "addedAt": "2026-09-30T11:55:13.825Z",
       "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREESHIPPING",
-      "description": "Free Shipping on your purchase",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/apm-monaco",
-      "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
       "testResults": {
         "total": 0,
         "worked": 0,

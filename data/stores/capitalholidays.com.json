@@ -1,0 +1,27 @@
+{
+  "domain": "capitalholidays.com",
+  "name": "Capital Holidays",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVOO4DISCOUNT",
+      "description": "Exclusive 4% off orders over £800 at Capital Holidays",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": 800,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/capital-holidays-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "domain": "books4people.co.uk",
+  "name": "Books 4 People",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SALE10",
+      "description": "10% off Selected orders at Books4People",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/books-4-people-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

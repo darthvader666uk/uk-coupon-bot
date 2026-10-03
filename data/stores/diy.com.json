@@ -433,16 +433,19 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-07-09T00:00:00Z"
     },
     {
       "code": "CLUBWGJKDB",
@@ -767,14 +770,14 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "WELCOME1808",
@@ -789,14 +792,14 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "B&QOFFER",
@@ -811,7 +814,7 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -983,7 +986,49 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WELCOME0707",
+      "description": "15% Off Your First Purchase by Joining the Newsletter",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/diy.com",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-02T00:00:00Z"
+    },
+    {
+      "code": "WELCOME0505",
+      "description": "Enjoy Big Discount with This Voucher",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/diy.com",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -1,0 +1,27 @@
+{
+  "domain": "cass-art.co.uk",
+  "name": "Cass Art",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FREEDEL30",
+      "description": "Free Standard UK Delivery on orders over £30 at Cass Art",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/cass-art-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

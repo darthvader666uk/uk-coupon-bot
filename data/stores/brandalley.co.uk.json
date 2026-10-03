@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/brandalley-discount-codes",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -420,48 +420,6 @@
       "verified": false
     },
     {
-      "code": "ATMEMBER",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://brandalley.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "WPAFF15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://brandalley.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "CH312G5ZP2J",
       "description": "",
       "type": "unknown",
@@ -504,25 +462,24 @@
       "verified": false
     },
     {
-      "code": "RAQUEL20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "CLEAR20",
+      "description": "Extra 20% off orders at BrandAlley",
+      "type": "percentage",
+      "value": 20,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "savoo",
       "sources": [
-        "knoji"
+        "savoo"
       ],
-      "url": "https://brandalley.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "url": "https://www.savoo.co.uk/brands/brandalley-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

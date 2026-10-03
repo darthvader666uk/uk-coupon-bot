@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "GIFT15",
-      "description": "15% off Gifts over £20 at ASDA Photo",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 20,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/asda-photo-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "LUCKY15",
       "description": "15% off Everything at ASDA Photo",
       "type": "percentage",
@@ -56,7 +36,47 @@
       ],
       "url": "https://www.savoo.co.uk/brands/asda-photo-discount-codes",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAMEDAY",
+      "description": "Buy 1, Get 50% on Selected Gifts at ASDA",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/asda-photo-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HOME30",
+      "description": "30% off Canvas and Wall Art orders over £30 at ASDA",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/asda-photo-discount-codes",
+      "addedAt": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-03T11:14:32.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,

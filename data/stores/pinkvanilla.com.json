@@ -4,28 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "BLACK25",
-      "description": "Black Friday: 25% off Everything at Pink Vanilla",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "knoji"
-      ],
-      "url": "https://www.savoo.co.uk/brands/pink-vanilla-discount-codes",
-      "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "PINK20",
       "description": "20% off",
       "type": "percentage",
@@ -360,27 +338,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "GIVEME10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://pinkvanilla.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

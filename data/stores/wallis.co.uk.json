@@ -481,48 +481,6 @@
       "verified": true
     },
     {
-      "code": "GET5",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wallis.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "TCCWELCOME15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wallis.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "DIANAL15",
       "description": "",
       "type": "unknown",
@@ -542,27 +500,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "MYSTERY",
-      "description": "Mystery Discount",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wallis.knoji.com/",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

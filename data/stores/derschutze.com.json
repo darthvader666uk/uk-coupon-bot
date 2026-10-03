@@ -82,46 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "TAKE10",
-      "description": "Save with 10% off your order",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/derschutze-com",
-      "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREESHIPPING",
-      "description": "Free Shipping Available On All derschutze.com Purchases",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/derschutze-com",
-      "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
