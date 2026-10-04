@@ -1,0 +1,27 @@
+{
+  "domain": "potterscues.co.uk",
+  "name": "Potters Cues",
+  "category": "general",
+  "codes": [
+    {
+      "code": "POTTERS147",
+      "description": "Free Delivery on Orders Over £100",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/potters-cues",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

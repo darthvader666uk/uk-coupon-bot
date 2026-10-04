@@ -799,28 +799,6 @@
       "lastWorkedAt": "2026-09-22T00:00:00Z"
     },
     {
-      "code": "DAD10",
-      "description": "Save 10% on selected brands",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/patisserie-valerie.co.uk",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
       "code": "30OFFBISCUIT",
       "description": "Shop Now and Save 30%",
       "type": "percentage",
@@ -1459,28 +1437,6 @@
       "description": "20% Off at Patisserie Valerie",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/patisserie-valerie.co.uk",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-09T00:00:00Z"
-    },
-    {
-      "code": "NEW15",
-      "description": "Recently saved £37.48",
-      "type": "fixed",
-      "value": 37.48,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

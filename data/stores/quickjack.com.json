@@ -193,6 +193,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "25OFF",
+      "description": "Get 25% Off on All Items When You Shop Today",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quickjack-com",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

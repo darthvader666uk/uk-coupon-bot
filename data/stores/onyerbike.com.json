@@ -1,0 +1,27 @@
+{
+  "domain": "onyerbike.com",
+  "name": "On Yer Bike",
+  "category": "general",
+  "codes": [
+    {
+      "code": "COROS10",
+      "description": "Unlock 10% Off On Yer Bike with Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/on-yer-bike",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

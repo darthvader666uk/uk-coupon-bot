@@ -1,0 +1,27 @@
+{
+  "domain": "oet.com",
+  "name": "OET",
+  "category": "general",
+  "codes": [
+    {
+      "code": "OETMAR60",
+      "description": "Get 60% off on all orders",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/oet",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

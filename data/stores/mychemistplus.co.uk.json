@@ -1,0 +1,27 @@
+{
+  "domain": "mychemistplus.co.uk",
+  "name": "My Chemist Plus Pharmacy",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CHEMIST10",
+      "description": "Enjoy a Discount of 10% Using My Chemist Plus Pharmacy Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/my-chemist-plus-pharmacy",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

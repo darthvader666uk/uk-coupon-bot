@@ -1,0 +1,27 @@
+{
+  "domain": "nordinahome.com",
+  "name": "Nordina Home",
+  "category": "general",
+  "codes": [
+    {
+      "code": "STUDENT",
+      "description": "5% off your order for students",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/nordinahome-com",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

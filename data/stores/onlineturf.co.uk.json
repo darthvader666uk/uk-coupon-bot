@@ -1,0 +1,27 @@
+{
+  "domain": "onlineturf.co.uk",
+  "name": "Online Turf",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DISCOUNT10",
+      "description": "£10 off orders of 20 square metres minimum",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/online-turf",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

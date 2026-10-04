@@ -186,46 +186,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "ASKMEOFFERS",
-      "description": "Get up to 70% Off using exclusive code",
-      "type": "percentage",
-      "value": 70,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/amouage.com",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CELEBRATE",
-      "description": "Amouage.com lets you shop and save more",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/amouage-discount",
-      "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

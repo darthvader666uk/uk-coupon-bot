@@ -1,0 +1,27 @@
+{
+  "domain": "nznature.co.uk",
+  "name": "Nature",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NZNGU01",
+      "description": "10% off your first order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/nature",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

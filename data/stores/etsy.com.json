@@ -631,26 +631,6 @@
       }
     },
     {
-      "code": "SHOP15",
-      "description": "Get 15% off your order by using this Etsy coupon code when you check out.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/etsy.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "THANKU1",
       "description": "Get 1% off your purchase using a discount code on your cart at Etsy.",
       "type": "percentage",

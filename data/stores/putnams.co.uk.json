@@ -24,27 +24,6 @@
       }
     },
     {
-      "code": "NEWSLETTER10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://putnams.knoji.com/",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "PINTEREST20",
       "description": "",
       "type": "unknown",
@@ -169,6 +148,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "GYMFLUENCERSAGENCY",
+      "description": "Enjoy a 5% Discount on Your Purchase with This Putnams Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/putnams",
+      "addedAt": "2026-10-04T08:34:09.440Z",
+      "lastSeen": "2026-10-04T08:34:09.440Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
