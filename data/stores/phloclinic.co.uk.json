@@ -16,12 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     },
     {
       "code": "TV40",
@@ -36,7 +38,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -58,7 +60,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -98,14 +100,14 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     },
     {
       "code": "PCFIRST69",
@@ -120,14 +122,14 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     },
     {
       "code": "PAYDAY40",
@@ -142,7 +144,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -274,7 +276,7 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -318,14 +320,14 @@
       ],
       "url": "https://www.coupert.com/store/phloclinic.co.uk",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     },
     {
       "code": "PCLOVEVOUCHER",
@@ -348,6 +350,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "code": "PCNEW69",
+      "description": "Weight Management Service from £69 for New Patients",
+      "type": "fixed",
+      "value": 69,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/phloclinic.co.uk",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     }
   ]
 }

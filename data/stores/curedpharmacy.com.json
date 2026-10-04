@@ -122,26 +122,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST20",
-      "description": "Use Cured Pharmacy Discount Codes for 20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/cured-pharmacy",
-      "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

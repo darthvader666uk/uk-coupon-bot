@@ -72,16 +72,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/terracycle.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "MOBILE10",
@@ -92,16 +94,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/terracycle.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "PLANET30",
@@ -142,6 +146,426 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ANNA10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "KEVIN20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HOWDY10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "PRIME30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "JAMIEEARTH35",
+      "description": "Save Money On (Storewide) (Members Only) at TerraCycle",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CYN20",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MM20",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "KRISTINB20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "NEWYEAR25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "ERING20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LG20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "EARLYBIRD30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "TRICIA20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "STOCKUP25",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JO20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BOP10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "LIFEASAMAMAX2FREESHIP",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MYECOWORLD20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "COMBODEAL1",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "BUY5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://terracycle.knoji.com/",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

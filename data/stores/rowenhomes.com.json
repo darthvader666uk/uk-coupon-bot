@@ -286,26 +286,6 @@
       }
     },
     {
-      "code": "FIRST20",
-      "description": "Save 20% on Your Purchase",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/rowenhomes.com",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SOFAVIP",
       "description": "Receive 15% Off with Voucher Code",
       "type": "percentage",

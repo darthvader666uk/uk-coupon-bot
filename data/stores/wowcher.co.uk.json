@@ -200,14 +200,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/wowcher.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "WOW10",
@@ -228,29 +228,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "REVIEW10",
-      "description": "Use this Wowcher promo code at checkout to take up to 10% off your orders.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "coupert"
-      ],
-      "url": "https://grabcaramel.com/coupons/wowcher.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
     },
     {
       "code": "JANWOW15SAV25",
@@ -295,6 +272,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "code": "50OFFWILLWOWCHERLOGO",
+      "description": "Discounts Of Up To 50% Off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/wowcher.co.uk",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

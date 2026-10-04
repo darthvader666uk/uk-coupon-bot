@@ -58,14 +58,14 @@
       ],
       "url": "https://www.coupert.com/store/hedgesdirect.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-08T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "10PLUS2",
@@ -80,7 +80,7 @@
       ],
       "url": "https://www.coupert.com/store/hedgesdirect.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -100,14 +100,14 @@
       ],
       "url": "https://www.coupert.com/store/hedgesdirect.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-02T00:00:00Z"
     },
     {
       "code": "EVERY15",
@@ -130,6 +130,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+      "code": "PAYDAY20",
+      "description": "20% Off Sitewide on Evergreen Plants",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hedgesdirect.co.uk",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-02T00:00:00Z"
     }
   ]
 }

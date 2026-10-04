@@ -58,7 +58,7 @@
       ],
       "url": "https://www.coupert.com/store/its.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -483,6 +483,48 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "VNT15",
+      "description": "15% Off Selected Vaunt Accessories",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/its.co.uk",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-02T00:00:00Z"
+    },
+    {
+      "code": "GARDEN10",
+      "description": "Get Extra 10% Off Your Purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/its.co.uk",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

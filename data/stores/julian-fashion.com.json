@@ -141,14 +141,14 @@
       ],
       "url": "https://www.coupert.com/store/julian-fashion.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "D2OD6P5F",
@@ -164,14 +164,14 @@
       ],
       "url": "https://www.coupert.com/store/julian-fashion.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "MAY30",
@@ -228,14 +228,14 @@
       ],
       "url": "https://www.coupert.com/store/julian-fashion.com",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "D2VV1I9B",
@@ -250,7 +250,7 @@
       ],
       "url": "https://www.coupert.com/store/julian-fashion.com",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -622,6 +622,50 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-01T00:00:00Z"
+    },
+    {
+      "code": "OCT20ALL",
+      "description": "20% Off Sitewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/julian-fashion.com",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
+    },
+    {
+      "code": "SSGO25",
+      "description": "Take Up to 25% Off at Julian Fashion",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/julian-fashion.com",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     }
   ]
 }

@@ -77,7 +77,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -199,7 +199,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -285,14 +285,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-26T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "MVCTW10",
@@ -309,14 +309,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/twinings.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     },
     {
       "code": "EMPLOYEE25",
@@ -893,6 +893,28 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "TW5OFF",
+      "description": "5% off Full Price items",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/twinings.co.uk",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     }
   ]
 }

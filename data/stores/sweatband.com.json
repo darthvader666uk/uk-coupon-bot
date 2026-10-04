@@ -133,28 +133,6 @@
       }
     },
     {
-      "code": "SAVE100",
-      "description": "£100 Off Selected Treadmill Orders",
-      "type": "fixed",
-      "value": 100,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/sweatband.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-09T00:00:00Z"
-    },
-    {
       "code": "SOCIAL10",
       "description": "Recently saved £149.90",
       "type": "fixed",

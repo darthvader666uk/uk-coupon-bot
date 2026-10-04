@@ -36,7 +36,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/saucony-discount-codes",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -401,27 +401,6 @@
       "verified": true
     },
     {
-      "code": "CROCSCOZY20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://saucony.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "VIPFUN",
       "description": "",
       "type": "unknown",
@@ -483,6 +462,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MEMBERS",
+      "description": "20% off Speedy Speed 5 at Saucony",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/saucony-discount-codes",
+      "addedAt": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

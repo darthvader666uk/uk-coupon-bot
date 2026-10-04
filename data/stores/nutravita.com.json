@@ -82,26 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE25",
-      "description": "Take 25% off using Nutravita Discount Codes",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/nutravita",
-      "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T08:34:09.440Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
