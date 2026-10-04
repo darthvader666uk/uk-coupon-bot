@@ -332,28 +332,6 @@
       "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
-      "code": "SALE10",
-      "description": "Shop A Farley Country Attire and Save £10 on Your Order",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/afarley.co.uk",
-      "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
-    },
-    {
       "code": "GIFT10",
       "description": "Recently saved £20",
       "type": "fixed",
