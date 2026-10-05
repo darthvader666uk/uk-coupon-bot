@@ -45,6 +45,9 @@ export const STORES = [
   "argos", "currys", "very", "next", "john-lewis",
   "nike", "dunelm", "wickes", "halfords",
   "just-eat", "deliveroo", "dominos-pizza", "tui",
+  // Live but absent from every directory page, so only reachable pinned.
+  // Store request #2: orangecounty-cbd.com.
+  "orange-county-cbd",
 ];
 
 /**
