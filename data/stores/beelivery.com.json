@@ -465,29 +465,6 @@
       "verified": false
     },
     {
-      "code": "FREEDELIVERY",
-      "description": "Free shipping",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://beelivery.knoji.com/",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-29T00:00:00Z"
-    },
-    {
       "code": "MMSAVE20",
       "description": "",
       "type": "unknown",

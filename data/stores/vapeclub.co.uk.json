@@ -16,7 +16,7 @@
       ],
       "url": "https://www.coupert.com/store/vapeclub.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -140,7 +140,7 @@
       ],
       "url": "https://www.coupert.com/store/vapeclub.co.uk",
       "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -148,6 +148,46 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-04T00:00:00Z"
+    },
+    {
+      "code": "MEMBERSHIP",
+      "description": "Use Vape Club Voucher Code for great offers",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vape-club",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "1O5FF",
+      "description": "5% Discount on Your Purchase",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vape-club",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

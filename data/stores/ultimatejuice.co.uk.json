@@ -1,0 +1,47 @@
+{
+  "domain": "ultimatejuice.co.uk",
+  "name": "Ultimate Juice",
+  "category": "general",
+  "codes": [
+    {
+      "code": "OFFER15",
+      "description": "15% Off First Order at Ultimate Juice for New Users with Discount Codes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ultimate-juice-discount",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUBSCRIBE",
+      "description": "Enter Email to Get a Special Voucher Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ultimate-juice-discount",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

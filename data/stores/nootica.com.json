@@ -124,26 +124,6 @@
       }
     },
     {
-      "code": "SAVE20",
-      "description": "Apply Nootica Discount Codes to save 20%",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/nootica",
-      "addedAt": "2026-10-04T13:47:11.815Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAVE30",
       "description": "Get 30% off with Nootica Discount Codes",
       "type": "percentage",

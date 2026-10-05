@@ -162,26 +162,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "HOLIDAY25",
-      "description": "Get 25% off on all orders",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/feedmeonline-co-uk",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

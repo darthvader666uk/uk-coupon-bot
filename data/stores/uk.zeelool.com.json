@@ -422,6 +422,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NICA10",
+      "description": "Get 10% Off Storewide on All Your Needs",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zeelool-uk",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

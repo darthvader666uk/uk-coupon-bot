@@ -164,28 +164,6 @@
       }
     },
     {
-      "code": "DISCOUNT15",
-      "description": "Take 15% off with coupon",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/skinnydiplondon.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "SORRY15OFF",
       "description": "Enjoy Up to 15% Off on Your Purchase",
       "type": "percentage",

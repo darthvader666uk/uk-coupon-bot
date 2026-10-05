@@ -162,26 +162,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SUBSCRIBE5",
-      "description": "Use the Discount Codes to get 5% off at Nursem after sign-up",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/nursem",
-      "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

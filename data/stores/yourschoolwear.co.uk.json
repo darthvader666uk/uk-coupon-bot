@@ -1,0 +1,27 @@
+{
+  "domain": "yourschoolwear.co.uk",
+  "name": "YourSchoolWear",
+  "category": "general",
+  "codes": [
+    {
+      "code": "15OFF",
+      "description": "Best-selling products are now on sale, use this coupon can help you save 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yourschoolwear",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

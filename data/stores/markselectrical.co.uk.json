@@ -848,29 +848,6 @@
       "lastWorkedAt": "2026-09-20T00:00:00Z"
     },
     {
-      "code": "BH10",
-      "description": "10% Off Selected Appliances at Marks Electrical",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/markselectrical.co.uk",
-      "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-08-29T00:00:00Z"
-    },
-    {
       "code": "TCLSAVE15",
       "description": "15% Off Selected Products",
       "type": "percentage",
@@ -1373,27 +1350,6 @@
       ],
       "url": "https://markselectrical.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "EMAIL10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://markselectrical.knoji.com/",
-      "addedAt": "2026-10-02T11:56:13.373Z",
       "lastSeen": "2026-10-02T11:56:13.373Z",
       "testResults": {
         "total": 0,

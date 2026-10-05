@@ -40,7 +40,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=5",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -127,7 +127,7 @@
       ],
       "url": "https://yuplay.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -271,11 +271,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://yuplay.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -377,11 +378,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://yuplay.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -591,6 +593,46 @@
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-10-02T11:56:13.373Z",
       "lastSeen": "2026-10-04T11:56:09.669Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AKSCOZY3",
+      "description": "Take 5% off with this Yuplay Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yuplay-com",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WOMENSDAY3F",
+      "description": "Get up to 3% off on your order",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yuplay-com",
+      "addedAt": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-05T11:22:37.370Z",
       "testResults": {
         "total": 0,
         "worked": 0,

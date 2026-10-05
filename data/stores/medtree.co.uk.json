@@ -134,47 +134,6 @@
       "lastWorkedAt": "2026-09-19T00:00:00Z"
     },
     {
-      "code": "BH10",
-      "description": "Enjoy Sale: 10% Off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/medtree.co.uk",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BH15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://medtree.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "BETTERSLEEP",
       "description": "",
       "type": "unknown",
