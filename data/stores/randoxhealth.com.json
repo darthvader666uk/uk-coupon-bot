@@ -711,28 +711,6 @@
       "lastWorkedAt": "2026-09-28T00:00:00Z"
     },
     {
-      "code": "SAVOO10",
-      "description": "10% Off at Randox Health with Coupon",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/randoxhealth.com",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
-    },
-    {
       "code": "ANDREA12",
       "description": "Save 10% at Randox Health Today",
       "type": "percentage",
@@ -781,26 +759,6 @@
       "description": "Save 15% with Randox Health Discount Codes",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/randox-health",
-      "addedAt": "2026-10-04T13:47:11.815Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "20OFF",
-      "description": "£20 off Everywoman and Everyman Package Orders at Randox Health",
-      "type": "fixed",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

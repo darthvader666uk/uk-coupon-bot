@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SUBSCRIBE5",
+      "description": "Enter Email to Enjoy 5% Off on Your First Order - DroidBOX Discount code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/droix.co.uk",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

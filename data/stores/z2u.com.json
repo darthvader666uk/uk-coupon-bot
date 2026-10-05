@@ -82,26 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SALE20",
-      "description": "Special Offer: Get 20% Off Z2U Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/z2u-discount",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

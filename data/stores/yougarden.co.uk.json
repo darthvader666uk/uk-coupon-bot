@@ -525,6 +525,86 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "AFSV10Q3YG",
+      "description": "Exclusive 10% off all orders at YouGarden",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/yougarden-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AFDEF50YG",
+      "description": "Free Delivery on orders over £50 at YouGarden",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/yougarden-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AF15YG80Q3",
+      "description": "15% off orders over £80 at YouGarden",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/yougarden-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AF12YGQ3",
+      "description": "12% off Your First order at YouGarden",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/yougarden-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

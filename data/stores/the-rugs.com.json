@@ -64,26 +64,6 @@
       }
     },
     {
-      "code": "SAVE15",
-      "description": "£15 Off Orders Over £100",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/the-rugs",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAVE40",
       "description": "£40 Off Orders Over £200",
       "type": "fixed",
@@ -108,26 +88,6 @@
       "description": "Join THE RUGS and get 20% off using Discount Codes",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/the-rugs",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "AUGUST",
-      "description": "Enter Email to Get a Voucher Code at The-rugs",
-      "type": "unknown",
-      "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

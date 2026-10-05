@@ -739,27 +739,6 @@
       "verified": false
     },
     {
-      "code": "PA10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://timex.knoji.com/",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "ROOMMATES",
       "description": "",
       "type": "unknown",
@@ -842,6 +821,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SPRING25",
+      "description": "Extra 25% off Flash Sale at Timex",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/timex-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LOVE20",
+      "description": "Extra 20% off Timex Valentine's Day Sale at Timex",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/timex-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

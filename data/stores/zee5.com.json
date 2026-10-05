@@ -182,26 +182,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST15",
-      "description": "New User can Get 15% Off at Zee5 with Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/zee5-com",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -172,27 +172,6 @@
       "verified": false
     },
     {
-      "code": "STARTNOW",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bestgymequipment.knoji.com/",
-      "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "MOVEIT50",
       "description": "",
       "type": "unknown",
@@ -317,6 +296,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "NEWYEAR10",
+      "description": "10% off orders at Best Gym Equipment",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/best-gym-equipment-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

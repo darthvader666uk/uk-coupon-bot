@@ -686,26 +686,6 @@
       }
     },
     {
-      "code": "SAVE30",
-      "description": "Claim Your £30 Off Promo Code for Woolovers Today",
-      "type": "fixed",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/woolovers",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WOOL14",
       "description": "Valuable savings at woolovers.com",
       "type": "unknown",

@@ -162,6 +162,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "MAY20",
+      "description": "Up to 20% off orders at Radley",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/radley-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

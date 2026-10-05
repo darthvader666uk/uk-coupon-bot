@@ -345,11 +345,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://cliphair.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -650,6 +651,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "HAIRGEAR10",
+      "description": "10% off Full-Priced orders at Cliphair",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/cliphair-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

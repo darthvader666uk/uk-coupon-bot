@@ -103,6 +103,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "HOLIDAY25",
+      "description": "25% off Bank Holiday at Cox and Cox",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/cox-and-cox-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

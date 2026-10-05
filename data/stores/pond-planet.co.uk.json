@@ -1,0 +1,27 @@
+{
+  "domain": "pond-planet.co.uk",
+  "name": "Pond Planet",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CBFIVEOFF",
+      "description": "5% off orders over £55 at Pond Planet",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 55,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pond-planet-discount-codes",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -17,14 +17,14 @@
       ],
       "url": "https://www.coupert.com/store/medtree.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "lastWorkedAt": "2026-10-05T00:00:00Z"
     },
     {
       "code": "BTMSTUDENT10",
@@ -40,14 +40,14 @@
       ],
       "url": "https://www.coupert.com/store/medtree.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "lastWorkedAt": "2026-10-05T00:00:00Z"
     },
     {
       "code": "VAL10",
@@ -63,7 +63,7 @@
       ],
       "url": "https://www.coupert.com/store/medtree.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -104,7 +104,7 @@
       ],
       "url": "https://www.coupert.com/store/medtree.co.uk",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -258,6 +258,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BH10",
+      "description": "Enjoy Sale: 10% Off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/medtree.co.uk",
+      "addedAt": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
