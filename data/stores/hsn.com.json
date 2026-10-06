@@ -56,7 +56,7 @@
       ],
       "url": "https://www.coupert.com/store/hsn.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -272,16 +272,19 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-05T00:00:00Z"
     },
     {
       "code": "BIGSALE26",
@@ -372,16 +375,19 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-05T00:00:00Z"
     },
     {
       "code": "NEWH20",
@@ -402,6 +408,68 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WELCOME2O26",
+      "description": "Get Current Savings at HSN",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hsn.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "P2EGA6SB",
+      "description": "Saving A Lot On Hsn Items Today",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hsn.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RC8530256BL",
+      "description": "Check Out After Placing Your Order for Even More Savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hsn.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-06T00:00:00Z"
     }
   ]
 }

@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/zildjian",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "PRIM25",
@@ -32,11 +34,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/zildjian",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -74,16 +77,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/zildjian",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "THFGBTDY5B",
@@ -154,16 +159,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/zildjian",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "EMAIL10",
@@ -174,36 +181,208 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/zildjian",
       "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false,
+      "lastWorkedAt": "2026-10-05T00:00:00Z"
     },
     {
-      "code": "CART10",
-      "description": "Unlock 10% off using Zildjian Discount Codes",
+      "code": "MELODICSZILDJIAN",
+      "description": "Free gift",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DRUMMONTH",
+      "description": "10% off",
       "type": "percentage",
       "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "knoji",
       "sources": [
-        "coupert"
+        "knoji"
       ],
-      "url": "https://uk.coupert.com/promo-code/zildjian",
-      "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
+    },
+    {
+      "code": "HOLIDAY15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "ETHEREAL",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HD10NEW",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MDSDCP10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HI2026",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GO10%",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "20OFFDRUMS",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://zildjian.knoji.com/",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

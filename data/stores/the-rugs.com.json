@@ -104,26 +104,6 @@
       }
     },
     {
-      "code": "SAVE15",
-      "description": "£15 Off Orders Over £100",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/the-rugs",
-      "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "AUGUST15",
       "description": "15% Off First Order at THE RUGS for New Users with Promo Codes",
       "type": "percentage",

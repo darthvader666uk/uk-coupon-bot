@@ -358,6 +358,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MUJISAVE0926",
+      "description": "£30 off orders over £300 at MUJI",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 300,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/muji-discount-codes",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -358,26 +358,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "NEXTDAY",
-      "description": "Summer: Free Next Day Delivery on Selected orders over £80 at Footasylum",
-      "type": "fixed",
-      "value": 80,
-      "minSpend": 80,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/footasylum-discount-codes",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

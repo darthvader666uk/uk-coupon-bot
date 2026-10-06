@@ -16,7 +16,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/1stdibs-com",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -76,7 +76,7 @@
       ],
       "url": "https://www.coupert.com/store/1stdibs.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -116,7 +116,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/1stdibs-com",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -124,19 +124,39 @@
       }
     },
     {
-      "code": "FREESHIP",
-      "description": "Free Shipping on Art, Fashion & Decor",
-      "type": "free_shipping",
-      "value": null,
+      "code": "1STWELCOME",
+      "description": "25% Off Your First Order",
+      "type": "percentage",
+      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
       "sources": [
         "coupert"
       ],
-      "url": "https://uk.coupert.com/promo-code/1stdibs-com",
-      "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "url": "https://www.coupert.com/store/1stdibs.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DISCOVER",
+      "description": "25% Off Your First Purchase",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/1stdibs.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
       "testResults": {
         "total": 0,
         "worked": 0,

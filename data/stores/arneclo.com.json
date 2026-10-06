@@ -102,6 +102,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "20OFFDMAR17J22",
+      "description": "30% off Select Categories",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE35OFF",
+      "description": "Get 35% Off Sitewide on Your Purchase",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DAVID10",
+      "description": "Free Shipping On Select Catgories at ARNE",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -89,28 +89,6 @@
       "verified": true
     },
     {
-      "code": "NEXTDAY",
-      "description": "Free Next Day Delivery",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "savoo"
-      ],
-      "url": "https://zavetti.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "BANKHOL",
       "description": "Free shipping",
       "type": "free_shipping",
