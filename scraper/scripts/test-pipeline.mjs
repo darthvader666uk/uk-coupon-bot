@@ -303,7 +303,7 @@ console.log("\nCoupert parsing");
   // exist, so these codes never reached driffle.com.
   check("slug -com -> .com", slugToDomain("driffle-com") === "driffle.com");
   check("slug -co-uk -> .co.uk", slugToDomain("amazon-co-uk") === "amazon.co.uk");
-  check("mapped slug wins", slugToDomain("cdkeys-uk") === "cdkeys.com");
+  check("mapped slug wins", slugToDomain("cdkeys-uk") === "loaded.com");
   check("plain slug defaults to .co.uk", slugToDomain("argos") === "argos.co.uk");
   check("already-a-domain slug passes through", slugToDomain("primelicense.com") === "primelicense.com");
 }

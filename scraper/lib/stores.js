@@ -49,6 +49,9 @@ export const ALIASES = {
   // B&Q trades as diy.com and b-and-q.co.uk does not resolve at all, so
   // the canonical domain has to be the one a shopper is actually on.
   "b-and-q.co.uk": "diy.com",
+  // CDKeys rebranded as Loaded, and cdkeys.com now redirects to loaded.com.
+  "cdkeys.com": "loaded.com",
+  "loaded.co.uk": "loaded.com",
   "dominos-pizza.co.uk": "dominos.co.uk",
   "dunelm.com": "dunelm.co.uk",
   "halfords.com": "halfords.co.uk",
@@ -161,6 +164,7 @@ export const DISPLAY_NAMES = {
   "keycense.com": "Keycense",
   "kinguin.net": "Kinguin",
   "ldshop.com": "LDShop",
+  "loaded.com": "Loaded",
   "lookfantastic.co.uk": "LOOKFANTASTIC",
   "lootbar.gg": "LootBar",
   "marks-and-spencer.co.uk": "Marks & Spencer",

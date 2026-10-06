@@ -57,7 +57,7 @@ export const STORES = [
 const DOMAIN_MAP = {
   "amazon-co-uk": "amazon.co.uk",
   "ebay-co-uk": "ebay.co.uk",
-  "cdkeys-uk": "cdkeys.com",
+  "cdkeys-uk": "loaded.com",
   "apple-uk": "apple.com",
   "b-and-q": "diy.com",
   "john-lewis": "john-lewis.co.uk",

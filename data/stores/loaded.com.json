@@ -1,6 +1,6 @@
 {
-  "domain": "cdkeys.com",
-  "name": "Cdkeys",
+  "domain": "loaded.com",
+  "name": "Loaded",
   "category": "general",
   "codes": [
     {
@@ -80,7 +80,7 @@
       ],
       "url": "https://cdkeys.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -164,7 +164,8 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "savoo"
       ],
       "url": "https://cdkeys.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
@@ -265,26 +266,6 @@
       "verified": true
     },
     {
-      "code": "26LRUGHICPP1",
-      "description": "Receive 15% off your purchase using a coupon code in your cart at CDKeys.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/cdkeys.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ZVC6EV5XT37Y",
       "description": "Take 25% off your purchase by adding this CDKeys code.",
       "type": "percentage",
@@ -333,7 +314,8 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/cdkeys.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
@@ -505,26 +487,6 @@
       }
     },
     {
-      "code": "DYU2AKQNX7UB",
-      "description": "Enter this discount code at checkout to enjoy 30% off any purchase of digital games for Xbox, PlayStation, PC, and other gaming systems when you shop at CDKeys.",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/cdkeys.com",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "POINTS20",
       "description": "By entering this CDKeys voucher code during checkout, you can get 20% off your select order.",
       "type": "percentage",
@@ -625,24 +587,214 @@
       }
     },
     {
-      "code": "SUP5XYOUE7R",
-      "description": "90% off at cdkeys.com",
-      "type": "percentage",
-      "value": 90,
+      "code": "GOGFTW10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "caramel",
+      "source": "knoji",
       "sources": [
-        "caramel"
+        "knoji"
       ],
-      "url": "https://grabcaramel.com/coupons/cdkeys.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "C0RNYYY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "BUDDY9",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WIN30",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "E3HANGOVER",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "BRAINROT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-22T10:37:19.445Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GOG15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "OMENSEPT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FRESHLOOK",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "LOW5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://loaded.knoji.com/",
+      "addedAt": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

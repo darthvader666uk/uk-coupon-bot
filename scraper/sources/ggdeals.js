@@ -43,6 +43,7 @@ const GAMING_STORES = {
   "Gamesplanet DE": "gamesplanet.com",
   "Loaded": "loaded.com",
   "Loaded (formerly CDKeys)": "loaded.com",
+  "Instant Gaming": "instant-gaming.com",
   "GameBoost": "gameboost.com",
   "Difmark": "difmark.com",
   "HRKGame": "hrkgame.com",
