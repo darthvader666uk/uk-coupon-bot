@@ -564,29 +564,6 @@
       "verified": false
     },
     {
-      "code": "HELLO20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://pond5.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
-    },
-    {
       "code": "LASTCALL",
       "description": "Save Up to 40 Percent off",
       "type": "unknown",

@@ -737,28 +737,6 @@
       "lastWorkedAt": "2026-10-02T00:00:00Z"
     },
     {
-      "code": "BIRTHDAY",
-      "description": "25% off Orders Over £30 at Jacamo",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": 30,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jacamo.co.uk",
-      "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
-    },
-    {
       "code": "MISSYOU",
       "description": "Recently saved £225.90",
       "type": "fixed",

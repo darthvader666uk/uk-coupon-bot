@@ -567,26 +567,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SAVE40",
-      "description": "£40 off orders over £300 at Lighting Direct",
-      "type": "fixed",
-      "value": 40,
-      "minSpend": 300,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/lighting-direct-discount-codes",
-      "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

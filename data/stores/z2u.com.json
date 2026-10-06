@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "SALE20",
-      "description": "Special Offer: Get 20% Off Z2U Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/z2u-discount",
-      "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CREACTIVEVIP",
       "description": "10% Off Premium Steam Random Game Keys From Shopper Creactive at Z2U",
       "type": "percentage",
