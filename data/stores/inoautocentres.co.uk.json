@@ -1,0 +1,27 @@
+{
+  "domain": "inoautocentres.co.uk",
+  "name": "IN'n'OUT Autocentres",
+  "category": "general",
+  "codes": [
+    {
+      "code": "COMBI10",
+      "description": "10% Off Your Purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/inoautocentres",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

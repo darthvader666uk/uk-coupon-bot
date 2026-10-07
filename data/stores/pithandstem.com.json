@@ -314,27 +314,6 @@
       }
     },
     {
-      "code": "SAVE30",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://pithandstem.knoji.com/",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "PAYPAL05",
       "description": "",
       "type": "unknown",

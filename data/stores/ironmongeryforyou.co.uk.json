@@ -1,0 +1,27 @@
+{
+  "domain": "ironmongeryforyou.co.uk",
+  "name": "Ironmongery For You",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ANVIL10OFF",
+      "description": "10% Off Orders Over £300",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 300,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ironmongeryforyou-co-uk",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

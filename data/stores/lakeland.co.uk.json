@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/lakeland.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -52,11 +53,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/lakeland.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -92,11 +94,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/lakeland.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -194,11 +197,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/lakeland.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -486,17 +490,78 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/lakeland.co.uk",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "LAKEWT5X3CCHSE",
+      "description": "Enjoy 5% off with Lakeland Discount Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lakeland",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AFD12",
+      "description": "Get free delivery on your purchase at lakeland.co.uk",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lakeland",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PIZZA50",
+      "description": "Get £50 Off Instantly with Lakeland Voucher Code",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lakeland",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

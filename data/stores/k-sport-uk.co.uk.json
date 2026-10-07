@@ -1,0 +1,27 @@
+{
+  "domain": "k-sport-uk.co.uk",
+  "name": "K-Sport",
+  "category": "general",
+  "codes": [
+    {
+      "code": "10OFFNOEXCUSES",
+      "description": "Apply K-Sport Discount Codes to save 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/k-sport-uk-co-uk",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

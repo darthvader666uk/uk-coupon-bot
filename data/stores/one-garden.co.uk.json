@@ -102,26 +102,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "PAYDAY",
-      "description": "Extra £5 off orders over £250 at One Garden",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": 250,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/one-garden-discount-codes",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

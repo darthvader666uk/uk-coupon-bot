@@ -343,26 +343,6 @@
       }
     },
     {
-      "code": "DISCOUNT",
-      "description": "Use Promo Codes to save £7.2 off at Caudabe",
-      "type": "fixed",
-      "value": 7.2,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/caudabe",
-      "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WELCOME931588",
       "description": "20% Off Caudabe Discount Codes – Limited Offer",
       "type": "percentage",

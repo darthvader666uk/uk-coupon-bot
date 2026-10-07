@@ -867,27 +867,6 @@
       "verified": false
     },
     {
-      "code": "TAKE25",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aosom.knoji.com/",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "SEPTSHIPFREE",
       "description": "",
       "type": "unknown",
@@ -970,27 +949,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "APP10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aosom.knoji.com/",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

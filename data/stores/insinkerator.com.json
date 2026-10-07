@@ -1,0 +1,27 @@
+{
+  "domain": "insinkerator.com",
+  "name": "InSinkErator",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BLACKFRIDAY25",
+      "description": "Black Friday 25% Off Sitewide",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/insinkerator-discount",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

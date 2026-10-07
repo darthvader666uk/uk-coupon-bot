@@ -384,26 +384,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE30",
-      "description": "Save £30 on Your Order with Tredz Discount Code",
-      "type": "fixed",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/tredz",
-      "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

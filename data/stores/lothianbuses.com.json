@@ -1,0 +1,27 @@
+{
+  "domain": "lothianbuses.com",
+  "name": "Lothian Buses",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GETDEAL15",
+      "description": "New User can Get 15% Off at Lothian Buses with Coupon Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lothian-buses",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

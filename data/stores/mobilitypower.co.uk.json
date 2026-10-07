@@ -1,0 +1,27 @@
+{
+  "domain": "mobilitypower.co.uk",
+  "name": "Green Power",
+  "category": "general",
+  "codes": [
+    {
+      "code": "5OFF",
+      "description": "5% Off Your Purchase with Coupon",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/green-power-discount",
+      "addedAt": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -169,28 +169,6 @@
       }
     },
     {
-      "code": "SUBSCRIBE5",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://yachew.knoji.com/",
-      "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "SETUPEDIA",
       "description": "5% off",
       "type": "percentage",
