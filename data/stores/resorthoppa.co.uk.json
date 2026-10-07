@@ -62,6 +62,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "AUGPAY30",
+      "description": "30% off Bookings at Hoppa",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/resorthoppa-discount-codes",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RIDE5",
+      "description": "5% off Hoppa Bookings",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/resorthoppa-discount-codes",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

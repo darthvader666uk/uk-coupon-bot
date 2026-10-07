@@ -1739,11 +1739,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "savoo"
       ],
       "url": "https://grabcaramel.com/coupons/currys.co.uk",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1811,6 +1812,66 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-02T00:00:00Z"
+    },
+    {
+      "code": "ORALB60",
+      "description": "60% off Selected Oral B IO Electric Toothbrushes at Currys",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/currys-discount-codes",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "IOSAVE50",
+      "description": "50% off Oral-B IO2 Gift Set at Currys",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/currys-discount-codes",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GOJI40MIRROR",
+      "description": "40% off GOJI Tabletop Hollywood Mirror at Currys",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/currys-discount-codes",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

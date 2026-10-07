@@ -60,14 +60,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/artphotolimited",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "SNOTESTTMETSDY",
@@ -188,7 +188,7 @@
       ],
       "url": "https://www.coupert.com/store/artphotolimited.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -210,12 +210,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/artphotolimited",
       "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "ART4USA",
@@ -296,6 +298,50 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "RUSH20",
+      "description": "Score 20% Off on selected products",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/artphotolimited.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "NEWS10",
+      "description": "10% Off Artphotolimited Coupon on Your Purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/artphotolimited.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     }
   ]
 }

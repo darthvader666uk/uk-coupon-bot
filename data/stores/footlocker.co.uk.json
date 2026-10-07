@@ -256,7 +256,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -277,7 +277,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -298,7 +298,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -319,7 +319,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -340,7 +340,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -361,7 +361,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -382,7 +382,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -465,7 +465,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -528,7 +528,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -570,7 +570,7 @@
       ],
       "url": "https://footlocker.knoji.com/",
       "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -579,7 +579,70 @@
       "verified": false
     },
     {
-      "code": "CROCSCOZY20",
+      "code": "FALL25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://footlocker.knoji.com/",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SALE10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://footlocker.knoji.com/",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "15OFF",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://footlocker.knoji.com/",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "GET15",
       "description": "",
       "type": "unknown",
       "value": null,
@@ -590,50 +653,8 @@
         "knoji"
       ],
       "url": "https://footlocker.knoji.com/",
-      "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "NIKESALE19",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://footlocker.knoji.com/",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "WELCOMEFREESHIP2026",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://footlocker.knoji.com/",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,

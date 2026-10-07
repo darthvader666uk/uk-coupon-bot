@@ -116,7 +116,7 @@
       ],
       "url": "https://www.coupert.com/store/arneclo.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -177,6 +177,66 @@
       "url": "https://uk.coupert.com/promo-code/arne-clo",
       "addedAt": "2026-10-06T14:44:51.217Z",
       "lastSeen": "2026-10-06T14:44:51.217Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VIPEXCLUSIVE40",
+      "description": "Enjoy Sale: 40% Off",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BREAK10",
+      "description": "10% Off When You Shopping",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREEDEL",
+      "description": "Free UK Next Day Delivery",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "DISCOUNT20",
-      "description": "20% Off First Order at Young's Pubs for New Users with Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/youngs",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WINETIME",
       "description": "Wine Wednesday at Youngs Pubs",
       "type": "unknown",

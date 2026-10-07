@@ -201,14 +201,14 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "WELCOME50",
@@ -289,7 +289,7 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -311,42 +311,20 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-04T00:00:00Z"
     },
     {
       "code": "20CART",
       "description": "Reduce costs by 20% on items",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
-    },
-    {
-      "code": "THANKS10",
-      "description": "Lock in 10% off now",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
@@ -590,14 +568,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/etsy.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "COMEBACK2",
@@ -628,16 +606,19 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/etsy.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "THANKYOU55",
@@ -872,14 +853,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/etsy-uk",
       "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "WELCOMEBACK5",
@@ -1016,14 +997,14 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "SAVE50",
@@ -1038,7 +1019,7 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1114,28 +1095,6 @@
       "lastWorkedAt": "2026-10-06T00:00:00Z"
     },
     {
-      "code": "GET20",
-      "description": "Get up to 20% off your order",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
-    },
-    {
       "code": "BUY2GET1",
       "description": "You're in for a surprise - save 15% or more",
       "type": "percentage",
@@ -1192,7 +1151,7 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1324,12 +1283,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/etsy-uk",
       "addedAt": "2026-10-06T14:44:51.217Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "FIRST100",
@@ -1404,12 +1365,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/etsy-uk",
       "addedAt": "2026-10-06T14:44:51.217Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-06T00:00:00Z"
     },
     {
       "code": "THANKU10",
@@ -1490,6 +1453,204 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FAVEORITE",
+      "description": "Save 50% at etsy.com",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-06T00:00:00Z"
+    },
+    {
+      "code": "THANKYOUFORBEINGYOU",
+      "description": "Your order now includes a 25% discount",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "YOURFAVE950",
+      "description": "Enjoy 60% off for this sale",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "THANKYOU30OFF",
+      "description": "Get Up to 30% off Select Sellers with Code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "LETSPAINT",
+      "description": "Enjoy 45% off for this sale",
+      "type": "percentage",
+      "value": 45,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "50OFF",
+      "description": "50% Off When Buying 10 Mug Templates",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-15T00:00:00Z"
+    },
+    {
+      "code": "GETITNOW",
+      "description": "Enjoy 5% off at etsy.com",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "WELCOMEBACK30",
+      "description": "",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "BUYMORE",
+      "description": "Save 15% When You Buy More Than One Item",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/etsy.com",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-10T00:00:00Z"
     }
   ]
 }

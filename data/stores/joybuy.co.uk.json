@@ -202,11 +202,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -493,6 +494,46 @@
       "url": "https://www.coupert.com/store/joybuy.co.uk",
       "addedAt": "2026-10-05T13:09:57.832Z",
       "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BD15OFF",
+      "description": "£15 off orders over £99 at Joybuy",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": 99,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/joybuy-discount-codes",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BD60OFF",
+      "description": "£60 off orders over £399 at Joybuy",
+      "type": "fixed",
+      "value": 60,
+      "minSpend": 399,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/joybuy-discount-codes",
+      "addedAt": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-07T12:39:06.346Z",
       "testResults": {
         "total": 0,
         "worked": 0,
