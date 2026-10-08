@@ -82,26 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "EXTRA20",
-      "description": "Use Hatstore Discount Code for 20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/hatstore",
-      "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -16,7 +16,7 @@
       ],
       "url": "https://www.coupert.com/store/lampmasters.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -82,6 +82,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "UKLMADTROCT5",
+      "description": "5% off on your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/lampmasters.co.uk",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     }
   ]
 }

@@ -102,14 +102,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/sensi-seeds",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
       "code": "GROW35",
@@ -125,7 +125,7 @@
       ],
       "url": "https://www.coupert.com/store/sensiseeds.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -338,7 +338,7 @@
       ],
       "url": "https://sensiseeds.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -377,11 +377,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://sensiseeds.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -696,14 +697,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/sensi-seeds",
       "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
       "code": "HERB20",
@@ -746,6 +747,28 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SENSFAF35",
+      "description": "Enjoy 35% Off at Sensi Seeds",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sensiseeds.com",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     }
   ]
 }

@@ -2027,11 +2027,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2232,6 +2233,26 @@
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-10-07T15:02:54.550Z",
       "lastSeen": "2026-10-07T15:02:54.550Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APP10",
+      "description": "10% off Selected Hisense TVs and Large Appliances on the Argos App",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/argos-discount-codes",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,

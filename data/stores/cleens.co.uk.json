@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/cleens-co-uk",
       "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "CLNSFREE",
@@ -32,16 +34,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/cleens-co-uk",
       "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "JAN20",
@@ -62,6 +66,90 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "CLEENS10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cleens.knoji.com/",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CROCSCOZY20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cleens.knoji.com/",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NIKESALE19",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cleens.knoji.com/",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELCOMEFREESHIP2026",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cleens.knoji.com/",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

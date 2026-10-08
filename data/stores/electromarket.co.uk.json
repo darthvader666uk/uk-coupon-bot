@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/electromarket.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -76,7 +76,7 @@
       ],
       "url": "https://www.coupert.com/store/electromarket.co.uk",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -116,12 +116,78 @@
       ],
       "url": "https://www.coupert.com/store/electromarket.co.uk",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BA10",
+      "description": "10% Off ElectroMarket Discount Code for Your Orders",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electromarket.co.uk",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "code": "BA75",
+      "description": "10% Off Orders Over £250",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 250,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electromarket.co.uk",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "code": "BA5",
+      "description": "5% Off Orders Over £50",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/electromarket.co.uk",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     }
   ]
 }

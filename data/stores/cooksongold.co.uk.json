@@ -1,0 +1,27 @@
+{
+  "domain": "cooksongold.co.uk",
+  "name": "Cooksongold",
+  "category": "general",
+  "codes": [
+    {
+      "code": "100DAYS",
+      "description": "£10 off orders over £100 at Cooksongold",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/cooksongold-discount-codes",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

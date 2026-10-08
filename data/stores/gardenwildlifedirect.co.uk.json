@@ -623,49 +623,6 @@
       "verified": false
     },
     {
-      "code": "SIGNUP10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://gardenwildlifedirect.knoji.com/",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "DEAL10",
-      "description": "10% Off Orders Over £70",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 70,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gardenwildlifedirect.co.uk",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
-    },
-    {
       "code": "DEAL5",
       "description": "5% Off on Your Garden Wildlife Direct Order",
       "type": "percentage",

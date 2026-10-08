@@ -468,6 +468,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "PREBDAY",
+      "description": "£10 off Full-Priced orders over £30 at Damart",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/damart-discount-codes",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

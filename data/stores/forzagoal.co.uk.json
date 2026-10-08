@@ -38,14 +38,14 @@
       ],
       "url": "https://www.coupert.com/store/forzagoal.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "ENG20",
@@ -60,14 +60,14 @@
       ],
       "url": "https://www.coupert.com/store/forzagoal.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
       "code": "SCOT20",
@@ -82,14 +82,14 @@
       ],
       "url": "https://www.coupert.com/store/forzagoal.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "SMS20",
@@ -104,7 +104,7 @@
       ],
       "url": "https://www.coupert.com/store/forzagoal.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -126,7 +126,7 @@
       ],
       "url": "https://www.coupert.com/store/forzagoal.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -156,6 +156,50 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-05T00:00:00Z"
+    },
+    {
+      "code": "GOALS15",
+      "description": "Recently saved £6",
+      "type": "fixed",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/forzagoal.co.uk",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
+    },
+    {
+      "code": "SALE15",
+      "description": "Recently saved £20.25",
+      "type": "fixed",
+      "value": 20.25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/forzagoal.co.uk",
+      "addedAt": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     }
   ]
 }
