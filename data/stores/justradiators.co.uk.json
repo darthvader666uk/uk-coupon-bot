@@ -1,0 +1,27 @@
+{
+  "domain": "justradiators.co.uk",
+  "name": "Just Radiators",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FIRST10",
+      "description": "Get 10% off your purchase using Just Radiators Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/justradiators-co-uk",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

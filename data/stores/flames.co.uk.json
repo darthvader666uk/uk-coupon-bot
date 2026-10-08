@@ -1,0 +1,27 @@
+{
+  "domain": "flames.co.uk",
+  "name": "Flames.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FLAME5",
+      "description": "Get 5% off with Flames.co.uk Discount Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/flames-co-uk",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -27,26 +27,6 @@
       "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
-      "code": "JUL15",
-      "description": "Take 15% off your entire order using the Menschem coupon code before time runs out",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/menschem.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MEN10",
       "description": "10% Off Orders Over £40",
       "type": "percentage",

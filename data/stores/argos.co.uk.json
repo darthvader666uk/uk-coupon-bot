@@ -18,7 +18,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/argos-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -98,7 +98,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -722,11 +722,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/argos.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2192,7 +2193,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/argos",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2240,19 +2241,39 @@
       }
     },
     {
-      "code": "APP10",
-      "description": "10% off Selected Hisense TVs and Large Appliances on the Argos App",
+      "code": "RED20",
+      "description": "Get 20% Off Your Order with Argos Promo Code",
       "type": "percentage",
-      "value": 10,
+      "value": 20,
       "minSpend": null,
       "expiry": null,
-      "source": "savoo",
+      "source": "coupert",
       "sources": [
-        "savoo"
+        "coupert"
       ],
-      "url": "https://www.savoo.co.uk/brands/argos-discount-codes",
-      "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "url": "https://uk.coupert.com/promo-code/argos",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FINANCE",
+      "description": "Save 20% with Argos Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/argos",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
       "testResults": {
         "total": 0,
         "worked": 0,

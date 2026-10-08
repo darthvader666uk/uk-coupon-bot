@@ -1,0 +1,27 @@
+{
+  "domain": "kennelstore.co.uk",
+  "name": "Kennelstore",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SUMMER26",
+      "description": "£100 off your order",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kennelstore-co-uk",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

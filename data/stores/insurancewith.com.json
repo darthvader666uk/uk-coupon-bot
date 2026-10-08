@@ -1,0 +1,47 @@
+{
+  "domain": "insurancewith.com",
+  "name": "Insurancewith",
+  "category": "general",
+  "codes": [
+    {
+      "code": "OCT26",
+      "description": "Exclusive Deal: Enjoy 20% Savings with Insurancewith Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/insurancewith",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "M2C",
+      "description": "Discount on policies via partner code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/insurancewith",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

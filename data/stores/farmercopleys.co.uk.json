@@ -1,0 +1,27 @@
+{
+  "domain": "farmercopleys.co.uk",
+  "name": "Farmer Copleys",
+  "category": "general",
+  "codes": [
+    {
+      "code": "PR10RING",
+      "description": "Get 10% Off selected products on Your Order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/farmercopleys-co-uk",
+      "addedAt": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
