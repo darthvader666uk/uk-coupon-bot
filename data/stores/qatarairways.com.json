@@ -771,25 +771,24 @@
       "verified": false
     },
     {
-      "code": "SAVE50",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "TAKE5",
+      "description": "An additional 5% off applies to special items",
+      "type": "percentage",
+      "value": 5,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://qatarairways.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "url": "https://uk.coupert.com/promo-code/qatar-airways",
+      "addedAt": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-10-09T14:54:36.034Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

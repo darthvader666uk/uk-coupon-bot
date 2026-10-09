@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "GETOFFER5",
-      "description": "5% Off First purchase MagicWorld Discount code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/magicworld.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "10OFFTODAY",
       "description": "10% Off at MagicWorld",
       "type": "percentage",

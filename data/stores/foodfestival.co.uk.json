@@ -1,0 +1,27 @@
+{
+  "domain": "foodfestival.co.uk",
+  "name": "Ludlow Food Festival",
+  "category": "general",
+  "codes": [
+    {
+      "code": "RAIL20",
+      "description": "20% off advance Ludlow Food Festival tickets for travelers by train",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ludlow-food-festival",
+      "addedAt": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

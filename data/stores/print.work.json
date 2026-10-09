@@ -1,0 +1,27 @@
+{
+  "domain": "print.work",
+  "name": "Print.Work",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NIFTY10",
+      "description": "10% off is available for your order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/print-work",
+      "addedAt": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
