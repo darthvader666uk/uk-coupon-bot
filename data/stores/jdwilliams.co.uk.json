@@ -221,7 +221,7 @@
       ],
       "url": "https://www.coupert.com/store/jdwilliams.co.uk",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -401,6 +401,70 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-06-15T00:00:00Z"
+    },
+    {
+      "code": "COMEBACK",
+      "description": "20% off Orders Over £30 at JD Williams",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jdwilliams.co.uk",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "code": "DEL48",
+      "description": "Shop Now and Save 5%",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jdwilliams.co.uk",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
+    },
+    {
+      "code": "REWARDS10",
+      "description": "Extra 10% Off Fashion and Home Items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jdwilliams.co.uk",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

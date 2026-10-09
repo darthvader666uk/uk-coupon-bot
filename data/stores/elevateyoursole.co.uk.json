@@ -22,6 +22,48 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "E81RPEAC9PW1",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://elevateyoursole.knoji.com/",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SIGNUP10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://elevateyoursole.knoji.com/",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

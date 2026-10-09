@@ -19,14 +19,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "PERKBOXSERV10",
@@ -130,14 +130,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "SEAT10CGINMO",
@@ -603,17 +603,19 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://halfords.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "CARPARTS10",
@@ -1032,7 +1034,7 @@
       ],
       "url": "https://www.coupert.com/store/halfords.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1257,12 +1259,14 @@
       ],
       "url": "https://www.coupert.com/store/halfords.co.uk",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "JUNIOR20",
@@ -1345,26 +1349,6 @@
       }
     },
     {
-      "code": "SAVE5",
-      "description": "Exclusive Offer: Enjoy 5% Discount with Halfords Promo Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/halfords",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "KAI10",
       "description": "Get 10% off with Halfords Discount Code",
       "type": "percentage",
@@ -1383,6 +1367,50 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "DRE10",
+      "description": "Get 10% Off with Halfords Coupon Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/halfords.co.uk",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
+    },
+    {
+      "code": "MAISIE10",
+      "description": "10% Off Car Cleaning range: The best Halfords coupon code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/halfords.co.uk",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     }
   ]
 }

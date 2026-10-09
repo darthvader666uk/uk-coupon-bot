@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/packd.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -40,7 +40,7 @@
       ],
       "url": "https://www.coupert.com/store/packd.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -63,7 +63,7 @@
       ],
       "url": "https://www.coupert.com/store/packd.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -105,7 +105,7 @@
       ],
       "url": "https://packd.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -126,7 +126,7 @@
       ],
       "url": "https://packd.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -147,7 +147,7 @@
       ],
       "url": "https://packd.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -168,7 +168,7 @@
       ],
       "url": "https://packd.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -189,7 +189,7 @@
       ],
       "url": "https://packd.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -239,28 +239,6 @@
       }
     },
     {
-      "code": "WELCOMEBACK10",
-      "description": "10% Off Your Order for Signing Up to the Newsletter",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/packd.co.uk",
-      "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-08T00:00:00Z"
-    },
-    {
       "code": "SORRY15",
       "description": "",
       "type": "unknown",
@@ -273,7 +251,28 @@
       ],
       "url": "https://packd.knoji.com/",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CART15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://packd.knoji.com/",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,

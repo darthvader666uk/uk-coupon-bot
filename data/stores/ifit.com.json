@@ -144,26 +144,6 @@
       }
     },
     {
-      "code": "SAVE5",
-      "description": "Grab 5% off with iFit Promo Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ifit",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "PERKSPOTNT",
       "description": "Enjoy a Discount of 10% at iFit with This Exclusive Discount Code",
       "type": "percentage",

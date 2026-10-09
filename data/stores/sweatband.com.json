@@ -17,14 +17,14 @@
       ],
       "url": "https://www.savoo.co.uk/brands/sweatband-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "CHAT5",
@@ -39,14 +39,14 @@
       ],
       "url": "https://www.coupert.com/store/sweatband.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
       "code": "SAVE200",
@@ -61,14 +61,14 @@
       ],
       "url": "https://www.coupert.com/store/sweatband.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "RACKET10",
@@ -105,7 +105,7 @@
       ],
       "url": "https://www.coupert.com/store/sweatband.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -133,10 +133,10 @@
       }
     },
     {
-      "code": "SOCIAL10",
-      "description": "Recently saved £149.90",
+      "code": "SAVE50",
+      "description": "Save £50 on Reebok GT40z Treadmill",
       "type": "fixed",
-      "value": 149.9,
+      "value": 50,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
@@ -144,15 +144,57 @@
         "coupert"
       ],
       "url": "https://www.coupert.com/store/sweatband.com",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
+    },
+    {
+      "code": "SAVE100",
+      "description": "Shop and Save: Get £100 Off your order",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sweatband.com",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "code": "EXTRA30",
+      "description": "Extra 30% off Selected Products at Sweatband",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/sweatband-discount-codes",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -95,29 +95,6 @@
       "verified": true
     },
     {
-      "code": "BASKET10",
-      "description": "10% Off Select Items at LloydsPharmacy",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/lloydspharmacy.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
       "code": "MAG40",
       "description": "Shop and Save £40 at Lloyds Pharmacy",
       "type": "fixed",

@@ -297,7 +297,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/soakandsleep.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -413,14 +413,14 @@
       ],
       "url": "https://soakandsleep.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-26T00:00:00Z"
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "HG10",
@@ -457,14 +457,14 @@
       ],
       "url": "https://soakandsleep.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "SLEEPBETTER",
@@ -650,7 +650,7 @@
       ],
       "url": "https://www.coupert.com/store/soakandsleep.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -761,7 +761,7 @@
       ],
       "url": "https://www.coupert.com/store/soakandsleep.com",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -870,14 +870,14 @@
       ],
       "url": "https://www.coupert.com/store/soakandsleep.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "SRD30",
@@ -893,7 +893,7 @@
       ],
       "url": "https://www.coupert.com/store/soakandsleep.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -957,14 +957,14 @@
       ],
       "url": "https://www.coupert.com/store/soakandsleep.com",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
       "code": "HIB20",
@@ -985,6 +985,48 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WSNC9",
+      "description": "Extra 5% Off Orders Over £500",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 500,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/soakandsleep.com",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EES10",
+      "description": "Exclusive 10% Off at Soak & Sleep",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/soakandsleep.com",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-29T00:00:00Z"
     }
   ]
 }

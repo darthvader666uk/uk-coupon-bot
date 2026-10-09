@@ -779,28 +779,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-06T00:00:00Z"
-    },
-    {
-      "code": "GET10",
-      "description": "Get an extra 10% off when you shop on the app at jacamo.co.uk",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jacamo.co.uk",
-      "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
     }
   ]
 }

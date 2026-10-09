@@ -62,46 +62,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST10",
-      "description": "Save 10% on First Purchase for New Customers at InStock with Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/instock",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "15OFF",
-      "description": "Save 15% on Your Complete Purchase with InStock Promo Codes",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/instock",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

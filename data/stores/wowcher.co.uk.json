@@ -336,48 +336,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-05T00:00:00Z"
-    },
-    {
-      "code": "GET10",
-      "description": "Exclusive 5% Off Promo Code at Wowcher",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/wowcher.co.uk",
-      "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-08T00:00:00Z"
-    },
-    {
-      "code": "FIRST20",
-      "description": "20% Off Your First In-App Purchase",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/wowcher.co.uk",
-      "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

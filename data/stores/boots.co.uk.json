@@ -18,7 +18,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/boots-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -150,7 +150,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/boots-discount-codes",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -402,7 +402,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/boots.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -506,7 +506,7 @@
       ],
       "url": "https://www.coupert.com/store/boots.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -551,7 +551,7 @@
       ],
       "url": "https://www.coupert.com/store/boots.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -574,7 +574,7 @@
       ],
       "url": "https://www.coupert.com/store/boots.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -830,14 +830,14 @@
       ],
       "url": "https://www.coupert.com/store/boots.co.uk",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-30T00:00:00Z"
+      "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
       "code": "BIO20",
@@ -1042,6 +1042,50 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NEXTDAY",
+      "description": "Recently saved £30",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/boots.co.uk",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "code": "OFFER20",
+      "description": "Recently saved £30",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/boots.co.uk",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     }
   ]
 }

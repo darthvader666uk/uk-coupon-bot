@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/revitalash-discount-codes",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -168,28 +168,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "OCT20",
-      "description": "Free gift",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "savoo"
-      ],
-      "url": "https://revitalash.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "MEMORIAL25",
@@ -457,13 +435,33 @@
       ],
       "url": "https://revitalash.knoji.com/",
       "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "SUMMER25",
+      "description": "Up to 25% off Summer Ready Lashes at RevitaLash",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/revitalash-discount-codes",
+      "addedAt": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

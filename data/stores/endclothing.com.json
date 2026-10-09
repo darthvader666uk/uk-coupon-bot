@@ -64,26 +64,6 @@
       }
     },
     {
-      "code": "FREESHIP",
-      "description": "Free Shipping Sitewide with Coupon Code",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "EXTRA25",
       "description": "Take 25% off with this End Clothing Promo Code",
       "type": "percentage",
