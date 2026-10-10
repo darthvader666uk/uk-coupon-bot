@@ -57,7 +57,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -80,7 +80,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -118,16 +118,19 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-10T00:00:00Z"
     },
     {
       "code": "SAILAWAY200",
@@ -233,6 +236,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-06T00:00:00Z"
+    },
+    {
+      "code": "AUTUMN26",
+      "description": "10% off Your Purchase - Shop the Sale",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/firstchoice.co.uk",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

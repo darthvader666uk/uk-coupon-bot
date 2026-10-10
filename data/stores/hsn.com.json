@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/hsn.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "TOYS10",
@@ -295,16 +297,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "WELCME2026",
@@ -315,16 +319,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "SALE26",
@@ -335,16 +341,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "PP10",
@@ -356,16 +364,18 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "25COUPHSN",
@@ -377,11 +387,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -399,16 +410,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "WELCOME2O26",
@@ -491,6 +504,216 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "LABORDAY26",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "49BDAYBASH",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "THANKYOU20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BEEKMAN20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAVE2026",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HOLIDAY20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WBLS5BVIQRCXKHD",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELCOME0526",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "TAPJOY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "RETAILBD10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://hsn.knoji.com/",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

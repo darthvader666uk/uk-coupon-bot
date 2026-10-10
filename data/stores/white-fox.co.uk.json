@@ -296,6 +296,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SHOP30",
+      "description": "30% off orders at White Fox Boutique",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/white-fox-discount-codes",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

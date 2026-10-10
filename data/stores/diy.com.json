@@ -770,14 +770,14 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
       "code": "WELCOME1808",
@@ -792,14 +792,14 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z"
     },
     {
       "code": "B&QOFFER",
@@ -814,7 +814,7 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -858,7 +858,7 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -920,14 +920,14 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-07-19T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z"
     },
     {
       "code": "CLUBWTOCSK",
@@ -986,12 +986,14 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
       "code": "WELCOME0707",
@@ -1006,7 +1008,7 @@
       ],
       "url": "https://www.coupert.com/store/diy.com",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1034,6 +1036,50 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WELCOME0809",
+      "description": "Diy.com Newsletter Subscribers Get 10% Off Their Purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/diy.com",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-10T00:00:00Z"
+    },
+    {
+      "code": "CLUBWHYGEN",
+      "description": "Surprise Discounts at B & Q - Use This Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/diy.com",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-06-26T00:00:00Z"
     }
   ]
 }

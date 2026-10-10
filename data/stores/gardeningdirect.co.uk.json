@@ -22,6 +22,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "AFSAV10GD",
+      "description": "Exclusive 10% off orders at Gardening Direct",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/gardening-direct-discount-codes",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AF12GD50Q3",
+      "description": "12% off orders over £50 at Gardening Direct",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/gardening-direct-discount-codes",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AF10GDQ3",
+      "description": "10% off First order at Gardening Direct",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/gardening-direct-discount-codes",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

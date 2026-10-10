@@ -57,7 +57,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -80,7 +80,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -103,7 +103,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -125,7 +125,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -171,7 +171,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1357,6 +1357,28 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MAY20",
+      "description": "20% Off Select Items",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jomajewellery.com",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-05-21T00:00:00Z"
     }
   ]
 }

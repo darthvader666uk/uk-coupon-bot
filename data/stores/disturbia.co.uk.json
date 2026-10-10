@@ -64,28 +64,6 @@
       }
     },
     {
-      "code": "BOGO50",
-      "description": "Buy One Get One 50% Off",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://uk.coupert.com/promo-code/disturbia",
-      "addedAt": "2026-10-06T14:44:51.217Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "BOGO50BUU",
       "description": "Enjoy Up To 50% Off On disturbia.co.uk Products",
       "type": "percentage",
@@ -186,27 +164,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "TAKE25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://disturbia.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     },
     {
       "code": "APP10",

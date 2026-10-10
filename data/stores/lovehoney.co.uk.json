@@ -415,6 +415,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "PAYDAY20",
+      "description": "Extra 20% off Payday Sale at Lovehoney",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lovehoney-discount-codes",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

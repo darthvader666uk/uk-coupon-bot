@@ -112,28 +112,6 @@
       }
     },
     {
-      "code": "MYSTERY",
-      "description": "5% off selected products",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/legendlondon.co",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-08T00:00:00Z"
-    },
-    {
       "code": "JON1",
       "description": "Sitewide Clearance: Prices Slashed on Every Item",
       "type": "unknown",

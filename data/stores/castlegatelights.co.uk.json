@@ -545,26 +545,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "TAKE5",
-      "description": "£5 off orders over £100 at Castlegate Lights",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/castlegate-lights-discount-codes",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

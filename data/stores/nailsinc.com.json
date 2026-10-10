@@ -105,7 +105,7 @@
       ],
       "url": "https://www.coupert.com/store/nailsinc.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -535,6 +535,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-02T00:00:00Z"
+    },
+    {
+      "code": "25SETS",
+      "description": "2 Days Only: 25% Off Select Sets",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nailsinc.com",
+      "addedAt": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     }
   ]
 }

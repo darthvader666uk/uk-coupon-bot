@@ -1048,72 +1048,10 @@
       "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
-      "code": "FREEDEL",
-      "description": "Free Shipping Storewide at Online Home Shop",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/onlinehomeshop.com",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Your Orders Placed At Online Home Shop Ship For Free Now",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/onlinehomeshop.com",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SBIZDXJ0",
       "description": "Apply OHS Online home shop Discount Codes for savings",
       "type": "unknown",
       "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ohs-online-home-shop",
-      "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FIRST10",
-      "description": "Take 10% Off with OHS Online home shop Promo Codes",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
