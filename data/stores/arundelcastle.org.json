@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ARUNDEL50",
+      "description": "Grab Up To 50% Off Castle & Gardens Tickets",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/arundel-castle",
+      "addedAt": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

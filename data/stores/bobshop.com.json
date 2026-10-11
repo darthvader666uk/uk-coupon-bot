@@ -122,7 +122,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/bobshop",
       "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-10-06T14:44:51.217Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -622,11 +622,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://bobshop.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -656,27 +657,6 @@
       "verified": false
     },
     {
-      "code": "SALE10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bobshop.knoji.com/",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "SANTINI20",
       "description": "20% off",
       "type": "percentage",
@@ -696,6 +676,46 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "ENDURA15",
+      "description": "Get 15% off your purchase using Bobshop Promo Codes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bobshop",
+      "addedAt": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAFE10",
+      "description": "Save 10% on your order with Bobshop Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bobshop",
+      "addedAt": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

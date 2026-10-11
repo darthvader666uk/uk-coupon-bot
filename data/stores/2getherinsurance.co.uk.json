@@ -1,0 +1,27 @@
+{
+  "domain": "2getherinsurance.co.uk",
+  "name": "2gether Insurance",
+  "category": "general",
+  "codes": [
+    {
+      "code": "OCT20",
+      "description": "New Customer Deal: 20% Off First Purchase at 2gether Insurance with Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/2gether-insurance",
+      "addedAt": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

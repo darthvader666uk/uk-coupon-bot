@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ZMIMB10",
+      "description": "Exclusive 10% Savings Using Z Hotels Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/z-hotels",
+      "addedAt": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

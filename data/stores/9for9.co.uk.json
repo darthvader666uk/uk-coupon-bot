@@ -108,27 +108,6 @@
       "verified": true
     },
     {
-      "code": "SPRING10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://9for9.knoji.com/",
-      "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "BARGAIN10",
       "description": "10% off",
       "type": "percentage",
@@ -190,6 +169,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "EXTRA5",
+      "description": "5% Off Your Purchase",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/9for9-co-uk",
+      "addedAt": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

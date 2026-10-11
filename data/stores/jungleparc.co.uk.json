@@ -42,26 +42,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "ASKMEOFFERS",
-      "description": "Grab 25% Discount with Jungle Parc discount code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/jungle-parc",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
