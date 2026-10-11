@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/myoovi",
       "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "CART23047",
@@ -52,16 +54,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/myoovi",
       "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "VAULT10",
@@ -72,16 +76,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/myoovi",
       "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "ENDO10",
@@ -92,16 +98,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/myoovi",
       "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "CART21443",
@@ -132,16 +140,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/myoovi",
       "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "WELCOME07967",
@@ -312,16 +322,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/myoovi",
       "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "CART77634",
@@ -522,6 +534,90 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "MYSUMMER30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://myoovi.knoji.com/",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MYSUMMER10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://myoovi.knoji.com/",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "NEWCODE20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://myoovi.knoji.com/",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ZACHARY01134",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://myoovi.knoji.com/",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

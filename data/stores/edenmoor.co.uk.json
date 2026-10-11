@@ -1,0 +1,47 @@
+{
+  "domain": "edenmoor.co.uk",
+  "name": "Edenmoor",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ENDSUMMER20",
+      "description": "20% off End of Summer Sale at Edenmoor",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/edenmoor-discount-codes",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREEDELIVERY",
+      "description": "Free Standard Delivery on all orders over £40 at Edenmoor",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/edenmoor-discount-codes",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

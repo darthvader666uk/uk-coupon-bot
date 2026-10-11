@@ -1172,28 +1172,6 @@
       }
     },
     {
-      "code": "15OFF",
-      "description": "15% Off Orders Over £59.99",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 59.99,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/emp.co.uk",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
-    },
-    {
       "code": "MIDWEEK15",
       "description": "EMP Coupon: 15% Off Your Order of £39.99",
       "type": "percentage",

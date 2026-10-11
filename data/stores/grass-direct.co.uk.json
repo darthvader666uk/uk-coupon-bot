@@ -44,6 +44,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "DOUBLE",
+      "description": "Extra 10% off orders at Grass Direct",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/grass-direct-discount-codes",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

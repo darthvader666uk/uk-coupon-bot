@@ -22,6 +22,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ASKMEOFFERS",
+      "description": "Get up to 70% Off using exclusive code",
+      "type": "percentage",
+      "value": 70,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/landal.com",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PYOB25",
+      "description": "Get 25% on Holiday centres",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/landal.com",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COUPON",
+      "description": "Enjoy Free Delivery on Your First Landal GreenParks Purchase",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/landal.com",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

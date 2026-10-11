@@ -162,26 +162,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVEMORE",
-      "description": "Get 20% Off Your Order with Harbour Hotel Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/harbour-hotel",
-      "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -144,26 +144,6 @@
       }
     },
     {
-      "code": "SAVEMORE",
-      "description": "£40 Off Orders Over £150",
-      "type": "fixed",
-      "value": 40,
-      "minSpend": 150,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/happy-beds-uk",
-      "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WEEKEND15",
       "description": "Save 15% with Happy Beds Voucher Code today",
       "type": "percentage",

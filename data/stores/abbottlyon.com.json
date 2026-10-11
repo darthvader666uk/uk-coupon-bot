@@ -18,7 +18,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/abbott-lyon-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -3172,26 +3172,6 @@
       "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
-      "code": "HELLO25",
-      "description": "25% off at abbottlyon.com",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/abbottlyon.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ALCOLL156BP7GN",
       "description": "Get Up to 15% Off at Abbott Lyon",
       "type": "percentage",
@@ -3586,6 +3566,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-09T00:00:00Z"
+    },
+    {
+      "code": "TAKE25",
+      "description": "25% off orders at Abbott Lyon",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/abbott-lyon-discount-codes",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

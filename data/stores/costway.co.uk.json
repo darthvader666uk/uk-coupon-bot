@@ -1,0 +1,27 @@
+{
+  "domain": "costway.co.uk",
+  "name": "Costway",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BR20",
+      "description": "£20 off orders over £200 at Costway",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 200,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/costway-discount-codes",
+      "addedAt": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
