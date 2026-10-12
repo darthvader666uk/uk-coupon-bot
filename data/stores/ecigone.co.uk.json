@@ -16,7 +16,7 @@
       ],
       "url": "https://www.coupert.com/store/ecigone.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -60,7 +60,7 @@
       ],
       "url": "https://www.coupert.com/store/ecigone.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -125,7 +125,7 @@
       ],
       "url": "https://www.coupert.com/store/ecigone.co.uk",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -567,7 +567,7 @@
       ],
       "url": "https://www.coupert.com/store/ecigone.co.uk",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -589,7 +589,7 @@
       ],
       "url": "https://www.coupert.com/store/ecigone.co.uk",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -672,7 +672,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ecigone-co-uk",
       "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -680,52 +680,10 @@
       }
     },
     {
-      "code": "XMAS10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://ecigone.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "JAN10",
       "description": "10% off",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://ecigone.knoji.com/",
-      "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "20OFF",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -762,6 +720,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SBW50",
+      "description": "Use Ecigone.co.uk Voucher Codes and save 50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ecigone-co-uk",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OCT45",
+      "description": "Get 45% off your purchase using Ecigone.co.uk Voucher Codes",
+      "type": "percentage",
+      "value": 45,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ecigone-co-uk",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

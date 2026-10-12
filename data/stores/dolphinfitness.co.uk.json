@@ -1,0 +1,27 @@
+{
+  "domain": "dolphinfitness.co.uk",
+  "name": "Dolphin Fitness",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GSW15",
+      "description": "Take 15% off using Dolphin Fitness Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dolphin-fitness",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

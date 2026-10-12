@@ -1,0 +1,27 @@
+{
+  "domain": "firesealsdirect.co.uk",
+  "name": "Fire Seals Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "THANKYOU5",
+      "description": "Apply Voucher Code to get 5% off at Fire Seals Direct",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fire-seals-direct",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

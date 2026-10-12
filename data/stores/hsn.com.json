@@ -254,11 +254,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -498,7 +499,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/hsn",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -528,27 +529,6 @@
     },
     {
       "code": "49BDAYBASH",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://hsn.knoji.com/",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "THANKYOU20",
       "description": "20% off",
       "type": "percentage",
       "value": 20,
@@ -672,6 +652,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "HOLIDAY26",
+      "description": "New Customer Get Discount on First Order at HSN with Promo Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hsn",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15NOW",
+      "description": "Apply HSN Discount Codes to save 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hsn",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

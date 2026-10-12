@@ -1,0 +1,47 @@
+{
+  "domain": "forceusa.co.uk",
+  "name": "Force Usa",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SALES10",
+      "description": "Apply Force Usa Discount Codes to save 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/force-usa",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIT5",
+      "description": "Take 5% Off Your Purchase with This Special Offer",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/force-usa",
+      "addedAt": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

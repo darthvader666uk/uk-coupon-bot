@@ -164,26 +164,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "20OFF",
-      "description": "£20 off orders over £100 at W-Wellness",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/w-wellness-discount-codes",
-      "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
