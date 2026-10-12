@@ -4,28 +4,8 @@
   "category": "general",
   "codes": [
     {
-      "code": "WELCOME5",
-      "description": "Join Black Screen Records and get 5% off using Promo Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/black-screen-records",
-      "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WELCOME5WELCOME5",
-      "description": "",
+      "description": "5% Off When You Sign Up for the Newsletter",
       "type": "percentage",
       "value": 5,
       "minSpend": null,
@@ -36,12 +16,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/black-screen-records",
       "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-10T00:00:00Z"
     },
     {
       "code": "CHECKMATE11",
@@ -56,12 +38,36 @@
       ],
       "url": "https://uk.coupert.com/promo-code/black-screen-records",
       "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "code": "WELCOME25",
+      "description": "",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/blackscreenrecords.com",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     }
   ]
 }

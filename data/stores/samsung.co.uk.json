@@ -1186,6 +1186,46 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-09T00:00:00Z"
+    },
+    {
+      "code": "LAPTOP10",
+      "description": "Get 10% off All Galaxy Laptops Plus up to £400 off Galaxy Book6 Pro and £5-£460 off when you Trade in a Selected Laptop",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/samsung-discount-codes",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "A50",
+      "description": "Save up to £95 on the Galaxy A37 when you Register and Buy from the Samsung Business Shop",
+      "type": "fixed",
+      "value": 95,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/samsung-discount-codes",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

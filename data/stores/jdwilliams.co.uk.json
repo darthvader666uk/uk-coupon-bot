@@ -311,7 +311,7 @@
       ],
       "url": "https://www.coupert.com/store/jdwilliams.co.uk",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -353,7 +353,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/jd-williams-discount-codes",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -415,14 +415,14 @@
       ],
       "url": "https://www.coupert.com/store/jdwilliams.co.uk",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-08T00:00:00Z"
+      "lastWorkedAt": "2026-10-12T00:00:00Z"
     },
     {
       "code": "DEL48",
@@ -437,14 +437,14 @@
       ],
       "url": "https://www.coupert.com/store/jdwilliams.co.uk",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z"
     },
     {
       "code": "REWARDS10",
@@ -459,12 +459,34 @@
       ],
       "url": "https://www.coupert.com/store/jdwilliams.co.uk",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "COSY1",
+      "description": "20% Off at JD Williams",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jdwilliams.co.uk",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-11T00:00:00Z"
     }
   ]
 }

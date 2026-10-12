@@ -46,28 +46,6 @@
       }
     },
     {
-      "code": "TENOFF",
-      "description": "10% Off Using Mstore Promo Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://uk.coupert.com/promo-code/mstore",
-      "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "SUBSCRIPTION",
       "description": "Enter Email to Get a Special Voucher Code at Mstore",
       "type": "unknown",

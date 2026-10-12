@@ -325,27 +325,6 @@
       "verified": false
     },
     {
-      "code": "NEWS30SHIP",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://2tall.knoji.com/",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "SPRING18",
       "description": "Use 2tall.com Discount Code for savings",
       "type": "unknown",
@@ -364,27 +343,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "OFFERS18",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://2tall.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "SMS10OFF",
@@ -406,47 +364,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SIMPLYCODES15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://2tall.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "15OFF",
-      "description": "Save 15% with This 2tall.com Voucher Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/2tall",
-      "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

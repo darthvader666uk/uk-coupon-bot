@@ -427,27 +427,6 @@
       "verified": false
     },
     {
-      "code": "JULY15",
-      "description": "Apply Johnny Loves Rosie Discount Codes to save 15%",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "savoo"
-      ],
-      "url": "https://uk.coupert.com/promo-code/johnnylovesrosie",
-      "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "JLR15",
       "description": "Save on your next purchase. Click to copy the code",
       "type": "unknown",
@@ -461,6 +440,26 @@
       "url": "https://uk.coupert.com/promo-code/johnnylovesrosie",
       "addedAt": "2026-10-07T15:02:54.550Z",
       "lastSeen": "2026-10-08T15:10:11.855Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUTUMN20",
+      "description": "20% off orders at Johnny Loves Rosie",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/johnny-loves-rosie-discount-codes",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,

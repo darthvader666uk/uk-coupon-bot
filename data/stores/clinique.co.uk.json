@@ -112,16 +112,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/clinique.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
     },
     {
       "code": "PERFECT",
@@ -176,7 +178,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -512,7 +514,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -605,27 +607,6 @@
       "verified": false
     },
     {
-      "code": "10OZLOVE",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://clinique.knoji.com/",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "SUMMER25",
       "description": "25% off",
       "type": "percentage",
@@ -648,27 +629,6 @@
     },
     {
       "code": "CLEAN25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://clinique.knoji.com/",
-      "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "CODE10",
       "description": "25% off",
       "type": "percentage",
       "value": 25,
@@ -764,7 +724,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -785,7 +745,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -806,7 +766,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -827,7 +787,322 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FALLGIFT",
+      "description": "Free Full Size Moisturizer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BOTHTOGO",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "TWODAY",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HAPPYDUO",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "2DELUXE",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CLEANSER",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CLINIQUE50",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LUSHTRIO",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "2XMASCARA",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "GLOWTEAM",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "EYEFULLSIZE",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SKINFULLSIZE",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SKINFAVES",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "EYEFAVES",
+      "description": "Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "NEXTORDER",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -1,0 +1,47 @@
+{
+  "domain": "bensherman.co.uk",
+  "name": "Ben Sherman",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BDAY20",
+      "description": "20% off Everything at Ben Sherman",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/ben-sherman-discount-codes",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BENSHER10OFF",
+      "description": "10% off orders over £80 at Ben Sherman",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/ben-sherman-discount-codes",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

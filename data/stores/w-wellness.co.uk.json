@@ -53,11 +53,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/w-wellness",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -158,6 +159,26 @@
       "url": "https://uk.coupert.com/promo-code/w-wellness",
       "addedAt": "2026-10-05T16:40:00.368Z",
       "lastSeen": "2026-10-05T16:40:00.368Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "20OFF",
+      "description": "£20 off orders over £100 at W-Wellness",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/w-wellness-discount-codes",
+      "addedAt": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-12T14:05:57.990Z",
       "testResults": {
         "total": 0,
         "worked": 0,
