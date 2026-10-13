@@ -32,11 +32,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/jimjamthelabel.com",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -84,6 +85,174 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SUMMERSALE30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SLEEPERFAMILY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "DEMAND10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GIMME2",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ADDGENATRY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SIMPLYCODESBH15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SIMPLYCODESEW15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "COZY10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jimjamthelabel.knoji.com/",
+      "addedAt": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

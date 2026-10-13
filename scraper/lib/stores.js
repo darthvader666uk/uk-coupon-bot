@@ -181,6 +181,7 @@ export const DISPLAY_NAMES = {
   "premier-inn.co.uk": "Premier Inn",
   "premiumcdkeys.com": "PremiumCDKeys",
   "primevideo.co.uk": "Prime Video",
+  "ravecoffee.co.uk": "Rave Coffee",
   "ryanair.co.uk": "Ryanair",
   "sainsburys.co.uk": "Sainsbury's",
   "samsung.co.uk": "Samsung",

@@ -48,6 +48,9 @@ export const STORES_PER_RUN = 400;
  */
 export const SUBDOMAIN_OVERRIDES = {
   "diy.com": "bq",
+  // Knoji is the only source carrying it (Caramel empty, coupert-www 410,
+  // not on Savoo), so it has to be pinned to get into the index at all.
+  "ravecoffee.co.uk": "ravecoffee",
 };
 
 /** Strip a store domain down to the bare name Knoji uses as a subdomain. */
