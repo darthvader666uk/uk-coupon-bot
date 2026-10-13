@@ -17,7 +17,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/kulfi-beauty",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -273,11 +273,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://kulfibeauty.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -431,6 +432,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SWEET10CPHNWL4D",
+      "description": "Apply Kulfi Beauty Discount Codes to save 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kulfi-beauty",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

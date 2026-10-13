@@ -525,28 +525,6 @@
       "lastWorkedAt": "2026-09-25T00:00:00Z"
     },
     {
-      "code": "AUGUST15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "savoo"
-      ],
-      "url": "https://letterfest.knoji.com/",
-      "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "SAVEFIVE",
       "description": "",
       "type": "unknown",
@@ -566,27 +544,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "AUTUMN15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://letterfest.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

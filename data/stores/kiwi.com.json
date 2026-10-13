@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -58,7 +58,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -468,7 +468,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -792,7 +792,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1056,7 +1056,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1296,6 +1296,86 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-05T00:00:00Z"
+    },
+    {
+      "code": "APPYGBP10",
+      "description": "Use Kiwi.com Promo Codes for 10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EAEB89K112",
+      "description": "Take 15% off using Kiwi.com Promo Codes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EUFL26",
+      "description": "Save with Kiwi.com Promo Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APPY20GBP",
+      "description": "Take 20% off using Kiwi.com Promo Codes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

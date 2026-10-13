@@ -684,26 +684,6 @@
       }
     },
     {
-      "code": "DEAL15",
-      "description": "Unlock 15% off your order when you spend £139 or more at Aosom.co.uk with this promo code.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 139,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/aosom.co.uk",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SUMMER12",
       "description": "Apply this voucher code during checkout to qualify for 12% off on £129 or more total purchases.",
       "type": "percentage",
@@ -950,27 +930,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "FALL15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://aosom.knoji.com/",
-      "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

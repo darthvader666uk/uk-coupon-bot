@@ -489,29 +489,6 @@
       }
     },
     {
-      "code": "HALLOWEEN",
-      "description": "Sale 15% Off Sitewide",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/lensmartonline.com",
-      "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
-    },
-    {
       "code": "ICECREAM",
       "description": "Save 15% Sitewide - Quality Savings on Everything",
       "type": "percentage",
@@ -1006,11 +983,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://lensmartonline.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1374,6 +1352,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "HAVE30",
+      "description": "Apply Lensmart Glasses Discount Codes to save 30%",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lensmart-glasses",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DEMARIS",
+      "description": "Save £8.52 off at Lensmart Glasses with this Promo Codes",
+      "type": "fixed",
+      "value": 8.52,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lensmart-glasses",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

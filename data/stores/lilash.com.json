@@ -84,7 +84,7 @@
       ],
       "url": "https://www.coupert.com/store/lilash.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -261,7 +261,7 @@
       ],
       "url": "https://www.coupert.com/store/lilash.com",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -413,11 +413,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://lilash.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -655,6 +656,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "HONEY10",
+      "description": "Exclusive Deal: Enjoy 10% Savings with LiLash Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lilash",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BRANDI25",
+      "description": "Enjoy 25% off all your purchases",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lilash",
+      "addedAt": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
