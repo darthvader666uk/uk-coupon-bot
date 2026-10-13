@@ -245,7 +245,7 @@
       ],
       "url": "https://www.coupert.com/store/rarelondon.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -379,7 +379,7 @@
     },
     {
       "code": "WELCOME6Q64KDDW",
-      "description": "",
+      "description": "Get Special Deals Sent Directly to Your Inbox - Join the Newsletter",
       "type": "unknown",
       "value": null,
       "minSpend": null,
@@ -390,7 +390,69 @@
       ],
       "url": "https://www.coupert.com/store/rarelondon.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIRST5",
+      "description": "5% Off at Rare London",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/rarelondon.com",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "code": "WEEKEND15",
+      "description": "15% Off Summer Sale Styles at Rare London",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/rarelondon.com",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW20",
+      "description": "20% Off New Arrivals",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/rarelondon.com",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,

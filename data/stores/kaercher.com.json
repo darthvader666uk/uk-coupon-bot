@@ -52,16 +52,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/kaercher",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "KWOW60",
@@ -232,11 +234,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kaercher.com",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -334,16 +337,333 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kaercher.com",
       "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
+    },
+    {
+      "code": "OUTDOOR57",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "15OFFGAS",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRING30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DOORBUSTER2",
+      "description": "67% off",
+      "type": "percentage",
+      "value": 67,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "10EXTRA",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "WATERING25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "YELLOW20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "2023DB1",
+      "description": "Up to 60 Percent off",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "FRESH20",
+      "description": "£20 off",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "NICKLARRALDE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ANNIVERSARY2026",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WDABAN10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "POWR15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ERK10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CARLOSLUGO",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kaercher.knoji.com/",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "domain": "kickers.co.uk",
+  "name": "Kickers",
+  "category": "general",
+  "codes": [
+    {
+      "code": "KICKSAVOO20",
+      "description": "Exclusive 20% off all orders over £70 at Kickers",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 70,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/kickers-discount-codes",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

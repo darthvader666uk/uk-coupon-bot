@@ -317,6 +317,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BH15",
+      "description": "15% off orders over £100",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/the-fish-society-discount-codes",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

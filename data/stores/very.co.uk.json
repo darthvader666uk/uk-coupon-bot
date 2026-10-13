@@ -1184,26 +1184,6 @@
       }
     },
     {
-      "code": "TREAT10",
-      "description": "Enjoy a Discount of £10 with Very Discount Code",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/very",
-      "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "INDOORTOYS",
       "description": "Use Very Discount Code for savings",
       "type": "unknown",

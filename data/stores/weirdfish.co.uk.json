@@ -463,6 +463,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "AUTUMN15",
+      "description": "Extra 15% off Everytning at Weirdfish",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/weirdfish-discount-codes",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

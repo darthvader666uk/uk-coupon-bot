@@ -390,7 +390,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/lights4fun.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -670,26 +670,24 @@
       "verified": true
     },
     {
-      "code": "PRIMETIME",
-      "description": "lights4fun.co.uk coupon",
-      "type": "unknown",
-      "value": null,
+      "code": "SALE15",
+      "description": "Extra 15% off Clearance at Lights4Fun",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
-      "source": "caramel",
+      "source": "savoo",
       "sources": [
-        "caramel",
-        "knoji"
+        "savoo"
       ],
-      "url": "https://grabcaramel.com/coupons/lights4fun.co.uk",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "url": "https://www.savoo.co.uk/brands/lights4fun-discount-codes",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

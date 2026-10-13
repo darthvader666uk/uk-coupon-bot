@@ -16,7 +16,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/other-stories",
       "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -38,7 +38,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/other-stories",
       "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -80,14 +80,14 @@
       ],
       "url": "https://www.coupert.com/store/stories.com",
       "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-11T00:00:00Z"
+      "lastWorkedAt": "2026-10-12T00:00:00Z"
     },
     {
       "code": "GOCERTIFY12",
@@ -102,12 +102,14 @@
       ],
       "url": "https://www.coupert.com/store/stories.com",
       "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-12T00:00:00Z"
     },
     {
       "code": "THANKSLA15",
@@ -130,6 +132,70 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-28T00:00:00Z"
+    },
+    {
+      "code": "MOBILE15",
+      "description": "Save 15% on Any Purchase",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/stories.com",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-12T00:00:00Z"
+    },
+    {
+      "code": "CEREMONY15",
+      "description": "15% Off With & Other Stories Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/stories.com",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-03-19T00:00:00Z"
+    },
+    {
+      "code": "THANKYOU",
+      "description": "Free shipping and handling",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/stories.com",
+      "addedAt": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
