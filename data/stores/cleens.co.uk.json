@@ -87,26 +87,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "SHIPFREE",
-      "description": "Save £10 off with Cleens Discount Code",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/cleens-co-uk",
-      "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

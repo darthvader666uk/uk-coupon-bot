@@ -178,46 +178,6 @@
       "lastWorkedAt": "2026-03-19T00:00:00Z"
     },
     {
-      "code": "THANKYOU",
-      "description": "Free shipping and handling",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/stories.com",
-      "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE25",
-      "description": "Enjoy 25% off with & Other Stories Discount Code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/other-stories",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SORRY20",
       "description": "Apply Promo Code to get 20% off at & Other Stories",
       "type": "percentage",

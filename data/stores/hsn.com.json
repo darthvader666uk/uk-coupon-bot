@@ -58,7 +58,7 @@
       ],
       "url": "https://www.coupert.com/store/hsn.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-07T15:02:54.550Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -259,7 +259,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -437,7 +437,7 @@
       ],
       "url": "https://www.coupert.com/store/hsn.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -488,7 +488,7 @@
     },
     {
       "code": "WELCOME2026",
-      "description": "",
+      "description": "20% Off When You Subscribe to the Newsletter",
       "type": "percentage",
       "value": 20,
       "minSpend": null,
@@ -499,12 +499,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/hsn",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-05T00:00:00Z"
     },
     {
       "code": "LABORDAY26",
@@ -645,12 +647,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/hsn",
       "addedAt": "2026-10-12T17:19:35.227Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-11T00:00:00Z"
     },
     {
       "code": "15NOW",
@@ -666,6 +670,46 @@
       "url": "https://uk.coupert.com/promo-code/hsn",
       "addedAt": "2026-10-12T17:19:35.227Z",
       "lastSeen": "2026-10-12T17:19:35.227Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "THANKYOU20",
+      "description": "20% Off Single-Item Purchase",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hsn.com",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WEEKEND",
+      "description": "A sale on your order at hsn.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hsn.com",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -42,46 +42,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "5OFF",
-      "description": "This coupon's 5% off applies only to full-priced items",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/nextdaydeal-co-uk",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREESHIP",
-      "description": "Free Delivery on Selected Purchases",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/nextdaydeal-co-uk",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

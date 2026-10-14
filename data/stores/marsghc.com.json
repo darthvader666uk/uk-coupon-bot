@@ -124,26 +124,6 @@
       }
     },
     {
-      "code": "FIRST10",
-      "description": "New User can Get 10% Off at Mars with Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/mars",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BEST25",
       "description": "Use Mars Discount Codes for 25% off",
       "type": "percentage",

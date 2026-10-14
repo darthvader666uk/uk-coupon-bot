@@ -688,11 +688,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://instantprint.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -953,6 +954,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "12ROLLER",
+      "description": "12% off Roller Flyers at Instantprint",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/instantprint-voucher-codes",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

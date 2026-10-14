@@ -361,26 +361,6 @@
       "verified": false
     },
     {
-      "code": "FIRST10",
-      "description": "New User Discount - 10% Off First Purchase at Mstore with Promo Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/mstore",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "TRADE250",
       "description": "Save £16 on Your Order with Mstore Promo Codes",
       "type": "fixed",

@@ -120,7 +120,7 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -140,7 +140,7 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -160,7 +160,69 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BLCUK109JDQ9A",
+      "description": "Enjoy 10% Off on Your Order Now",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/on.com",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "code": "IWONAKROC2022",
+      "description": "Discounts are available on your total order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/on.com",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CHI001FRSHP",
+      "description": "Get Free Shipping On Your Order",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/on.com",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,

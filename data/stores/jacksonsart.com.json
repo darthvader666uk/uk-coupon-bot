@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/jacksonsart.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -100,14 +100,14 @@
       ],
       "url": "https://www.coupert.com/store/jacksonsart.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "lastWorkedAt": "2026-10-13T00:00:00Z"
     },
     {
       "code": "JASP20",
@@ -122,7 +122,7 @@
       ],
       "url": "https://www.coupert.com/store/jacksonsart.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -142,7 +142,7 @@
       ],
       "url": "https://www.coupert.com/store/jacksonsart.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -182,7 +182,49 @@
       ],
       "url": "https://www.coupert.com/store/jacksonsart.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FABC5",
+      "description": "5% Off Selected Art Materials",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jacksonsart.com",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-12T00:00:00Z"
+    },
+    {
+      "code": "JFL50",
+      "description": "50% Off Eco-Friendly Products",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jacksonsart.com",
+      "addedAt": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-14T11:07:21.531Z",
       "testResults": {
         "total": 0,
         "worked": 0,

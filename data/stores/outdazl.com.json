@@ -364,49 +364,8 @@
       "verified": false
     },
     {
-      "code": "SHIPFREE",
-      "description": "Free shipping",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://outdazl.knoji.com/",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "CHECKOUT10",
       "description": "Special Deals: Get 10% Off with OutDazl Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/outdazl",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "HELLO10",
-      "description": "Save 10% on Your Complete Purchase with OutDazl Promo Codes",
       "type": "percentage",
       "value": 10,
       "minSpend": null,
