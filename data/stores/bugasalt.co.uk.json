@@ -604,27 +604,6 @@
       "verified": false
     },
     {
-      "code": "EMAIL15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bugasalt.knoji.com/",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-13T07:54:19.095Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "TENOFF",
       "description": "10% off",
       "type": "percentage",
@@ -644,27 +623,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "THANKS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bugasalt.knoji.com/",
-      "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-13T07:54:19.095Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "THANKYOU20",

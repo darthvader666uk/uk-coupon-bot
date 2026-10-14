@@ -2110,28 +2110,6 @@
       }
     },
     {
-      "code": "10OFF",
-      "description": "HapiChild Coupon Code: 10% Off Everything Storewide + Free Shipping for new customers",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-14T00:00:00Z"
-    },
-    {
       "code": "COMEBACK",
       "description": "Up To 40% Off Home & Kids",
       "type": "percentage",
@@ -2174,50 +2152,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-13T00:00:00Z"
-    },
-    {
-      "code": "SAVE30",
-      "description": "5% off with promo code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-07T00:00:00Z"
-    },
-    {
-      "code": "THANKS",
-      "description": "Secure 5% off when you buy",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-14T00:00:00Z"
     },
     {
       "code": "TRUSTUS",

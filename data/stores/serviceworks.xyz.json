@@ -1,0 +1,27 @@
+{
+  "domain": "serviceworks.xyz",
+  "name": "Service Works",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GET20",
+      "description": "Enjoy 20% Off with Service Works Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/service-works",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

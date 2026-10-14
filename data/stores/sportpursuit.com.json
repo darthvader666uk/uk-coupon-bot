@@ -37,7 +37,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/sportpursuit",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -707,11 +707,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://sportpursuit.knoji.com/",
       "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -749,11 +750,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://sportpursuit.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -823,6 +825,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "HH20",
+      "description": "Extra 20% Off Happy Hour Category",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/sportpursuit",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

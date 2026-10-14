@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ravecoffee.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -33,11 +34,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ravecoffee.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -54,11 +56,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ravecoffee.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -75,11 +78,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ravecoffee.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-13T07:54:19.095Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -464,6 +468,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "R5BAD2FAC103F3",
+      "description": "Apply Promo Code to get 5% off at RAVE Coffee",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rave-coffee",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SEP35",
+      "description": "Enjoy a Discount of 35% at RAVE Coffee with This Exclusive Discount Code",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rave-coffee",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FRESH1564VB4K7S",
+      "description": "Save £1.82 off with RAVE Coffee Discount Code",
+      "type": "fixed",
+      "value": 1.82,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rave-coffee",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

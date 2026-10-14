@@ -1,0 +1,27 @@
+{
+  "domain": "workplacestuff.co.uk",
+  "name": "Workplace Stuff",
+  "category": "general",
+  "codes": [
+    {
+      "code": "TOTSPE",
+      "description": "All customers can order with a discount of 70% when using Workplace Stuff code",
+      "type": "percentage",
+      "value": 70,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/workplacestuff-co-uk",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

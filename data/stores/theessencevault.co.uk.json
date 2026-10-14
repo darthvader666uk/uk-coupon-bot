@@ -41,7 +41,7 @@
       ],
       "url": "https://theessencevault.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -481,11 +481,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/theessencevault.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -646,7 +647,7 @@
       ],
       "url": "https://www.coupert.com/store/theessencevault.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -974,7 +975,7 @@
       ],
       "url": "https://www.coupert.com/store/theessencevault.co.uk",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1082,7 +1083,7 @@
       ],
       "url": "https://www.coupert.com/store/theessencevault.co.uk",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1156,6 +1157,106 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-12T00:00:00Z"
+    },
+    {
+      "code": "SUMMER10",
+      "description": "Use this The Essence Vault Promo Code for 10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/theessencevault-co-uk",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREESHIP",
+      "description": "Shop and Get Free Shipping on Every Item",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/theessencevault-co-uk",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MFQMMZGP",
+      "description": "Enjoy £11.45 off with The Essence Vault Promo Code",
+      "type": "fixed",
+      "value": 11.45,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/theessencevault-co-uk",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "W3DNRD24",
+      "description": "Great savings on your order at theessencevault.co.uk",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/theessencevault-co-uk",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WELCOME20",
+      "description": "20% Off Promo Code for The Essence Vault Today",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/theessencevault-co-uk",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

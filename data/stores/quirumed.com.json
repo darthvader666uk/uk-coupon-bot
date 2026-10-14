@@ -44,10 +44,10 @@
       }
     },
     {
-      "code": "SAVING",
-      "description": "Quirumed Flash Sales and Limited Codes",
-      "type": "unknown",
-      "value": null,
+      "code": "PRIME5",
+      "description": "Quirumed Discount Code: 5% Off For You",
+      "type": "percentage",
+      "value": 5,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
@@ -55,8 +55,48 @@
         "coupert"
       ],
       "url": "https://uk.coupert.com/promo-code/quirumed-com",
-      "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUBSCRIBE5",
+      "description": "",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quirumed-com",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA5",
+      "description": "Up to 5% off in this sale",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quirumed-com",
+      "addedAt": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,
