@@ -188,26 +188,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "FIRST20",
-      "description": "Save 20% on First Purchase for New Customers at Swaz with Discount Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/swaz",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -95,11 +95,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://yogamatters.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -137,11 +138,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://yogamatters.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -318,25 +320,84 @@
       "verified": false
     },
     {
-      "code": "FLASH10",
+      "code": "WELCOMEGBKJKB7S",
       "description": "",
       "type": "unknown",
       "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://yogamatters.knoji.com/",
-      "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "url": "https://uk.coupert.com/promo-code/yogamatters-discount",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
+    },
+    {
+      "code": "CASH5",
+      "description": "Save with 5% off your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yogamatters-discount",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PRBOLMINIORG2",
+      "description": "Check Out After Placing Your Order for Even More Savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yogamatters-discount",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "YMDONNA",
+      "description": "Discounts on quality picks chosen for you",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yogamatters-discount",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -144,26 +144,6 @@
       }
     },
     {
-      "code": "DISCOUNT5",
-      "description": "New Customers Get 5% Off First Order at I Amsterdam with Promo Codes",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/i-amsterdam",
-      "addedAt": "2026-10-12T17:19:35.227Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "APR10",
       "description": "Receive 10% Off on Your Iamsterdam First Order with Discount Code",
       "type": "percentage",

@@ -583,27 +583,6 @@
       }
     },
     {
-      "code": "VIP15",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://my1styears.knoji.com/",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "GIFT10",
       "description": "Spend and Save: £10 off Full-Priced orders over £50 at My 1st Years",
       "type": "fixed",

@@ -184,26 +184,6 @@
       }
     },
     {
-      "code": "FIRST20",
-      "description": "Enjoy 20% Off Your First Order with Promo Code at 192",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/192.com",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FREEGIFT",
       "description": "Enjoy Free Gift with Select Order at 192",
       "type": "unknown",
@@ -237,6 +217,86 @@
       "url": "https://www.coupert.com/store/192.com",
       "addedAt": "2026-10-14T11:07:21.531Z",
       "lastSeen": "2026-10-14T11:07:21.531Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPARK25",
+      "description": "Enjoy a Discount of 25% Using 192.com Discount Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/192-com",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TREAT25",
+      "description": "Enjoy a 25% Discount with Your 192.com Discount Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/192-com",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LOVE26",
+      "description": "25% Off Voucher Code for 192.com Today",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/192-com",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVING",
+      "description": "192 Money-Savers and Bargain Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/192-com",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
       "testResults": {
         "total": 0,
         "worked": 0,

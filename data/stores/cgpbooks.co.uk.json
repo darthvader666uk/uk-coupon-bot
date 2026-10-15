@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FIRST10",
+      "description": "10% Off First Order at CGP Books for New Users with Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/cgp-books",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CGP20OFF",
+      "description": "Big Savings, Big Smiles: Take 20% Off Your Entire Cart",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/cgp-books",
+      "addedAt": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

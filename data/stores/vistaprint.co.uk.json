@@ -768,26 +768,6 @@
       }
     },
     {
-      "code": "NEW15",
-      "description": "New Customer Deal: 15% Off First Purchase at Vistaprint with Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/vistaprint",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FREESHIPNEW",
       "description": "FREE Delivery On First Business Cards & Sticker Orders VistaPrint discount code",
       "type": "free_shipping",
