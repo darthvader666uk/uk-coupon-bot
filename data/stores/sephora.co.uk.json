@@ -298,27 +298,6 @@
       "verified": true
     },
     {
-      "code": "ELIST15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://sephora.knoji.com/",
-      "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "YESMAKEUP",
       "description": "Free gift",
       "type": "unknown",
@@ -359,6 +338,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "SAVING",
+      "description": "Up to 20% off Full-Priced orders at Sephora",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/sephora-discount-codes",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-15T10:52:45.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

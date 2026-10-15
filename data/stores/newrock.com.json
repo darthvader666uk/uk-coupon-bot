@@ -70,26 +70,6 @@
       "lastWorkedAt": "2026-10-12T00:00:00Z"
     },
     {
-      "code": "LOVE10",
-      "description": "Use New Rock Discount Code for 10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/new-rock",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "LEAPYEAR",
       "description": "Save 5% on your order with New Rock Discount Code",
       "type": "percentage",
@@ -118,16 +98,39 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/new-rock",
       "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
+      "lastSeen": "2026-10-15T10:52:45.812Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
+    },
+    {
+      "code": "NRKEXTRA10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://newrock.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-15T10:52:45.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

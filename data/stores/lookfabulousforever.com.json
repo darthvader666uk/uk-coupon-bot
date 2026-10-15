@@ -16,27 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/look-fabulous-forever-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BEAUTY20",
-      "description": "20% off Makeup at Look Fabulous Forever",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/look-fabulous-forever-discount-codes",
-      "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-15T10:52:45.812Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -276,6 +256,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-05T00:00:00Z"
+    },
+    {
+      "code": "FOUNDATION",
+      "description": "Free Foundation on orders over £25 at Look Fabulous Forever",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/look-fabulous-forever-discount-codes",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-15T10:52:45.812Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

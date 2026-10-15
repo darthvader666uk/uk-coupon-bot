@@ -204,26 +204,6 @@
       }
     },
     {
-      "code": "SAVE25",
-      "description": "£25 off when you spend over £200",
-      "type": "fixed",
-      "value": 25,
-      "minSpend": 200,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/r-r-country",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "JOULES20",
       "description": "Enjoy a 20% Discount with Your R&R Country Discount Codes",
       "type": "percentage",

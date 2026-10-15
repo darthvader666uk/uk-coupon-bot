@@ -128,27 +128,6 @@
       "verified": true
     },
     {
-      "code": "EASTER",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://routeone.knoji.com/",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "MAY10",
       "description": "10% off",
       "type": "percentage",
@@ -195,26 +174,6 @@
       "description": "Shop and save 10% at routeone.co.uk",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/route-one",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE15",
-      "description": "Unlock 15% off using Route One Promo Code",
-      "type": "percentage",
-      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
