@@ -263,46 +263,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GIFT20",
-      "description": "An additional 20% off applies to special items",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/asdaphoto",
-      "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE5",
-      "description": "Enjoy £5 Off Your Entire Purchase with ASDA photo Discount Codes",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/asdaphoto",
-      "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

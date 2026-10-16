@@ -383,26 +383,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST10",
-      "description": "New User Discount - 10% Off First Purchase at Xplora with Promo Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/xplora",
-      "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

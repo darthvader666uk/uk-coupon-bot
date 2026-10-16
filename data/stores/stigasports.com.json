@@ -53,17 +53,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://stigasports.knoji.com/",
       "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
     },
     {
       "code": "CPT5",
@@ -74,17 +76,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://stigasports.knoji.com/",
       "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-15T00:00:00Z"
     },
     {
       "code": "THESUMMEROFTABLETENNIS24",
@@ -358,6 +362,94 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "PATRICK15",
+      "description": "Receive 15% Off on Your Order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/stigasports.com",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "code": "COUPERT10",
+      "description": "Enjoy 5% Off at STIGA Sports",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/stigasports.com",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "code": "STUDENT20",
+      "description": "Save 20% with This Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/stigasports.com",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "code": "VATAGO15",
+      "description": "15% Off at STIGA Sports",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/stigasports.com",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
     }
   ]
 }

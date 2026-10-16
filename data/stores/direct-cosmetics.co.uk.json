@@ -1,0 +1,27 @@
+{
+  "domain": "direct-cosmetics.co.uk",
+  "name": "Direct Cosmetics",
+  "category": "general",
+  "codes": [
+    {
+      "code": "LDQ3SFJC",
+      "description": "Exclusive 10% off orders over £30 at Direct Cosmetics",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/direct-cosmetics-discount-codes",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

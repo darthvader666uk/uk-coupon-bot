@@ -2030,26 +2030,6 @@
       }
     },
     {
-      "code": "FIRST50",
-      "description": "Use Discount Code and Grab 50% Off Now",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/allkeyshop",
-      "addedAt": "2026-10-01T14:37:50.920Z",
-      "lastSeen": "2026-10-01T14:37:50.920Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "AKS10LB",
       "description": "Take 10% off using Allkeyshop Discount Code",
       "type": "percentage",

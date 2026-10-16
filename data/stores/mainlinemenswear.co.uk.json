@@ -242,6 +242,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "MAINLINES10",
+      "description": "10% off orders over £450 at Mainline Menswear",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 450,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/mainline-menswear-discount-codes",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

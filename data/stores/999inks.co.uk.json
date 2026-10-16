@@ -52,11 +52,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -74,17 +75,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
@@ -96,11 +98,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -172,26 +175,361 @@
       }
     },
     {
-      "code": "VIP20",
-      "description": "20% off Compatible, Remanufactured, and OEM Ink and Toner at 999Inks",
+      "code": "SALES10",
+      "description": "10% off",
       "type": "percentage",
-      "value": 20,
+      "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "knoji",
       "sources": [
-        "coupert"
+        "knoji"
       ],
-      "url": "https://www.coupert.com/store/999inks.co.uk",
-      "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-09-29T00:00:00Z"
+      "verified": true
+    },
+    {
+      "code": "SPRING18",
+      "description": "18% off",
+      "type": "percentage",
+      "value": 18,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "VIP7",
+      "description": "7% off",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MAY5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRING12",
+      "description": "12% off",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "APRIL15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "LOVE14",
+      "description": "14% off",
+      "type": "percentage",
+      "value": 14,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JAN10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "EOY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CYBER30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "FALL16",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "Q4INK123",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "V405REGI",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SHIP26",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HERE10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "TOPCUSTOMER",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HNY20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://999inks.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

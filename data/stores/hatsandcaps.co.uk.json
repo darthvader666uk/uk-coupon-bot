@@ -96,7 +96,7 @@
       ],
       "url": "https://www.coupert.com/store/hatsandcaps.co.uk",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -124,6 +124,50 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "TENOFF",
+      "description": "Savings are available on your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hatsandcaps.co.uk",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2024-12-17T00:00:00Z"
+    },
+    {
+      "code": "CJC99U",
+      "description": "More savings are available on your purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hatsandcaps.co.uk",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2025-02-15T00:00:00Z"
     }
   ]
 }

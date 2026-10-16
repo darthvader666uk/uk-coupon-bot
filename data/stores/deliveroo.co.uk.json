@@ -2379,27 +2379,6 @@
       }
     },
     {
-      "code": "APRIL10",
-      "description": "£10 off",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://deliveroo.knoji.com/",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "BASKET10",
       "description": "Get £10 off when you spend £15 on your first grocery shop",
       "type": "fixed",
@@ -2597,26 +2576,6 @@
       "url": "https://uk.coupert.com/promo-code/deliveroo",
       "addedAt": "2026-10-14T13:25:10.108Z",
       "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE50",
-      "description": "Get 50% off when you spend over £15",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": 15,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/deliveroo",
-      "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
       "testResults": {
         "total": 0,
         "worked": 0,

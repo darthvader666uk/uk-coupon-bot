@@ -17,7 +17,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -39,7 +39,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -60,7 +60,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -178,26 +178,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-08-27T00:00:00Z"
-    },
-    {
-      "code": "FLASHSALE",
-      "description": "Claim 10% OFF on your next purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/salonsdirect.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     },
     {
       "code": "FALLFORVAT",
@@ -354,11 +334,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/salonsdirect.com",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -534,6 +515,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "code": "TAKE15OFF",
+      "description": "15% off orders over £150 at Salons Direct",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

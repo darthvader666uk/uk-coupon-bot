@@ -211,27 +211,6 @@
       "verified": false
     },
     {
-      "code": "PTV26",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://yachew.knoji.com/",
-      "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "SAVEONHOUSEHOLD",
       "description": "",
       "type": "unknown",
@@ -375,26 +354,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SHIPFREE",
-      "description": "Apply Yachew Discount Code to save 10%",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/yachew",
-      "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

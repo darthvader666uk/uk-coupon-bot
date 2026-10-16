@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/lindehobby.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -173,25 +173,24 @@
       "verified": false
     },
     {
-      "code": "HALLOWEEN",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "GRETAA15",
+      "description": "15% off specific yarn lines",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://lindehobby.knoji.com/",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "url": "https://www.coupert.com/store/lindehobby.co.uk",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

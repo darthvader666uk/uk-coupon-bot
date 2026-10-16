@@ -22,26 +22,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GETOFFER5",
-      "description": "New User can Get 5% Off at Milly Maunder with Discount Codes",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/milly-maunder",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
