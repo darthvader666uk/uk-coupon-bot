@@ -1804,28 +1804,6 @@
       }
     },
     {
-      "code": "TAKE25",
-      "description": "Get 20% Off Everything at Papa Johns",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/papajohns.com",
-      "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-13T00:00:00Z"
-    },
-    {
       "code": "HEATWIN",
       "description": "Papajohns.com gives you extra savings",
       "type": "unknown",

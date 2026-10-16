@@ -154,11 +154,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -259,7 +260,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -499,7 +500,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/hsn",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -711,7 +712,7 @@
       ],
       "url": "https://www.coupert.com/store/hsn.com",
       "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -727,11 +728,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://hsn.knoji.com/",
       "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -822,6 +824,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "APP10",
+      "description": "Apply HSN Discount Codes to save 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hsn",
+      "addedAt": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15OFF",
+      "description": "",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hsn",
+      "addedAt": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WELCOME25",
+      "description": "Save 25% with HSN Discount Codes",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hsn",
+      "addedAt": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

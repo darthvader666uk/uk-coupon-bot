@@ -339,26 +339,6 @@
       "verified": false
     },
     {
-      "code": "SUBSCRIBE",
-      "description": "Enter Email to Get a Special Voucher Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ultimate-juice-discount",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "THANKS10",
       "description": "10% off",
       "type": "percentage",

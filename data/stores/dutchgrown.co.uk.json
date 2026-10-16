@@ -453,7 +453,7 @@
       ],
       "url": "https://dutchgrown.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -732,6 +732,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "GROWBULBS",
+      "description": "Save 5% at DutchGrown First Purchase with Promo Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dutchgrown",
+      "addedAt": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15NEW",
+      "description": "Shop and save up to 15% on your order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dutchgrown",
+      "addedAt": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CONE10",
+      "description": "Enjoy a Discount of 10% Using DutchGrown Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dutchgrown",
+      "addedAt": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
