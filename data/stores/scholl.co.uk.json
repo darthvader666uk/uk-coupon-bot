@@ -359,27 +359,6 @@
       "verified": false
     },
     {
-      "code": "CYBER20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://scholl.knoji.com/",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-04T11:56:09.669Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "SPECIAL15",
       "description": "15% off",
       "type": "percentage",
@@ -399,6 +378,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "SUMMER30",
+      "description": "30% off Scholl Summer Sale",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/scholl-discount-codes",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -458,29 +458,6 @@
       "verified": false
     },
     {
-      "code": "GET5",
-      "description": "Take 5% off using Snapmaker Discount Codes",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://uk.coupert.com/promo-code/snapmaker",
-      "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
-    },
-    {
       "code": "HOLIDAYR5",
       "description": "Use Snapmaker Discount Codes for 5% off",
       "type": "percentage",

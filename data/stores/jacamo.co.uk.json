@@ -225,14 +225,14 @@
       ],
       "url": "https://www.coupert.com/store/jacamo.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
     },
     {
       "code": "HPB20",
@@ -269,7 +269,7 @@
       ],
       "url": "https://www.coupert.com/store/jacamo.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -291,14 +291,14 @@
       ],
       "url": "https://www.coupert.com/store/jacamo.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
       "code": "7MQCLDMZT",
@@ -357,14 +357,14 @@
       ],
       "url": "https://www.coupert.com/store/jacamo.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-07T00:00:00Z"
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
       "code": "TXT25",
@@ -533,14 +533,14 @@
       ],
       "url": "https://www.coupert.com/store/jacamo.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "lastWorkedAt": "2026-10-11T00:00:00Z"
     },
     {
       "code": "MVWELCOME15",
@@ -684,7 +684,7 @@
       ],
       "url": "https://www.coupert.com/store/jacamo.co.uk",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -706,14 +706,14 @@
       ],
       "url": "https://www.coupert.com/store/jacamo.co.uk",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
       "code": "WN6WJ6BFN",
@@ -736,6 +736,72 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-06T00:00:00Z"
+    },
+    {
+      "code": "SECRET",
+      "description": "Limited Time: 25% Off Jacamo Promo Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jacamo.co.uk",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
+    },
+    {
+      "code": "BIRTHDAY",
+      "description": "Save 25% off full-priced orders with this code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jacamo.co.uk",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
+    },
+    {
+      "code": "COMEBACK",
+      "description": "Recently saved £25.8",
+      "type": "fixed",
+      "value": 25.8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jacamo.co.uk",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     }
   ]
 }

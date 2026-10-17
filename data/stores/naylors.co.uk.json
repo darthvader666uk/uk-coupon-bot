@@ -1,0 +1,27 @@
+{
+  "domain": "naylors.co.uk",
+  "name": "Naylors",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ROYAL20",
+      "description": "Extra 20% off Royal Scot at Naylors",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/naylors-discount-codes",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -68,28 +68,6 @@
       "lastWorkedAt": "2026-09-30T00:00:00Z"
     },
     {
-      "code": "TWENTY",
-      "description": "Enjoy 10% Off NHS Discount",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/lookfabulousforever.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-30T00:00:00Z"
-    },
-    {
       "code": "FREEPOST",
       "description": "Free Shipping on All Orders",
       "type": "free_shipping",

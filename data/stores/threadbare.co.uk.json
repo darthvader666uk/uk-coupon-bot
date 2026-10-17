@@ -159,11 +159,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -359,6 +360,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SALE10",
+      "description": "Up to 60% off Menswear and Womenswear plus Extra 10% off at Threadbare",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/threadbare-discount-codes",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

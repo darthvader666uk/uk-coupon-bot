@@ -379,6 +379,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "20NEWSAV",
+      "description": "Exclusive 20% off New Season Bags at Orla Kiely",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/orla-kiely-discount-codes",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

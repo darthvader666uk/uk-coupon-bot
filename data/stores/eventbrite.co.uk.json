@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "STUDENT",
-      "description": "15% Off Student Discount at Eventbrite with Promo Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/eventbrite-co-uk",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WITHEM10",
       "description": "New User Discount - 10% Off First Purchase at Eventbrite with Coupon Code",
       "type": "percentage",

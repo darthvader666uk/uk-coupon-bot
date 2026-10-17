@@ -181,7 +181,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/shoesforcrews.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -405,7 +405,7 @@
       ],
       "url": "https://www.coupert.com/store/shoesforcrews.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -445,7 +445,7 @@
       ],
       "url": "https://www.coupert.com/store/shoesforcrews.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -530,7 +530,7 @@
       ],
       "url": "https://shoesforcrews.knoji.com/",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -908,7 +908,7 @@
       ],
       "url": "https://www.coupert.com/store/shoesforcrews.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -928,7 +928,7 @@
       ],
       "url": "https://www.coupert.com/store/shoesforcrews.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -936,19 +936,61 @@
       }
     },
     {
-      "code": "BIRTHDAY20",
-      "description": "20% off orders at Shoes for Crews",
+      "code": "TAKE25",
+      "description": "25% Off Non-Slip Shoes and Boots",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shoesforcrews.com",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PERK20",
+      "description": "20% Off Select Items at Shoes for Crews",
       "type": "percentage",
       "value": 20,
       "minSpend": null,
       "expiry": null,
-      "source": "savoo",
+      "source": "coupert",
       "sources": [
-        "savoo"
+        "coupert"
       ],
-      "url": "https://www.savoo.co.uk/brands/shoes-for-crews-discount-codes",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "url": "https://www.coupert.com/store/shoesforcrews.com",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "code": "BTD260",
+      "description": "Enjoy 20% Off at Shoes For Crews",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shoesforcrews.com",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,

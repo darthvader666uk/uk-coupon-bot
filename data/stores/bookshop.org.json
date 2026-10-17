@@ -124,7 +124,7 @@
       ],
       "url": "https://www.coupert.com/store/bookshop.org",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -304,7 +304,7 @@
       ],
       "url": "https://www.coupert.com/store/bookshop.org",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -408,7 +408,7 @@
       ],
       "url": "https://www.coupert.com/store/bookshop.org",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -493,7 +493,7 @@
       ],
       "url": "https://www.coupert.com/store/bookshop.org",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1235,12 +1235,14 @@
       ],
       "url": "https://www.coupert.com/store/bookshop.org",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
     },
     {
       "code": "CHAINS",
@@ -1840,14 +1842,14 @@
       ],
       "url": "https://www.coupert.com/store/bookshop.org",
       "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
     },
     {
       "code": "LOVEBOKSHOPS",
@@ -1883,6 +1885,68 @@
       "url": "https://www.coupert.com/store/bookshop.org",
       "addedAt": "2026-10-10T12:01:05.261Z",
       "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BOOKS15",
+      "description": "15% Off Select Items at Bookshop",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bookshop.org",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "code": "SEPT20",
+      "description": "Instant Savings: Enjoy a Flat 20% Discount on your order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bookshop.org",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "THEWAY",
+      "description": "Big Savings, Big Smiles: Take 15% Off Your Entire Cart",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bookshop.org",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
       "testResults": {
         "total": 0,
         "worked": 0,
