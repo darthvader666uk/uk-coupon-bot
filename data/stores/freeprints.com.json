@@ -56,7 +56,7 @@
       ],
       "url": "https://freeprints.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -119,7 +119,7 @@
       ],
       "url": "https://freeprints.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -203,7 +203,7 @@
       ],
       "url": "https://freeprints.knoji.com/",
       "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -308,7 +308,7 @@
       ],
       "url": "https://freeprints.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -329,7 +329,7 @@
       ],
       "url": "https://freeprints.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -338,10 +338,10 @@
       "verified": false
     },
     {
-      "code": "SAVENOW",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "25OFF",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -349,14 +349,14 @@
         "knoji"
       ],
       "url": "https://freeprints.knoji.com/",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     }
   ]
 }

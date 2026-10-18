@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "TREAT15",
-      "description": "Unlock 15% discount on your purchase",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/daysoft.com",
-      "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "PUMPKIN",
       "description": "Discounts are ready on the products in your cart",
       "type": "unknown",
@@ -77,7 +57,7 @@
       ],
       "url": "https://daysoft.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -98,7 +78,7 @@
       ],
       "url": "https://daysoft.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -119,7 +99,7 @@
       ],
       "url": "https://daysoft.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -140,7 +120,7 @@
       ],
       "url": "https://daysoft.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -161,7 +141,7 @@
       ],
       "url": "https://daysoft.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -182,7 +162,70 @@
       ],
       "url": "https://daysoft.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "DEAL10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://daysoft.knoji.com/",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "COMPLETE1116",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://daysoft.knoji.com/",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "BRAND03C",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://daysoft.knoji.com/",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,

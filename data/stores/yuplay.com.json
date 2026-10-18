@@ -40,13 +40,14 @@
       ],
       "url": "https://gg.deals/vouchers/?page=5",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-18T00:00:00Z"
     },
     {
       "code": "YUSUMMER",
@@ -84,13 +85,14 @@
       ],
       "url": "https://yuplay.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
       "code": "YU3SUMMER",
@@ -128,13 +130,14 @@
       ],
       "url": "https://yuplay.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-18T00:00:00Z"
     },
     {
       "code": "CURSED5",
@@ -401,11 +404,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://yuplay.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-10T10:20:27.653Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -574,13 +578,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/yuplay-com",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
       "code": "GGCOZY3",
@@ -592,17 +597,19 @@
       "source": "ggdeals",
       "sources": [
         "ggdeals",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
       "code": "AKSCOZY3",
@@ -618,13 +625,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/yuplay-com",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
       "code": "WOMENSDAY3F",
@@ -655,17 +663,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://yuplay.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-18T00:00:00Z"
     },
     {
       "code": "YU3PLAY",
@@ -730,6 +740,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "KCD2",
+      "description": "5% Off Any Order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/yuplay.com",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -62,26 +62,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE50",
-      "description": "£50 off orders over £500 at Silentnight",
-      "type": "fixed",
-      "value": 50,
-      "minSpend": 500,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/silentnight-discount-codes",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

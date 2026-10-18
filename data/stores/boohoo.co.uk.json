@@ -56,17 +56,19 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://boohoo.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
     },
     {
       "code": "BHX20",
@@ -484,14 +486,14 @@
       ],
       "url": "https://www.savoo.co.uk/brands/boohoo-discount-codes",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-13T00:00:00Z"
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
     },
     {
       "code": "EGGSTRA",
@@ -1329,7 +1331,7 @@
       ],
       "url": "https://www.coupert.com/store/boohoo.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1630,6 +1632,50 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-11T00:00:00Z"
+    },
+    {
+      "code": "MEGANO",
+      "description": "Boohoo US Discount Code: 15% Off at Boohoo US",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/boohoo.co.uk",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
+    },
+    {
+      "code": "FAITHJA",
+      "description": "Grab Up to 15% Off on Your Orders at Boohoo US",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/boohoo.co.uk",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-17T00:00:00Z"
     }
   ]
 }

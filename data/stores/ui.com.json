@@ -42,6 +42,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "STUDENTID",
+      "description": "Don’t Miss This: 12% Off Student Discount",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ui.com",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "J0L0VN7DWZPD",
+      "description": "Enjoy Up To 5% Off Military Discount At Ubiquiti",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ui.com",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "REP10",
+      "description": "Come and enjoy great products with 10% discount",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ui.com",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

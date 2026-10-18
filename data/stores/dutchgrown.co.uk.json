@@ -671,27 +671,6 @@
       }
     },
     {
-      "code": "LASTCHANCE",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://dutchgrown.knoji.com/",
-      "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "VALENTINE",
       "description": "14% off",
       "type": "percentage",
@@ -792,27 +771,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "THANKYOU",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://dutchgrown.knoji.com/",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }
