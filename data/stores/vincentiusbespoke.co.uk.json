@@ -45,27 +45,6 @@
       "verified": true
     },
     {
-      "code": "SHIPFREE",
-      "description": "Free shipping",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://vincentiusbespoke.knoji.com/",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "FREESHIPPINGWEEKEND",
       "description": "Free shipping",
       "type": "free_shipping",
@@ -400,6 +379,46 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "ENGAGE25",
+      "description": "25% Off at Vincentius with This Voucher Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vincentiusbespoke-co-uk",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LREPHS",
+      "description": "Get £12.25 off with Vincentius Discount Code",
+      "type": "fixed",
+      "value": 12.25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vincentiusbespoke-co-uk",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

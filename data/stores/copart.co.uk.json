@@ -108,27 +108,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "SHIPFREE",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://copart.knoji.com/",
-      "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

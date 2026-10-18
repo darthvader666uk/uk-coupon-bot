@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "PTZ10",
+      "description": "Take 10% off Your Order in Your Cart",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/uk-christmas-world",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

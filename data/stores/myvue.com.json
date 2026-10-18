@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FREESHIP",
+      "description": "Order And Enjoy Free Delivery On All myvue.com Products",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vue",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEWVUE",
+      "description": "Save £5 on Vue Cinema Tickets with This Discount Code",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vue",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

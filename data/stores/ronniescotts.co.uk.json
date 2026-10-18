@@ -107,6 +107,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "JULY10",
+      "description": "Get 10% Off First Order at Ronnie Scott's with Discount Code for New Users",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ronnie-scotts",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FALL5",
+      "description": "New User Discount - 5% Off First Purchase at Ronnie Scott's with Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ronnie-scotts",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

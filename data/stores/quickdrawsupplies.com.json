@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ME10",
+      "description": "10% Off First Order at Quickdraw Supplies for New Users with discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quickdraw-supplies",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "C2YKGME10",
+      "description": "10% Off First Order at Quickdraw Supplies for New Users with voucher code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quickdraw-supplies",
+      "addedAt": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
