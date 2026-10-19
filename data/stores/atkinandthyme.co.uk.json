@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ATFLASH20",
+      "description": "20% off Full-Priced orders over £150 at Atkin & Thyme",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/atkin-and-thyme-discount-codes",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

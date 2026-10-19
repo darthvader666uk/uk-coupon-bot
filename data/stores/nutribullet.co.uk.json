@@ -418,6 +418,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BLEND12",
+      "description": "12% off all orders at Nutribullet",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/nutribullet-discount-codes",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

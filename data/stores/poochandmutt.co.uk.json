@@ -189,27 +189,6 @@
       "verified": true
     },
     {
-      "code": "BLACKFRIDAY",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://poochandmutt.knoji.com/",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "GOODMOOD",
       "description": "20% off",
       "type": "percentage",
@@ -565,6 +544,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "AFSAVOO25",
+      "description": "Exclusive 25% off orders over £55 at Pooch & Mutt",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 55,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pooch-and-mutt-discount-codes",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AFSAVOO30",
+      "description": "New Customers: Exclusive 30% off orders at Pooch & Mutt",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pooch-and-mutt-discount-codes",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUTUMN20",
+      "description": "20% off orders at Pooch & Mutt",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pooch-and-mutt-discount-codes",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -144,26 +144,6 @@
       }
     },
     {
-      "code": "TAKE30",
-      "description": "Save 30% off your cart when you apply the coupon code at Homebase checkout.",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/homebase.co.uk",
-      "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "INFLUENCER2025",
       "description": "Free 3 Months",
       "type": "unknown",

@@ -424,26 +424,6 @@
       }
     },
     {
-      "code": "OFFER20",
-      "description": "New Customers Get 20% Off First Order at Trekitt with Promo Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/trekitt",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SPEND100",
       "description": "Save with Trekitt Discount Code",
       "type": "unknown",

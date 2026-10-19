@@ -493,34 +493,13 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "GENTSCENTS10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://clinique.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "WEL10J8JFZMLG",
@@ -557,27 +536,6 @@
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
       "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "CLEAN20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://clinique.knoji.com/",
-      "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -913,7 +871,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -976,7 +934,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -997,7 +955,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1018,7 +976,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1039,7 +997,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1060,7 +1018,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1081,7 +1039,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1132,8 +1090,50 @@
       "verified": false
     },
     {
-      "code": "PAYDAY",
-      "description": "Special Offer",
+      "code": "FALL4",
+      "description": "1% off",
+      "type": "percentage",
+      "value": 1,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CANOODLE",
+      "description": "1% off",
+      "type": "percentage",
+      "value": 1,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPRINGTREAT",
+      "description": "Free 8-piece Gift",
       "type": "unknown",
       "value": null,
       "minSpend": null,
@@ -1143,14 +1143,98 @@
         "knoji"
       ],
       "url": "https://clinique.knoji.com/",
-      "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "FALLGIFT",
+      "description": "Free Full Size Moisturizer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SE3ARPH",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "BEAUTY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "DMOCTOBER",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

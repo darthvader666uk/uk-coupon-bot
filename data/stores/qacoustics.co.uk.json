@@ -290,26 +290,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "FALL10",
-      "description": "New User Discount - 10% Off First Purchase at Q Acoustics with voucher code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/q-acoustics",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

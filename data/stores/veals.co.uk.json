@@ -176,26 +176,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "code": "SALE20",
-      "description": "Apply Promo Code to get 20% off at Veals Mail Order",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/veals-mail-order",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

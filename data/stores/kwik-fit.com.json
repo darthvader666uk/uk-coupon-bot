@@ -277,16 +277,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/kwik-fit.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "CONTIDEAL",
@@ -708,16 +710,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "YOKO10",
@@ -728,16 +732,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "KFAUTUMN",
@@ -749,11 +755,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -771,16 +778,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "KFBRAS",
@@ -791,11 +800,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -997,11 +1007,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1019,11 +1030,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1125,11 +1137,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1267,6 +1280,321 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "CONTISAVE",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "PTOCTSAVE",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BR10",
+      "description": "Buy 2+, Get 10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BAT10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "10SMOTVCLOUD0805",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "10BATTERY",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "5MOTVCLOUD805",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SUMOT0507",
+      "description": "£5 off",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MAYSALE",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "GOFURTHER10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "LABOR11",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SIMPLYCODES5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NOV29",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "DEMAND15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FREESHIP100",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kwikfit.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

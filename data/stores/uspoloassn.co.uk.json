@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "SPOOKY",
-      "description": "Get Up To 20% Off On Your Order",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/uspoloassn-co-uk",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FREESHIPDW",
       "description": "Free Delivery Available on Your Order",
       "type": "free_shipping",
@@ -145,27 +125,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "FALL25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://uspoloassn.knoji.com/",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "CNSUMMER",
@@ -607,46 +566,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "SALE20",
-      "description": "Extra 20% Off Mens Summer Sale",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/uspoloassn-co-uk",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "TAKE20",
-      "description": "Use U.S.Polo Assn discount code for 20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/uspoloassn-co-uk",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

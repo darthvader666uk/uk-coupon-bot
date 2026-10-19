@@ -16,7 +16,7 @@
       ],
       "url": "https://24s.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,7 +37,7 @@
       ],
       "url": "https://24s.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -96,16 +96,39 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.savoo.co.uk/brands/24s-discount-codes",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
+    },
+    {
+      "code": "BEAUTY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://24s.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

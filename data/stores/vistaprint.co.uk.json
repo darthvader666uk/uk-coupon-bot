@@ -57,7 +57,7 @@
       ],
       "url": "https://vistaprint.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -78,7 +78,7 @@
       ],
       "url": "https://vistaprint.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -99,7 +99,7 @@
       ],
       "url": "https://vistaprint.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -120,7 +120,7 @@
       ],
       "url": "https://vistaprint.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -141,7 +141,7 @@
       ],
       "url": "https://vistaprint.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -204,7 +204,7 @@
       ],
       "url": "https://vistaprint.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -246,7 +246,7 @@
       ],
       "url": "https://vistaprint.knoji.com/",
       "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-14T11:24:23.549Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -848,26 +848,6 @@
       }
     },
     {
-      "code": "NEW15",
-      "description": "New Customer Deal: 15% Off First Purchase at Vistaprint with Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/vistaprint",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "VISTA40",
       "description": "Special Deals: Get 40% Off with Vistaprint Discount Code",
       "type": "percentage",
@@ -926,6 +906,237 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "JENNA10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAVEBIG",
+      "description": "Up to 50 Off",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "NEW20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GET50",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "STICKERS15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "3X1WC",
+      "description": "Buy 1 Get 2 Free On Custom Wall Calendars (Must Order 3) at Vistaprint",
+      "type": "bogo",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAVEVP",
+      "description": "Save Up to 15 Percent off",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SDGIFT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FRANKIEMYDEARDOODLE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MXDLS26",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HOLIDAY33",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://vistaprint.knoji.com/",
+      "addedAt": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }
