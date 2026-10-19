@@ -1,0 +1,27 @@
+{
+  "domain": "calmoverchaos.co.uk",
+  "name": "Calmoverchaos",
+  "category": "general",
+  "codes": [
+    {
+      "code": "5OFF",
+      "description": "Limited stock alert! 5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/calmoverchaos",
+      "addedAt": "2026-10-19T15:17:36.796Z",
+      "lastSeen": "2026-10-19T15:17:36.796Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

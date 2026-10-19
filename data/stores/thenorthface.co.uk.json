@@ -525,27 +525,6 @@
       }
     },
     {
-      "code": "GET10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://thenorthface.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "WINTERXTR10",
       "description": "10% off",
       "type": "percentage",
