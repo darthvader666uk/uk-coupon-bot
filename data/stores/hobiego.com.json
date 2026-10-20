@@ -1,0 +1,27 @@
+{
+  "domain": "hobiego.com",
+  "name": "HobiEgo",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE30",
+      "description": "Up to 30% off your order",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hobiego",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

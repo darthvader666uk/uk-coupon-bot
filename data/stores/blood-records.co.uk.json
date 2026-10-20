@@ -82,26 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "CHECK20",
-      "description": "20% off is available on your order",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/blood-records-co-uk",
-      "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

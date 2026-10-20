@@ -530,26 +530,6 @@
       }
     },
     {
-      "code": "WELCOMENEWUSERS",
-      "description": "Use the Promo Code to get 5% off at RAVE Coffee after sign-up",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/rave-coffee",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "R10379D45935932",
       "description": "Save £1.37 off with RAVE Coffee Discount Code",
       "type": "fixed",

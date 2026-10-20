@@ -256,27 +256,6 @@
       "verified": true
     },
     {
-      "code": "EASTER15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://daytona.knoji.com/",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "WOMEN15",
       "description": "15% off",
       "type": "percentage",
@@ -401,6 +380,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "TIKTOK10",
+      "description": "10% off at Daytona Motorsport",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/daytona",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

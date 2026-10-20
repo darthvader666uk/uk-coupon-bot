@@ -411,7 +411,7 @@
       ],
       "url": "https://goldenwarm.knoji.com/",
       "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -600,7 +600,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/goldenwarm",
       "addedAt": "2026-10-16T13:01:35.629Z",
-      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -647,48 +647,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "BF20",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://goldenwarm.knoji.com/",
-      "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "FALL15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://goldenwarm.knoji.com/",
-      "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     },
     {
       "code": "GOOBD219",
@@ -752,6 +710,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BANK10",
+      "description": "Claim Your 10% Off Promo Codes at Goldenwarm Now",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/goldenwarm",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WARM15",
+      "description": "Save 20% Sitewide - Quality Savings on Everything",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/goldenwarm",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BANK20",
+      "description": "Get 20% Off Promo Codes at Goldenwarm",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/goldenwarm",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

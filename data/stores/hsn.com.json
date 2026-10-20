@@ -346,11 +346,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -396,7 +397,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/hsn.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -502,7 +503,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/hsn",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -889,6 +890,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "APP10",
+      "description": "Unlock a Delightful 10% Discount with HSN Promo Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hsn",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OCT40",
+      "description": "Save 40% on all your purchases today",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hsn",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

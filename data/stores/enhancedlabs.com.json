@@ -17,7 +17,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/enhanced-labs",
       "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -654,11 +654,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://enhancedlabs.knoji.com/",
       "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -779,11 +780,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://enhancedlabs.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -811,6 +813,66 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "INBOX10",
+      "description": "Take 10% off using Enhanced Labs Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/enhanced-labs",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET20",
+      "description": "Save 20% with Enhanced Labs Discount Codes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/enhanced-labs",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ENHANCEDLB10",
+      "description": "Unlock 10% off using Enhanced Labs Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/enhanced-labs",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

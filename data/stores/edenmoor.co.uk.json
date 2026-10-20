@@ -22,26 +22,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Free Standard Delivery on all orders over £40 at Edenmoor",
-      "type": "fixed",
-      "value": 40,
-      "minSpend": 40,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/edenmoor-discount-codes",
-      "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

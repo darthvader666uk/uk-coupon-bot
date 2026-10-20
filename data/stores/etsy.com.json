@@ -1444,28 +1444,6 @@
       "lastWorkedAt": "2026-10-07T00:00:00Z"
     },
     {
-      "code": "50OFF",
-      "description": "50% Off When Buying 10 Mug Templates",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-15T00:00:00Z"
-    },
-    {
       "code": "GETITNOW",
       "description": "Enjoy 5% off at etsy.com",
       "type": "percentage",
@@ -1828,11 +1806,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://etsy.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2100,7 +2079,7 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2342,7 +2321,7 @@
       ],
       "url": "https://www.coupert.com/store/etsy.com",
       "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2849,6 +2828,146 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SAVE15",
+      "description": "Save 15% on your purchase",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/etsy-uk",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE25",
+      "description": "Take 25% off your total purchase",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/etsy-uk",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "THANKS",
+      "description": "Enjoy up to 5% off at etsy.com",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/etsy-uk",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ALLYANNA20",
+      "description": "20% off is available on chosen products",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/etsy-uk",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CHECKOUTNOW",
+      "description": "You deserve 5% off on your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/etsy-uk",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DONTFORGETME",
+      "description": "Claim 5% off your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/etsy-uk",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15OFFCART",
+      "description": "Enjoy up to 15% off your order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/etsy-uk",
+      "addedAt": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

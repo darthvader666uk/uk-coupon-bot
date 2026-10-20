@@ -62,46 +62,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "CHECK20",
-      "description": "Your order now includes a 20% discount",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/aer-uk",
-      "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CHECKMATE11",
-      "description": "Great savings are currently available at aersf.co.uk",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/aer-uk",
-      "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
