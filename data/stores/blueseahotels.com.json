@@ -304,27 +304,6 @@
       "verified": true
     },
     {
-      "code": "VIAJA88",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://blueseahotels.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "MEMBERS",
       "description": "",
       "type": "unknown",
@@ -338,27 +317,6 @@
       "url": "https://blueseahotels.knoji.com/",
       "addedAt": "2026-10-07T12:39:06.346Z",
       "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "LA22",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://blueseahotels.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -511,46 +469,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "EXTRA15",
-      "description": "Get 15% off with Bluesea Hotels Discount Codes",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/bluesea-hotels",
-      "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE25",
-      "description": "Enjoy a Fantastic 25% Discount with Bluesea Hotels Discount Codes",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/bluesea-hotels",
-      "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

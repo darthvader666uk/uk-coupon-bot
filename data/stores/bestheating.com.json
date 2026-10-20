@@ -4,31 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "REFRESH20",
-      "description": "20% off Windsor, Alpha and Aruba Radiator at Best Heating",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "coupert",
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://www.savoo.co.uk/brands/best-heating-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
-    },
-    {
       "code": "BHWEBG75",
       "description": "When this voucher code is applied during checkout, you can get £75 off your select order.",
       "type": "fixed",
@@ -43,7 +18,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/bestheating.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -370,7 +345,7 @@
       ],
       "url": "https://www.coupert.com/store/bestheating.com",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -415,7 +390,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/bestheating.com",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -562,6 +537,26 @@
       "url": "https://www.coupert.com/store/bestheating.com",
       "addedAt": "2026-10-10T12:01:05.261Z",
       "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE500",
+      "description": "10% off orders over £500 at Best Heating",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 500,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/best-heating-discount-codes",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,

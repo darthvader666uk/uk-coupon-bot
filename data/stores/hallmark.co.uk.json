@@ -477,7 +477,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/hallmark-discount-codes",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -546,6 +546,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SAVOO30",
+      "description": "New Customers: Exclusive 30% off orders over £15 at Hallmark",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 15,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hallmark-discount-codes",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVOO25",
+      "description": "Exclusive 25% off orders over £15 at Hallmark",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 15,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/hallmark-discount-codes",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -642,6 +642,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WELCOME25",
+      "description": "25% off orders at The Adventure Challenge",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/the-adventure-challenge-discount-codes",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

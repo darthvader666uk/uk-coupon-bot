@@ -16,7 +16,7 @@
       ],
       "url": "https://grassdirect.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,7 +37,7 @@
       ],
       "url": "https://grassdirect.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -58,7 +58,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/grass-direct-discount-codes",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -78,13 +78,54 @@
       ],
       "url": "https://grassdirect.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "LABORDAY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://grassdirect.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GRASS15",
+      "description": "Extra 15% off Grass Direct's Bank Holiday Sale Items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/grass-direct-discount-codes",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

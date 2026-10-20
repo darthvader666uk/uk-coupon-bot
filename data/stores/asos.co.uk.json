@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "ASOSAPP",
@@ -164,16 +166,18 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "COLD25",
@@ -1373,16 +1377,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/asos.co.uk",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "STUDENTIE",
@@ -1621,16 +1627,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/asos-uk",
       "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "EXPRESS",
@@ -1749,16 +1757,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://uk.coupert.com/promo-code/asos-uk",
       "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "BEAUTY",
@@ -1799,6 +1809,321 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "LASTCHANCE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SUMMERWINS",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "PREM20",
+      "description": "Extra 20 Percent",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "UPTO50",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "GLOWING",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPORTYSTYLES",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SPORTY10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DREAM20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SXCLSTCRE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SIMPLYINTERESTED",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "TF150GP14Q",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "METROFIRSTTIME",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GRAB10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "15EMAIL15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "A8B37DKZ",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://asos.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

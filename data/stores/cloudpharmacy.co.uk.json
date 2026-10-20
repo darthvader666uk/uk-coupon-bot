@@ -222,26 +222,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "code": "FIRST10",
-      "description": "New User can Get 10% Off at Cloud Pharmacy with Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/cloudpharmacy-co-uk",
-      "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
