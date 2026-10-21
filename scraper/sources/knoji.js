@@ -33,6 +33,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const CACHE_FILE = join(__dirname, "..", "..", "data", "knoji-probes.json");
 /** How long to trust a "this store isn't on Knoji" result before retrying. */
 const MISS_TTL_MS = 30 * 24 * 60 * 60 * 1000;
+/** A 403/429 is Knoji pushing back, not an answer, so it is only a short rest. */
+const BLOCKED_TTL_MS = 3 * 24 * 60 * 60 * 1000;
 /**
  * Cap per run so this can't dominate the nightly job. 120 took 5 minutes on
  * 2026-09-27 while Caramel took 27, so 400 still finishes well before the
@@ -114,7 +116,10 @@ export function selectTargets(knownDomains, cache, perRun = STORES_PER_RUN, now 
     if (!sub || (sub.length < 3 && !SUBDOMAIN_OVERRIDES[domain])) continue;
     const seen = cache[sub];
     // A store known not to be on Knoji costs one request a month, not one a night.
-    if (seen?.miss && now - new Date(seen.at).getTime() < MISS_TTL_MS) continue;
+    // Only 404/410 (or a page with no codes) says that. Older runs gave 403
+    // and 429 the full month too, and 1,180 stores sat out a month each for it.
+    const settled = !seen?.status || seen.status === 404 || seen.status === 410;
+    if (seen?.miss && now - new Date(seen.at).getTime() < (settled ? MISS_TTL_MS : BLOCKED_TTL_MS)) continue;
     const target = { subdomain: sub, storeDomain: domain };
     // An override exists because someone confirmed the page by hand, so it
     // takes a slot rather than queueing behind 900 guesses for a third of the
@@ -130,6 +135,9 @@ export function selectTargets(knownDomains, cache, perRun = STORES_PER_RUN, now 
   // stores waited to be probed.
   const discoverBudget = Math.max(1, Math.floor(budget / 3), budget - refresh.length);
   const taken = discover.slice(0, discoverBudget);
+  // Stalest first, or the stores at the end of the index never make the cut
+  // and their codes age out while the same front of the list is refreshed nightly.
+  refresh.sort((a, b) => new Date(cache[a.subdomain].at) - new Date(cache[b.subdomain].at));
   return [...pinned, ...refresh.slice(0, budget - taken.length), ...taken];
 }
 
@@ -204,20 +212,41 @@ export async function scrape(stores = null) {
     console.log(`[Knoji] ${known.length} known stores -> probing ${targets.length}`);
   }
 
+  // Knoji blocking a run outright would otherwise spend 10s per remaining
+  // store and run into the job timeout. Discovery is last in the list, so
+  // giving up only costs the probes, never a refresh.
+  let blockedInARow = 0;
   for (const { subdomain, storeDomain } of targets) {
+    if (blockedInARow >= 5) {
+      console.log(`[Knoji] Blocked ${blockedInARow} times in a row — stopping early`);
+      break;
+    }
     const url = `https://${subdomain}.knoji.com/`;
     let page;
     try {
       page = await context.newPage();
       page.on("popup", (p) => p.close().catch(() => {}));
       const res = await page.goto(url, { waitUntil: "domcontentloaded", timeout: 30000 });
-      if ((res?.status() ?? 0) >= 400) {
+      const status = res?.status() ?? 0;
+      if (status === 404 || status === 410) {
         // 410 Gone is Knoji's answer for "no page for this store". Remember it
         // so the next month's runs don't spend a request rediscovering that.
-        cache[subdomain] = { miss: true, at: new Date().toISOString(), status: res.status() };
-        console.log(`[Knoji] ${subdomain}: HTTP ${res.status()} — not on Knoji`);
+        cache[subdomain] = { miss: true, at: new Date().toISOString(), status };
+        console.log(`[Knoji] ${subdomain}: HTTP ${status} — not on Knoji`);
         continue;
       }
+      if (status >= 400) {
+        // 403/429 is Knoji pushing back, not an answer about the store. Rest it
+        // a few days (BLOCKED_TTL_MS) rather than retrying nightly, and give
+        // Knoji room to cool off.
+        cache[subdomain] = { miss: true, at: new Date().toISOString(), status };
+        errors.push(`${subdomain}: HTTP ${status}`);
+        console.log(`[Knoji] ${subdomain}: HTTP ${status} — backing off`);
+        blockedInARow++;
+        await new Promise((r) => setTimeout(r, 10000));
+        continue;
+      }
+      blockedInARow = 0;
       await page.waitForTimeout(2500);
 
       const found = await page.evaluate(collectCodes);
@@ -250,8 +279,10 @@ export async function scrape(stores = null) {
       errors.push(`${subdomain}: ${err.message.split("\n")[0]}`);
     } finally {
       if (page) await page.close().catch(() => {});
+      // In finally so the `continue` on a miss waits too. Misses used to go
+      // out back to back, which is what drew the 403s.
+      await new Promise((r) => setTimeout(r, 1200));
     }
-    await new Promise((r) => setTimeout(r, 1200));
   }
 
   saveCache(cache);

@@ -19,13 +19,22 @@ import { dirname, join } from "path";
 import { isValidCode, guessType, delay } from "../lib/playwright-base.js";
 import { ALIASES, canonicalDomain, displayName } from "../lib/stores.js";
 import { fetchStoreRequestIssues } from "../lib/github.js";
+import { selectSlice } from "./savoo.js";
 
 const API_URL = "https://grabcaramel.com/api/coupons";
 const PAGE_SIZE = 50;
 /** Argos has 66 codes; nothing seen needs more than two pages. */
 const MAX_PAGES = 4;
-// 80/min against a 120/min limit: 1,400 stores in ~30 min, inside the job timeout.
+// 80/min against a 120/min limit.
 const REQUEST_GAP_MS = 750;
+/**
+ * At 750ms a request the whole index (3,700 stores) needs over 46 minutes, past
+ * the 45-minute job timeout, so every run from 2026-10-03 was cancelled with
+ * nothing saved. Stores Caramel already has codes for are queried every run.
+ * The rest rotate, and the deadline returns what was found rather than losing it.
+ */
+const OTHERS_PER_RUN = 1000;
+const RUN_DEADLINE_MS = 38 * 60 * 1000;
 const INDEX_JSON = join(dirname(fileURLToPath(import.meta.url)), "..", "..", "data", "index.json");
 
 /**
@@ -122,6 +131,15 @@ export function loadStoreDomains() {
   return [...domains];
 }
 
+/** True when a store's shard already carries a Caramel code. */
+function hasCaramelCodes(domain) {
+  try {
+    return readFileSync(join(dirname(INDEX_JSON), "stores", `${domain}.json`), "utf8").includes('"caramel"');
+  } catch {
+    return false;
+  }
+}
+
 /**
  * Stores people have asked for via the userscript's "Request codes for this
  * store" menu entry. Each is an open GitHub issue; one HTTP call here is the
@@ -145,15 +163,22 @@ export async function scrape(stores = null) {
   const errors = [];
   let storeList = stores;
   if (!storeList) {
-    storeList = loadStoreDomains();
-    const requested = await requestedDomains(storeList);
+    const all = loadStoreDomains();
+    const requested = await requestedDomains(all);
     if (requested.length) console.log(`[Caramel] ${requested.length} requested store(s): ${requested.join(", ")}`);
-    storeList = storeList.concat(requested);
+    const known = all.filter(hasCaramelCodes);
+    const others = all.filter((d) => !known.includes(d)).sort();
+    console.log(`[Caramel] ${known.length} stores with Caramel codes, ${others.length} others rotating ${OTHERS_PER_RUN} a run`);
+    storeList = [...requested, ...known, ...selectSlice(others, OTHERS_PER_RUN)];
   }
 
   console.log(`[Caramel] Querying ${storeList.length} stores…`);
 
-  for (const domain of storeList) {
+  for (const [i, domain] of storeList.entries()) {
+    if (Date.now() - start > RUN_DEADLINE_MS) {
+      console.log(`[Caramel] Deadline reached — stopping with ${storeList.length - i} stores unvisited`);
+      break;
+    }
     try {
       let coupons = [];
       for (const site of queryDomains(domain)) {

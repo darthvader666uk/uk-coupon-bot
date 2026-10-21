@@ -42,7 +42,7 @@ const DOMAIN_MAP = {
   "boohoo": "boohoo.co.uk", "currys": "currys.co.uk", "john-lewis": "john-lewis.co.uk",
   "next": "next.co.uk", "very": "very.co.uk", "tesco": "tesco.co.uk",
   "sainsburys": "sainsburys.co.uk", "morrisons": "morrisons.co.uk",
-  "marks-and-spencer": "marks-and-spencer.co.uk", "new-look": "new-look.co.uk",
+  "marks-and-spencer": "marks-and-spencer.co.uk", "new-look": "newlook.com",
   "hm": "hm.com", "zara": "zara.co.uk", "sports-direct": "sports-direct.co.uk",
   "nike": "nike.com", "adidas": "adidas.co.uk", "just-eat": "just-eat.co.uk",
   "dominos-pizza": "dominos.co.uk",
