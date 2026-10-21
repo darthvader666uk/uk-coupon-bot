@@ -1,0 +1,27 @@
+{
+  "domain": "kissproof.co.uk",
+  "name": "Kissproof",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EASTER10",
+      "description": "Unlock 10% off using Kissproof Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kissproof",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

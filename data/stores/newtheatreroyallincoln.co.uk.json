@@ -22,6 +22,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NTRL20OFF",
+      "description": "New User can Get 20% Off at New Theatre Royal Lincoln with Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-theatre-royal-lincoln",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NTR25OFF",
+      "description": "Save 40% on Tickets at New Theatre Royal Lincoln",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-theatre-royal-lincoln",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NTRL30",
+      "description": "Get 30% Off Tickets & Events at New Theatre Royal Lincoln",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-theatre-royal-lincoln",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

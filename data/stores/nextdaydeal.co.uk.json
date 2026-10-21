@@ -22,6 +22,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "CHECK20",
+      "description": "Deduct 20% when you checkout",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/nextdaydeal-co-uk",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MAY20",
+      "description": "Get up to 20% off any purchase",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/nextdaydeal-co-uk",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "5OFF",
+      "description": "At nextdaydeal.co.uk, enjoy 5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/nextdaydeal-co-uk",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -170,6 +170,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FLASH30",
+      "description": "Don't wait any longer - 30% off awaits you",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/northern-runner",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

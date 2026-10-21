@@ -404,26 +404,6 @@
       }
     },
     {
-      "code": "TAKE40",
-      "description": "Take 40% off using Trekitt Discount Code",
-      "type": "percentage",
-      "value": 40,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/trekitt",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SPEND100",
       "description": "Save with Trekitt Discount Code",
       "type": "unknown",

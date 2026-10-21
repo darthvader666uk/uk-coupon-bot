@@ -22,6 +22,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FIRSTORDER20",
+      "description": "Save 20% at Newquay Airport Parking First Purchase with Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/newquay-airport-parking",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PARK40",
+      "description": "Save 40% on Prebook Airport Parking",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/newquay-airport-parking",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PARK36",
+      "description": "36% Discount on Prebooked Airport Parking",
+      "type": "percentage",
+      "value": 36,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/newquay-airport-parking",
+      "addedAt": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
