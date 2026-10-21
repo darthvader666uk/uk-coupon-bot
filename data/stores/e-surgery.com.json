@@ -1,0 +1,536 @@
+{
+  "domain": "e-surgery.com",
+  "name": "E Surgery",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NEWPATIENT",
+      "description": "20% off orders over £99.98 at e-Surgery",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 99.98,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo",
+        "knoji"
+      ],
+      "url": "https://www.savoo.co.uk/brands/e-surgery-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "RETURN15",
+      "description": "15% off orders at e-Surgery",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo",
+        "knoji"
+      ],
+      "url": "https://www.savoo.co.uk/brands/e-surgery-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MYHEALTH15",
+      "description": "15% off all Treatments at e-Surgery",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo",
+        "knoji"
+      ],
+      "url": "https://www.savoo.co.uk/brands/e-surgery-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JULYNEWS15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "READY15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "AUGEND15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JULY10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JULYEND15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MAY15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "APREND15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "50PPE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SESAMECARES",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EXTRA7",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MINTY1026",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-15T10:52:45.812Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SEPT10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "AUG10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "JUNE10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MIN60",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "TNCARE100",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SAVE10HEALTH",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ECHECK5OFF",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELZO5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SEPT15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji",
+        "savoo"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "OCT20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "OCT15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://esurgery.knoji.com/",
+      "addedAt": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    }
+  ]
+}

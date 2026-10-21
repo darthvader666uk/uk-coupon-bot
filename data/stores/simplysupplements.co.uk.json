@@ -152,11 +152,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://simplysupplements.knoji.com/",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -541,6 +542,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "PDQ16",
+      "description": "Apply this voucher code during checkout to qualify for 10% off your eligible purchase.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/simplysupplements.co.uk",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

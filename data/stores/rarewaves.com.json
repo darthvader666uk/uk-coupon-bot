@@ -1,8 +1,111 @@
 {
   "domain": "rarewaves.com",
-  "name": "RareWaves",
+  "name": "Rarewaves",
   "category": "general",
   "codes": [
+    {
+      "code": "RWAUG10",
+      "description": "10% off orders over £20 at Rarewaves",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rarewaves-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RWJULY10",
+      "description": "10% off orders over £20 at Rarewaves",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rarewaves-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RWUNI10",
+      "description": "10% off orders over £20 at Rarewaves",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo",
+        "coupert"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rarewaves-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RWJUNE10",
+      "description": "10% off orders over £20 at Rarewaves",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo",
+        "coupert"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rarewaves-discount-codes",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RWSEP10",
+      "description": "September Sale: 10% off orders over £20 at Rarewaves",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo",
+        "coupert"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rarewaves-discount-codes",
+      "addedAt": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
     {
       "code": "ORDER90OFF",
       "description": "Take 10% off using RareWaves Discount Code",
@@ -36,7 +139,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/rarewaves-uk",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -66,48 +169,6 @@
       }
     },
     {
-      "code": "RWJUNE10",
-      "description": "Save 10% with RareWaves Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/rarewaves-uk",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "RWSEP10",
-      "description": "Receive an additional 10% off your order",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/rarewaves-uk",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
       "code": "BALCA8D932C92E1",
       "description": "Enjoy 25% Off on Your Order Now",
       "type": "percentage",
@@ -120,36 +181,14 @@
       ],
       "url": "https://www.coupert.com/store/rarewaves.com",
       "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-20T00:00:00Z"
-    },
-    {
-      "code": "RWUNI10",
-      "description": "Limited Offer: 10% Off with RareWaves Promo Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/rarewaves.com",
-      "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-20T00:00:00Z"
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
     },
     {
       "code": "RWOCT10",
@@ -164,7 +203,7 @@
       ],
       "url": "https://www.coupert.com/store/rarewaves.com",
       "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -184,14 +223,14 @@
       ],
       "url": "https://www.coupert.com/store/rarewaves.com",
       "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-20T00:00:00Z"
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
     },
     {
       "code": "ADVENT10",
@@ -206,7 +245,7 @@
       ],
       "url": "https://www.coupert.com/store/rarewaves.com",
       "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,

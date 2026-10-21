@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -58,14 +58,14 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-20T00:00:00Z"
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
     },
     {
       "code": "VODAFONE20",
@@ -102,7 +102,7 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -168,7 +168,7 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -210,7 +210,7 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -230,7 +230,7 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -380,7 +380,7 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -402,7 +402,7 @@
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -522,10 +522,10 @@
       "lastWorkedAt": "2026-10-18T00:00:00Z"
     },
     {
-      "code": "3FOR2",
-      "description": "Buy 3 Products From Aimee's Picks Page and Get the Cheapest Free Aimee's Picks",
-      "type": "unknown",
-      "value": null,
+      "code": "COUPERT10",
+      "description": "Limited Offer: 10% Off Your First Order",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
@@ -533,15 +533,79 @@
         "coupert"
       ],
       "url": "https://www.coupert.com/store/sculptedbyaimee.com",
-      "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-07-28T00:00:00Z"
+      "lastWorkedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "code": "GLOW105NCVJG7L",
+      "description": "Take 10% Off with Sculpted By Aimee Coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sculptedbyaimee.com",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "code": "HAPPYBDAYJZMFZ5TF",
+      "description": "Score 5% off on your favorite items",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sculptedbyaimee.com",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "code": "WELCOME10CWHZGDBS",
+      "description": "Sculptedbyaimee.com Newsletter Subscribers Get 10% Off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sculptedbyaimee.com",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

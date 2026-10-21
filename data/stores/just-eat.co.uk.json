@@ -1374,26 +1374,6 @@
       }
     },
     {
-      "code": "SHOP15",
-      "description": "Use Just Eat UK Promo Code and save 15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/just-eat",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-13T15:38:25.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "STUDENTDISCOUNT",
       "description": "Save on your order with Just Eat UK Discount Code",
       "type": "unknown",
@@ -1667,27 +1647,6 @@
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
       "lastSeen": "2026-10-19T11:44:11.574Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "EMAIL20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://justeat.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,

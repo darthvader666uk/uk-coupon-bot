@@ -77,13 +77,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/jeanstore",
       "addedAt": "2026-10-12T17:19:35.227Z",
-      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SEP20",
@@ -138,7 +138,7 @@
       ],
       "url": "https://jeanstore.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -159,13 +159,13 @@
       ],
       "url": "https://jeanstore.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "LWDDHBY31YHENEB",
@@ -201,7 +201,7 @@
       ],
       "url": "https://jeanstore.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -222,7 +222,7 @@
       ],
       "url": "https://jeanstore.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -243,7 +243,7 @@
       ],
       "url": "https://jeanstore.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -285,28 +285,7 @@
       ],
       "url": "https://jeanstore.knoji.com/",
       "addedAt": "2026-10-13T07:54:19.095Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "DEMAND10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://jeanstore.knoji.com/",
-      "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -336,24 +315,46 @@
       "verified": false
     },
     {
-      "code": "AUG20",
-      "description": "Receive a 20% discount on every order",
+      "code": "BANK20",
+      "description": "20% off",
       "type": "percentage",
       "value": 20,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "knoji",
       "sources": [
-        "coupert"
+        "knoji"
       ],
-      "url": "https://uk.coupert.com/promo-code/jeanstore",
-      "addedAt": "2026-10-16T13:01:35.629Z",
-      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "url": "https://jeanstore.knoji.com/",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "LAB30",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jeanstore.knoji.com/",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

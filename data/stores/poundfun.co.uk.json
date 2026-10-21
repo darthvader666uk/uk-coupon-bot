@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/poundfun-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -56,7 +56,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/poundfun-discount-codes",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -68,27 +68,6 @@
       "description": "10% off",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://poundfun.knoji.com/",
-      "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-15T10:52:45.812Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "SIMPLYCODES20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -152,27 +131,6 @@
       "description": "10% off",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://poundfun.knoji.com/",
-      "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-10-15T10:52:45.812Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "LOVE25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -398,6 +356,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SHIPFREE",
+      "description": "Free Delivery on Mega Surprise Boxes at PoundFun",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/poundfun-discount-codes",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

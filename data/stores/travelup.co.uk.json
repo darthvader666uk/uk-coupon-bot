@@ -169,47 +169,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "GREATDADS10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://travelup.knoji.com/",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "STUDENT15",
-      "description": "Extra £15 off Bookings over £300 at Travel Up",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": 300,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/travelup-discount-codes",
-      "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

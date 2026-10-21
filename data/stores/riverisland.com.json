@@ -4,24 +4,382 @@
   "category": "general",
   "codes": [
     {
-      "code": "HEY15",
-      "description": "New Customers Get 15% Off First Order at River Island with Promo Code",
+      "code": "MVC34DPUKJP1617",
+      "description": "Up to 20% off orders over £50 at River Island",
       "type": "percentage",
-      "value": 15,
-      "minSpend": null,
+      "value": 20,
+      "minSpend": 50,
       "expiry": null,
-      "source": "coupert",
+      "source": "savoo",
       "sources": [
-        "coupert"
+        "savoo"
       ],
-      "url": "https://uk.coupert.com/promo-code/river-island-uk",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "url": "https://www.savoo.co.uk/brands/river-island-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "HEY15",
+      "description": "15% off orders over £65 at River Island",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 65,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo",
+        "coupert"
+      ],
+      "url": "https://www.savoo.co.uk/brands/river-island-discount-codes",
+      "addedAt": "2026-09-08T10:21:39.687Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LUCKY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "INOURJEANS",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HELLOBF",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HELLOBFF",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji",
+        "coupert"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "AFF3DV9V4BH94521",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "RIJEANS",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "BAGS20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "VCUK4CQKKLC80506",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "UD50",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "KIDS10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "HI15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "MVC484HCY89NEW",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "VCUKFJFFD49WNEW",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "VCUK5C4NPMBHNEW",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "VCUKKVCLNV8BNEW",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "NETWORK10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://riverisland.knoji.com/",
+      "addedAt": "2026-09-20T10:20:57.109Z",
+      "lastSeen": "2026-09-21T11:19:32.118Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     },
     {
       "code": "VCUKHFWTB9VCNEW",
@@ -57,26 +415,6 @@
       "url": "https://uk.coupert.com/promo-code/river-island-uk",
       "addedAt": "2026-10-14T13:25:10.108Z",
       "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "HELLOBFF",
-      "description": "10% off orders over £60 at River Island",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 60,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/river-island-uk",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
       "testResults": {
         "total": 0,
         "worked": 0,

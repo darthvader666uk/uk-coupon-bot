@@ -36,7 +36,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/matalan.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -148,27 +148,6 @@
       }
     },
     {
-      "code": "BANKHOL",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://matalan.knoji.com/",
-      "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "TRY20",
       "description": "20% off",
       "type": "percentage",
@@ -198,11 +177,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://matalan.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -356,6 +336,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FE5UD080PUWNA",
+      "description": "Get 20% off your Matalan order when you enter this promo code at checkout and spend £30 or more.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/matalan.co.uk",
+      "addedAt": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

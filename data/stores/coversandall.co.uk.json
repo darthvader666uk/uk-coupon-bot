@@ -650,26 +650,6 @@
       "verified": false
     },
     {
-      "code": "CART5",
-      "description": "Take 5% off using Covers & All Discount Codes",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/covers-all",
-      "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SOCIALOFF",
       "description": "Exclusive 25% Savings Using Covers & All Discount Codes",
       "type": "percentage",
@@ -694,26 +674,6 @@
       "description": "30% Off Sitewide With Free Shipping",
       "type": "percentage",
       "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/covers-all",
-      "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "HELLO20",
-      "description": "",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

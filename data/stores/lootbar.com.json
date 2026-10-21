@@ -1,0 +1,47 @@
+{
+  "domain": "lootbar.com",
+  "name": "LootBar",
+  "category": "general",
+  "codes": [
+    {
+      "code": "LB15GGD",
+      "description": "15% off games — LootBar",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/?page=3",
+      "addedAt": "2026-09-07T12:13:14.338Z",
+      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LBKEY10GGD",
+      "description": "10% off games — LootBar",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/",
+      "addedAt": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

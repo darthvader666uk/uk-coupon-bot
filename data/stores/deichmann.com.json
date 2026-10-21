@@ -4,6 +4,26 @@
   "category": "general",
   "codes": [
     {
+      "code": "PLUS10",
+      "description": "Extra 10% off with Deichmann Plus Members",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/deichmann-discount-codes",
+      "addedAt": "2026-09-09T10:28:19.283Z",
+      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
       "code": "TRAINERS20",
       "description": "Get 20% Off Promo Code at Deichmann",
       "type": "percentage",

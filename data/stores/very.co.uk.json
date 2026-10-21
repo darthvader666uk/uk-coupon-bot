@@ -1426,28 +1426,6 @@
       }
     },
     {
-      "code": "TREAT10",
-      "description": "Enjoy a Discount of £10 with Very Discount Code",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://uk.coupert.com/promo-code/very",
-      "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-20T13:17:34.310Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "10NEWHOME",
       "description": "10% off",
       "type": "percentage",
@@ -2026,26 +2004,6 @@
       "url": "https://uk.coupert.com/promo-code/very",
       "addedAt": "2026-10-19T15:17:36.796Z",
       "lastSeen": "2026-10-19T15:17:36.796Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "AUTUMN",
-      "description": "Up to 25% Off This Autumn",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/very",
-      "addedAt": "2026-10-20T13:17:34.310Z",
-      "lastSeen": "2026-10-20T13:17:34.310Z",
       "testResults": {
         "total": 0,
         "worked": 0,
