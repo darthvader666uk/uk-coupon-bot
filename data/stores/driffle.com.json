@@ -346,11 +346,12 @@
       "expiry": null,
       "source": "ggdeals",
       "sources": [
-        "ggdeals"
+        "ggdeals",
+        "coupert"
       ],
       "url": "https://gg.deals/vouchers/?page=2",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -846,7 +847,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=3",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1233,7 +1234,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/driffle-com",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1356,7 +1357,7 @@
       ],
       "url": "https://driffle.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1675,7 +1676,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/driffle-com",
       "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2030,7 +2031,7 @@
       ],
       "url": "https://www.coupert.com/store/driffle.com",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2178,7 +2179,7 @@
       ],
       "url": "https://www.coupert.com/store/driffle.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2325,6 +2326,26 @@
       "url": "https://gg.deals/vouchers/?page=4",
       "addedAt": "2026-10-22T10:44:37.881Z",
       "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AKS7AKS",
+      "description": "Get 10% Off First Order at Driffle with Discount Code for New Users",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/driffle-com",
+      "addedAt": "2026-10-22T13:30:00.956Z",
+      "lastSeen": "2026-10-22T13:30:00.956Z",
       "testResults": {
         "total": 0,
         "worked": 0,
