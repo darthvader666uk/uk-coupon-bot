@@ -17,7 +17,7 @@
       ],
       "url": "https://wilko.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -423,6 +423,87 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "TAKE40",
+      "description": "Enjoy 40% off your purchase when this Wilko coupon code is applied to your cart.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/wilko.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE15",
+      "description": "Use this Wilko discount code at checkout to save 15% on your total order.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel",
+        "savoo"
+      ],
+      "url": "https://grabcaramel.com/coupons/wilko.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE50",
+      "description": "50% off Selected orders at Wilko.com",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wilko-discount-codes",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE25",
+      "description": "25% off Selected orders at Wilko.com",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wilko-discount-codes",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

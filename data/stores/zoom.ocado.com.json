@@ -142,6 +142,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "30GEM",
+      "description": "Don't forget to enter this promo code at checkout to receive up to 25% off your select order.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ocado.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VOU1F68E8",
+      "description": "Take £10 off your purchase using a coupon code in your cart at Ocado.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ocado.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -39,7 +39,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -60,7 +60,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -83,7 +83,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -106,7 +106,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -129,7 +129,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -152,7 +152,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -174,7 +174,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -194,7 +194,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/burton.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -544,28 +544,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-08-19T00:00:00Z"
-    },
-    {
-      "code": "BEAUTY5",
-      "description": "5% Off On Mens Grooming at Burton Menswear",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/burton.co.uk",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
     },
     {
       "code": "QUICK20",
@@ -1192,27 +1170,6 @@
       "verified": true
     },
     {
-      "code": "GET25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://burton.knoji.com/",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "GSGFASTDEL",
       "description": "Enjoy Free Express Delivery!",
       "type": "unknown",
@@ -1697,6 +1654,46 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "code": "NEXTDAY",
+      "description": "Get £1.99 next day delivery.",
+      "type": "fixed",
+      "value": 1.99,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/burton.co.uk",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "25OFF",
+      "description": "Use this Burton discount code at checkout to unlock an extra 25% off your entire order.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/burton.co.uk",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -64,26 +64,6 @@
       }
     },
     {
-      "code": "PROMO20",
-      "description": "New Customers Get 20% Off First Order at Thomann with Voucher Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/thomann-uk",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FREESHIP100",
       "description": "Free Shipping from Thomann",
       "type": "free_shipping",

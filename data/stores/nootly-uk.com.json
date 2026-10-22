@@ -122,26 +122,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "NEW20",
-      "description": "Take 20% off using Nootly Discount Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/nootly",
-      "addedAt": "2026-10-21T13:30:13.824Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

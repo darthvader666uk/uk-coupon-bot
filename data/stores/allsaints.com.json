@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "PROMO20",
-      "description": "Take 20% off your order",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/allsaints.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WELEMUS4N77BNTMX",
       "description": "10% off",
       "type": "percentage",
@@ -175,11 +155,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://allsaints.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -818,8 +799,8 @@
       "verified": false
     },
     {
-      "code": "TWENTY",
-      "description": "20% Off All Styles.",
+      "code": "OCTOBER",
+      "description": "20% off selected items.",
       "type": "percentage",
       "value": 20,
       "minSpend": null,
@@ -838,19 +819,299 @@
       }
     },
     {
-      "code": "OCTOBER",
-      "description": "20% off selected items.",
+      "code": "CATCH15OFF",
+      "description": "Enjoy Up to 50% Off on Select Items",
       "type": "percentage",
-      "value": 20,
+      "value": 50,
       "minSpend": null,
       "expiry": null,
       "source": "caramel",
       "sources": [
         "caramel"
       ],
-      "url": "https://grabcaramel.com/coupons/allsaints.co.uk",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "url": "https://grabcaramel.com/coupons/allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "20SUMMERUK",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EYNETHRETETS",
+      "description": "ca.allsaints.com promo code EYNETHRETETS",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "UOELESDSF",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "10FORYOU",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GIFT15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEWHERE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GURKHA25",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JAMIEDROID",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/ca.allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ETENETHSC",
+      "description": "allsaints.com promo code ETENETHSC",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TTARTDDHRRPST",
+      "description": "allsaints.com promo code TTARTDDHRRPST",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SSEPETEYHEC",
+      "description": "allsaints.com promo code SSEPETEYHEC",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RTMPUMGAT",
+      "description": "allsaints.com promo code RTMPUMGAT",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAINTS15",
+      "description": "allsaints.com promo code SAINTS15",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ADM85",
+      "description": "allsaints.com promo code ADM85",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/allsaints.com",
+      "addedAt": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-22T10:44:37.881Z",
       "testResults": {
         "total": 0,
         "worked": 0,

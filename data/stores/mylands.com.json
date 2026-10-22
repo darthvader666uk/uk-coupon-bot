@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "PROMO20",
-      "description": "New Customers Get 20% Off First Order at Mylands with Promo Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/mylands",
-      "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "EEONBO",
       "description": "Mylands - Enter Email to Get a Special Voucher Code",
       "type": "unknown",
