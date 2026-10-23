@@ -41,7 +41,7 @@
       ],
       "url": "https://theessencevault.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -102,11 +102,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://theessencevault.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -487,7 +488,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/theessencevault.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -648,7 +649,7 @@
       ],
       "url": "https://www.coupert.com/store/theessencevault.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -978,7 +979,7 @@
       ],
       "url": "https://www.coupert.com/store/theessencevault.co.uk",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1067,7 +1068,7 @@
       ],
       "url": "https://www.coupert.com/store/theessencevault.co.uk",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1200,7 +1201,7 @@
       ],
       "url": "https://www.coupert.com/store/theessencevault.co.uk",
       "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1250,7 +1251,7 @@
       }
     },
     {
-      "code": "BIRTHDAY",
+      "code": "EMMASMYSPACE",
       "description": "theessencevault.co.uk coupon",
       "type": "percentage",
       "value": 20,
@@ -1270,19 +1271,39 @@
       }
     },
     {
-      "code": "EMMASMYSPACE",
-      "description": "theessencevault.co.uk coupon",
+      "code": "SUMMER10",
+      "description": "Special Offer: Get 10% Off The Essence Vault Discount Code",
       "type": "percentage",
-      "value": 20,
+      "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "caramel",
+      "source": "coupert",
       "sources": [
-        "caramel"
+        "coupert"
       ],
-      "url": "https://grabcaramel.com/coupons/theessencevault.co.uk",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "url": "https://uk.coupert.com/promo-code/theessencevault-co-uk",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GIFT25",
+      "description": "The Essence Vault Discount Code: 25% Off For You",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/theessencevault-co-uk",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -4328,48 +4328,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "VIP30",
-      "description": "30% Off at Alo Yoga",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/aloyoga.com",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-19T00:00:00Z"
-    },
-    {
-      "code": "LOVE10",
-      "description": "aloyoga.com promo code LOVE10",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/aloyoga.com",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -16,7 +16,7 @@
       ],
       "url": "https://www.coupert.com/store/veals.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -146,7 +146,7 @@
       ],
       "url": "https://www.coupert.com/store/veals.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -168,7 +168,7 @@
       ],
       "url": "https://www.coupert.com/store/veals.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -176,6 +176,46 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-15T00:00:00Z"
+    },
+    {
+      "code": "SALE20",
+      "description": "Apply Promo Code to get 20% off at Veals Mail Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/veals-mail-order",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FLASH15",
+      "description": "Enjoy a 15% Discount with Exclusive Veals Mail Order Promo Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/veals-mail-order",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -62,6 +62,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NEW30",
+      "description": "Up to 30% off your order",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/syna-world",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

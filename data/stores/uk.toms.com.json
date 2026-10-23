@@ -493,26 +493,6 @@
       }
     },
     {
-      "code": "20OFF",
-      "description": "Receive 20% off your purchase of full-price items using a coupon code in your cart at Toms.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/toms.com",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "VIP20",
       "description": "Take 20% off your next purchase using a coupon code in your cart at Toms.",
       "type": "percentage",

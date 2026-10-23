@@ -62,6 +62,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "KREADOE26",
+      "description": "Exclusive 10% Savings Using Westpack Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/westpack-com",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

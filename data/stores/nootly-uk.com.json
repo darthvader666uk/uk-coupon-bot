@@ -104,26 +104,6 @@
       }
     },
     {
-      "code": "NEW20",
-      "description": "Take 20% off using Nootly Discount Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/nootly",
-      "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CLOCKS10",
       "description": "Unlock a 10% Discount with Nootly Promo Codes",
       "type": "percentage",

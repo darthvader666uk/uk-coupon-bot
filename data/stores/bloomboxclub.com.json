@@ -246,48 +246,8 @@
       }
     },
     {
-      "code": "SIGNUP",
-      "description": "Sitewide Offers Delivered Right To Your Inbox By Newsletter",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/bloomboxclub.com",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BLOOMBOX10",
       "description": "10% Off Storewide at Bloombox Club",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/bloomboxclub.com",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "LOVE10",
-      "description": "10% off First 2 Subscription Orders at Bloombox Club",
       "type": "percentage",
       "value": 10,
       "minSpend": null,

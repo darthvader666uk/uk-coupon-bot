@@ -96,7 +96,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -316,7 +316,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -396,7 +396,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-09-12T11:41:24.799Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -516,7 +516,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-09-13T12:48:26.470Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1566,7 +1566,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-10-16T13:01:35.629Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1606,7 +1606,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1709,7 +1709,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1831,7 +1831,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/just-eat",
       "addedAt": "2026-10-21T13:30:13.824Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1899,6 +1899,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "10STOP",
+      "description": "£10 off Orders Over £25 at Just Eat",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/just-eat",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SHOP15",
+      "description": "15% off on every qualifying order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/just-eat",
+      "addedAt": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
