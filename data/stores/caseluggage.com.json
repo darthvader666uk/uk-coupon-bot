@@ -1,0 +1,27 @@
+{
+  "domain": "caseluggage.com",
+  "name": "Case",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GIVEME10",
+      "description": "10% off orders at Case Luggage",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/case-discount-codes",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

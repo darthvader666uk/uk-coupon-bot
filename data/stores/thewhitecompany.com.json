@@ -97,17 +97,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://thewhitecompany.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "EUAX773",
@@ -118,17 +120,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://thewhitecompany.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-06-04T00:00:00Z"
     },
     {
       "code": "EUM566T3",
@@ -244,17 +248,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://thewhitecompany.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-08T00:00:00Z"
     },
     {
       "code": "EUBB970",
@@ -530,48 +536,6 @@
       "verified": false
     },
     {
-      "code": "INAS7",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://thewhitecompany.knoji.com/",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "RAQUEL20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://thewhitecompany.knoji.com/",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "STUNCS5H4P",
       "description": "",
       "type": "unknown",
@@ -612,6 +576,178 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "OCTSAVE",
+      "description": "20% Off at The White Company with This Exclusive Coupon",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "XJJSPSMLT",
+      "description": "Save 15% Off Your Order with Promo Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "code": "9W44B7CL6",
+      "description": "10% Off at The White Company",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "269FW",
+      "description": "Get Free Shipping On Your Order",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-03-13T00:00:00Z"
+    },
+    {
+      "code": "269CR",
+      "description": "The White Company Discount Code: Free Shipping on Your Purchase",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "code": "AY694",
+      "description": "Don't Miss The Chance To Get Free Delivery Code At The White Company",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-10T00:00:00Z"
+    },
+    {
+      "code": "AZ702",
+      "description": "Be A Member Of The Smart Shoppers With This Awesome Offer Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AR113",
+      "description": "Free Delivery on your orders",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

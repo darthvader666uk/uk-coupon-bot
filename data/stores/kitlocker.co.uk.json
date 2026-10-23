@@ -320,27 +320,6 @@
       "verified": false
     },
     {
-      "code": "WINTER10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kitlocker.knoji.com/",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "EMP789",
       "description": "",
       "type": "unknown",
@@ -444,26 +423,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Free Delivery on orders over £50 at Kitlocker",
-      "type": "fixed",
-      "value": 50,
-      "minSpend": 50,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/kitlocker-discount-codes",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -12,16 +12,19 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/glenmuir-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
     },
     {
       "code": "GGWLK6HQKHTNP6Q6X",
@@ -190,6 +193,152 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FAMILY10",
+      "description": "Save 10% off Orders",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/glenmuir.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "code": "WG10",
+      "description": "10% Off Your Purchase with Exclusive Coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/glenmuir.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "code": "AW8",
+      "description": "Get Average Savings of £3 at Glenmuir",
+      "type": "fixed",
+      "value": 3,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/glenmuir.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "code": "AFF5",
+      "description": "5% Off Any Order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/glenmuir.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SALTIRE50",
+      "description": "Discount Code: 50% Off Men's Zip Neck Saltire Cross Cashmere Golf Sweater",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/glenmuir.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GLAF120",
+      "description": "Get Up To 50% Off Select Items With Glenmuir Coupon Code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/glenmuir.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GLAF10",
+      "description": "Great savings on your order at glenmuir.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/glenmuir.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

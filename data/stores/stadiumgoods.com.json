@@ -525,11 +525,54 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/stadiumgoods.com",
       "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-27T00:00:00Z"
+    },
+    {
+      "code": "WATER11",
+      "description": "11% off GORE-TEX and Weatherproof Products at Stadium Goods",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/stadium-goods-discount-codes",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APPAREL11",
+      "description": "11% off Apparel and Accessories at Stadium Goods",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/stadium-goods-discount-codes",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,

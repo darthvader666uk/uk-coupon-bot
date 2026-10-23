@@ -104,26 +104,6 @@
       }
     },
     {
-      "code": "SPRING10",
-      "description": "Deduct 10% from your purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/monmore-confectionery",
-      "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FIRSTORDER30",
       "description": "Deduct 30% when you checkout",
       "type": "percentage",

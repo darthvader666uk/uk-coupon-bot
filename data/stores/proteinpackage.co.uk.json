@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/proteinpackage.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -214,6 +214,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FUELSAVE",
+      "description": "Act Fast For Up To 20% Off Your First Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/proteinpackage.co.uk",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BA094E0C8CF7EF8934",
+      "description": "Use This £10 Code When Checking Out",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/proteinpackage.co.uk",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -82,66 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GIFT20",
-      "description": "Extra savings up to 20% off on all khanums.co Products",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/khanums",
-      "addedAt": "2026-10-21T13:30:13.824Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SALE20",
-      "description": "Get up to 20% off your order",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/khanums",
-      "addedAt": "2026-10-21T13:30:13.824Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Free Shipping on Every Purchase",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/khanums",
-      "addedAt": "2026-10-21T13:30:13.824Z",
-      "lastSeen": "2026-10-21T13:30:13.824Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

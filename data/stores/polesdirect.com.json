@@ -82,26 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST10",
-      "description": "10% Off First Order at Poles Direct for New Users with Voucher Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/poles-direct",
-      "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

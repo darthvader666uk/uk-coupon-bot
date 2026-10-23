@@ -400,27 +400,6 @@
       "verified": false
     },
     {
-      "code": "CHECKOUT10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://intotheblue.knoji.com/",
-      "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "ITB24OCT",
       "description": "Exclusive 24% off orders at Into the blue",
       "type": "percentage",

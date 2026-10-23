@@ -300,48 +300,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "CHECKOUT10",
-      "description": "Special Deals: Get 10% Off with OutDazl Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/outdazl",
-      "addedAt": "2026-10-13T15:38:25.584Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-11T00:00:00Z"
-    },
-    {
-      "code": "HELLO10",
-      "description": "Save 10% on Your Complete Purchase with OutDazl Promo Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/outdazl",
-      "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

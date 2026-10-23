@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -40,14 +40,14 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "SECUREMYSPACE",
@@ -62,14 +62,14 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-16T00:00:00Z"
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "HUKDYPS25",
@@ -84,7 +84,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -148,14 +148,14 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-15T00:00:00Z"
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
     },
     {
       "code": "15DISCOUNT",
@@ -192,7 +192,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -236,7 +236,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -258,14 +258,14 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-07T00:00:00Z"
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
     },
     {
       "code": "THRIFT10",
@@ -448,12 +448,14 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "BOOKMONTHLY25",
@@ -476,6 +478,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-16T00:00:00Z"
+    },
+    {
+      "code": "DISCOUNT15",
+      "description": "Recently saved £6.37",
+      "type": "fixed",
+      "value": 6.37,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-28T00:00:00Z"
     }
   ]
 }

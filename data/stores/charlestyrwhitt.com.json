@@ -58,13 +58,13 @@
       ],
       "url": "https://charlestyrwhitt.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
@@ -418,7 +418,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -921,13 +921,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
@@ -1270,7 +1270,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1446,13 +1446,13 @@
       ],
       "url": "https://www.coupert.com/store/charlestyrwhitt.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-10-20T00:00:00Z"
     },
     {
@@ -1719,27 +1719,6 @@
       "lastWorkedAt": "2026-09-20T00:00:00Z"
     },
     {
-      "code": "WEEKEND20",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://charlestyrwhitt.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "WLCM6XAE4Y6Q",
       "description": "10% off",
       "type": "percentage",
@@ -1932,24 +1911,46 @@
       }
     },
     {
-      "code": "TAKE15",
-      "description": "15% Off Non Iron Twill Shirt at Charles Tyrwhitt",
-      "type": "percentage",
-      "value": 15,
+      "code": "FLANNEL",
+      "description": "",
+      "type": "unknown",
+      "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "caramel",
+      "source": "knoji",
       "sources": [
-        "caramel"
+        "knoji"
       ],
-      "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "url": "https://charlestyrwhitt.knoji.com/",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "POPLIN",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://charlestyrwhitt.knoji.com/",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

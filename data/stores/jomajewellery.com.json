@@ -57,7 +57,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -103,7 +103,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -172,7 +172,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -444,11 +444,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://jomajewellery.knoji.com/",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1372,7 +1373,7 @@
       ],
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1395,6 +1396,26 @@
       "url": "https://www.coupert.com/store/jomajewellery.com",
       "addedAt": "2026-10-17T10:15:55.556Z",
       "lastSeen": "2026-10-17T10:15:55.556Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "THANKS10",
+      "description": "Get 10% Off + Free Shipping. Shop Your Favorites For Less",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/jomajewellery.com",
+      "addedAt": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-23T10:45:38.341Z",
       "testResults": {
         "total": 0,
         "worked": 0,
