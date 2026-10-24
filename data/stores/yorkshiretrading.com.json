@@ -124,26 +124,6 @@
       }
     },
     {
-      "code": "15OFF",
-      "description": "Take £15 Off NHS Discount",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/yorkshire-trading",
-      "addedAt": "2026-10-23T13:10:32.892Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FIREWORKS",
       "description": "Get Offer When Using Code",
       "type": "unknown",

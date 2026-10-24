@@ -16,7 +16,7 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,7 +37,7 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -58,13 +58,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "PAY15",
@@ -79,13 +79,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "PAY20",
@@ -100,13 +100,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "BDAYTIME15",
@@ -121,13 +121,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "TREATME",
@@ -142,13 +142,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "KNIT20",
@@ -164,13 +164,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "MOTHER10",
@@ -185,13 +185,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "10MOTHER",
@@ -206,13 +206,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "EMAILNDD",
@@ -227,13 +227,13 @@
       ],
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "KIRSTY15",
@@ -354,6 +354,27 @@
       "url": "https://threadbare.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
       "lastSeen": "2026-09-13T10:56:39.229Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELCOMEBACK15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://threadbare.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,

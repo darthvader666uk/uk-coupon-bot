@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/avon-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -78,13 +78,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SURPRISE15",
@@ -99,13 +99,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "MISSYOU15",
@@ -120,13 +120,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SHOPIT10",
@@ -141,13 +141,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "ORDER10",
@@ -162,13 +162,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "25WKND",
@@ -274,6 +274,89 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "TEXT15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://avon.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "LOL250",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://avon.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SUMMERSHIP40",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://avon.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SALE25",
+      "description": "Extra 25% off Selected Products at Avon",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/avon-discount-codes",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

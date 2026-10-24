@@ -142,26 +142,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "EXTRA20",
-      "description": "Apply Up & Running Discount Code to save 20%",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/up-running",
-      "addedAt": "2026-10-23T13:10:32.892Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

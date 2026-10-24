@@ -36,7 +36,7 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -57,7 +57,7 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -78,7 +78,7 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -99,7 +99,7 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -120,13 +120,13 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "BTS25",
@@ -141,13 +141,13 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "DM618",
@@ -162,13 +162,13 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "JUNE35",
@@ -183,13 +183,13 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "FLASH40",
@@ -204,13 +204,13 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "MOM30",
@@ -225,13 +225,13 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "MARCH30",
@@ -267,13 +267,55 @@
       ],
       "url": "https://kiehls.knoji.com/",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SEPT35",
+      "description": "35% off",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kiehls.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "DMFLASH",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kiehls.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

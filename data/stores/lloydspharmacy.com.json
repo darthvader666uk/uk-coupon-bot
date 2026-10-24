@@ -740,28 +740,6 @@
       "lastWorkedAt": "2026-10-16T00:00:00Z"
     },
     {
-      "code": "COMEBACK15",
-      "description": "Save 15% Off at Lloyds Pharmacy with Promo Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/lloydspharmacy.com",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
-    },
-    {
       "code": "FREEPOST",
       "description": "Free Delivery on Orders Over £20",
       "type": "free_shipping",

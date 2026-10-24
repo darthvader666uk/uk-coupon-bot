@@ -32,32 +32,34 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "WHOISHOST",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% off at hostinger.com",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-07T14:44:36.803Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -66,18 +68,19 @@
     },
     {
       "code": "1YWEBHOSTINGPROMO",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% off at hostinger.com",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-09-19T10:04:40.460Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -108,18 +111,19 @@
     },
     {
       "code": "SNAPPY",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% off at hostinger.com",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -161,7 +165,7 @@
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -203,7 +207,7 @@
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -234,18 +238,19 @@
     },
     {
       "code": "TOPDOMAIN",
-      "description": "",
+      "description": "hostinger.com coupon",
       "type": "unknown",
       "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -296,18 +301,19 @@
     },
     {
       "code": "NITRADO20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% off at hostinger.com",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -328,13 +334,133 @@
       ],
       "url": "https://hostinger.knoji.com/",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "CFOLLOW10",
+      "description": "Use this Hostinger coupon code at checkout to receive 10% off your order which includes Web Hosting, VPS, Cloud, WordPresss, and website builder plans.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/hostinger.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CF10",
+      "description": "Use this exclusive coupon code during checkout to get a 10% discount on your Hostinger order. Limited time offer.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/hostinger.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIRSTVOYAGE",
+      "description": "hostinger.com coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/hostinger.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "50OFFWHEEL",
+      "description": "10% off at hostinger.com",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/hostinger.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WPVIDEO50",
+      "description": "10% off at hostinger.com",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/hostinger.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET25",
+      "description": "10% off at hostinger.com",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/hostinger.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

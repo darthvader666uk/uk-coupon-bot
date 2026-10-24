@@ -22,6 +22,108 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "DFWELCOME",
+      "description": "Enjoy Up To 12% Off Your First Order",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/daylesford.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "code": "DELIVERY50",
+      "description": "Free Shipping At Daylesford",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/daylesford.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HAMPER10",
+      "description": "10% Off Your Favorites",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/daylesford.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DFHAMPER",
+      "description": "Luxury Organic Hampers Free Shipping",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/daylesford.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW5",
+      "description": "Not Only 5% OFF but Free Delivery Today. Enjoy Saving Money",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/daylesford.com",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

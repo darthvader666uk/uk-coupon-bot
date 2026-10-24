@@ -230,26 +230,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SALE20",
-      "description": "Use this coupon for an extra 20% off your entire purchase",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/tummytox",
-      "addedAt": "2026-10-23T13:10:32.892Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

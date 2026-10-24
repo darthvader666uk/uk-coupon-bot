@@ -145,27 +145,6 @@
       "verified": false
     },
     {
-      "code": "GSCF25",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://wayfair.knoji.com/",
-      "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "WRBHYSACX",
       "description": "",
       "type": "unknown",
@@ -178,7 +157,7 @@
       ],
       "url": "https://wayfair.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -199,7 +178,7 @@
       ],
       "url": "https://wayfair.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -241,33 +220,13 @@
       ],
       "url": "https://wayfair.knoji.com/",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "APP10",
-      "description": "10% Off Selected Orders Via The App",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/wayfair-uk",
-      "addedAt": "2026-10-23T13:10:32.892Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     },
     {
       "code": "LNU5G9BQ5RJ9",
@@ -288,6 +247,48 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "HVSEP253",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SAVE500",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

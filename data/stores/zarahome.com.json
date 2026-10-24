@@ -208,26 +208,6 @@
       }
     },
     {
-      "code": "FIRST10",
-      "description": "Use Zara Home Coupon Code and save 10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/zarahome-com",
-      "addedAt": "2026-10-23T13:10:32.892Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ALL20",
       "description": "20% Off First Order at Zara Home for New Users with Coupon Code",
       "type": "percentage",

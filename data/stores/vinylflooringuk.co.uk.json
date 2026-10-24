@@ -62,26 +62,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "DISCOUNT15",
-      "description": "New User can Get 15% Off at Vinyl Flooring UK with Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/vinylflooringuk",
-      "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

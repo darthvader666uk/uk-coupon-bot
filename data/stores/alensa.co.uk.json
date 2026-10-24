@@ -336,13 +336,13 @@
       ],
       "url": "https://www.coupert.com/store/alensa.co.uk",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-10-22T00:00:00Z"
     },
     {
@@ -358,13 +358,13 @@
       ],
       "url": "https://alensa.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "COMPLETE1116",
@@ -379,7 +379,7 @@
       ],
       "url": "https://alensa.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -400,7 +400,7 @@
       ],
       "url": "https://alensa.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -421,7 +421,7 @@
       ],
       "url": "https://alensa.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -442,7 +442,7 @@
       ],
       "url": "https://alensa.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -527,7 +527,7 @@
       ],
       "url": "https://alensa.knoji.com/",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -642,6 +642,48 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "code": "ABA26ACX",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://alensa.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FAMILY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://alensa.knoji.com/",
+      "addedAt": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }
