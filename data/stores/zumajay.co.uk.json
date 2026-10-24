@@ -62,6 +62,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FIRST5",
+      "description": "Shop & Save 5% First purchase Zuma Jay Discount code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zumajay-co-uk",
+      "addedAt": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

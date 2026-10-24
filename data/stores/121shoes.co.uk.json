@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FB10PERCENT",
+      "description": "Apply 121 Shoes Discount Code to save 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/121shoes-co-uk",
+      "addedAt": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "TREATME",
-      "description": "20% off Unique Gifts over £20 at ASDA",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": 20,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/asda-photo-discount-codes",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAMEDAY",
       "description": "Buy 1, Get 50% on Selected Gifts at ASDA",
       "type": "unknown",
@@ -59,7 +39,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/asda-photo-discount-codes",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -353,7 +333,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/asdaphoto",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -554,6 +534,46 @@
       "url": "https://grabcaramel.com/coupons/asda.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
       "lastSeen": "2026-10-24T10:14:28.255Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE5",
+      "description": "Save 5% with ASDA photo Discount Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asdaphoto",
+      "addedAt": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GIFT20",
+      "description": "An additional 20% off applies to special items",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asdaphoto",
+      "addedAt": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
       "testResults": {
         "total": 0,
         "worked": 0,

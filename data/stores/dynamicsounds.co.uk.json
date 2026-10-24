@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FALL10",
+      "description": "Save 10% on First Purchase for New Customers at Dynamic Sounds with Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dynamic-sounds",
+      "addedAt": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

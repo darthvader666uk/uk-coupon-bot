@@ -190,6 +190,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "RVQNX5",
+      "description": "5% Off New customer order Adventure Avenue Promo code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/adventure-ave",
+      "addedAt": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-10-24T12:32:52.250Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

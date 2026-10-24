@@ -181,46 +181,6 @@
       "verified": false
     },
     {
-      "code": "BANKHOL",
-      "description": "Save £5 off on orders of £30 or more",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": 30,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/beautybay.com",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BEAUTY",
-      "description": "Purchase at Beauty Bay and get 30% off orders using this coupon code on your cart.",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/beautybay.com",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "GIFT5",
       "description": "When you apply this BEAUTY BAY discount code at checkout, you will receive 5% off your qualifying purchase.",
       "type": "percentage",

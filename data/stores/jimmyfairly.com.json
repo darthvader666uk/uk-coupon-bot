@@ -242,26 +242,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "CHECKMATE15",
-      "description": "Get 15% off your cart when using Checkmate",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jimmyfairly.com",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
