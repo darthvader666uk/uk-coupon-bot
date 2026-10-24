@@ -39,7 +39,7 @@
       ],
       "url": "https://www.coupert.com/store/addisonross.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -61,14 +61,14 @@
       ],
       "url": "https://www.coupert.com/store/addisonross.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-19T00:00:00Z"
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "LAURA10",
@@ -233,14 +233,14 @@
       ],
       "url": "https://www.coupert.com/store/addisonross.com",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-20T00:00:00Z"
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "KAYLA15",
@@ -255,7 +255,7 @@
       ],
       "url": "https://www.coupert.com/store/addisonross.com",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -263,24 +263,48 @@
       }
     },
     {
-      "code": "SUMMER26",
-      "description": "15% off Addison Ross Summer Sale",
+      "code": "FIRST90",
+      "description": "Addison Ross Promo Code: 20% Off Your Entire Order",
       "type": "percentage",
-      "value": 15,
+      "value": 20,
       "minSpend": null,
       "expiry": null,
-      "source": "savoo",
+      "source": "coupert",
       "sources": [
-        "savoo"
+        "coupert"
       ],
-      "url": "https://www.savoo.co.uk/brands/addison-ross-discount-codes",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "url": "https://www.coupert.com/store/addisonross.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "SIGNUP10",
+      "description": "New Subscribers to addisonross.com Newsletter Get 10% Off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/addisonross.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     }
   ]
 }

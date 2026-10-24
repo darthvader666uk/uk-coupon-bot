@@ -347,17 +347,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://kenwoodworld.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "DEVONFOODIE",
@@ -549,27 +551,6 @@
       "verified": false
     },
     {
-      "code": "THANKS10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kenwoodworld.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "KENWOOD4YOU",
       "description": "10% off",
       "type": "percentage",
@@ -736,6 +717,404 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "AMIRETTES20",
+      "description": "Take up to 20% Off Your Purchase Today",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "code": "MAXY08",
+      "description": "Get Up to 20% Off at Kenwood",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "code": "FINISHINGTOUCH",
+      "description": "Free Gift with kMix Purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COOKBYLOULOU",
+      "description": "Get 15% Off Everything at Kenwood",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "code": "SALLY26",
+      "description": "Enjoy Noteworthy Savings with Available Discounts",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUTUMN25",
+      "description": "Obtain Kitchen Excellence 25% Off on Kenwood Selected Products Exclusive Offer",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FALLDEALS",
+      "description": "Up to 35% Off Kitchen Appliances",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-13T00:00:00Z"
+    },
+    {
+      "code": "BAKING30",
+      "description": "Enjoy 30% Off Everything - Competitive pricing across the site",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TOVA55",
+      "description": "Take 55% Off with Kenwood Coupon",
+      "type": "percentage",
+      "value": 55,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SABRINA",
+      "description": "Enjoy a Free Gift with Your Purchase - No Hidden Fees or Minimums",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-18T00:00:00Z"
+    },
+    {
+      "code": "PROSTYPRZEPISNA",
+      "description": "Great savings are available on all your picks",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-15T00:00:00Z"
+    },
+    {
+      "code": "SAVEURS",
+      "description": "Get a Free Gift on Every Purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAMUEL",
+      "description": "Discounts are available on quality products",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-15T00:00:00Z"
+    },
+    {
+      "code": "DELICESDESYL",
+      "description": "Kenwoodworld.com lets you save a lot",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "code": "PASTICCIO",
+      "description": "Discounts are available on your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CUISINEENSCENE10",
+      "description": "Save 10% off your purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LUCIECHEF",
+      "description": "20% off + 3 free accessories",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIFIFOODIES",
+      "description": "Get a Free Gift with No Minimum Spend Necessary",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CLAETJEREM",
+      "description": "Get a Free Gift with Your Purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/kenwoodworld.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-12T00:00:00Z"
     }
   ]
 }

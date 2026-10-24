@@ -216,67 +216,6 @@
       "verified": false
     },
     {
-      "code": "SAVE500",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://ergonomist.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "GET15",
-      "description": "Save 15% on your order with Ergonomist Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ergonomist-discount",
-      "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE5",
-      "description": "Take 5% off with this Ergonomist Promo Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ergonomist-discount",
-      "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WATCH20",
       "description": "Apply Promo Code to get 20% off at Ergonomist",
       "type": "percentage",

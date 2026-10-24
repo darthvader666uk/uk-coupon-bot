@@ -124,26 +124,6 @@
       }
     },
     {
-      "code": "THANKYOU5",
-      "description": "Use Cut My Promo Code and save 5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/cutmy-co-uk",
-      "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BEARSCOTTAGE10",
       "description": "Grab a 10% Discount on Your Order with Cut My Discount Code",
       "type": "percentage",

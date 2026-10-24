@@ -64,26 +64,6 @@
       }
     },
     {
-      "code": "FIRST20",
-      "description": "Get 20% Off First Order at Beniconnect with Promo Code for New Users",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/beniconnect",
-      "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BENI40OFF",
       "description": "Get 40% Off Discount Code at Beniconnect",
       "type": "percentage",

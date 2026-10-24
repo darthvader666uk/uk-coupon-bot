@@ -940,28 +940,6 @@
       }
     },
     {
-      "code": "VCUK10",
-      "description": "10% off Orders Over £20 at Morphy Richards",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 20,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/morphyrichards.co.uk",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-21T00:00:00Z"
-    },
-    {
       "code": "SIMPLYSWEET",
       "description": "Enjoy 20% Off on Your Order Now",
       "type": "percentage",
@@ -982,28 +960,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-22T00:00:00Z"
-    },
-    {
-      "code": "SAVOO10",
-      "description": "Exclusive 10% off orders over £19.99 at Morphy Richards",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 19.99,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/morphyrichards.co.uk",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-13T00:00:00Z"
     }
   ]
 }

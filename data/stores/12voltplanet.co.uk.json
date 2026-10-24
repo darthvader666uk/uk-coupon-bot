@@ -142,26 +142,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GET10",
-      "description": "Special Offer: Get 10% Off 12 Volt Planet Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/12-volt-planet",
-      "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "FIRST10",
-      "description": "Save 10% at Charlies Direct First Purchase with Promo Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/charlies-co-uk",
-      "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SITEWIDE40",
       "description": "Grab 40% Discount with Charlies Direct Discount Code",
       "type": "percentage",

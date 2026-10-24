@@ -95,17 +95,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ugreen.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
       "code": "UL45363",
@@ -179,11 +181,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ugreen.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -200,11 +203,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ugreen.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -326,11 +330,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://ugreen.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -505,6 +510,472 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "GO5",
+      "description": "Save Up to 5% on Your Ugreen Order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "GS10",
+      "description": "Up to 10% Off at Ugreen",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "DL90597A",
+      "description": "39% Off UGREEN Nexode Power Bank",
+      "type": "percentage",
+      "value": 39,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "DL65487",
+      "description": "30% on UGREEN Mac Mini M4 Docking Station",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "NCWXN3D77Q",
+      "description": "5% Off Ugreen Discount Code for Your Orders",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "UL65958",
+      "description": "30% Off UGREEN MagFlow Power Bank",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "UL75752",
+      "description": "15% Off UGREEN Nexode Pro Charger",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DL15976",
+      "description": "Save 25% with This Promo Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "DL90912",
+      "description": "40% on UGREEN Revodok Pro 209 Dual Display 9-in-1 Revodok USB C 4K Universal Docking Station",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "UL55987",
+      "description": "22% Off UGREEN MagSafe Power Bank",
+      "type": "percentage",
+      "value": 22,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DL95256",
+      "description": "Limited Offer: 20% Off with Ugreen Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "UGREEN15AFF",
+      "description": "Exclusive 15% Off at Ugreen",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "DL15204",
+      "description": "Save 24% with This Promo Code",
+      "type": "percentage",
+      "value": 24,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW10OFF",
+      "description": "10% Off With UGREEN Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GS5E",
+      "description": "Ugreen Promo Code: £5 Off Your Favorite Items",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "DL55735",
+      "description": "20% Off UGREEN Revodok Pro Dock",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "DL90663",
+      "description": "Get Up to 26% Off at Ugreen",
+      "type": "percentage",
+      "value": 26,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DL95942",
+      "description": "Special Savings at Ugreen - Explore the Deals Today",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "code": "DL35415",
+      "description": "Ugreen Limited-Time Promo Code - Don't Miss Out!",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-21T00:00:00Z"
+    },
+    {
+      "code": "DL35525",
+      "description": "38% on UGREEN Nexode Power Bank 25000mAh 200W with Smart Digital Display",
+      "type": "percentage",
+      "value": 38,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DL45699",
+      "description": "35% on UGREEN Nexode 300W GaN Wall USB-C Charger 5 Ports",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "UL65839",
+      "description": "31% Off MagFlow Air Magnetic Power Bank",
+      "type": "percentage",
+      "value": 31,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ugreen.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

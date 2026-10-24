@@ -52,17 +52,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://manawa.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
       "code": "SPRING2025",
@@ -128,27 +130,6 @@
       "verified": false
     },
     {
-      "code": "EMLSPECIAL",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://manawa.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "DMD40",
       "description": "",
       "type": "unknown",
@@ -170,88 +151,88 @@
       "verified": false
     },
     {
-      "code": "VTRN40",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "MANAWA5",
+      "description": "Limited Offer: 5% Off with Manawa Promo Code",
+      "type": "percentage",
+      "value": 5,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://manawa.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "url": "https://www.coupert.com/store/manawa.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
-      "code": "MADDIECAS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "SPOUT5",
+      "description": "Take 5% Off with Manawa Coupon",
+      "type": "percentage",
+      "value": 5,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://manawa.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "url": "https://www.coupert.com/store/manawa.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
-      "code": "JADOHENY",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "MNW2025",
+      "description": "5% Off On Any Order manawa.com Discount Code",
+      "type": "percentage",
+      "value": 5,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://manawa.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "url": "https://www.coupert.com/store/manawa.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     },
     {
-      "code": "FLYFAST",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "MANAWA10",
+      "description": "Access 10% Off All Experiences Available",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://manawa.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "url": "https://www.coupert.com/store/manawa.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

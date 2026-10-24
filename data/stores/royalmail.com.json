@@ -144,26 +144,6 @@
       }
     },
     {
-      "code": "GET5",
-      "description": "Enjoy a 5% Discount with Your Royal Mail Discount Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/royal-mail",
-      "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "STAMPLOVE",
       "description": "Discover Budget-friendly Prices On Selected Items With Royalmail Promo Codes",
       "type": "unknown",

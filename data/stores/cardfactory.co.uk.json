@@ -416,28 +416,6 @@
       "lastWorkedAt": "2026-07-20T00:00:00Z"
     },
     {
-      "code": "SOCIAL15",
-      "description": "15% Off Selected Lines Over £20",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 20,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/cardfactory.co.uk",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-22T00:00:00Z"
-    },
-    {
       "code": "XMAS3F5",
       "description": "Festive Season Discounts Up to 30% Off",
       "type": "percentage",
@@ -480,28 +458,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-22T00:00:00Z"
-    },
-    {
-      "code": "VCUK10",
-      "description": "Save 10% with Card Factory Coupon",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/cardfactory.co.uk",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
     }
   ]
 }

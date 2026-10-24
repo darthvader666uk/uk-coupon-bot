@@ -12,16 +12,19 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/vestiaire-collective-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2025-07-04T00:00:00Z"
     },
     {
       "code": "15LUXE",
@@ -32,11 +35,52 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/vestiaire-collective-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VESTIAIREMONTI",
+      "description": "20% Off Hotel Stays in Tuscany",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vestiairecollective.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ICON15",
+      "description": "15% Off Iconic Bags Sale",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vestiairecollective.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,

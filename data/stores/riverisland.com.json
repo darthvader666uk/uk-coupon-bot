@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/river-island-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,7 +37,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/river-island-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -53,11 +53,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://riverisland.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -75,11 +76,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://riverisland.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -119,11 +121,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "caramel"
       ],
       "url": "https://riverisland.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -140,11 +143,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://riverisland.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -161,11 +165,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://riverisland.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -182,11 +187,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://riverisland.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -512,17 +518,38 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "caramel"
       ],
       "url": "https://riverisland.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "TENOFF",
+      "description": "Get £10 off your order when this River Island promo code is applied.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/us.riverisland.com",
+      "addedAt": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
