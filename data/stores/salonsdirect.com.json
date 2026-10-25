@@ -515,26 +515,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-16T00:00:00Z"
-    },
-    {
-      "code": "TAKE15OFF",
-      "description": "15% off orders over £150 at Salons Direct",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 150,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
-      "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

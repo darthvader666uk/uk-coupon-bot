@@ -204,26 +204,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "STUDENT15",
-      "description": "Save 15% on Student Orders at Onitsuka Tiger Using Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/onitsuka-tiger",
-      "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-10-22T13:30:00.956Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

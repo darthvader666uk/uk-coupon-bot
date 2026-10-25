@@ -76,7 +76,7 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -97,13 +97,13 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "CROCSBTS",
@@ -118,13 +118,13 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "CROCSAUG20",
@@ -139,13 +139,13 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SKIMMCROCS",
@@ -160,13 +160,13 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "CROC25",
@@ -181,13 +181,13 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "MEMODAY26",
@@ -202,7 +202,7 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -223,13 +223,13 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "LIZGLOW26",
@@ -244,13 +244,13 @@
       ],
       "url": "https://crocs.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SDFAF326",
@@ -314,6 +314,27 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "CROCTOBER25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://crocs.knoji.com/",
+      "addedAt": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

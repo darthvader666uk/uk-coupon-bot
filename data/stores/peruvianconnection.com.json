@@ -390,29 +390,6 @@
       "verified": false
     },
     {
-      "code": "FALL20",
-      "description": "20% Off All Sale Items & Select Full-price Items + Free Shipping at Peruvian Connection",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/peruvianconnection.com",
-      "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
-    },
-    {
       "code": "DAY12",
       "description": "Take 15% Off Your Order",
       "type": "percentage",
@@ -539,26 +516,6 @@
     {
       "code": "OCTFREESHIP",
       "description": "Free Shipping Storewide: with code",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/peruvianconnection.com",
-      "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SHIPFREE",
-      "description": "Free Shipping with every order: The best Peruvian Connection code",
       "type": "free_shipping",
       "value": null,
       "minSpend": null,

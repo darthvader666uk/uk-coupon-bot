@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/candymail.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-25T00:00:00Z"
     },
     {
       "code": "2FOR12",
@@ -78,14 +78,14 @@
       ],
       "url": "https://www.coupert.com/store/candymail.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-22T00:00:00Z"
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
       "code": "SWEET10",
@@ -100,14 +100,14 @@
       ],
       "url": "https://www.coupert.com/store/candymail.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-22T00:00:00Z"
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
       "code": "BC90D196E3B4",
@@ -144,7 +144,7 @@
       ],
       "url": "https://www.coupert.com/store/candymail.co.uk",
       "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -174,6 +174,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-02T00:00:00Z"
+    },
+    {
+      "code": "THANKYOU",
+      "description": "10% Off at Candy Mail UK",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/candymail.co.uk",
+      "addedAt": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-25T00:00:00Z"
     }
   ]
 }

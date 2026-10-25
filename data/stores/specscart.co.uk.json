@@ -358,26 +358,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "STUDENT15",
-      "description": "Student Discount: 15% off orders over £49 at Specscart",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 49,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/specscart-discount-codes",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

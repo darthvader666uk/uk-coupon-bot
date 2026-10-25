@@ -1838,73 +1838,11 @@
       }
     },
     {
-      "code": "HAIR10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://justeat.knoji.com/",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "EMAIL20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://justeat.knoji.com/",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "10STOP",
       "description": "£10 off Orders Over £25 at Just Eat",
       "type": "fixed",
       "value": 10,
       "minSpend": 25,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/just-eat",
-      "addedAt": "2026-10-23T13:10:32.892Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SHOP15",
-      "description": "15% off on every qualifying order",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
       "expiry": null,
       "source": "coupert",
       "sources": [

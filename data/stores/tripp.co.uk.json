@@ -180,12 +180,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/tripp-co-uk",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
       "code": "TREAT24",
@@ -240,12 +242,14 @@
       ],
       "url": "https://www.coupert.com/store/tripp.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
       "code": "CLEARANCEEVENT",
@@ -286,6 +290,50 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "TINSEL22",
+      "description": "Get 20% Off Your Suitcase at Tripp",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/tripp.co.uk",
+      "addedAt": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "LASTCHANCE24",
+      "description": "Tripp.co.uk has worthwhile savings available now",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/tripp.co.uk",
+      "addedAt": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     }
   ]
 }

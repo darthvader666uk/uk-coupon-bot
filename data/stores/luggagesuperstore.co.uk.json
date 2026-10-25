@@ -1,0 +1,27 @@
+{
+  "domain": "luggagesuperstore.co.uk",
+  "name": "Luggage Superstore",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WINTER10",
+      "description": "10% off Orders at Luggage Superstore",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/luggage-superstore-discount-codes",
+      "addedAt": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
