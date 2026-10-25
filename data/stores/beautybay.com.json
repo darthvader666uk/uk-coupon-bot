@@ -741,28 +741,6 @@
       }
     },
     {
-      "code": "WELCOME10OFF",
-      "description": "beautybay.com coupon",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/beautybay.com",
-      "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "HOLIDAY",
       "description": "beautybay.com promo code HOLIDAY",
       "type": "unknown",
@@ -783,26 +761,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "GET20",
-      "description": "Shop and save 20% with this promo code on your cart at Beauty Bay.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/beautybay.com",
-      "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

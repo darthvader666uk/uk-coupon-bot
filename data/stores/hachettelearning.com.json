@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FIRST5",
+      "description": "Shop & Save 5% First order Rising Stars Voucher code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hodder-education",
+      "addedAt": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

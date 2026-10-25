@@ -1583,26 +1583,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GET20",
-      "description": "Redeem this promo code at checkout and save 20% on your order.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/boohoo.com",
-      "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

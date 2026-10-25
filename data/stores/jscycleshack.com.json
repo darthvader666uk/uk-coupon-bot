@@ -22,6 +22,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "DISCOUNT15",
+      "description": "New Customers Get 15% Off First Order at Js Cycle Shack with Coupon code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/jscycleshack-com",
+      "addedAt": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AFFILIATE5",
+      "description": "Claim Your 5% Off Coupon code at Js Cycle Shack Now",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/jscycleshack-com",
+      "addedAt": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OCTOBER",
+      "description": "Jscycleshack Money-Savers and Bargain Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/jscycleshack-com",
+      "addedAt": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

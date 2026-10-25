@@ -1,0 +1,27 @@
+{
+  "domain": "jakeshoes.co.uk",
+  "name": "Jake Shoes",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SQALTY10",
+      "description": "Apply Promo Code to get 10% off at Jake Shoes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/jake-shoes-discount",
+      "addedAt": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -126,7 +126,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/insight-supps",
       "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -642,11 +642,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://insightsupps.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -674,6 +675,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MIKE10",
+      "description": "Save 10% on your order with Insight Supps Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/insight-supps",
+      "addedAt": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
