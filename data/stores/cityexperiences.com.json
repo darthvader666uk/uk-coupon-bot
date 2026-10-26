@@ -90,28 +90,6 @@
       }
     },
     {
-      "code": "MOM20",
-      "description": "Big sale offering discounts of up to 20%",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/cityexperiences.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "FRIENDSFAMILY15",
       "description": "15% Off Select Live Events",
       "type": "percentage",

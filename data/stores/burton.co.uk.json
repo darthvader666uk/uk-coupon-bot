@@ -1825,48 +1825,6 @@
       "verified": false
     },
     {
-      "code": "25OFF",
-      "description": "Use this Burton discount code at checkout to unlock an extra 25% off your entire order.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/burton.co.uk",
-      "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA25",
-      "description": "Extra 25% Off Selected Items Over £60",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": 60,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/burton.co.uk",
-      "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-18T00:00:00Z"
-    },
-    {
       "code": "COASTND20",
       "description": "20% off Full-Priced orders at Burton",
       "type": "percentage",

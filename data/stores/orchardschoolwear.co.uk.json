@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "COLD15",
+      "description": "Exclusive Offer: Enjoy 15% Discount with Orchard Schoolwear Voucher",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/orchardschoolwear-co-uk",
+      "addedAt": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

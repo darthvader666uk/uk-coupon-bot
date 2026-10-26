@@ -38,7 +38,7 @@
       ],
       "url": "https://www.coupert.com/store/plumbnation.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -80,7 +80,7 @@
       ],
       "url": "https://www.coupert.com/store/plumbnation.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -204,7 +204,7 @@
       ],
       "url": "https://www.coupert.com/store/plumbnation.co.uk",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -226,7 +226,7 @@
       ],
       "url": "https://www.coupert.com/store/plumbnation.co.uk",
       "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -296,6 +296,46 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "ARCH10",
+      "description": "PlumbNation Discount Code: 10% Off For You",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/plumbnation",
+      "addedAt": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FLASH15",
+      "description": "15% Off with PlumbNation Promo Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/plumbnation",
+      "addedAt": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -62,7 +62,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -129,7 +129,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2878,7 +2878,7 @@
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -3384,7 +3384,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -3822,7 +3822,7 @@
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -4066,7 +4066,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -4206,7 +4206,7 @@
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -4226,26 +4226,6 @@
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CART15",
-      "description": "20% off at johnlewis.com",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/johnlewis.com",
-      "addedAt": "2026-10-25T10:33:12.100Z",
       "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
@@ -4354,6 +4334,46 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-25T00:00:00Z"
+    },
+    {
+      "code": "APP10",
+      "description": "10% Off First App Order for New Users",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/john-lewis",
+      "addedAt": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NURSERYBABY10",
+      "description": "£10 Off £100+ Selected Baby & Nursery Orders",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/john-lewis",
+      "addedAt": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

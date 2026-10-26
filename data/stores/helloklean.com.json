@@ -302,28 +302,6 @@
       }
     },
     {
-      "code": "OFFER20",
-      "description": "Use Hello Klean Discount Code for 20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/helloklean-com",
-      "addedAt": "2026-10-20T13:17:34.310Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
-    },
-    {
       "code": "KLEAN20",
       "description": "Get 20% Off Everything at HELLO KLEAN",
       "type": "percentage",

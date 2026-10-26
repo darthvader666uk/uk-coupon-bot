@@ -1,0 +1,27 @@
+{
+  "domain": "limitedsneakers.co.uk",
+  "name": "Limited Sneakers",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EARLYBIRD5",
+      "description": "Apply Promo Codes to get 5% off at Limited Sneakers",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/limited-sneakers",
+      "addedAt": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -936,28 +936,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "10OFF",
-      "description": "10% Off Orders Via The App",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/zooplus.co.uk",
-      "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-08-31T00:00:00Z"
     }
   ]
 }

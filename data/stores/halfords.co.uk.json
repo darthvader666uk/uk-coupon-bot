@@ -19,7 +19,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -43,7 +43,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -110,7 +110,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -455,7 +455,7 @@
       ],
       "url": "https://halfords.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1353,7 +1353,7 @@
       ],
       "url": "https://www.coupert.com/store/halfords.co.uk",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1483,7 +1483,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-10-16T13:01:35.629Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1504,7 +1504,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-10-16T13:01:35.629Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1703,26 +1703,6 @@
       }
     },
     {
-      "code": "PAYDAY10",
-      "description": "Receive 10% Discount on Your Purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/halfords.com",
-      "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "HOLIDAY10",
       "description": "Shop and get 10% off your purchase using a coupon code on your cart.",
       "type": "percentage",
@@ -1803,6 +1783,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "MEGAP20",
+      "description": "Unlock 20% off using Halfords Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/halfords",
+      "addedAt": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

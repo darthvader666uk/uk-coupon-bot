@@ -124,26 +124,6 @@
       }
     },
     {
-      "code": "SUBSCRIBE20",
-      "description": "Join Homebody and get 20% off using Discount Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/homebody",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-09-30T14:25:47.257Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "JENNACHB",
       "description": "Enjoy 25% off your order - No Minimum Required",
       "type": "percentage",
