@@ -7,9 +7,9 @@
  * their public sitemap and is keyed by real domain, so it can be asked about
  * every store in the index from GitHub's runners.
  *
- * The page embeds its data as `storeInfoEnc` in __NEXT_DATA__: JSON with every
- * printable character shifted by two, wrapping within ASCII 0x20..0x7E, behind
- * a one-character marker. Inside, three blocks matter:
+ * The page embeds its data as `storeInfoEnc` in __NEXT_DATA__: JSON behind a
+ * one-character marker that says how it was encoded (see decodeStoreInfo).
+ * Inside, three blocks matter:
  *
  *   coupon_info                 the listed offers; `code` is blank for deals
  *                               and for some merchants entirely
@@ -48,8 +48,38 @@ export const STORES_PER_RUN = 800;
 const FETCH_TIMEOUT_MS = 30000;
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
-/** Undo the printable-ASCII shift. Anything outside the range passes through. */
+/*
+ * Ported from module 97014 in Coupert's pages/_app chunk, which picks the
+ * scheme by the first character:
+ *
+ *   "~"  every printable character shifted by two, wrapping within 0x20..0x7E
+ *   "!"  (from 2026-10-26) each character is an index into DICT, a fixed
+ *        alphabet ordered by how often JSON uses it. Indexes are written in
+ *        DIGITS minus its "0", and "0" escapes the next character into a
+ *        second block of 62, so the commonest characters cost one byte.
+ *
+ * A payload with no marker is AES, which they have not served to date.
+ */
+const DIGITS = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+const DICT = (() => {
+  let d = '"eotsi ra:,_ncmdlpu01hf2gv/by5.436wS[]xF{}97-CkD8AOEPTq\\%RMNI';
+  for (let n = 0x20; n <= 0x7e; n++) if (!d.includes(String.fromCharCode(n))) d += String.fromCharCode(n);
+  return d;
+})();
+
 export function decodeStoreInfo(enc) {
+  if (enc[0] === "!") {
+    let text = "";
+    for (let i = 1; i < enc.length; i++) {
+      const escaped = enc[i] === "0";
+      const digit = DIGITS.indexOf(enc[escaped ? ++i : i]);
+      const idx = escaped ? DIGITS.length - 1 + digit : digit - 1;
+      if (digit < 0 || idx >= DICT.length) throw new Error(`bad storeInfoEnc character at ${i}`);
+      text += DICT[idx];
+    }
+    return JSON.parse(text);
+  }
+  if (enc[0] !== "~") throw new Error(`unknown storeInfoEnc marker ${JSON.stringify(enc[0])}`);
   const text = [...enc.slice(1)].map((c) => {
     const n = c.charCodeAt(0);
     return n >= 0x20 && n <= 0x7e ? String.fromCharCode(0x20 + (n - 0x20 + 2) % 95) : c;

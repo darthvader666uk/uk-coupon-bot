@@ -111,6 +111,17 @@ console.log("\nStore canonicalisation");
   check("junk domain is skipped", stats.skipped === 1);
 }
 {
+  const stores = {};
+  mergeCodes(stores, [entry({ code: "amanda-r1mo" })]);
+  check("hyphen survives in the stored code", stores["currys.co.uk"].codes[0].code === "AMANDA-R1MO");
+  stores["currys.co.uk"].codes[0].code = "AMANDAR1MO"; // stored by the old normaliser
+  mergeCodes(stores, [entry({ code: "AMANDA-R1MO" })]);
+  check("a stripped code gets its hyphen back", stores["currys.co.uk"].codes[0].code === "AMANDA-R1MO");
+  check("and is not doubled", stores["currys.co.uk"].codes.length === 1);
+  const { stores: clean } = sanitizeStores(stores);
+  check("sanitize keeps the hyphen", clean["currys.co.uk"].codes[0].code === "AMANDA-R1MO");
+}
+{
   // guessDomain() builds these out of offer text; they can never match a real
   // hostname, and previously they slipped through to the sharder.
   const stores = {};

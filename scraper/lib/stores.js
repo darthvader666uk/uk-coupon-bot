@@ -156,6 +156,7 @@ export const DISPLAY_NAMES = {
   "groupon.co.uk": "Groupon",
   "halfords.co.uk": "Halfords",
   "hrkgame.com": "HRK Game",
+  "huel.com": "Huel",
   "jet2holidays.co.uk": "Jet2holidays",
   "john-lewis.co.uk": "John Lewis",
   "just-eat.co.uk": "Just Eat",

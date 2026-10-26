@@ -10,6 +10,16 @@ export function normalizeCode(code) {
 }
 
 /**
+ * The form a code is stored and shown in. normalizeCode is the match key
+ * only: hyphens and underscores are often part of the real code
+ * (AMANDA-R1MO), so stripping them here hands out a code that fails.
+ */
+export function storedCode(code) {
+  if (!code || typeof code !== "string") return "";
+  return code.trim().toUpperCase().replace(/\s+/g, "");
+}
+
+/**
  * Clean a description string: strip CDATA wrappers, HTML tags, garbage text, collapse whitespace
  */
 export function cleanDescription(desc) {
@@ -292,6 +302,9 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
         existing.testResults.worked = Math.round(entry.successRate * existing.testResults.total);
       }
       existing.lastSeen = now;
+      // Codes stored before storedCode existed lost their hyphens. Take the
+      // separators back from a source that still has them.
+      if (existing.code === normalised && storedCode(entry.code) !== normalised) existing.code = storedCode(entry.code);
       if (entry.verified !== undefined) existing.verified = !!entry.verified;
       // Keep the most recent "seen working" timestamp across sources.
       if (entry.lastWorkedAt && (!existing.lastWorkedAt || entry.lastWorkedAt > existing.lastWorkedAt)) {
@@ -312,7 +325,7 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
       const cleanedDesc = cleanDescription(entry.description);
       const inferredType = entry.type !== "unknown" ? entry.type : guessTypeFromDescription(cleanedDesc);
       const created = {
-        code: normalised,
+        code: storedCode(entry.code),
         description: cleanedDesc || "",
         type: inferredType,
         value: entry.value || extractValue(cleanedDesc, inferredType),
@@ -512,7 +525,7 @@ export function sanitizeStores(stores) {
         continue;
       }
 
-      code.code = normalised;
+      code.code = storedCode(code.code);
       if (enrichCode(code)) stats.cleanedCodes++;
       target.codes.push(code);
     }
