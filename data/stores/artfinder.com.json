@@ -425,7 +425,7 @@
       ],
       "url": "https://www.coupert.com/store/artfinder.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -434,7 +434,7 @@
       "verified": true
     },
     {
-      "code": "QUICK15",
+      "code": "QUICK-15",
       "description": "15% Off Storewide at Artfinder",
       "type": "percentage",
       "value": 15,
@@ -447,7 +447,7 @@
       ],
       "url": "https://www.coupert.com/store/artfinder.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -477,7 +477,7 @@
       }
     },
     {
-      "code": "ARTFINDER15750",
+      "code": "ARTFINDER-15-750",
       "description": "15% off",
       "type": "percentage",
       "value": 15,
@@ -485,17 +485,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://artfinder.knoji.com/",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     },
     {
       "code": "ARTFINDER10300",
@@ -932,7 +934,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/artfinder.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -953,7 +955,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/artfinder.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1011,17 +1013,38 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://artfinder.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "GET10",
+      "description": "10% Off Your First Order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/artfinder.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -458,6 +458,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "SAVOO15",
+      "description": "Exclusive £15 off orders at Desktronic",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/desktronic-discount-codes",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

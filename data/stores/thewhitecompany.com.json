@@ -103,14 +103,14 @@
       ],
       "url": "https://thewhitecompany.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
       "code": "EUAX773",
@@ -254,7 +254,7 @@
       ],
       "url": "https://thewhitecompany.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -298,7 +298,7 @@
       ],
       "url": "https://thewhitecompany.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -320,7 +320,7 @@
       ],
       "url": "https://thewhitecompany.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -638,7 +638,7 @@
       ],
       "url": "https://www.coupert.com/store/thewhitecompany.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -661,7 +661,7 @@
       ],
       "url": "https://www.coupert.com/store/thewhitecompany.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -683,7 +683,7 @@
       ],
       "url": "https://www.coupert.com/store/thewhitecompany.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -705,12 +705,14 @@
       ],
       "url": "https://www.coupert.com/store/thewhitecompany.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
     },
     {
       "code": "AR113",
@@ -725,7 +727,7 @@
       ],
       "url": "https://www.coupert.com/store/thewhitecompany.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -745,7 +747,69 @@
       ],
       "url": "https://grabcaramel.com/coupons/thewhitecompany.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "B2B1288D",
+      "description": "Receive 20% Off Your Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "code": "6P68B9",
+      "description": "Savings are available on your shopping",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "5G80X9",
+      "description": "10% Off & Free Shipping",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/thewhitecompany.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,

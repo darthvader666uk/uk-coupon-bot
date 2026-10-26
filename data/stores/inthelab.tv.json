@@ -106,46 +106,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE30",
-      "description": "Use In The Lab Discount Codes for 30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/in-the-lab",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE25",
-      "description": "Snatch 25% off your order",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/in-the-lab",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -57,7 +57,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/holland-and-barrett-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -500,14 +500,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/hollandandbarrett.com",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
       "code": "EXTRA22",
@@ -566,7 +566,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -608,7 +608,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -630,7 +630,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -652,7 +652,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -698,6 +698,68 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SHOP22",
+      "description": "Get an extra App Exclusive 22% off when you spend £40 only on the app. Exclusions and T&C's apply",
+      "type": "percentage",
+      "value": 22,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NY26",
+      "description": "Get an extra 25% off when you spend £26 only in the app",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 26,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "INSIDER25",
+      "description": "Recently saved £26.75",
+      "type": "fixed",
+      "value": 26.75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-25T00:00:00Z"
     }
   ]
 }

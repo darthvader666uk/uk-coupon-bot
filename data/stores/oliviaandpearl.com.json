@@ -60,7 +60,7 @@
       ],
       "url": "https://www.coupert.com/store/oliviaandpearl.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -298,7 +298,7 @@
       ],
       "url": "https://www.coupert.com/store/oliviaandpearl.com",
       "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -350,26 +350,6 @@
       "lastWorkedAt": "2026-10-13T00:00:00Z"
     },
     {
-      "code": "COUPERT20",
-      "description": "20% off for first time buyers",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/oliviaandpearl.com",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SIMPLY10",
       "description": "Discounts are available on quality products",
       "type": "unknown",
@@ -383,6 +363,26 @@
       "url": "https://www.coupert.com/store/oliviaandpearl.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
       "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PEARLGIFT",
+      "description": "15% Off Your Perfect Jewelry Gift",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/oliviaandpearl.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,

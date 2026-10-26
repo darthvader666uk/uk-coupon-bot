@@ -17,7 +17,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/prep-kitchen-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -38,7 +38,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/prep-kitchen-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -244,11 +244,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://prepkitchen.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -653,6 +654,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "WELCOME30",
+      "description": "30% off Prep Kitchen First order",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/prep-kitchen-discount-codes",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

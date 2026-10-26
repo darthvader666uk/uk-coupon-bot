@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "GIFT20",
-      "description": "Extra savings up to 20% off on all khanums.co Products",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/khanums",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "AUTUMN15",
       "description": "New User Discount - 15% Off First Purchase at KHANUM's with Promo Codes",
       "type": "percentage",
@@ -124,49 +104,9 @@
       }
     },
     {
-      "code": "EXTRA5",
-      "description": "Get a 5% discount on your order",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/khanums",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAVING",
       "description": "Great savings on your order at khanums.co",
       "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/khanums",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Free Shipping on Every Purchase",
-      "type": "free_shipping",
       "value": null,
       "minSpend": null,
       "expiry": null,

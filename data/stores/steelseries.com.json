@@ -77,13 +77,13 @@
       ],
       "url": "https://steelseries.knoji.com/",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-10-22T00:00:00Z"
     },
     {
@@ -159,17 +159,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://steelseries.knoji.com/",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-09-26T00:00:00Z"
     },
     {
       "code": "SSPOUT20",
@@ -185,13 +187,13 @@
       ],
       "url": "https://steelseries.knoji.com/",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-10-09T00:00:00Z"
     },
     {
@@ -313,7 +315,7 @@
       ],
       "url": "https://steelseries.knoji.com/",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -526,13 +528,13 @@
       ],
       "url": "https://steelseries.knoji.com/",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-09-29T00:00:00Z"
     },
     {
@@ -588,7 +590,7 @@
       ],
       "url": "https://www.coupert.com/store/steelseries.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -654,7 +656,7 @@
       ],
       "url": "https://www.coupert.com/store/steelseries.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -716,7 +718,7 @@
       ],
       "url": "https://www.coupert.com/store/steelseries.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -736,7 +738,7 @@
       ],
       "url": "https://www.coupert.com/store/steelseries.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -756,7 +758,7 @@
       ],
       "url": "https://www.coupert.com/store/steelseries.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -776,7 +778,7 @@
       ],
       "url": "https://www.coupert.com/store/steelseries.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -827,45 +829,155 @@
     },
     {
       "code": "25YEARS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Sitewide Offer: 25% Off on All Your Purchases",
+      "type": "percentage",
+      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://steelseries.knoji.com/",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
       "code": "NEWSLETTER10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Steelseries.com Newsletter Members Enjoy 10% Off",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://steelseries.knoji.com/",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-10-25T00:00:00Z"
+    },
+    {
+      "code": "PC4LIFE",
+      "description": "20% Off Two Eligible PC Products",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/steelseries.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ALIAS15",
+      "description": "15% Off Your Purchase with Coupon",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/steelseries.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2025-11-18T00:00:00Z"
+    },
+    {
+      "code": "KOBI12",
+      "description": "SteelSeries Promo Code: Get 12% Off Any Order",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/steelseries.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-01-21T00:00:00Z"
+    },
+    {
+      "code": "ATLFAZE",
+      "description": "Score Up to an Extra 10% Off Your Purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/steelseries.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-02-21T00:00:00Z"
+    },
+    {
+      "code": "HAVOK20",
+      "description": "Enjoy 20% off on your order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/steelseries.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

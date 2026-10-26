@@ -58,17 +58,17 @@
       ],
       "url": "https://www.coupert.com/store/4thandreckless.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-24T00:00:00Z"
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
-      "code": "SBUKKRQM",
+      "code": "SB-UKKRQM",
       "description": "15% Off at 4Th & Reckless",
       "type": "percentage",
       "value": 15,
@@ -80,14 +80,14 @@
       ],
       "url": "https://www.coupert.com/store/4thandreckless.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-24T00:00:00Z"
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
       "code": "DRESS35",
@@ -182,12 +182,34 @@
       ],
       "url": "https://www.coupert.com/store/4thandreckless.com",
       "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "CART10",
+      "description": "10% Off Storewide at 4Th & Reckless",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/4thandreckless.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     }
   ]
 }

@@ -184,26 +184,6 @@
       }
     },
     {
-      "code": "FIRST20",
-      "description": "New Customer Deal: 20% Off First Purchase at Firework Champions with Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/fireworkchampions-co-uk",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FIREWORK35",
       "description": "Save £14 on Your Adult Tickets",
       "type": "fixed",

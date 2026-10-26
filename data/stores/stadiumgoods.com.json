@@ -598,6 +598,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "code": "FALL10",
+      "description": "Enjoy 10% off sitewide with this Stadium Goods code.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/stadiumgoods.com",
+      "addedAt": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
