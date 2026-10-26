@@ -19,13 +19,17 @@ const SCRIPT = readFileSync(
   "utf8"
 ).replace(/^\/\/ ==UserScript==[\s\S]*?\/\/ ==\/UserScript==/, "");
 
+// Relative, because the userscript flags anything unseen for 21 days as stale:
+// fixed dates here go stale in their own time and break the stale-tag test.
+const daysAgo = (n) => new Date(Date.now() - n * 86400000).toISOString();
+
 const STORES = {
   "currys.co.uk": {
     domain: "currys.co.uk", name: "Currys",
     codes: [
-      { code: "SAVE20", description: "20% off small appliances", type: "percentage", value: 20, minSpend: 50, expiry: "2027-01-31", lastSeen: "2026-09-01T00:00:00Z", sources: ["savoo", "myvouchercodes"] },
-      { code: "TENOFF", description: "", type: "fixed", value: 10, minSpend: null, lastSeen: "2026-06-01T00:00:00Z", sources: ["savoo"] },
-      { code: "GONEBY", description: "Past its end date", type: "fixed", value: 5, expiry: "2020-01-01", lastSeen: "2026-09-02T00:00:00Z", sources: ["savoo"] },
+      { code: "SAVE20", description: "20% off small appliances", type: "percentage", value: 20, minSpend: 50, expiry: "2027-01-31", lastSeen: daysAgo(3), sources: ["savoo", "myvouchercodes"] },
+      { code: "TENOFF", description: "", type: "fixed", value: 10, minSpend: null, lastSeen: daysAgo(60), sources: ["savoo"] },
+      { code: "GONEBY", description: "Past its end date", type: "fixed", value: 5, expiry: "2020-01-01", lastSeen: daysAgo(2), sources: ["savoo"] },
     ],
   },
   "asos.co.uk": {
