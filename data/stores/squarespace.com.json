@@ -230,6 +230,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "CF10",
+      "description": "Enjoy 10% off at Square space",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/squarespace.com",
+      "addedAt": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

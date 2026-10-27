@@ -77,7 +77,7 @@
       ],
       "url": "https://docusign.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -139,17 +139,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://docusign.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
     },
     {
       "code": "DOCU50",
@@ -183,17 +185,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://docusign.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
     },
     {
       "code": "GODADDY50",
@@ -611,14 +615,14 @@
       ],
       "url": "https://docusign.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-24T00:00:00Z"
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
     },
     {
       "code": "SEND20",
@@ -822,14 +826,14 @@
       ],
       "url": "https://www.coupert.com/store/docusign.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-24T00:00:00Z"
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
     },
     {
       "code": "NP9101",
@@ -844,14 +848,14 @@
       ],
       "url": "https://www.coupert.com/store/docusign.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-24T00:00:00Z"
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
     },
     {
       "code": "DS829839",
@@ -866,7 +870,7 @@
       ],
       "url": "https://www.coupert.com/store/docusign.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -910,14 +914,14 @@
       ],
       "url": "https://www.coupert.com/store/docusign.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
       "code": "WEBNA9970",
@@ -932,14 +936,14 @@
       ],
       "url": "https://www.coupert.com/store/docusign.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
       "code": "CELEBRATE",
@@ -961,6 +965,92 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "DSM49986",
+      "description": "20% Off DocuSign Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/docusign.com",
+      "addedAt": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
+    },
+    {
+      "code": "DS866180",
+      "description": "Get 30% Off with DocuSign Coupon Code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/docusign.com",
+      "addedAt": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
+    },
+    {
+      "code": "WEBNA918918",
+      "description": "Take Up to 20% Off at DocuSign",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/docusign.com",
+      "addedAt": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
+    },
+    {
+      "code": "NEWUSERS",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/docusign.com",
+      "addedAt": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
