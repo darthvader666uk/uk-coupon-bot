@@ -174,28 +174,6 @@
       "verified": false
     },
     {
-      "code": "FAMILY10",
-      "description": "Save 10% off Orders",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/glenmuir.com",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
-    },
-    {
       "code": "WG10",
       "description": "10% Off Your Purchase with Exclusive Coupon",
       "type": "percentage",

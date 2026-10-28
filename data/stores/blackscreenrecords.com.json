@@ -44,6 +44,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WELCOME5",
+      "description": "Join Black Screen Records and get 5% off using Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/black-screen-records",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WELCOME25",
+      "description": "Get 25% Off First Order at Black Screen Records with Promo Code for New Users",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/black-screen-records",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -42,6 +42,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FALL10",
+      "description": "Save 10% on First Purchase for New Customers at Dynamic Sounds with Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dynamic-sounds",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VIOZWZ5",
+      "description": "New User Discount - 5% Off First Purchase at Dynamic Sounds with Voucher Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dynamic-sounds",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DS35OFFSUBS",
+      "description": "Unlock 35% Off Your Next Purchase with Dynamic Sounds Voucher Code",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dynamic-sounds",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

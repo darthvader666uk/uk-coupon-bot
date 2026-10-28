@@ -555,29 +555,6 @@
       }
     },
     {
-      "code": "FALL20",
-      "description": "Extra 20% Off Sitewide",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/peruvianconnection.com",
-      "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
-    },
-    {
       "code": "INSTOCK30",
       "description": "Take 30% Off Sitewide",
       "type": "percentage",

@@ -411,7 +411,7 @@
       ],
       "url": "https://www.coupert.com/store/dusk.com",
       "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-16T13:01:35.629Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -658,11 +658,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/dusk.com",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1223,7 +1224,7 @@
       ],
       "url": "https://www.coupert.com/store/dusk.com",
       "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1267,7 +1268,7 @@
       ],
       "url": "https://www.coupert.com/store/dusk.com",
       "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1289,7 +1290,7 @@
       ],
       "url": "https://www.coupert.com/store/dusk.com",
       "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1341,6 +1342,66 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "code": "BFEA2D83UNVB",
+      "description": "Get 25% Off Instantly at DUSK.com This Black Friday – Apply Voucher Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dusk-uk",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BFEA7GZKYZVV",
+      "description": "Black Friday Offer: 25% Off Your Order at DUSK.com with Discount Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dusk-uk",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BFEAD65VCDBK",
+      "description": "DUSK.com Black Friday Offer: 25% Off with Discount Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dusk-uk",
+      "addedAt": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
