@@ -364,28 +364,6 @@
       }
     },
     {
-      "code": "DEAL10",
-      "description": "Save 10% This Week on Selected Items",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/quatropi.com",
-      "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
-    },
-    {
       "code": "FREEGIFT",
       "description": "Free Gift on Select Products",
       "type": "unknown",

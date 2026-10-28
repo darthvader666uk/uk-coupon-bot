@@ -1,11 +1,11 @@
 {
-  "domain": "oakoutlet.co.uk",
-  "name": "Oak Outlet",
+  "domain": "nznature.co.nz",
+  "name": "Nature",
   "category": "general",
   "codes": [
     {
-      "code": "BANKHOL10",
-      "description": "Grab 10% off with Oak Outlet Promo Code",
+      "code": "NZNGU01",
+      "description": "10% off your first order",
       "type": "percentage",
       "value": 10,
       "minSpend": null,
@@ -14,16 +14,14 @@
       "sources": [
         "coupert"
       ],
-      "url": "https://uk.coupert.com/promo-code/oakoutlet-co-uk",
+      "url": "https://uk.coupert.com/promo-code/nature",
       "addedAt": "2026-10-04T08:34:09.440Z",
       "lastSeen": "2026-10-26T14:52:06.363Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
+      }
     }
   ]
 }

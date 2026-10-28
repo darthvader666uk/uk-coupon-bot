@@ -1448,46 +1448,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "WELCOMEBACK",
-      "description": "Take £0.65 off using Electronic First Promo Code",
-      "type": "fixed",
-      "value": 0.65,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/electronic-first",
-      "addedAt": "2026-10-27T13:25:39.484Z",
-      "lastSeen": "2026-10-27T13:25:39.484Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME10",
-      "description": "Use the Promo Code to get 10% off at Electronic First after sign-up",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/electronic-first",
-      "addedAt": "2026-10-27T13:25:39.484Z",
-      "lastSeen": "2026-10-27T13:25:39.484Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

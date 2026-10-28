@@ -37,13 +37,13 @@
       ],
       "url": "https://www.coupert.com/store/cityexperiences.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-05-30T00:00:00Z"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "url": "https://www.coupert.com/store/cityexperiences.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -103,7 +103,7 @@
       ],
       "url": "https://www.coupert.com/store/cityexperiences.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -126,13 +126,13 @@
       ],
       "url": "https://www.coupert.com/store/cityexperiences.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "DAYTIME10",
@@ -148,13 +148,13 @@
       ],
       "url": "https://www.coupert.com/store/cityexperiences.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "AMERICA20",
@@ -170,7 +170,7 @@
       ],
       "url": "https://www.coupert.com/store/cityexperiences.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -293,13 +293,13 @@
       ],
       "url": "https://www.coupert.com/store/cityexperiences.com",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-07-19T00:00:00Z"
     },
     {
@@ -335,13 +335,13 @@
       ],
       "url": "https://cityexperiences.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "EASTER30",
@@ -356,13 +356,13 @@
       ],
       "url": "https://cityexperiences.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "110NW15",
@@ -377,13 +377,13 @@
       ],
       "url": "https://cityexperiences.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "WEDDING20",
@@ -461,7 +461,7 @@
       ],
       "url": "https://cityexperiences.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -508,6 +508,174 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FALL30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "JULY4",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SUMMER50",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MOM20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELCOMEAPP",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GONOW40",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WESALUTE100",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "GREATDADS10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cityexperiences.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

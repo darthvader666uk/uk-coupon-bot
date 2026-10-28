@@ -12,16 +12,19 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/toolstation-promo-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-28T00:00:00Z"
     },
     {
       "code": "HAWKSMOODL",
@@ -36,14 +39,14 @@
       ],
       "url": "https://www.coupert.com/store/toolstation.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-26T00:00:00Z"
+      "lastWorkedAt": "2026-10-28T00:00:00Z"
     },
     {
       "code": "5DLAL26",
@@ -110,6 +113,50 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-26T00:00:00Z"
+    },
+    {
+      "code": "ECRTSFEB1",
+      "description": "Limited Time: 50% Off Toolstation Promo Code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/toolstation.com",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "code": "ECRTSVALTEN",
+      "description": "5% Off Orders",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/toolstation.com",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-28T00:00:00Z"
     }
   ]
 }

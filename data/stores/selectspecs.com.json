@@ -18,7 +18,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/selectspecs-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -729,28 +729,6 @@
       "lastWorkedAt": "2026-10-25T00:00:00Z"
     },
     {
-      "code": "TREAT25",
-      "description": "Get Instant 25% Off on All Your Favorites",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/selectspecs.com",
-      "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "IWD20",
       "description": "20% Off at Select Specs",
       "type": "percentage",
@@ -951,6 +929,26 @@
       "url": "https://www.coupert.com/store/selectspecs.com",
       "addedAt": "2026-10-27T11:28:20.543Z",
       "lastSeen": "2026-10-27T11:28:20.543Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUMMER26",
+      "description": "Up to 25% off Summer Sale at SelectSpecs",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/selectspecs-discount-codes",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,

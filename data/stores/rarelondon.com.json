@@ -56,13 +56,13 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SURPRISE15",
@@ -77,13 +77,13 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "VDAY20",
@@ -98,7 +98,7 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -119,13 +119,13 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "GIMME20",
@@ -140,7 +140,7 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -161,7 +161,7 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -182,7 +182,7 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -203,13 +203,13 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "PAY20",
@@ -285,7 +285,7 @@
       ],
       "url": "https://rarelondon.knoji.com/",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -396,6 +396,111 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WEEKEND15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://rarelondon.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "VIP30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://rarelondon.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "STUDENT20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://rarelondon.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EXTRA50",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://rarelondon.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SALE25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://rarelondon.knoji.com/",
+      "addedAt": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }
