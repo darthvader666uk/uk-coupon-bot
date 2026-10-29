@@ -1,0 +1,27 @@
+{
+  "domain": "impeccablepro.co.uk",
+  "name": "Impeccable",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DISCOUNT5",
+      "description": "New User can Get 5% Off at Impeccable with Discount Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/impeccable",
+      "addedAt": "2026-10-29T14:58:30.815Z",
+      "lastSeen": "2026-10-29T14:58:30.815Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

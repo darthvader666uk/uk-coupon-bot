@@ -1,0 +1,27 @@
+{
+  "domain": "hpb.co.uk",
+  "name": "Hpb",
+  "category": "general",
+  "codes": [
+    {
+      "code": "XILUJI5",
+      "description": "New Customer Deal: 5% Off First Purchase at Hpb with Discount Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hpb",
+      "addedAt": "2026-10-29T14:58:30.815Z",
+      "lastSeen": "2026-10-29T14:58:30.815Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

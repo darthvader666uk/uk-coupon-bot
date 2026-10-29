@@ -496,28 +496,6 @@
       }
     },
     {
-      "code": "HONEY5",
-      "description": "5% off everything",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/bloomboxclub.com",
-      "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "AFFILIATE10",
       "description": "10% Off All Orders",
       "type": "percentage",

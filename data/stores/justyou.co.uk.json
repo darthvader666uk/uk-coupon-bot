@@ -1,0 +1,27 @@
+{
+  "domain": "justyou.co.uk",
+  "name": "Just You",
+  "category": "general",
+  "codes": [
+    {
+      "code": "JUST50",
+      "description": "Get 50% off on your order",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/just-you",
+      "addedAt": "2026-10-29T14:58:30.815Z",
+      "lastSeen": "2026-10-29T14:58:30.815Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -322,26 +322,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST5",
-      "description": "New Customers Get 5% Off First Order at 123 Hampers with Promo Codes",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/123-hampers-co-uk",
-      "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

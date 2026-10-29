@@ -140,7 +140,7 @@
       ],
       "url": "https://www.coupert.com/store/gisou.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-10-29T14:58:30.815Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -304,6 +304,26 @@
       "url": "https://uk.coupert.com/promo-code/gisou",
       "addedAt": "2026-10-25T13:04:57.179Z",
       "lastSeen": "2026-10-25T13:04:57.179Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ALLONSALE",
+      "description": "Your order qualifies for 30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/gisou",
+      "addedAt": "2026-10-29T14:58:30.815Z",
+      "lastSeen": "2026-10-29T14:58:30.815Z",
       "testResults": {
         "total": 0,
         "worked": 0,

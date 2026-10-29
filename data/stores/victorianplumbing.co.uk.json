@@ -887,27 +887,6 @@
       "lastWorkedAt": "2026-10-28T00:00:00Z"
     },
     {
-      "code": "AUG5",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://victoriaplum.knoji.com/",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "AC2C6DZPMK",
       "description": "",
       "type": "unknown",
@@ -948,29 +927,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "OCT5",
-      "description": "Take 5% Off with Victorian Plumbing Coupon",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/victorianplumbing.co.uk",
-      "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
     }
   ]
 }

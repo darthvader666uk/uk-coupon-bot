@@ -1548,26 +1548,6 @@
       }
     },
     {
-      "code": "OFFER10",
-      "description": "10% discount across the site and free delivery",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gamersgate.com",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "JULIUSCAPCOM15",
       "description": "",
       "type": "unknown",
@@ -1854,28 +1834,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "COUPERT10",
-      "description": "10% Off Storewide at GamersGate",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/gamersgate.com",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

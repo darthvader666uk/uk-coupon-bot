@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "CHECK20",
-      "description": "Your shopping today gets 20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/aer-uk",
-      "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BUNDLE",
       "description": "Enjoy a Generous 50% Discount with Aer UK Discount Codes",
       "type": "percentage",
