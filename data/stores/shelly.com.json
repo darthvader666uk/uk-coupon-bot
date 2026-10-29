@@ -312,14 +312,14 @@
       ],
       "url": "https://shelly.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
       "code": "SMARTHOMEED10",
@@ -404,14 +404,14 @@
       ],
       "url": "https://shelly.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
       "code": "DPF20",
@@ -851,12 +851,34 @@
       ],
       "url": "https://www.coupert.com/store/shelly.com",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "COUPERT10",
+      "description": "Enjoy 10% Off Your Purchase with Shelly Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shelly.com",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
     }
   ]
 }

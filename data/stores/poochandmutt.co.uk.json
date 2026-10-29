@@ -565,25 +565,64 @@
       "verified": false
     },
     {
-      "code": "BIRTHDAY20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "AFP10EX",
+      "description": "15% off orders at Pooch & Mutt",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "savoo",
       "sources": [
-        "knoji"
+        "savoo"
       ],
-      "url": "https://poochandmutt.knoji.com/",
-      "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "url": "https://www.savoo.co.uk/brands/pooch-and-mutt-discount-codes",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
+    },
+    {
+      "code": "AFP10S2S",
+      "description": "20% off orders over £60 at Pooch & Mutt",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pooch-and-mutt-discount-codes",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AFP10NEW",
+      "description": "New Customers: 20% off orders at Pooch & Mutt",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/pooch-and-mutt-discount-codes",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

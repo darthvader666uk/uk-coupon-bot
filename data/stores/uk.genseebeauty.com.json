@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "DELAY10",
-      "description": "Apply Promo Codes to get 10% off at Gen See UK",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/gen-see-uk",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FALL25",
       "description": "Apply Promo Codes to get 25% off at Gen See UK",
       "type": "percentage",

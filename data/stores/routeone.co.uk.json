@@ -126,26 +126,6 @@
       }
     },
     {
-      "code": "BANK15",
-      "description": "Save 15% on Route One with Your Exclusive Promo Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/route-one",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-26T14:52:06.363Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "NEWSSP",
       "description": "£5 Off £60+ Orders",
       "type": "fixed",

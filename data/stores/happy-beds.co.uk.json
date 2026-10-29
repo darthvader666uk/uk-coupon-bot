@@ -36,7 +36,7 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -57,13 +57,13 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SLEEP15",
@@ -79,13 +79,13 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "MATTRESS10",
@@ -100,13 +100,13 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "PAY15",
@@ -121,13 +121,13 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SLEEPBETTER",
@@ -142,7 +142,7 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -163,7 +163,7 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -184,7 +184,7 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -205,7 +205,7 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -226,7 +226,7 @@
       ],
       "url": "https://happybeds.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -253,6 +253,69 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WEEKEND15",
+      "description": "Extra 15 Percent",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://happybeds.knoji.com/",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FEB10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://happybeds.knoji.com/",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "TENOFF",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://happybeds.knoji.com/",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

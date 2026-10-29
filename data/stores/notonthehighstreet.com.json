@@ -229,7 +229,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/not-on-the-high-street-discount-codes",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1118,6 +1118,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MYSTERYGIFT",
+      "description": "Up to £7.50 off orders over £50 at Not On The High Street",
+      "type": "fixed",
+      "value": 7.5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/not-on-the-high-street-discount-codes",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

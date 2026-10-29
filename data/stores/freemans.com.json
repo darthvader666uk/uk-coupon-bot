@@ -36,14 +36,14 @@
       ],
       "url": "https://www.coupert.com/store/freemans.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
       "code": "J3J",
@@ -58,14 +58,14 @@
       ],
       "url": "https://www.coupert.com/store/freemans.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
       "code": "FR9P",
@@ -152,6 +152,114 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-15T00:00:00Z"
+    },
+    {
+      "code": "J3JO",
+      "description": "Apply This Freemans Code And Save Up To 25%",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "code": "F77P",
+      "description": "Shop Now and Save 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
+    },
+    {
+      "code": "G4LP",
+      "description": "Get 15% Off Across the Store on Every Order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
+    },
+    {
+      "code": "JB4P",
+      "description": "Apply Freemans Coupon for Fantastic Savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ZR6P",
+      "description": "Get 3 for 2 on £25 Gifts Orders From Freemans",
+      "type": "percentage",
+      "value": 33,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-25T00:00:00Z"
     }
   ]
 }

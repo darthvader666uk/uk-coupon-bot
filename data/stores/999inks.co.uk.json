@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/999inks-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -264,27 +264,6 @@
       "description": "15% off",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://999inks.knoji.com/",
-      "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "LOVE14",
-      "description": "14% off",
-      "type": "percentage",
-      "value": 14,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -552,6 +531,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-26T00:00:00Z"
+    },
+    {
+      "code": "VIP5",
+      "description": "5% off orders Sitewide at 999Inks",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/999inks-discount-codes",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

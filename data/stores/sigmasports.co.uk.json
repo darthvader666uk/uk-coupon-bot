@@ -275,28 +275,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SAVE100",
-      "description": "£100 off orders over £500 at Sigma Sports",
-      "type": "fixed",
-      "value": 100,
-      "minSpend": 500,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "knoji"
-      ],
-      "url": "https://www.savoo.co.uk/brands/sigma-sports-discount-codes",
-      "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

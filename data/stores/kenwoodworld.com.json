@@ -1056,27 +1056,6 @@
       "lastWorkedAt": "2026-09-12T00:00:00Z"
     },
     {
-      "code": "PUMPKIN",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kenwoodworld.knoji.com/",
-      "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "READY10",
       "description": "",
       "type": "unknown",
@@ -1117,6 +1096,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BACK20",
+      "description": "20% off Selected orders at Kenwood",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/kenwood-discount-codes",
+      "addedAt": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

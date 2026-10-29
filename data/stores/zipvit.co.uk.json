@@ -365,46 +365,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "PAYDAY10",
-      "description": "10% Off Everything Plus Free UK Delivery",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/zipvit",
-      "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE5",
-      "description": "Take Advantage of £5 off Everything",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/zipvit",
-      "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

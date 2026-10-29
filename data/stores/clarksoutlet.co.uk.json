@@ -204,26 +204,6 @@
       }
     },
     {
-      "code": "TREAT20",
-      "description": "Take 20% off using Clarks Outlet Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/clarks-outlet",
-      "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "VIP25",
       "description": "Save 25% with Clarks Outlet Promo Code today",
       "type": "percentage",

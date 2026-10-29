@@ -150,29 +150,6 @@
       }
     },
     {
-      "code": "FIRSTORDER",
-      "description": "Get 15% Off First Order at Joie with Discount Codes for New Users",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://uk.coupert.com/promo-code/joie",
-      "addedAt": "2026-10-12T17:19:35.227Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-29T00:00:00Z"
-    },
-    {
       "code": "JOIEAPRBDAY043019",
       "description": "Notable Savings with Coupon Codes at joie.com",
       "type": "unknown",
