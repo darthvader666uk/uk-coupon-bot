@@ -605,26 +605,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "FIRST20",
-      "description": "Apply 20% off at checkout when you purchase select items using Daniel Footwear's discount code on your cart.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/danielfootwear.com",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -171,6 +171,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NRSUMMER",
+      "description": "Use New Rock Discount Code for savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-rock",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

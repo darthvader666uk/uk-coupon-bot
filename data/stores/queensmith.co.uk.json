@@ -4,10 +4,10 @@
   "category": "general",
   "codes": [
     {
-      "code": "DEAL5",
-      "description": "Get 5% Off First Order at Queensmith with Discount Code for New Users",
+      "code": "FALL20",
+      "description": "",
       "type": "percentage",
-      "value": 5,
+      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
@@ -15,8 +15,48 @@
         "coupert"
       ],
       "url": "https://uk.coupert.com/promo-code/queensmith-co-uk",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SALE15",
+      "description": "Enjoy 15% Off First Purchase at Queensmith with Voucher for New Customers",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/queensmith-co-uk",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUBSCRIPTION",
+      "description": "Enter Email to Get a Voucher Code at Queensmith",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/queensmith-co-uk",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
       "testResults": {
         "total": 0,
         "worked": 0,

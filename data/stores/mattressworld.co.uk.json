@@ -1,0 +1,27 @@
+{
+  "domain": "mattressworld.co.uk",
+  "name": "Mattressworld",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SUBSCRIPTION5",
+      "description": "Enter Email to Receive 5% Off on Your First Order - Mattress World Promo code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/mattressworld",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

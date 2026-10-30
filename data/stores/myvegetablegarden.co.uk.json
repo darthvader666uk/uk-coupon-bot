@@ -1,0 +1,47 @@
+{
+  "domain": "myvegetablegarden.co.uk",
+  "name": "My Vegetable Garden",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GARDEN5",
+      "description": "Save 5% on your order with My Vegetable Garden Discount Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/my-vegetable-garden",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUBSCRIPTION5",
+      "description": "You deserve 5% off on your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/my-vegetable-garden",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

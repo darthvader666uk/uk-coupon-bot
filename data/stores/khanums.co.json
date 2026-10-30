@@ -62,46 +62,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GETOFFER15",
-      "description": "",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/khanums.co",
-      "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVING",
-      "description": "Great savings on your order at khanums.co",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/khanums",
-      "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

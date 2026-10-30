@@ -1,0 +1,27 @@
+{
+  "domain": "mymovingbox.co.uk",
+  "name": "My Moving Boxes",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AECJIS20",
+      "description": "New User Discount - 20% Off First Purchase at My Moving Boxes with Promo Codes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/my-moving-boxes",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

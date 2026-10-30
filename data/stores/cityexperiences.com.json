@@ -510,52 +510,10 @@
       }
     },
     {
-      "code": "FALL30",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://cityexperiences.knoji.com/",
-      "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "JULY4",
       "description": "20% off",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://cityexperiences.knoji.com/",
-      "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SUMMER50",
-      "description": "50% off",
-      "type": "percentage",
-      "value": 50,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",

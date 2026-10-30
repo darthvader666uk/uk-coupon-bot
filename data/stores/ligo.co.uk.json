@@ -1,0 +1,27 @@
+{
+  "domain": "ligo.co.uk",
+  "name": "Ligo",
+  "category": "general",
+  "codes": [
+    {
+      "code": "LIGO-5",
+      "description": "Take 5% off your total purchase",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ligo",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

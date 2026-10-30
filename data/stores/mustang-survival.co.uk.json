@@ -1,0 +1,27 @@
+{
+  "domain": "mustang-survival.co.uk",
+  "name": "Mustang Survival",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DISCOUNT20",
+      "description": "New User Discount - 20% Off First Purchase at Mustang Survival with Promo Codes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/mustang-survival",
+      "addedAt": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

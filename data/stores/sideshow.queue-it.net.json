@@ -1211,28 +1211,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "DISCOUNT15",
-      "description": "Sideshow.com Discount Code: Additional 15% Off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/sideshow.com",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2025-10-31T00:00:00Z"
     }
   ]
 }
