@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BANKHOL",
+      "description": "20% off Almost Everything at Tefal",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tefal-discount-codes",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

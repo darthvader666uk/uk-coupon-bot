@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cardfactory.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -34,17 +35,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cardfactory.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
@@ -120,11 +122,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cardfactory.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -206,17 +209,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cardfactory.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-16T10:42:51.592Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
+      "verified": false,
       "lastWorkedAt": "2026-10-15T00:00:00Z"
     },
     {
@@ -338,11 +342,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cardfactory.co.uk",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -382,11 +387,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cardfactory.co.uk",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -426,11 +432,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cardfactory.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -502,6 +509,321 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "code": "TREAT15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "XMASEARLY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FDEARLYBIRD",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "PAYDAY25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "PGIFTS30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SENDASMILE",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "FREECARDS",
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "CHOC5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "TEDDY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "DMCCORMICK",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "MOONPIG50",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "35OFFSPT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "CR6SPP30000",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ANADWAYNE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WEDDING30",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cardfactory.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

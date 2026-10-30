@@ -17,7 +17,7 @@
       ],
       "url": "https://gg.deals/vouchers/?page=4",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -698,25 +698,24 @@
       "verified": false
     },
     {
-      "code": "BTS20",
-      "description": "20% off",
+      "code": "GGD4",
+      "description": "4% off selected products — Keycense",
       "type": "percentage",
-      "value": 20,
+      "value": 4,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "ggdeals",
       "sources": [
-        "knoji"
+        "ggdeals"
       ],
-      "url": "https://keycense.knoji.com/",
-      "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "url": "https://gg.deals/vouchers/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

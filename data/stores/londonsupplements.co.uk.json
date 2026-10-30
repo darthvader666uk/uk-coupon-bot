@@ -1,0 +1,29 @@
+{
+  "domain": "londonsupplements.co.uk",
+  "name": "londonsupplements.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "5OFFSUPPLEMENTS",
+      "description": "5% Off at London Supplements with Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/londonsupplements.co.uk",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
+    }
+  ]
+}

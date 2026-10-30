@@ -707,27 +707,6 @@
       "verified": true
     },
     {
-      "code": "CHRISTMAS",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://enhancedlabs.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "SAVEBIG",
       "description": "10% off",
       "type": "percentage",
@@ -750,90 +729,6 @@
     },
     {
       "code": "MY40",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://enhancedlabs.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SYD5",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://enhancedlabs.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "TALON20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://enhancedlabs.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "DMND10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://enhancedlabs.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "GAINES10",
       "description": "",
       "type": "unknown",
       "value": null,

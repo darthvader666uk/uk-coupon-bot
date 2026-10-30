@@ -102,46 +102,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "NEW26",
-      "description": "Exclusive offers: use a promo code at the time of payment to get huge discounts",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/karmic",
-      "addedAt": "2026-10-21T13:30:13.824Z",
-      "lastSeen": "2026-10-29T14:58:30.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "NEW20",
-      "description": "Get up to 20% off on your order",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/karmic",
-      "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-10-29T14:58:30.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

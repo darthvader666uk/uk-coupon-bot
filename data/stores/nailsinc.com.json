@@ -82,7 +82,7 @@
       ],
       "url": "https://www.coupert.com/store/nailsinc.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -127,7 +127,7 @@
       ],
       "url": "https://www.coupert.com/store/nailsinc.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -190,7 +190,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -211,7 +211,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -232,7 +232,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -253,7 +253,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -274,7 +274,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -401,7 +401,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -423,7 +423,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -444,7 +444,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -465,7 +465,7 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -510,7 +510,7 @@
       ],
       "url": "https://www.coupert.com/store/nailsinc.com",
       "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -532,13 +532,97 @@
       ],
       "url": "https://nailsinc.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "SUN20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://nailsinc.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EASTER20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://nailsinc.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SHIPFREE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://nailsinc.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NEWYEAR10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://nailsinc.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

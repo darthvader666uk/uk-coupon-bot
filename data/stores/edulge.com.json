@@ -615,27 +615,6 @@
       "verified": false
     },
     {
-      "code": "BTMV20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://edulge.knoji.com/",
-      "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "TRIOGIFT",
       "description": "",
       "type": "unknown",
@@ -826,26 +805,6 @@
       "description": "Unlock 10% off using Edulge Discount Codes",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/edulge",
-      "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "AUTUMN25",
-      "description": "Up to 25% off in this sale",
-      "type": "percentage",
-      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

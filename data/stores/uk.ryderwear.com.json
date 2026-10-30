@@ -361,25 +361,24 @@
       "verified": false
     },
     {
-      "code": "VIP5MEN",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "THANKYOU15",
+      "description": "15% off orders at Ryderwear",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "savoo",
       "sources": [
-        "knoji"
+        "savoo"
       ],
-      "url": "https://ryderwear.knoji.com/",
-      "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "url": "https://www.savoo.co.uk/brands/ryderwear-discount-codes",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

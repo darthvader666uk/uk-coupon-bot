@@ -77,14 +77,14 @@
       ],
       "url": "https://nakd.knoji.com/",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-28T00:00:00Z"
     },
     {
       "code": "KINDBLAD",
@@ -186,14 +186,14 @@
       ],
       "url": "https://nakd.knoji.com/",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-27T00:00:00Z"
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
     },
     {
       "code": "NICOLE",
@@ -1028,12 +1028,14 @@
       ],
       "url": "https://www.coupert.com/store/na-kd.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
     },
     {
       "code": "ANNALY",
@@ -1290,7 +1292,7 @@
       ],
       "url": "https://www.coupert.com/store/na-kd.com",
       "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1427,6 +1429,138 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SIDELMANN",
+      "description": "na-kd.com Products Available For Up To 30% Off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/na-kd.com",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "code": "SEVILOVE",
+      "description": "Exclusive 10% Off at NA-KD",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/na-kd.com",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "code": "CHLOEDE",
+      "description": "Get 15% Off Using NA-KD Coupon Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/na-kd.com",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "code": "LUNATKT",
+      "description": "Na-kd.com has special savings for you",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/na-kd.com",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "code": "IDALOUISE",
+      "description": "Save 15% on Select Items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/na-kd.com",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "code": "COMEBACK",
+      "description": "40% Off All Orders",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/na-kd.com",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-03-06T00:00:00Z"
     }
   ]
 }

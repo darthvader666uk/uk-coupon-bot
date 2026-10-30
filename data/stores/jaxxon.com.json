@@ -508,24 +508,67 @@
       }
     },
     {
-      "code": "WELCOME25",
+      "code": "WLCMCC52KKM9",
       "description": "",
-      "type": "percentage",
-      "value": 25,
+      "type": "unknown",
+      "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "knoji",
       "sources": [
-        "coupert"
+        "knoji"
       ],
-      "url": "https://uk.coupert.com/promo-code/jaxxon",
-      "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-10-29T14:58:30.815Z",
+      "url": "https://jaxxon.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "BBE78QNT78L",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jaxxon.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "NESTER10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jaxxon.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

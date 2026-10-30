@@ -509,48 +509,7 @@
       }
     },
     {
-      "code": "TAKE15OFF",
-      "description": "15% off orders over £150 at Salons Direct",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 150,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/salons-direct-discount-codes",
-      "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SUMMERSEARCH10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://salonsdirect.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "CHECKOUT10",
       "description": "10% off",
       "type": "percentage",
       "value": 10,
@@ -593,69 +552,6 @@
     },
     {
       "code": "SE3ARPH",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://salonsdirect.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SB10526",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://salonsdirect.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "BPSITE0520",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://salonsdirect.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "WEL10FB2CMXCH",
       "description": "",
       "type": "unknown",
       "value": null,

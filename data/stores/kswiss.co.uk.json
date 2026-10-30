@@ -44,46 +44,6 @@
       }
     },
     {
-      "code": "SALE10",
-      "description": "Sale offers 10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/k-swiss",
-      "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-10-29T14:58:30.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA30",
-      "description": "Exclusive Offer: Enjoy 30% Discount with K-Swiss Promo Codes",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/k-swiss",
-      "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-10-29T14:58:30.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CHECKMATE11",
       "description": "Enjoy a Discount of 11% Using K-Swiss Discount Codes",
       "type": "percentage",
@@ -102,6 +62,27 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "LRGBOGO",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://kswiss.knoji.com/",
+      "addedAt": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }
