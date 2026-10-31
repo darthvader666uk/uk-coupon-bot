@@ -42,26 +42,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FREESHIPPING",
-      "description": "Free Shipping on Orders Over £2.99",
-      "type": "fixed",
-      "value": 2.99,
-      "minSpend": 2.99,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/waggel",
-      "addedAt": "2026-10-31T14:11:25.661Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

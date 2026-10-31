@@ -526,6 +526,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "RE-JUICYCOUTURE10",
+      "description": "Get 10% off your first purchase at Juicy Couture UK with code RE-JUICYCOUTURE10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/juicycouture.co.uk",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -1606,11 +1606,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://kwikfit.knoji.com/",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1674,6 +1675,26 @@
       "url": "https://www.savoo.co.uk/brands/kwikfit-discount-codes",
       "addedAt": "2026-10-31T11:30:20.399Z",
       "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BLACK25",
+      "description": "20% off car batteries",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,

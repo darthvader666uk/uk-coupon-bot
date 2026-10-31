@@ -338,11 +338,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -398,11 +399,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -780,6 +782,46 @@
       "url": "https://www.coupert.com/store/kickscrew.com",
       "addedAt": "2026-10-30T12:02:27.438Z",
       "lastSeen": "2026-10-30T12:02:27.438Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "KCJUI5",
+      "description": "Apply 5% off at KICKS CREW with code KCJUI5.",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kickscrew.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CDUFFY15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kickscrew.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,

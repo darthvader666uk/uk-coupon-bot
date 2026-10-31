@@ -36,11 +36,12 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/lloyds-pharmacy-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -296,11 +297,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/lloydspharmacy.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-17T10:15:55.556Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -922,11 +924,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/lloydspharmacy.com",
       "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -998,6 +1001,126 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "5OFF",
+      "description": "5% off all orders",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PAYDAY30",
+      "description": "15% off storewide",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "STOCKUP20",
+      "description": "20% off storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPOOKY15",
+      "description": "15% off storewide",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15OFFMENO",
+      "description": "15% off Special Curated Menopause Range",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15OFF30",
+      "description": "40% off storewide",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

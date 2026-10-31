@@ -477,11 +477,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/lensmart-glasses",
       "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2468,6 +2469,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-31T00:00:00Z"
+    },
+    {
+      "code": "SAVE25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lensmartonline.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

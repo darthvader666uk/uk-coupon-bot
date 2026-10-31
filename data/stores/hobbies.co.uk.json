@@ -754,6 +754,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FLASH10",
+      "description": "Get 10% off all full-priced items at alwayshobbies with code FLASH10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/hobbies.co.uk",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

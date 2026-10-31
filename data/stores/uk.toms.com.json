@@ -1133,26 +1133,6 @@
       }
     },
     {
-      "code": "VIP20",
-      "description": "Take 20% off your next purchase using a coupon code in your cart at Toms.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/toms.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WINTER10",
       "description": "Apply an additional 10% off at checkout when you purchase sitewide using this discount code on your cart.",
       "type": "percentage",

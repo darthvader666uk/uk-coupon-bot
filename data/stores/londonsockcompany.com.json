@@ -216,6 +216,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-24T00:00:00Z"
+    },
+    {
+      "code": "BLACK15",
+      "description": "Get 15% off plus double points at London Sock Company with code BLACK15.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/londonsockcompany.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

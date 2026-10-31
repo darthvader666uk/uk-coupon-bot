@@ -260,11 +260,12 @@
       "sources": [
         "coupert",
         "knoji",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/instacart",
       "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1718,6 +1719,46 @@
       "url": "https://grabcaramel.com/coupons/instacart.com",
       "addedAt": "2026-10-31T11:30:20.399Z",
       "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EMOMMA13C",
+      "description": "Save on your order at Instacart with code EMOMMA13C.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/instacart.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MBOUWMEISTER143FD",
+      "description": "10% off your first grocery delivery",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/instacart.com",
+      "addedAt": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-10-31T20:01:33.278Z",
       "testResults": {
         "total": 0,
         "worked": 0,
