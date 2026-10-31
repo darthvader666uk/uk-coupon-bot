@@ -1,0 +1,27 @@
+{
+  "domain": "subscription.co.uk",
+  "name": "Subcriptions",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HONEY5",
+      "description": "Use Subcriptions Discount Codes for 5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/subcriptions",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

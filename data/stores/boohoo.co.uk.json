@@ -87,7 +87,7 @@
       ],
       "url": "https://boohoo.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -156,7 +156,7 @@
       ],
       "url": "https://boohoo.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -468,7 +468,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/boohoo-discount-codes",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -709,11 +709,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/boohoo.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1804,26 +1805,6 @@
       }
     },
     {
-      "code": "AUTUMN15",
-      "description": "When you apply this boohoo discount code at checkout, you will receive an extra 15% off your qualifying order.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/boohoo.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ATMEMBER",
       "description": "boohoo.com coupon",
       "type": "percentage",
@@ -1977,6 +1958,46 @@
       "url": "https://www.savoo.co.uk/brands/boohoo-discount-codes",
       "addedAt": "2026-10-31T11:30:20.399Z",
       "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPOOKY",
+      "description": "70% off women's blazers with this Boohoo discount code",
+      "type": "percentage",
+      "value": 70,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/us-boohoo-com",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA15",
+      "description": "Exclusive 15% Savings Using boohoo Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/us-boohoo-com",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,

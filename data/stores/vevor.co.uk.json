@@ -72,11 +72,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://vevor.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -356,6 +357,126 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "VVGG5",
+      "description": "Grab 5% Discount with Vevor UK Discount Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vevor-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ADMITAD11",
+      "description": "Unlock 5% Off Your Next Purchase with Vevor UK Promo Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vevor-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAUSAGE5",
+      "description": "An offer is ready for you at Vevor UK",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vevor-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VV4UK",
+      "description": "New Customer can Get Discount on First Purchase at Vevor UK with Discount Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vevor-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VVAF8NEW",
+      "description": "Get 8% Off Promo Codes at Vevor UK",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vevor-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VVPROMO",
+      "description": "Enjoy a Special 5% Discount with Vevor UK Promo Codes",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vevor-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "GAFFERS5",
+      "description": "£5 Discount on XSCREAM Passes",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/tulleys-farm-christmas",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

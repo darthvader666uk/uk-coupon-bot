@@ -422,27 +422,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "WELCOME50",
-      "description": "50% off",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://emma.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

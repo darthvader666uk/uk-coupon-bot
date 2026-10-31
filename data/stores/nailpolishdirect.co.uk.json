@@ -277,27 +277,6 @@
       "verified": false
     },
     {
-      "code": "MUM20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://nailpolishdirect.knoji.com/",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "DIVA50",
       "description": "50% off",
       "type": "percentage",
@@ -587,26 +566,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "TREAT20",
-      "description": "Enter this code at nailpolishdirect.co.uk for a 20% discount on your order today.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/nailpolishdirect.co.uk",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

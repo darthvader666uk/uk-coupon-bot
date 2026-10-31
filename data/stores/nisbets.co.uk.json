@@ -456,29 +456,6 @@
       "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
-      "code": "THANKS10",
-      "description": "Take 10% off select items when you apply this Nisbets coupon at checkout. Offer applies to eligible products only, while supplies last. The discount is automatically calculated once the code is used.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "coupert"
-      ],
-      "url": "https://grabcaramel.com/coupons/nisbets.co.uk",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
-    },
-    {
       "code": "WEEKEND10",
       "description": "Take an additional 10% off any purchase at nisbets.co.uk.",
       "type": "percentage",
@@ -491,48 +468,6 @@
       ],
       "url": "https://grabcaramel.com/coupons/nisbets.co.uk",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVENOW",
-      "description": "Recently saved £178.75",
-      "type": "fixed",
-      "value": 178.75,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/nisbets.co.uk",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
-    },
-    {
-      "code": "FLASH10",
-      "description": "Score 10% off with coupon code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/nisbets.co.uk",
-      "addedAt": "2026-10-31T11:30:20.399Z",
       "lastSeen": "2026-10-31T11:30:20.399Z",
       "testResults": {
         "total": 0,

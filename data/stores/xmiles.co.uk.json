@@ -182,6 +182,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "TWITTER14",
+      "description": "Special Offer: Get 10% Off XMiles Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xmiles-co-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RUNDEEP",
+      "description": "Get 5% Off Your Order with XMiles Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xmiles-co-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

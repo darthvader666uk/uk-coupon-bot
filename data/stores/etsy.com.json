@@ -3225,26 +3225,6 @@
       "lastWorkedAt": "2026-10-31T00:00:00Z"
     },
     {
-      "code": "CART10",
-      "description": "Enter this promo code at checkout to get an additional 10% off your purchase.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/etsy.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "THANKS20",
       "description": "Apply this promo code at checkout for an extra 20% discount on your order.",
       "type": "percentage",
@@ -3267,26 +3247,6 @@
     {
       "code": "COMEBACK15",
       "description": "Redeem this promo code at checkout and save a 15% on your order.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/etsy.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOMEBACK",
-      "description": "Apply this coupon code at checkout and get up to a 15% discount on your order.",
       "type": "percentage",
       "value": 15,
       "minSpend": null,
@@ -3347,54 +3307,10 @@
       "lastWorkedAt": "2026-10-31T00:00:00Z"
     },
     {
-      "code": "THANKS",
-      "description": "50% Off When You Purchase 3 Products",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z"
-    },
-    {
       "code": "SAVE70",
       "description": "Snatch 70% off your order",
       "type": "percentage",
       "value": 70,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z"
-    },
-    {
-      "code": "THANKYOU10",
-      "description": "Enjoy 10% off on chosen products",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
@@ -3439,28 +3355,6 @@
       "description": "Save big - 5% off",
       "type": "percentage",
       "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
-    },
-    {
-      "code": "LOVE10",
-      "description": "Your purchase qualifies for a 10% discount",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",
@@ -3565,28 +3459,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-29T00:00:00Z"
-    },
-    {
-      "code": "THANKS10",
-      "description": "Grab 10% off at etsy.com",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/etsy.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
     }
   ]
 }

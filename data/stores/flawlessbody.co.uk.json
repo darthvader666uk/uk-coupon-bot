@@ -39,7 +39,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/shop-flawlessbody-co-uk",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -161,11 +161,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://flawlessbody.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -187,7 +188,7 @@
       ],
       "url": "https://flawlessbody.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -320,6 +321,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "NEW20",
+      "description": "20% Off First Order at Flawless Body UK for New Users with Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/shop-flawlessbody-co-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

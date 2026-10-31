@@ -62,6 +62,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "HW14",
+      "description": "Wicksteed Park Discount Code: 10% Off For You",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wicksteed-park",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

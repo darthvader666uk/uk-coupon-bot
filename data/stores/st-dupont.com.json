@@ -178,28 +178,6 @@
       "verified": true
     },
     {
-      "code": "PLUS10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://stdupont.knoji.com/",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "AVRIL20",
       "description": "Free Shipping",
       "type": "free_shipping",

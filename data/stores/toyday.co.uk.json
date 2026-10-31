@@ -1,0 +1,27 @@
+{
+  "domain": "toyday.co.uk",
+  "name": "Toyday",
+  "category": "general",
+  "codes": [
+    {
+      "code": "10-5KVNC-36859",
+      "description": "Get £10 off when you spend over £50",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/toyday",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

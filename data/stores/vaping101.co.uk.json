@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/vaping101.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -40,7 +40,7 @@
       ],
       "url": "https://www.coupert.com/store/vaping101.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -62,7 +62,7 @@
       ],
       "url": "https://www.coupert.com/store/vaping101.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -120,11 +120,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://vaping101.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -166,7 +167,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/vaping-101",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -319,6 +320,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "EXTRA20",
+      "description": "Your purchase today comes with 20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vaping-101",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -116,11 +116,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://trollbeads.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -129,7 +130,7 @@
       "verified": true
     },
     {
-      "code": "FREESHIP4U",
+      "code": "FREESHIP-4U",
       "description": "Free shipping",
       "type": "free_shipping",
       "value": null,
@@ -137,11 +138,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://trollbeads.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -179,11 +181,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://trollbeads.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -242,11 +245,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://trollbeads.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -284,11 +288,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://trollbeads.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -379,6 +384,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "GIFT-BRACELET",
+      "description": "You'll enjoy something new with the latest promotion",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/trollbeads-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GIFT-BEAD",
+      "description": "Add Queen of Duty Bead with £60 Purchase",
+      "type": "fixed",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/trollbeads-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HALLELUJAH22",
+      "description": "Shop Sitewide Discounts At trollbeads.co.uk Now",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/trollbeads-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

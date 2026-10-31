@@ -1571,26 +1571,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "APP15",
-      "description": "Shop and take 15% off your purchase using a coupon code on your cart.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/clarins.co.uk",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

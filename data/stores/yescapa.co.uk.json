@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "SUBSCRIPTION10",
-      "description": "New User Discount - 10% Off First Purchase at Yescapa with Promo Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/yescapa-co-uk",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "UNLIMITED10",
       "description": "",
       "type": "unknown",
@@ -64,6 +44,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "YESCAPASUN18",
+      "description": "Save 20% on Your Complete Purchase with Yescapa Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yescapa-co-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUNNYDAYS21",
+      "description": "Take £20 Off Everything",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yescapa-co-uk",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

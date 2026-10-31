@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FC2026",
+      "description": "An additional 30% off applies to special items",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/workout-eu",
+      "addedAt": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
