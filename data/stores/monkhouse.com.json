@@ -62,26 +62,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FREEDEL",
-      "description": "Free Delivery on Orders Over £50",
-      "type": "fixed",
-      "value": 50,
-      "minSpend": 50,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/monkhouse",
-      "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

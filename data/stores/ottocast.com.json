@@ -2701,28 +2701,6 @@
       }
     },
     {
-      "code": "HALLOWEEN10",
-      "description": "Extra 10% Off Sitewide for Halloween",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/ottocast.com",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-29T00:00:00Z"
-    },
-    {
       "code": "VIKING10",
       "description": "10% Off Sitewide",
       "type": "percentage",
@@ -2896,26 +2874,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "WELCOME",
-      "description": "Join the Newsletter for Personalized Discounts",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ottocast",
-      "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

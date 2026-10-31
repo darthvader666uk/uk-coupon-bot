@@ -182,26 +182,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "NEW20",
-      "description": "New Customer Deal: 20% Off First Purchase at Rocket Gardens with Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/rocket-gardens",
-      "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

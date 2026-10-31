@@ -189,6 +189,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "GIFTINGSEASON",
+      "description": "20% off Christmas Gifts at Cult Beauty",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/cult-beauty-discount-codes",
+      "addedAt": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

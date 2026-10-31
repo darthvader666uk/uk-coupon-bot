@@ -788,6 +788,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "SAV15",
+      "description": "New Customers: Exclusive 15% off orders over £60 plus Free Standard Delivery at Laithwaites",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/laithwaites-voucher-codes",
+      "addedAt": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

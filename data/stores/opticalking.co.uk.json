@@ -142,26 +142,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE30",
-      "description": "Unlock 30% off using Optical King Discount Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/opticalking-co-uk",
-      "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

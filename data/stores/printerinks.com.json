@@ -57,7 +57,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/printerinks-discount-codes",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-31T11:30:20.399Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -477,7 +477,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/printerinks-discount-codes",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-10-31T11:30:20.399Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -507,27 +507,6 @@
       "verified": false
     },
     {
-      "code": "FLASH25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://printerinks.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "10TREAT",
       "description": "",
       "type": "unknown",
@@ -547,6 +526,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "PRIME20",
+      "description": "20% off all Compatible Ink and Toners at PrinterInks",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/printerinks-discount-codes",
+      "addedAt": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

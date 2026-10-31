@@ -548,6 +548,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "OUTLET20",
+      "description": "Extra 20% off orders at Coggles",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/coggles-discount-codes",
+      "addedAt": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
