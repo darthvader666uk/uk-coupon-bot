@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.5.1
+// @version      2.5.2
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
 // @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
@@ -957,6 +957,18 @@
     if (isSiteHidden(host)) {
       log(`hidden on ${host} — use Tampermonkey storage to undo`);
       return;
+    }
+
+    // Registered before the index is read, so a store added since the index
+    // was cached can still be reached: an unmatched host has no panel and so
+    // no ↻ button.
+    if (typeof GM_registerMenuCommand === "function") {
+      GM_registerMenuCommand("Refresh codes", async () => {
+        const fresh = await fetchIndex(true).catch(() => null);
+        const d = fresh && resolveDomain(host, fresh.stores || {}, fresh.aliases || {});
+        if (d) await fetchStore(d, true).catch(() => null);
+        location.reload();
+      });
     }
 
     let index;

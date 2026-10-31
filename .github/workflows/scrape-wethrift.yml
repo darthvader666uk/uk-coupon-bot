@@ -1,0 +1,69 @@
+name: Scrape Wethrift (self-hosted)
+
+# Wethrift answers plain requests with 403, so like Coupert it needs a headful
+# browser, and runs on the same self-hosted WSL runner (see
+# scrape-coupert.yml for how that runner is set up). A separate workflow so a
+# blocked Wethrift run can't hold up or fail the Coupert one.
+
+on:
+  schedule:
+    - cron: '30 9 * * *'   # 09:30 UTC, after the Coupert run on the same runner
+  workflow_dispatch:
+
+# If the machine was off, don't let queued runs pile up — only the newest
+# matters, since each run re-scrapes everything anyway.
+concurrency:
+  group: scrape-wethrift
+  cancel-in-progress: true
+
+jobs:
+  wethrift:
+    runs-on: [self-hosted, wsl]
+    # The scraper stops starting stores at 55 minutes (RUN_DEADLINE_MS in
+    # sources/wethrift.js), which leaves room to merge, shard and push.
+    timeout-minutes: 75
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v7
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: npm ci || npm install
+
+      - name: Install Playwright chromium
+        working-directory: scraper
+        run: npx playwright install chromium
+
+      # Scrape to a file only, then merge onto the newest main, for the same
+      # reason as scrape-coupert.yml.
+      - name: Scrape Wethrift
+        working-directory: scraper
+        run: xvfb-run -a node index.js --source=wethrift --emit=artifacts/wethrift.json
+
+      # Merge onto the newest database, as the merge job in scrape.yml does.
+      # The collapse guard in index.js refuses to save if the code count
+      # drops by half, so a blocked or empty scrape can't wipe anything.
+      - name: Merge onto latest main
+        run: |
+          git pull --rebase --autostash origin main
+          cd scraper && node index.js --merge-dir=artifacts --local --no-push
+
+      # Commit first, then rebase onto anything pushed during the merge. A
+      # conflict now fails the job with nothing pushed, rather than committing
+      # the markers.
+      - name: Commit and push changes
+        run: |
+          git config user.name "coupon-bot[bot]"
+          git config user.email "coupon-bot[bot]@users.noreply.github.com"
+          git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🎟 Wethrift scrape $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash origin main
+            git push
+          fi

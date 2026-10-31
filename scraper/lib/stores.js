@@ -41,7 +41,7 @@ const CORRECTIONS = JSON.parse(
  * "manual" covers codes added by hand after they worked at checkout. Nothing
  * re-scrapes them, so they still age out through pruneStaleCodes.
  */
-export const ACTIVE_SOURCES = new Set(["caramel", "coupert", "ggdeals", "knoji", "manual", "savoo"]);
+export const ACTIVE_SOURCES = new Set(["caramel", "coupert", "ggdeals", "knoji", "manual", "savoo", "wethrift"]);
 
 /** Alias domain -> canonical domain. */
 export const ALIASES = {
@@ -56,6 +56,8 @@ export const ALIASES = {
   "loaded.co.uk": "loaded.com",
   "dominos-pizza.co.uk": "dominos.co.uk",
   "dunelm.com": "dunelm.co.uk",
+  // Fireaway takes orders on its app4food site, which is where Wethrift files it.
+  "fireaway.app4food.co.uk": "fireaway.co.uk",
   "halfords.com": "halfords.co.uk",
   "johnlewis.com": "john-lewis.co.uk",
   "lookfantastic.com": "lookfantastic.co.uk",
@@ -81,8 +83,6 @@ export const HOSTNAME_ALIASES = {
   "deliveroo.com": "deliveroo.co.uk",
   "ebay.com": "ebay.co.uk",
   "expedia.com": "expedia.co.uk",
-  // Fireaway takes orders on its app4food ordering site.
-  "fireaway.app4food.co.uk": "fireaway.co.uk",
   "groupon.com": "groupon.co.uk",
   "just-eat.com": "just-eat.co.uk",
   "justeat.co.uk": "just-eat.co.uk",

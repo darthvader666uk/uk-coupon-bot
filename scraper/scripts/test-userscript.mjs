@@ -415,7 +415,7 @@ console.log("\nHosted Shopify checkout");
   const { page, context } = await makePage(browser, "shop.app", unknown);
   const menu = await page.evaluate(() => window.__ukcpMenu.map((m) => m.name));
   check("unknown store on shop.app offers the request menu", menu.includes("Request codes for this store"));
-  await page.evaluate(() => window.__ukcpMenu[0].fn());
+  await page.evaluate(() => window.__ukcpMenu.find((m) => m.name === "Request codes for this store").fn());
   const opened = await page.evaluate(() => window.__ukcpOpened || "");
   check("request names the store, not shop.app", decodeURIComponent(opened).includes("Store request: unknownshop.com"), opened);
   await context.close();
