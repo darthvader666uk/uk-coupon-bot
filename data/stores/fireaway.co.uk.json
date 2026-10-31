@@ -1,0 +1,27 @@
+{
+  "domain": "fireaway.co.uk",
+  "name": "Fireaway",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CODPRICE",
+      "description": "Worked at checkout (added by hand)",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "manual",
+      "sources": [
+        "manual"
+      ],
+      "url": "https://www.fireaway.co.uk/",
+      "addedAt": "2026-10-31T18:30:13.915Z",
+      "lastSeen": "2026-10-31T18:30:13.915Z",
+      "testResults": {
+        "total": 1,
+        "worked": 1,
+        "lastTested": "2026-10-31T18:30:13.915Z"
+      }
+    }
+  ]
+}

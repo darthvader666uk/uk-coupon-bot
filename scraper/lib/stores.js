@@ -38,8 +38,10 @@ const CORRECTIONS = JSON.parse(
  * Scrapers that still exist. A code whose every source has been retired can no
  * longer be re-confirmed by anything, so it is dropped rather than left to age
  * quietly in the database claiming a provenance the project no longer has.
+ * "manual" covers codes added by hand after they worked at checkout. Nothing
+ * re-scrapes them, so they still age out through pruneStaleCodes.
  */
-export const ACTIVE_SOURCES = new Set(["caramel", "coupert", "ggdeals", "knoji", "savoo"]);
+export const ACTIVE_SOURCES = new Set(["caramel", "coupert", "ggdeals", "knoji", "manual", "savoo"]);
 
 /** Alias domain -> canonical domain. */
 export const ALIASES = {
@@ -79,6 +81,8 @@ export const HOSTNAME_ALIASES = {
   "deliveroo.com": "deliveroo.co.uk",
   "ebay.com": "ebay.co.uk",
   "expedia.com": "expedia.co.uk",
+  // Fireaway takes orders on its app4food ordering site.
+  "fireaway.app4food.co.uk": "fireaway.co.uk",
   "groupon.com": "groupon.co.uk",
   "just-eat.com": "just-eat.co.uk",
   "justeat.co.uk": "just-eat.co.uk",
@@ -151,6 +155,7 @@ export const DISPLAY_NAMES = {
   "gamerthor.com": "Gamerthor",
   "gameseal.com": "GameSeal",
   "gamesplanet.com": "Gamesplanet",
+  "fireaway.co.uk": "Fireaway",
   "gamivo.com": "GAMIVO",
   "greenmangaming.com": "Green Man Gaming",
   "groupon.co.uk": "Groupon",
