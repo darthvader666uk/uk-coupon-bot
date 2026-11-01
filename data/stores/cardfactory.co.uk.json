@@ -553,27 +553,6 @@
       "verified": false
     },
     {
-      "code": "PAYDAY25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://cardfactory.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "PGIFTS30",
       "description": "30% off",
       "type": "percentage",
@@ -825,28 +804,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-01T00:00:00Z"
-    },
-    {
-      "code": "SAVEMORE",
-      "description": "£5 Off £30+ Orders",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/cardfactory.co.uk",
-      "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z"
     },
     {
       "code": "VCUK10",

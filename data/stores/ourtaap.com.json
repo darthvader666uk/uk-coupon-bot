@@ -102,26 +102,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "VOUCHER10",
-      "description": "Sitewide Savings: Enjoy 10% Off All Items",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/our-taap",
-      "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -262,6 +262,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "EXTRA40",
+      "description": "40% Off Available on Your Order",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/black-country-living-museum",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

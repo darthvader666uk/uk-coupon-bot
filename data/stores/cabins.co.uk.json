@@ -1,0 +1,27 @@
+{
+  "domain": "cabins.co.uk",
+  "name": "Cabins",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CABX27",
+      "description": "Get 27% off Cabin Purchases & Free Delivery at cabins.co.uk",
+      "type": "percentage",
+      "value": 27,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/cabins",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

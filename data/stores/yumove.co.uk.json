@@ -133,11 +133,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/yumove.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -174,11 +175,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/yumove.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -259,11 +261,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/yumove.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -281,11 +284,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/yumove.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -752,6 +756,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SAVENOW",
+      "description": "50% Off First Month's Subscription + 20% Off Ongoing with Code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yumove",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MAGGIE30",
+      "description": "Sneak a peek and get 30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yumove",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

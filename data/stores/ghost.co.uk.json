@@ -505,26 +505,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "CART10",
-      "description": "Redeem this promo code at checkout and save 10% on any order.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/ghost.co.uk",
-      "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

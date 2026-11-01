@@ -535,27 +535,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "TREAT20",
-      "description": "20% off entire website",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift",
-        "coupert"
-      ],
-      "url": "https://www.wethrift.com/codes/libertylondon.com",
-      "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

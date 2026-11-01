@@ -1231,26 +1231,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "25OFF",
-      "description": "Get 25% off sale boots when you use this discount code during checkout.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/toms.com",
-      "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

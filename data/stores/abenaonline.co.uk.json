@@ -1,0 +1,47 @@
+{
+  "domain": "abenaonline.co.uk",
+  "name": "Abena Online",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NHS12",
+      "description": "Apply Abena Online Discount Codes to save £0.23 off",
+      "type": "fixed",
+      "value": 0.23,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/abena-online",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MENSHEALTH15",
+      "description": "Grab 15% Discount with Abena Online Discount Codes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/abena-online",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

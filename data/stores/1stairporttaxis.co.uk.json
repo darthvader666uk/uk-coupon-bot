@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "1ATNOV",
+      "description": "£5 Off London to Luton Airport Car Parking",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/1stairporttaxis-co-uk",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "1ATJS10",
+      "description": "Enjoy a Discount of 10% with Your 1ST Airport Taxis Voucher",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/1stairporttaxis-co-uk",
+      "addedAt": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

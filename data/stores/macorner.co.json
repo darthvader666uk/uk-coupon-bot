@@ -798,29 +798,6 @@
       }
     },
     {
-      "code": "FB20",
-      "description": "Take up to 15% off your purchase using a coupon code in your cart at Macorner.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "coupert"
-      ],
-      "url": "https://grabcaramel.com/coupons/macorner.co",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z"
-    },
-    {
       "code": "SIMPLYCODES15",
       "description": "Save 15% on your purchase with this Macorner code.",
       "type": "percentage",
