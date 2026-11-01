@@ -264,26 +264,6 @@
       }
     },
     {
-      "code": "SAVE50",
-      "description": "Take 50% off using The Cotswold Company Discount Code",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/the-cotswold-company",
-      "addedAt": "2026-10-31T14:11:25.661Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "OLLY20",
       "description": "Shop and save 20% off today",
       "type": "percentage",

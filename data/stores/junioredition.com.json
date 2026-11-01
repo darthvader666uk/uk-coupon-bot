@@ -313,48 +313,8 @@
       }
     },
     {
-      "code": "EXTRA10",
-      "description": "Get an extra 10% off Women's Sale items at Junior Edition with code EXTRA10.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/junioredition.com",
-      "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-10-31T20:01:33.278Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "STOCKTAKE20",
       "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/junioredition.com",
-      "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-10-31T20:01:33.278Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "AUTUMN20",
-      "description": "20% off Autumn Collection",
       "type": "percentage",
       "value": 20,
       "minSpend": null,
@@ -517,26 +477,6 @@
       "description": "50% off Ending soon",
       "type": "percentage",
       "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/junioredition.com",
-      "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-10-31T20:01:33.278Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WINTER10",
-      "description": "10% off Ending soon",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",

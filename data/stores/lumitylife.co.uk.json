@@ -165,7 +165,7 @@
       ],
       "url": "https://lumity.knoji.com/",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -571,6 +571,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "OR-T4DO-JZNI-E4OQ-WCYM",
+      "description": "10% off Selected orders at Lumity",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/lumity-discount-codes",
+      "addedAt": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

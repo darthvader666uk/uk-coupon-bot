@@ -232,11 +232,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://simplymedsonline.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -274,11 +275,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://simplymedsonline.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -747,6 +749,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MOO10",
+      "description": "10% off MooGoo Skincare at Simply Meds Online",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/simply-meds-online-discount-codes",
+      "addedAt": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

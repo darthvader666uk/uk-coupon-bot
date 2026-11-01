@@ -2295,28 +2295,6 @@
       }
     },
     {
-      "code": "HALLOWEEN",
-      "description": "Sale 15% Off Sitewide",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/lensmartonline.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
-    },
-    {
       "code": "VIP30",
       "description": "Enjoy Up to 30% Off with Lensmart Coupon",
       "type": "percentage",
@@ -2469,26 +2447,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-31T00:00:00Z"
-    },
-    {
-      "code": "SAVE25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/lensmartonline.com",
-      "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-10-31T20:01:33.278Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

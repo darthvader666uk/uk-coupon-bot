@@ -1,0 +1,27 @@
+{
+  "domain": "fitness-superstore.co.uk",
+  "name": "Fitness Superstore",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SHOP5",
+      "description": "5% off orders at Fitness Superstore",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/fitness-superstore-discount-codes",
+      "addedAt": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

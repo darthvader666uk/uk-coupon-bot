@@ -1,0 +1,27 @@
+{
+  "domain": "edinburghairport.com",
+  "name": "Edinburgh Airport",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AWIN10",
+      "description": "10% off Car Parking Bookings at Edinburgh Airport",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/edinburgh-airport-discount-codes",
+      "addedAt": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

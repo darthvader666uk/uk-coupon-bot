@@ -37,7 +37,7 @@
       ],
       "url": "https://royaldoulton.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -164,7 +164,7 @@
       ],
       "url": "https://royaldoulton.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -375,14 +375,14 @@
       ],
       "url": "https://royaldoulton.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
+      "verified": true,
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
       "code": "ACRWBAJDXHFV",
@@ -502,14 +502,14 @@
       ],
       "url": "https://www.coupert.com/store/royaldoulton.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
+      "lastWorkedAt": "2026-11-01T00:00:00Z"
     },
     {
       "code": "AFFRD10100",
@@ -520,11 +520,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/royaldoulton.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -566,7 +567,7 @@
       ],
       "url": "https://www.coupert.com/store/royaldoulton.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -613,6 +614,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "RDWINE",
+      "description": "Free Gift Storewide at Royal Doult",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/royaldoulton.com",
+      "addedAt": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
