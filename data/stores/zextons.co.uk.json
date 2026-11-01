@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/zextons.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -164,39 +165,19 @@
       }
     },
     {
-      "code": "SUMMER10",
-      "description": "Enjoy 10% off for this sale",
+      "code": "JULYMEGADEAL1",
+      "description": "Extra 10% off tech products",
       "type": "percentage",
       "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "wethrift",
       "sources": [
-        "coupert"
+        "wethrift"
       ],
-      "url": "https://uk.coupert.com/promo-code/zextons",
-      "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME5",
-      "description": "Great deals: Up To 5% Off zextons.co.uk Products",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/zextons",
-      "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "url": "https://www.wethrift.com/codes/zextons.co.uk",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,

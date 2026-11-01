@@ -62,6 +62,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "JOY20",
+      "description": "Save £20 on your order at VinatisUK with code JOY20 when you spend £200.",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 200,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vinatis.co.uk",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JOY60",
+      "description": "Get £60 off your order at VinatisUK with code JOY60 when you spend £400.",
+      "type": "fixed",
+      "value": 60,
+      "minSpend": 400,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vinatis.co.uk",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JOY40",
+      "description": "Get £40 off your order at VinatisUK with code JOY40 when you spend £300.",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 300,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vinatis.co.uk",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

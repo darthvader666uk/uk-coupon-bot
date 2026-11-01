@@ -469,27 +469,6 @@
       "verified": true
     },
     {
-      "code": "AEG10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://electricshop.knoji.com/",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "VIP75",
       "description": "",
       "type": "unknown",
@@ -593,26 +572,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SAVE150",
-      "description": "£150 off Selected Products at Electricshop",
-      "type": "fixed",
-      "value": 150,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/electricshop-discount-codes",
-      "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

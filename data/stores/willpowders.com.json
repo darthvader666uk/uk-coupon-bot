@@ -172,11 +172,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://willpowders.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -193,11 +194,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://willpowders.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -334,11 +336,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/willpowders",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -499,6 +502,146 @@
       "url": "https://uk.coupert.com/promo-code/willpowders",
       "addedAt": "2026-10-31T14:11:25.661Z",
       "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BEVOLUTION25",
+      "description": "10% off with a free grounding towel with Kombucha",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/willpowders.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREESCOOP2",
+      "description": "£12 off",
+      "type": "fixed",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/willpowders.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TOWEL50",
+      "description": "£50 spend gets you a free towel",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/willpowders.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREESCOOPC",
+      "description": "Free scoop with collagen powder purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/willpowders.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SCOOPSA",
+      "description": "Free scoop for new customers",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/willpowders.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SCHOOLSOUT",
+      "description": "Free tote bag with stash tin purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/willpowders.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HELLOAUS",
+      "description": "FREE book with any supplement purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/willpowders.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,

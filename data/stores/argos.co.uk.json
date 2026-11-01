@@ -2539,26 +2539,6 @@
       }
     },
     {
-      "code": "AEG10",
-      "description": "Special Offer: Get 10% Off Argos Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/argos",
-      "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "PLAY25",
       "description": "Save on Selected Outdoor Toys and Sports",
       "type": "unknown",
@@ -2656,28 +2636,6 @@
       "url": "https://argos.knoji.com/",
       "addedAt": "2026-10-20T10:57:42.385Z",
       "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "LIGHT20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://argos.knoji.com/",
-      "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
       "testResults": {
         "total": 0,
         "worked": 0,

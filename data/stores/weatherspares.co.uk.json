@@ -162,6 +162,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "EXCLUSIVE15",
+      "description": "15% off additional sensors with Ecowitt station",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/weatherspares.co.uk",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HOT-10",
+      "description": "10% off Sitewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/weatherspares.co.uk",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MAY10",
+      "description": "10% off Ecowitt weather stations and accessories",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/weatherspares.co.uk",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

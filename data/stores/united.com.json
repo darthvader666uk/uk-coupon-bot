@@ -423,6 +423,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ZSHP544745",
+      "description": "Access attendee discounts at United Airlines with code ZSHP544745.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/united.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

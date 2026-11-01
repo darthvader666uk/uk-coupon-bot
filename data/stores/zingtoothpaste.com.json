@@ -52,11 +52,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/zing-toothpaste",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -112,11 +113,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/zing-toothpaste",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -172,11 +174,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/zing-toothpaste",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-24T12:32:52.250Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -212,11 +215,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/zing-toothpaste",
       "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-28T14:36:13.997Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -277,6 +281,106 @@
       "url": "https://uk.coupert.com/promo-code/zing-toothpaste",
       "addedAt": "2026-10-19T15:17:36.796Z",
       "lastSeen": "2026-10-19T15:17:36.796Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GREATSAVE",
+      "description": "Save 10% on your order at ZING Toothpaste with code GREATSAVE.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zingtoothpaste.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HATRICK",
+      "description": "£2 per tube",
+      "type": "fixed",
+      "value": 2,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zingtoothpaste.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PAYDAY",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zingtoothpaste.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUMMER26",
+      "description": "40% off",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zingtoothpaste.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREESHIPPING",
+      "description": "No amounts to display",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zingtoothpaste.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,

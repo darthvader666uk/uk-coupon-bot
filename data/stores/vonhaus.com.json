@@ -13,11 +13,12 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/vonhaus-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -35,11 +36,12 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/vonhaus-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -79,11 +81,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://vonhaus.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -415,37 +418,17 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/vonhaus-discount-codes",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-22T10:44:37.881Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SUN10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://vonhaus.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "SHAKE15",
@@ -467,6 +450,46 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "VICTORIES10",
+      "description": "Save 10% on your order at Vonhaus with code VICTORIES10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vonhaus.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CYBER10",
+      "description": "10% off current offers",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vonhaus.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

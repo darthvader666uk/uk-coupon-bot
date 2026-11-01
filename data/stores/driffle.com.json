@@ -2504,26 +2504,6 @@
       }
     },
     {
-      "code": "TREAT10",
-      "description": "10% Off Select Regular-Price Items",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/driffle-com",
-      "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "APP10",
       "description": "10% Off with Driffle App Download",
       "type": "percentage",

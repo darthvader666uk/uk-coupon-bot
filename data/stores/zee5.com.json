@@ -172,11 +172,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/zee5.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -297,6 +298,26 @@
       "url": "https://uk.coupert.com/promo-code/zee5-com",
       "addedAt": "2026-10-28T14:36:13.997Z",
       "lastSeen": "2026-11-01T14:49:05.837Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FESTZEE5",
+      "description": "Save on your US subscription at ZEE5 with promo code FESTZEE5.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zee5.com",
+      "addedAt": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-01T16:39:18.627Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -1445,27 +1445,6 @@
       "verified": true
     },
     {
-      "code": "NEWYEAR20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://burton.knoji.com/",
-      "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "BURTON30",
       "description": "30% off",
       "type": "percentage",
@@ -1928,28 +1907,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SPOOKY",
-      "description": "10% Off Your Purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/burton.co.uk",
-      "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z"
     },
     {
       "code": "EXTRA25",
