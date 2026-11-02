@@ -192,11 +192,72 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/macdonaldhotels.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TREATME20",
+      "description": "20% off spa treatments",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/macdonaldhotels.co.uk",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUD22",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/macdonaldhotels.co.uk",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AVG20",
+      "description": "20% off green fees",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/macdonaldhotels.co.uk",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,

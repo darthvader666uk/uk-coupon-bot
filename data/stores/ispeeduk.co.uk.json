@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FACEBOOK",
+      "description": "Get 25% off plus free shipping at ISPEED with code FACEBOOK for an extra 10% off.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ispeeduk.co.uk",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "2000SOLD",
+      "description": "£10 off your next order",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ispeeduk.co.uk",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

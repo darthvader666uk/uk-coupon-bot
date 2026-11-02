@@ -33,11 +33,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mahabis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -56,11 +57,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mahabis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -287,11 +289,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://mahabis.knoji.com/",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -918,11 +921,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://mahabis.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -982,11 +986,92 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/mahabis-discount-codes",
       "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WELCOMEBACK",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mahabis.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VIP40",
+      "description": "Save 40% on Curve at Mahabis with code VIP40.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mahabis.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BANKHOL10",
+      "description": "Take an additional 10% off at Mahabis with code BANKHOL10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mahabis.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MID-SEASON",
+      "description": "UP TO 50% OFF",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mahabis.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,

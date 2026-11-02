@@ -35,11 +35,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://loveholidays.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -181,11 +182,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://loveholidays.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -360,6 +362,346 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "PACKEDBYROO",
+      "description": "Save £75 off your holiday at loveholidays.com with code PACKEDBYROO when you spend £750.",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 750,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PACKEDBYFELICITY",
+      "description": "Save £75 on your booking at loveholidays with code PACKEDBY செலவு.",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PACKEDBYPAUL",
+      "description": "Save £75 on your booking at loveholidays with code PACKEDBYPAUL when you spend £750 or more.",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 750,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYEMMASRECTANGLE",
+      "description": "£75 off £750 booking",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYJEFF",
+      "description": "£75 off £750",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYKELLY",
+      "description": "£75 off £750",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYEMMAC",
+      "description": "£75 off £750+ spend",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYSHAN",
+      "description": "£75 off holidays over £750",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 750,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYMATTB",
+      "description": "£75 off orders of £750 and over",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 750,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYELLIEJ",
+      "description": "£75 off orders over £750",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 750,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYGEORGIAH",
+      "description": "£75 off holiday worth £750",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LOVEFOOTBALL",
+      "description": "£100 off holidays over £1000",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 1000,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POWEREDBYMOLLIE",
+      "description": "£75 off a £750 purchase",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LOVERACHEL",
+      "description": "£75 off £750+ hotel + flight",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LOVEEDT",
+      "description": "£75 off £750+ bookings for hotel + flight package",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LOVEBROOKE",
+      "description": "£75 off £750+ holiday",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "POVABBIE",
+      "description": "£75 off holidays £750+",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/loveholidays.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

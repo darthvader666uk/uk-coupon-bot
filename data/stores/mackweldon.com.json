@@ -81,11 +81,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -103,11 +104,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -237,11 +239,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -324,11 +327,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -478,11 +482,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -500,11 +505,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-12T14:05:57.990Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -674,11 +680,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/mackweldon.com",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -759,11 +766,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/mackweldon.com",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -905,11 +913,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -947,11 +956,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mackweldon.com",
       "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -959,6 +969,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-20T00:00:00Z"
+    },
+    {
+      "code": "ADBG1",
+      "description": "20% off storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mackweldon.com",
+      "addedAt": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
