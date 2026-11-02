@@ -82,6 +82,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "5DISCOUNT506",
+      "description": "Apply Promo Codes to get 5% off at Fragrance Mall",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fragrance-mall",
+      "addedAt": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

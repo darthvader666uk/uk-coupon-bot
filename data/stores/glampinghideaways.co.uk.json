@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SUBSCRIBE15",
+      "description": "15% Off with Email sign up - Glampinghideaways Promo code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/glamping-hideaways",
+      "addedAt": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "domain": "identitag.co.uk",
+  "name": "Identitag",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HARIBO8",
+      "description": "Free Haribo sweets with orders over £40",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/identitag",
+      "addedAt": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ND50",
+      "description": "You'll find a current offer at Identitag",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/identitag",
+      "addedAt": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

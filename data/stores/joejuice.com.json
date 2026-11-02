@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "CAPSULES20",
+      "description": "Enjoy a Discount of 20% with Your Joe & The Juice Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/joejuice-com",
+      "addedAt": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

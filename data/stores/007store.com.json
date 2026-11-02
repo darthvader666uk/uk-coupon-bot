@@ -290,26 +290,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "CHECK20",
-      "description": "Receive a 20% discount at 007store.com",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/007store-com",
-      "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
