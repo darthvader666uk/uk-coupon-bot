@@ -164,7 +164,7 @@
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -858,11 +858,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -878,11 +879,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/dellrefurbished.co.uk",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1079,6 +1081,46 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "5350DEAL",
+      "description": "40% off Latitude 5350 Laptops at Dell Refurbished",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/dell-refurbished-discount-codes",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "5431DEAL",
+      "description": "40% off Latitude 5431 Laptops at Dell Refurbished",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/dell-refurbished-discount-codes",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

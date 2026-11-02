@@ -82,26 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "PAYDAY20",
-      "description": "£20 off when you spend £300+ with code",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": 300,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ultimo-electronics",
-      "addedAt": "2026-10-31T14:11:25.661Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

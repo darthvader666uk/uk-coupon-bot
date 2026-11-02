@@ -42,26 +42,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FALL25",
-      "description": "With 25% off applied to your order",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ottolenghi",
-      "addedAt": "2026-10-26T14:52:06.363Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

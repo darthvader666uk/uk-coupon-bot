@@ -829,7 +829,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -850,7 +850,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -892,7 +892,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -997,7 +997,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1018,28 +1018,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "SPRINGTREAT",
-      "description": "Free 8-piece Gift",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://clinique.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1102,7 +1081,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1186,7 +1165,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1207,7 +1186,7 @@
       ],
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1271,6 +1250,90 @@
       "url": "https://clinique.knoji.com/",
       "addedAt": "2026-10-24T16:19:46.607Z",
       "lastSeen": "2026-10-24T16:19:46.607Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "STOCKUP",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "TEXTME15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "WEL10MTK2MSSH",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "ELEVEN26",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://clinique.knoji.com/",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,

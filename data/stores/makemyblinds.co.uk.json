@@ -42,6 +42,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "PAYDAY5",
+      "description": "5% off orders over £99 at Make My Blinds",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 99,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/make-my-blinds-discount-codes",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OCTOBER10",
+      "description": "Up to 30% off Bestselling Blinds plus Extra 10% off orders over £299 at Make My Blinds",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 299,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/make-my-blinds-discount-codes",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -280,7 +280,7 @@
       ],
       "url": "https://thedoublef.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -760,24 +760,45 @@
     },
     {
       "code": "GHOST25",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Halloween: 25% off FW26 Essentials at The Double F",
+      "type": "percentage",
+      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://thedoublef.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FALL30",
+      "description": "30% Off Fw26 Kids Collections at The Double F",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/the-double-f-discount-codes",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

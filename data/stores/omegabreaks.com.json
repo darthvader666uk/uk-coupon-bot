@@ -256,27 +256,6 @@
       "verified": false
     },
     {
-      "code": "BLKFRIDAY",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://omegabreaks.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "WESALUTE100",
       "description": "",
       "type": "unknown",
@@ -422,6 +401,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BF10",
+      "description": "10% off all 2024 & 2025 Breaks at Omega Breaks",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/omega-breaks-discount-codes",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

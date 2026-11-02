@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/maxtondesign.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-29T00:00:00Z"
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
     },
     {
       "code": "BYB10",
@@ -194,6 +194,28 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NEW5",
+      "description": "Save 5% Off at Maxton Design with Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/maxtondesign.co.uk",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-28T00:00:00Z"
     }
   ]
 }

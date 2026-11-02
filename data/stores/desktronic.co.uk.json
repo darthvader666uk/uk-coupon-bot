@@ -257,7 +257,7 @@
       ],
       "url": "https://desktronic.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -278,7 +278,7 @@
       ],
       "url": "https://desktronic.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -299,7 +299,7 @@
       ],
       "url": "https://desktronic.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -320,7 +320,7 @@
       ],
       "url": "https://desktronic.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -458,6 +458,48 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "code": "SAVE500",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://desktronic.knoji.com/",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "AFF10OFF",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://desktronic.knoji.com/",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

@@ -36,14 +36,14 @@
       ],
       "url": "https://www.coupert.com/store/freemans.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-29T00:00:00Z"
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
     },
     {
       "code": "J3J",
@@ -58,14 +58,14 @@
       ],
       "url": "https://www.coupert.com/store/freemans.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-29T00:00:00Z"
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
     },
     {
       "code": "FR9P",
@@ -80,7 +80,7 @@
       ],
       "url": "https://www.coupert.com/store/freemans.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -166,14 +166,14 @@
       ],
       "url": "https://www.coupert.com/store/freemans.com",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-29T00:00:00Z"
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
     },
     {
       "code": "F77P",
@@ -260,6 +260,72 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-25T00:00:00Z"
+    },
+    {
+      "code": "VZ6",
+      "description": "Savings are available on your shopping",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
+    },
+    {
+      "code": "FC3P",
+      "description": "Discounts are available on quality products",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
+    },
+    {
+      "code": "J97P",
+      "description": "Grab 20% Off Orders With This Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/freemans.com",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-01T00:00:00Z"
     }
   ]
 }

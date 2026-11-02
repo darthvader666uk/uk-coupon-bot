@@ -64,26 +64,6 @@
       }
     },
     {
-      "code": "GIFT10",
-      "description": "£10 OFF all gifted experiences gifts",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/yuup.co",
-      "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-01T16:39:18.627Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CRAFT20",
       "description": "20% off",
       "type": "percentage",

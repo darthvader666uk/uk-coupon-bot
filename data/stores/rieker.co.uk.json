@@ -1,0 +1,27 @@
+{
+  "domain": "rieker.co.uk",
+  "name": "Rieker",
+  "category": "general",
+  "codes": [
+    {
+      "code": "RIEKER-15",
+      "description": "15% off orders over £70 at rieker",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 70,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rieker-discount-codes",
+      "addedAt": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
