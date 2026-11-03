@@ -56,11 +56,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/thedorsetmeatcompany.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -156,6 +157,86 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "code": "NEWLOOK30",
+      "description": "30% off your next order of Monty’s Larder",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thedorsetmeatcompany.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HAZE10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thedorsetmeatcompany.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "10FF",
+      "description": "10% OFF First Orders",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thedorsetmeatcompany.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RAF10",
+      "description": "10% off your first order of premium meats",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thedorsetmeatcompany.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -14,11 +14,12 @@
       "sources": [
         "savoo",
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/selectspecs-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -210,11 +211,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://selectspecs.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -761,11 +763,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/selectspecs.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -966,11 +969,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/selectspecs.com",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1041,6 +1045,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "YPTHCE0TAA",
+      "description": "Apply code YPTHCE0TAA to save 12% at SelectSpecs.",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/selectspecs.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TREAT25",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/selectspecs.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

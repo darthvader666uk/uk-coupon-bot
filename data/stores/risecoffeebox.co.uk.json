@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/rise-coffee-box",
       "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -157,6 +158,46 @@
       "url": "https://uk.coupert.com/promo-code/rise-coffee-box",
       "addedAt": "2026-10-30T14:50:06.082Z",
       "lastSeen": "2026-10-30T14:50:06.082Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BOX20",
+      "description": "20% off your first 3 boxes of coffee",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/risecoffeebox.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WAVE15",
+      "description": "15% off first three boxes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/risecoffeebox.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,

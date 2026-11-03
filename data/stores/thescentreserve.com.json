@@ -1097,6 +1097,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "QITA10",
+      "description": "Get a discount on your order at The Scent Reserve with code QITA10.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thescentreserve.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

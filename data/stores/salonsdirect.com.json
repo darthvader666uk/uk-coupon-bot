@@ -498,11 +498,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/salonsdirect.com",
       "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -664,11 +665,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://salonsdirect.knoji.com/",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -801,6 +803,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SALONSALE",
+      "description": "Save the VAT on Lotus Furniture at Salons Direct when you spend £100 or more with code SALONSALE.",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/salonsdirect.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SKIPTHEVAT",
+      "description": "Get VAT FREE on your order at Salons Direct with code SKIPTHEVAT, on orders over £100.",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/salonsdirect.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

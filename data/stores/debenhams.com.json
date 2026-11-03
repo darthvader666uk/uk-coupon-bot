@@ -1252,28 +1252,6 @@
       }
     },
     {
-      "code": "STYLE10",
-      "description": "Debenhams Discount Code: 10% Off at Debenhams",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/debenhams.com",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-08T00:00:00Z"
-    },
-    {
       "code": "WRAPUP15",
       "description": "Get an extra 15% off selected Regatta and Dare 2b with this code",
       "type": "percentage",
@@ -1564,26 +1542,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "EXTRA25",
-      "description": "25% Off Storewide at Debenhams",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/debenhams.com",
-      "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

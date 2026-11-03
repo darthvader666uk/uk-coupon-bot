@@ -155,6 +155,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-26T00:00:00Z"
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Get 10% off selected treadmills, exercise bikes, rowers & more at Sweatband with code EXTRA10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/sweatband.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

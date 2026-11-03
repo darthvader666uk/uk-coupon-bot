@@ -26,7 +26,7 @@
       "verified": true
     },
     {
-      "code": "100KORDERS",
+      "code": "100K-ORDERS",
       "description": "Claim Your 35% Off Promo Code at Tallow and Ash Now",
       "type": "percentage",
       "value": 35,
@@ -34,11 +34,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tallow-ash",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -55,11 +56,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tallow-ash",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -98,11 +100,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tallow-ash",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -179,11 +182,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tallow-ash",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -200,11 +204,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://tallowash.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -328,11 +333,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://tallowash.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -392,11 +398,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://tallowash.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -434,11 +441,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://tallowash.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -476,11 +484,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://tallowash.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -560,11 +569,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tallow-ash",
       "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -612,6 +622,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "6FOR34",
+      "description": "15% off select items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tallow-ash.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

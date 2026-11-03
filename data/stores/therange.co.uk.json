@@ -273,6 +273,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FAIRY5",
+      "description": "Get £5 off your first order at The Range with code FAIRY5, with a minimum spend of £14.99.",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 14.99,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/therange.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

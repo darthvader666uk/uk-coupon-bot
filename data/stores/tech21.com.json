@@ -98,11 +98,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://tech21.knoji.com/",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -121,11 +122,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://tech21.knoji.com/",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -188,11 +190,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://tech21.knoji.com/",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -274,11 +277,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://tech21.knoji.com/",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1193,6 +1197,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SIPONDAWYEN",
+      "description": "25% off Tech21 products",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tech21.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

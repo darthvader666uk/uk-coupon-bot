@@ -1039,26 +1039,6 @@
       }
     },
     {
-      "code": "BANKHOL10",
-      "description": "Take an additional 10% off at Mahabis with code BANKHOL10.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/mahabis.com",
-      "addedAt": "2026-11-02T20:08:14.128Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MID-SEASON",
       "description": "UP TO 50% OFF",
       "type": "percentage",

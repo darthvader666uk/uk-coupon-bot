@@ -14,11 +14,12 @@
       "sources": [
         "coupert",
         "caramel",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/sideshow",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -417,11 +418,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://sideshow.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1212,6 +1214,26 @@
       },
       "verified": true,
       "lastWorkedAt": "2025-10-31T00:00:00Z"
+    },
+    {
+      "code": "SIRDORK15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/sideshow.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

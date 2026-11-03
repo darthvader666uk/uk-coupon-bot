@@ -733,26 +733,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GIFT10",
-      "description": "10% off storewide",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/letterfest.com",
-      "addedAt": "2026-11-02T20:08:14.128Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

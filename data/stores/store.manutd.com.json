@@ -4,7 +4,7 @@
   "category": "general",
   "codes": [
     {
-      "code": "UNITEDWELCOME10",
+      "code": "UNITED_WELCOME_10",
       "description": "Special Offer: Take 10% Off Your Favorite Products",
       "type": "percentage",
       "value": 10,
@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/the-united-direct-store",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-10-23T13:10:32.892Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -197,6 +198,46 @@
       "url": "https://uk.coupert.com/promo-code/the-united-direct-store",
       "addedAt": "2026-10-14T13:25:10.108Z",
       "lastSeen": "2026-10-14T13:25:10.108Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BIRTHDAY_10_MUFC",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/store.manutd.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "3POINTS",
+      "description": "15% off merchandise",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/store.manutd.com",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,

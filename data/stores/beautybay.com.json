@@ -683,26 +683,6 @@
       }
     },
     {
-      "code": "EXTRA25",
-      "description": "Take an extra 25% off select products with minimum spend above £50.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/beautybay.com",
-      "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BANKHOL",
       "description": "Save £5 off on orders of £30 or more",
       "type": "fixed",

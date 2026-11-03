@@ -399,6 +399,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "ECLIPSE",
+      "description": "Get 20% off Grandstand tickets for Coral-Eclipse 2027 at The Jockey Club with code ECLIPSE.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thejockeyclub.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

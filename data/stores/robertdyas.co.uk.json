@@ -323,6 +323,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "GET10RD",
+      "description": "Get £10 off your first order at Robert Dyas with code GET10RD when you spend £20.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/robertdyas.co.uk",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

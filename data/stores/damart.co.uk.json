@@ -328,26 +328,6 @@
       }
     },
     {
-      "code": "STYLE10",
-      "description": "By using this Damart coupon code during checkout, you can take £10 off full-price items when you spend £30 or more.",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 30,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/damart.co.uk",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BASKET20",
       "description": "Don't forget to enter this Damart voucher code at checkout to receive 20% off your eligible purchase.",
       "type": "percentage",

@@ -4,19 +4,19 @@
   "category": "general",
   "codes": [
     {
-      "code": "BANK5",
-      "description": "£5 Off Bank Holiday Special",
-      "type": "fixed",
-      "value": 5,
+      "code": "LOBSTER26",
+      "description": "25% off Lobster Lollop entry",
+      "type": "percentage",
+      "value": 25,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "wethrift",
       "sources": [
-        "coupert"
+        "wethrift"
       ],
-      "url": "https://uk.coupert.com/promo-code/results-base",
-      "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
+      "url": "https://www.wethrift.com/codes/resultsbase.net",
+      "addedAt": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-03T17:41:39.039Z",
       "testResults": {
         "total": 0,
         "worked": 0,
