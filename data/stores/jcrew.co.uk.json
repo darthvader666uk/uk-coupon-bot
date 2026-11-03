@@ -37,7 +37,7 @@
       ],
       "url": "https://jcrew.knoji.com/",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -100,7 +100,7 @@
       ],
       "url": "https://jcrew.knoji.com/",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -184,13 +184,34 @@
       ],
       "url": "https://jcrew.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "ALMCDT26",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://jcrew.knoji.com/",
+      "addedAt": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

@@ -424,26 +424,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FB10",
-      "description": "Apply Promo Codes to get 10% off at Jude",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/jude",
-      "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

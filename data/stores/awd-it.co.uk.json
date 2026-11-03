@@ -83,7 +83,7 @@
       ],
       "url": "https://www.coupert.com/store/awd-it.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -166,7 +166,7 @@
       ],
       "url": "https://www.coupert.com/store/awd-it.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -208,7 +208,7 @@
       ],
       "url": "https://www.coupert.com/store/awd-it.co.uk",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -375,7 +375,7 @@
       ],
       "url": "https://awdit.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -418,7 +418,7 @@
       ],
       "url": "https://awdit.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -648,7 +648,7 @@
       ],
       "url": "https://www.coupert.com/store/awd-it.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -697,6 +697,28 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "TAKE30",
+      "description": "Take Up to 30% Off at AWD-IT",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/awd-it.co.uk",
+      "addedAt": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-23T00:00:00Z"
     }
   ]
 }

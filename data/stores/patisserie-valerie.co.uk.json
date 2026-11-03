@@ -1348,28 +1348,6 @@
       "lastWorkedAt": "2026-10-02T00:00:00Z"
     },
     {
-      "code": "DAD10",
-      "description": "Shop smartly and save 10%",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/patisserie-valerie.co.uk",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
-    },
-    {
       "code": "BROWSE10",
       "description": "10% off",
       "type": "percentage",
@@ -1395,27 +1373,6 @@
       "description": "15% off",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://patisserievalerie.knoji.com/",
-      "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "BASKET10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",

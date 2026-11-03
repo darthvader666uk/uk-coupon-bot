@@ -385,48 +385,6 @@
       "verified": false
     },
     {
-      "code": "SPOOKY",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://sourcebmx.knoji.com/",
-      "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "SHIPFREE",
-      "description": "Free shipping",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://sourcebmx.knoji.com/",
-      "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "ADDSHOPPERS15",
       "description": "",
       "type": "unknown",

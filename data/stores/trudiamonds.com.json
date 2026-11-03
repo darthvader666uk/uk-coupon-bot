@@ -304,26 +304,6 @@
       }
     },
     {
-      "code": "SMS10",
-      "description": "10% Off Selected Orders",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/trudiamonds.com",
-      "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WELCOME21",
       "description": "Get Free Shipping on Everything Sitewide",
       "type": "free_shipping",

@@ -1175,27 +1175,6 @@
       "verified": true
     },
     {
-      "code": "CAPITALONE",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://lensmartonline.knoji.com/",
-      "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "OPTHY10",
       "description": "",
       "type": "unknown",
@@ -2295,28 +2274,6 @@
       }
     },
     {
-      "code": "VIP30",
-      "description": "Enjoy Up to 30% Off with Lensmart Coupon",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/lensmartonline.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
-    },
-    {
       "code": "HEATFREE",
       "description": "Enjoy 15% Off Lensmart Coupon Code",
       "type": "percentage",
@@ -2447,26 +2404,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-31T00:00:00Z"
-    },
-    {
-      "code": "SAVE25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/lensmartonline.com",
-      "addedAt": "2026-11-02T20:08:14.128Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

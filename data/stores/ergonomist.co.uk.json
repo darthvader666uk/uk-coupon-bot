@@ -232,46 +232,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GET15",
-      "description": "Save 15% on your order with Ergonomist Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ergonomist-discount",
-      "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE5",
-      "description": "Take 5% off with this Ergonomist Promo Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ergonomist-discount",
-      "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

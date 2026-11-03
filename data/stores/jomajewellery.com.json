@@ -2427,26 +2427,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "GIFT20",
-      "description": "Get up to 25% off your order at Joma Jewellery with code GIFT20.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/jomajewellery.com",
-      "addedAt": "2026-11-02T20:08:14.128Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

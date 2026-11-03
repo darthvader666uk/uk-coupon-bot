@@ -426,46 +426,6 @@
       }
     },
     {
-      "code": "TREAT10",
-      "description": "Extra £10 Off Discounted Fuel Bundles",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/homefire-uk",
-      "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "AUTUMN10",
-      "description": "Get 10% off with Homefire Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/homefire-uk",
-      "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FIVEOFF",
       "description": "Unlock a 5% Discount with Homefire Voucher Code",
       "type": "percentage",

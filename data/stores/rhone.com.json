@@ -362,26 +362,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "VIP30",
-      "description": "New Customers Get 30% Off First Order at Rhone with Promo Codes",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/rhone",
-      "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

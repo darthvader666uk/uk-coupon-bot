@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/cruise1st.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -97,7 +97,7 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -118,7 +118,7 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -139,7 +139,7 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -160,7 +160,7 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -190,24 +190,67 @@
       "verified": false
     },
     {
-      "code": "FF20",
-      "description": "20% off on your booking",
-      "type": "percentage",
-      "value": 20,
+      "code": "MSC0806504I",
+      "description": "",
+      "type": "unknown",
+      "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "knoji",
       "sources": [
-        "coupert"
+        "knoji"
       ],
-      "url": "https://www.coupert.com/store/cruise1st.co.uk",
-      "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "url": "https://cruise1st.knoji.com/",
+      "addedAt": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "LOYALTY5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cruise1st.knoji.com/",
+      "addedAt": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EMPAMAZON",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cruise1st.knoji.com/",
+      "addedAt": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

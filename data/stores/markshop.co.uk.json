@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "SIGNUP10",
-      "description": "Use the Promo Codes to get 10% off at Markshop after sign-up",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/markshop",
-      "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-10-30T14:50:06.082Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "EBIKE100",
       "description": "Extra £100 Off ADO Air Carbon",
       "type": "fixed",
