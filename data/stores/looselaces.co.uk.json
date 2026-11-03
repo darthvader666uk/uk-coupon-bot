@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SAVE10%OFF",
+      "description": "10% off storewide (excluding sale items, gift cards, taxes, and shipping)",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/loose-laces",
+      "addedAt": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -102,26 +102,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "HOLIDAY25",
-      "description": "Claim 25% off your order",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/satisfyrunning.com",
-      "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

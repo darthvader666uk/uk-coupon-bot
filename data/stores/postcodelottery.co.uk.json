@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "VOUCHER10",
+      "description": "10% Off First Order People's Postcode Lottery Discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/peoples-postcode-lottery",
+      "addedAt": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

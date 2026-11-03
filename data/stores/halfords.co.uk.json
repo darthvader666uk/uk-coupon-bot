@@ -19,7 +19,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -67,7 +67,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -853,11 +853,12 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/halfords.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1101,7 +1102,7 @@
       ],
       "url": "https://www.coupert.com/store/halfords.co.uk",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1634,11 +1635,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/halfords.com",
       "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1700,7 +1702,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/halfords",
       "addedAt": "2026-10-26T14:52:06.363Z",
-      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1892,26 +1894,6 @@
       }
     },
     {
-      "code": "DEAL10",
-      "description": "Get an Additional 10% Off on Your Purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/halfords.com",
-      "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "JAN10",
       "description": "Save 10% on child seats and in-car tech on purchase of £50.",
       "type": "percentage",
@@ -1951,6 +1933,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FLASHSALE",
+      "description": "Enjoy a Fantastic 25% Discount with Halfords Discount Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/halfords",
+      "addedAt": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BFTYRES",
+      "description": "Get Black Friday Discount at Halfords – Use Discount Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/halfords",
+      "addedAt": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

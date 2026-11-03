@@ -142,6 +142,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "CYBER25",
+      "description": "Save 25% On Your Purchase",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/piercingmania",
+      "addedAt": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

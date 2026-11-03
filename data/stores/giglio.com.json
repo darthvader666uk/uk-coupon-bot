@@ -783,27 +783,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2025-07-28T00:00:00Z"
-    },
-    {
-      "code": "COUPERT5",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://giglio.knoji.com/",
-      "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

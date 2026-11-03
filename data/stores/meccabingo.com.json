@@ -82,6 +82,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SUBSCRIPTION10",
+      "description": "10% Off with Email sign up - Mecca Bingo Voucher code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/meccabingo-com",
+      "addedAt": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

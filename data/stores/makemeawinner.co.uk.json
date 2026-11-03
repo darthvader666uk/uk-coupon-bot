@@ -153,11 +153,12 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/makemeawinner.co.uk",
       "addedAt": "2026-11-02T20:08:14.128Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -498,6 +499,26 @@
       "url": "https://www.wethrift.com/codes/makemeawinner.co.uk",
       "addedAt": "2026-11-02T20:08:14.128Z",
       "lastSeen": "2026-11-02T20:08:14.128Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NOV40",
+      "description": "Unlock 40% Off Make Me A Winner with Discount Codes",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/make-me-a-winner",
+      "addedAt": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-03T15:49:13.765Z",
       "testResults": {
         "total": 0,
         "worked": 0,
