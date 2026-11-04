@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "FIRST25",
-      "description": "New User Discount - 25% Off First Purchase at Compare Parking Deals with Promo Codes",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/compare-parking-deals",
-      "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "PARK40",
       "description": "Get 40% Off Long-Stay & Multi-Day Airport Parking",
       "type": "percentage",

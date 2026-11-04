@@ -249,13 +249,14 @@
       ],
       "url": "https://hollandandbarrett.knoji.com/",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-10-27T11:28:20.543Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T00:00:00Z"
     },
     {
       "code": "BINOID15",
@@ -481,14 +482,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/hollandandbarrett.com",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z"
     },
     {
       "code": "EXTRA22",
@@ -503,14 +504,14 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-14T00:00:00Z"
+      "lastWorkedAt": "2026-11-03T00:00:00Z"
     },
     {
       "code": "HB15",
@@ -547,7 +548,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -589,7 +590,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-26T13:31:31.584Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -675,12 +676,14 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-06-11T00:00:00Z"
     },
     {
       "code": "SHOP22",
@@ -715,7 +718,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -992,6 +995,50 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "EMAIL25",
+      "description": "Limited Time: 25% Off Holland and Barrett Promo Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
+    },
+    {
+      "code": "ISSY20",
+      "description": "Holland and Barrett Coupon: 20% Off Your Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-14T00:00:00Z"
     }
   ]
 }

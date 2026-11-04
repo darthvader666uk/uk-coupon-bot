@@ -36,7 +36,7 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -57,7 +57,7 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -78,13 +78,13 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "GOODFOOD",
@@ -99,13 +99,13 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "AIRFRYER10",
@@ -120,7 +120,7 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -141,13 +141,13 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "AIRFRYER",
@@ -162,13 +162,13 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "BETTERBREW",
@@ -213,7 +213,7 @@
       "verified": false
     },
     {
-      "code": "WELTCH45NRPBEDARR95",
+      "code": "WEL-TCH4-5NRP-BEDA-RR95",
       "description": "",
       "type": "unknown",
       "value": null,
@@ -225,7 +225,7 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -246,7 +246,7 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -288,7 +288,7 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -309,7 +309,7 @@
       ],
       "url": "https://towerhousewares.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -326,16 +326,39 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "knoji"
       ],
       "url": "https://www.savoo.co.uk/brands/tower-housewares-discount-codes",
       "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
+    },
+    {
+      "code": "HOLIDAY",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://towerhousewares.knoji.com/",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

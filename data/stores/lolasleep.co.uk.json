@@ -125,50 +125,10 @@
       }
     },
     {
-      "code": "GET20",
-      "description": "Flash Sale: 20% off for a Limited Time",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/lola-sleep",
-      "addedAt": "2026-11-03T15:49:13.765Z",
-      "lastSeen": "2026-11-03T15:49:13.765Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SLEEP15",
       "description": "Grab up to 15% discount on your order",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/lola-sleep",
-      "addedAt": "2026-11-03T15:49:13.765Z",
-      "lastSeen": "2026-11-03T15:49:13.765Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA5",
-      "description": "Take 5% Off Your Purchase with This Special Offer",
-      "type": "percentage",
-      "value": 5,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

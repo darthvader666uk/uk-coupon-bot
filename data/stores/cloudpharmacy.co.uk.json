@@ -232,16 +232,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/cloudpharmacy.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
     },
     {
       "code": "SEPTEMBERDOSE",
@@ -262,6 +264,111 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "APRIL25",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cloudpharmacy.knoji.com/",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SAVE10HEALTH",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cloudpharmacy.knoji.com/",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EXTRA7",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cloudpharmacy.knoji.com/",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "E-CHECK5OFF",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cloudpharmacy.knoji.com/",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELZO5",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cloudpharmacy.knoji.com/",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

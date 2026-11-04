@@ -19,13 +19,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/selectspecs-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
@@ -60,17 +60,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://selectspecs.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T00:00:00Z"
     },
     {
       "code": "VALENTINES26",
@@ -107,13 +109,13 @@
       ],
       "url": "https://selectspecs.knoji.com/",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-10-29T00:00:00Z"
     },
     {
@@ -532,7 +534,7 @@
       ],
       "url": "https://selectspecs.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -974,7 +976,7 @@
       ],
       "url": "https://www.coupert.com/store/selectspecs.com",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -982,27 +984,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-29T00:00:00Z"
-    },
-    {
-      "code": "SUMMER26",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://selectspecs.knoji.com/",
-      "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "WC25",
@@ -1055,11 +1036,12 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/selectspecs.com",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1075,16 +1057,79 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/selectspecs.com",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "MONTHONUS",
+      "description": "Save up to 50% on your orders",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/selectspecs.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "20NOV",
+      "description": "20% Off All Orders",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/selectspecs.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "F35E347D",
+      "description": "Take 35% Off with Select Specs Coupon",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/selectspecs.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-29T00:00:00Z"
     }
   ]
 }

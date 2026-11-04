@@ -184,46 +184,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "EXTRA10",
-      "description": "10% off sale items",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/reasn.com",
-      "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA20",
-      "description": "20% off mid-season offers",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/reasn.com",
-      "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

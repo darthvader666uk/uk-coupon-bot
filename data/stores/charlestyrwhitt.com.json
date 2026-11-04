@@ -394,7 +394,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -570,7 +570,7 @@
       ],
       "url": "https://www.coupert.com/store/charlestyrwhitt.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-18T10:29:12.748Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -592,14 +592,14 @@
       ],
       "url": "https://www.coupert.com/store/charlestyrwhitt.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z"
     },
     {
       "code": "CT07HONEY",
@@ -789,14 +789,14 @@
       ],
       "url": "https://www.coupert.com/store/charlestyrwhitt.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
     },
     {
       "code": "EW20",
@@ -1246,7 +1246,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1268,7 +1268,7 @@
       ],
       "url": "https://www.coupert.com/store/charlestyrwhitt.com",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1422,14 +1422,14 @@
       ],
       "url": "https://www.coupert.com/store/charlestyrwhitt.com",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "verified": true,
+      "lastWorkedAt": "2026-11-03T00:00:00Z"
     },
     {
       "code": "CHF245",
@@ -1866,24 +1866,26 @@
     },
     {
       "code": "POPLIN",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "20% Off Almost Everything at Charles Tyrwhitt",
+      "type": "percentage",
+      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://charlestyrwhitt.knoji.com/",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-10-22T00:00:00Z"
     },
     {
       "code": "GRAL22X6R7YT",
@@ -2027,17 +2029,194 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
       "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "code": "SPOOKY",
+      "description": "charlestyrwhitt.com coupon",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel",
+        "coupert"
+      ],
+      "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
+    },
+    {
+      "code": "RMN15",
+      "description": "charlestyrwhitt.com coupon",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EU20",
+      "description": "20% Off Everything Today Only",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
+    },
+    {
+      "code": "20XBR",
+      "description": "Save big - 20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-01T00:00:00Z"
+    },
+    {
+      "code": "HURRY25",
+      "description": "25% Off Your Purchase with Exclusive Coupon",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-27T00:00:00Z"
+    },
+    {
+      "code": "GRAL246K3GZ3",
+      "description": "Grab Up to 15% Off on Your Orders at Charles Tyrwhitt",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T00:00:00Z"
+    },
+    {
+      "code": "AUTOMNE",
+      "description": "Charles Tyrwhitt Special Code: Amazing Price-cut Availablle",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
+    },
+    {
+      "code": "BASEBALL",
+      "description": "Score Up To 30% Off Your First Order 2026",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/charlestyrwhitt.com",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T00:00:00Z"
     }
   ]
 }

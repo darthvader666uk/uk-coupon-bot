@@ -124,26 +124,6 @@
       }
     },
     {
-      "code": "GET15",
-      "description": "Save 15% during sale",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/offcuts",
-      "addedAt": "2026-11-03T15:49:13.765Z",
-      "lastSeen": "2026-11-03T15:49:13.765Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MAYBOOTS",
       "description": "Available discounts for smarter shopping at offcutsshoes.co.uk",
       "type": "unknown",

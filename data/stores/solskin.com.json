@@ -127,26 +127,6 @@
       }
     },
     {
-      "code": "FREESHIP",
-      "description": "Free Shipping with any order",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/solskin.com",
-      "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "RADFORD20",
       "description": "Save 20% off your basket at SOLSKIN with code RADFORD20.",
       "type": "percentage",
@@ -169,26 +149,6 @@
     {
       "code": "ALEXANDRA20",
       "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/solskin.com",
-      "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "NEWYEAR",
-      "description": "20% off sitewide",
       "type": "percentage",
       "value": 20,
       "minSpend": null,

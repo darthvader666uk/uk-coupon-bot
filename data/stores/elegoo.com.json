@@ -1,0 +1,27 @@
+{
+  "domain": "elegoo.com",
+  "name": "Elegoo",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVOO12F100",
+      "description": "Exclusive £12 off orders over £100 at Elegoo",
+      "type": "fixed",
+      "value": 12,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/elegoo-discount-codes",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}
