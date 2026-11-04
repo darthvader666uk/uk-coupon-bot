@@ -4,28 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "RETURN10",
-      "description": "Enjoy Sale: 10% Off select items",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/afarley.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-07T00:00:00Z"
-    },
-    {
       "code": "BALED448B441770",
       "description": "Shop Now and Save £5 at A Farley Country Attire - Limited Time Only",
       "type": "fixed",

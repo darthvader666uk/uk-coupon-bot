@@ -379,6 +379,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SV10",
+      "description": "Take 10% Off with Ryder & Amies Voucher Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ryder-and-amies",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CUGU7",
+      "description": "Transparent pricing is available when you shop at Ryder and Amies",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ryder-and-amies",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

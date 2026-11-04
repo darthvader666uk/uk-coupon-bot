@@ -16,7 +16,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/vapekit-co-uk",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,7 +37,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/vapekit-co-uk",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -424,25 +424,64 @@
       "verified": false
     },
     {
-      "code": "THANKS",
-      "description": "15% off",
+      "code": "HALLOWEEN10",
+      "description": "10% off your order",
       "type": "percentage",
-      "value": 15,
+      "value": 10,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://vapekit.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "url": "https://uk.coupert.com/promo-code/vapekit-co-uk",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": true
+      }
+    },
+    {
+      "code": "VAPEKITUK",
+      "description": "Grab 5% Discount with Vapekit Discount Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vapekit-co-uk",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUG26",
+      "description": "The latest offer is a great place to start",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vapekit-co-uk",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

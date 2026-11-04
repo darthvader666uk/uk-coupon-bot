@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BASKET5",
+      "description": "Take 5% Off with Vitapoint Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vita-point-co-uk",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

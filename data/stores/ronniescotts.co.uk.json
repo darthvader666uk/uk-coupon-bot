@@ -127,6 +127,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "JULY10",
+      "description": "10% Off New customer order Ronnie Scott's Promo code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ronnie-scotts",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -1120,28 +1120,6 @@
       "verified": false
     },
     {
-      "code": "DISCOUNT15",
-      "description": "By using this coupon code during checkout, you can save 15% on your eligible purchase.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/mattandnat.com",
-      "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "FREESHIP50",
       "description": "Free shipping",
       "type": "free_shipping",

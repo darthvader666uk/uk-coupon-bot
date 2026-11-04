@@ -22,6 +22,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "SALE10",
+      "description": "10% Off with Email sign up - Saving Light Bulbs Voucher code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/saving-light-bulbs",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

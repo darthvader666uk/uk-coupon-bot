@@ -1,0 +1,27 @@
+{
+  "domain": "rangeandcountry.co.uk",
+  "name": "Range And Country",
+  "category": "general",
+  "codes": [
+    {
+      "code": "TAKE15",
+      "description": "New User Discount - 15% Off First Purchase at Range And Country with Coupon Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rangeandcountry-co-uk",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -44,26 +44,6 @@
       }
     },
     {
-      "code": "DISCOUNT10",
-      "description": "Save 10% on First Purchase for New Customers at Ettinger London with Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/ettinger-london",
-      "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SMSFREESHIP",
       "description": "Free shipping on eligible orders",
       "type": "free_shipping",

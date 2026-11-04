@@ -545,26 +545,6 @@
       }
     },
     {
-      "code": "WELCOMENEWUSERS",
-      "description": "Join Harringtons Pet Food and get 20% off using Promo Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/harringtons-pet-food",
-      "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SUPER25",
       "description": "Unlock 25% off using Harringtons Pet Food Discount Codes",
       "type": "percentage",

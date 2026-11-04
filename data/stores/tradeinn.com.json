@@ -17,7 +17,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/tradeinn-com",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -84,7 +84,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/tradeinn-com",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-14T13:25:10.108Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -208,7 +208,7 @@
       ],
       "url": "https://tradeinn.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -254,7 +254,7 @@
       ],
       "url": "https://tradeinn.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -293,11 +293,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://tradeinn.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1119,19 +1120,59 @@
       }
     },
     {
-      "code": "BF15",
-      "description": "Get 15% off with coupon code",
+      "code": "SAF10",
+      "description": "Apply Discount Code to get 85% off at Techinn",
       "type": "percentage",
-      "value": 15,
+      "value": 85,
       "minSpend": null,
       "expiry": null,
-      "source": "caramel",
+      "source": "coupert",
       "sources": [
-        "caramel"
+        "coupert"
       ],
-      "url": "https://grabcaramel.com/coupons/tradeinn.com",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "url": "https://uk.coupert.com/promo-code/tradeinn-com",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CYBER5",
+      "description": "Celebrate Black Friday with up to 5% off your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/tradeinn-com",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SCINN5",
+      "description": "Take 5% Off with Techinn Discount Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/tradeinn-com",
+      "addedAt": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-04T16:03:15.495Z",
       "testResults": {
         "total": 0,
         "worked": 0,
