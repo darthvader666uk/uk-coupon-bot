@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/9for9-co-uk",
       "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -53,11 +54,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://9for9.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -74,11 +76,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://9for9.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -95,11 +98,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://9for9.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -137,11 +141,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://9for9.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -158,17 +163,358 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://9for9.knoji.com/",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "DP-SHIP-VOUCHER",
+      "description": "£4.00 off Duluth Pack",
+      "type": "fixed",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUTUMN10",
+      "description": "10% off everything",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EMAIL-MEMBER-FREEBIES",
+      "description": "£50 off",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EMAIL-MEMBERS-FREEBIES",
+      "description": "£50 worth of products free",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LC10",
+      "description": "10% off everything",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WALLET50",
+      "description": "50% off all Pioneer wallets",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BF-VIP",
+      "description": "10% OFF EVERYTHING, including LAST CHANCE items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPARKLE",
+      "description": "10% off Pioneer Sparkle Lever Belts",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LC5",
+      "description": "5% off LAST CHANCE collection with £100+ spend",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUMMER10",
+      "description": "10% off Orders over £25",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPRING10",
+      "description": "10% off Orders over £25",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BELT10",
+      "description": "10% off Orders over £25",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BF10",
+      "description": "10% off Orders over £25",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APPAREL10",
+      "description": "55% off Orders over £25",
+      "type": "percentage",
+      "value": 55,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DYED5",
+      "description": "20% off Orders over £25",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OUTFIT20",
+      "description": "20% off Orders over £25",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CLEAR15",
+      "description": "15% off Orders over £25",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 25,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/9for9.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

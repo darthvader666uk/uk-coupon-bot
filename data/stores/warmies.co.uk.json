@@ -1320,6 +1320,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "HELLO10",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/warmies.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BACK2SCHOOL",
+      "description": "Save on your order at Warmies with code BACK2SCHOOL.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/warmies.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WEEKEND15",
+      "description": "Take 15% off every product at Warmies with code WEEKEND15.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/warmies.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

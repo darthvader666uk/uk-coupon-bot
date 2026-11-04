@@ -97,11 +97,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://animal.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -118,11 +119,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://animal.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -318,6 +320,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "EXTRA20",
+      "description": "Take an extra 20% off at Animal with code EXTRA20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/animal.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "B30F1XS",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/animal.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AMSB2024",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/animal.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -12,11 +12,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://accessorize.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -33,11 +34,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://accessorize.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -96,11 +98,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://accessorize.knoji.com/",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -423,6 +426,306 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "GOODMANNERS15",
+      "description": "Take 15% off the collection at Accessorize with code GOODMANNERS15.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MAYAN15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BBMIAV",
+      "description": "20% Off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ACCANSHIKA10",
+      "description": "10% off Earrings",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ADD10OFF",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HEYSUMMER10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EASTER10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ACCSARYU10",
+      "description": "10% discount with code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HAPPYDAYS",
+      "description": "20% off everything",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HEY_4695",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HEY_4635",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SALE10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WONDERFUL",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FEELGOOD20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PLENTY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/accessorize.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

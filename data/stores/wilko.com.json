@@ -18,7 +18,7 @@
       ],
       "url": "https://wilko.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -357,7 +357,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/wilko.com",
       "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -400,7 +400,7 @@
       ],
       "url": "https://www.wethrift.com/codes/wilko.com",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -421,7 +421,7 @@
       ],
       "url": "https://www.wethrift.com/codes/wilko.com",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -441,7 +441,47 @@
       ],
       "url": "https://www.wethrift.com/codes/wilko.com",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-01T16:39:18.627Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE25",
+      "description": "Save on your order at Wilko with code TAKE25.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/wilko.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE20",
+      "description": "Save 20% at Wilko with code TAKE20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/wilko.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,

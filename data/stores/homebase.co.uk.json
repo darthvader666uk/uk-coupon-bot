@@ -354,26 +354,6 @@
       }
     },
     {
-      "code": "TAKE30",
-      "description": "Save 30% off your cart when you apply the coupon code at Homebase checkout.",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/homebase.co.uk",
-      "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAVE35",
       "description": "Save 35% off with coupon code",
       "type": "percentage",
@@ -392,27 +372,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "HALLOWEEN",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://homebase.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

@@ -52,11 +52,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/acaioutdoorwear.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -118,11 +119,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/acaioutdoorwear.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -160,11 +162,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/acaioutdoorwear.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -244,11 +247,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/acaioutdoorwear.com",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -308,11 +312,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/acaioutdoorwear.com",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -328,11 +333,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/acaioutdoorwear.com",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -459,6 +465,126 @@
       "url": "https://www.coupert.com/store/acaioutdoorwear.com",
       "addedAt": "2026-11-04T13:41:24.576Z",
       "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIRST10",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/acaioutdoorwear.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MARLEY",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/acaioutdoorwear.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LAUREN",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/acaioutdoorwear.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LEGWEAR25",
+      "description": "Get 25% off at ACAI Outdoorwear with code LEGWEAR25.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/acaioutdoorwear.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GET10",
+      "description": "Take an extra 10% off at ACAI Outdoorwear with code GET10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/acaioutdoorwear.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RAYOFSUN",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/acaioutdoorwear.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,

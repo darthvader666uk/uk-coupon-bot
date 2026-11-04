@@ -337,11 +337,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/zooplus.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1022,6 +1023,146 @@
       },
       "verified": true,
       "lastWorkedAt": "2025-11-30T00:00:00Z"
+    },
+    {
+      "code": "CESAR25",
+      "description": "25% off Cesar Products",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zooplus.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EC2025",
+      "description": "25% off Ever Clean Cat Litter",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zooplus.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SMALLS20",
+      "description": "20% off favorite brands for new customers",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zooplus.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PUGGYSMALLS15",
+      "description": "15% off favorite brands for new customers",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zooplus.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SMALLS15",
+      "description": "15% off favorite brands",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zooplus.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FURY15",
+      "description": "15% off exclusive brands",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zooplus.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PUGGYSMALLS-IG15",
+      "description": "15% off for new customers",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zooplus.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -76,11 +76,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://zoeva.knoji.com/",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -545,6 +546,26 @@
       "url": "https://www.coupert.com/store/zoevacosmetics.com",
       "addedAt": "2026-11-01T12:21:17.882Z",
       "lastSeen": "2026-11-04T13:41:24.576Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE20",
+      "description": "20% off any order over £50",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zoevacosmetics.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -98,11 +98,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -173,6 +174,66 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T00:00:00Z"
+    },
+    {
+      "code": "SPRINGTEN",
+      "description": "10% off Site Wide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/aeg.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ABSOLUTECARE",
+      "description": "5% off storewide",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/aeg.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MELIZ20",
+      "description": "20% off storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/aeg.co.uk",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

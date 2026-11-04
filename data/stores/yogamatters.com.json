@@ -202,11 +202,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://yogamatters.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -367,11 +368,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/yogamatters-discount",
       "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-10-15T13:11:11.706Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -412,6 +414,66 @@
       "url": "https://uk.coupert.com/promo-code/yogamatters-discount",
       "addedAt": "2026-10-31T14:11:25.661Z",
       "lastSeen": "2026-10-31T14:11:25.661Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA10",
+      "description": "10% off all Sale items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yogamatters.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BACKONTHEMAT",
+      "description": "20% off Orders over £75",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 75,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yogamatters.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ANEXTRA15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yogamatters.com",
+      "addedAt": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-04T17:51:25.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
