@@ -76,11 +76,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -281,11 +282,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tui",
       "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -544,11 +546,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/tui.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -980,19 +983,159 @@
       }
     },
     {
-      "code": "EXTRA50",
-      "description": "Save up to £300 on Turkey and Greece holidays with code",
-      "type": "fixed",
-      "value": 300,
+      "code": "SAVE50",
+      "description": "50% off September and October getaways",
+      "type": "percentage",
+      "value": 50,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "wethrift",
       "sources": [
-        "coupert"
+        "wethrift"
       ],
-      "url": "https://uk.coupert.com/promo-code/tui",
-      "addedAt": "2026-11-03T15:49:13.765Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HOLIDAYS",
+      "description": "£50 off Lakes & Mountains holidays",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RIVER200",
+      "description": "£200 off River Cruises this summer",
+      "type": "fixed",
+      "value": 200,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SETSAIL200",
+      "description": "£200 off",
+      "type": "fixed",
+      "value": 200,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BEACHTIME",
+      "description": "£100 off your booking",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUNSHINE",
+      "description": "Orders over £150",
+      "type": "fixed",
+      "value": 150,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "T1UL",
+      "description": "£100 Gift Card for Orders Over £2600",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 2600,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MYTUI_EXCLUSIVE",
+      "description": "Up to £150 off",
+      "type": "fixed",
+      "value": 150,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tui.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,

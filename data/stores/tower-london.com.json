@@ -95,11 +95,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://towerlondon.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -393,6 +394,66 @@
       "url": "https://www.savoo.co.uk/brands/tower-london-discount-codes",
       "addedAt": "2026-11-05T13:48:53.775Z",
       "lastSeen": "2026-11-05T13:48:53.775Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APPTL12",
+      "description": "Get an extra 12% off all app orders at TOWER London with code APPTL12.",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tower-london.com",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EGG15",
+      "description": "15% off sitewide this Easter",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tower-london.com",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TLPS10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tower-london.com",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,

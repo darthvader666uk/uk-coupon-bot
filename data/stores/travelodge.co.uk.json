@@ -479,27 +479,6 @@
       "verified": false
     },
     {
-      "code": "WEEKEND",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://travelodge.knoji.com/",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "JANSALE",
       "description": "",
       "type": "unknown",
@@ -540,6 +519,86 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SEARCH",
+      "description": "10% off Orders over £5",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 5,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/travelodge.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUTUMN25",
+      "description": "25% off Ending soon",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/travelodge.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TLAHERPASSPORT",
+      "description": "30% off stays in Asia at Travelodge",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/travelodge.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TRAVELODGE5",
+      "description": "5% Off Selected Room Only Stays",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/travelodge.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

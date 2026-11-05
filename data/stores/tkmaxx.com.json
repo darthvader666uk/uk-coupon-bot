@@ -52,11 +52,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/tkmaxx-com",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -158,6 +159,26 @@
       "url": "https://www.coupert.com/store/tkmaxx.com",
       "addedAt": "2026-10-05T13:09:57.832Z",
       "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "20SOPHIE",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tkmaxx.com",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
       "testResults": {
         "total": 0,
         "worked": 0,

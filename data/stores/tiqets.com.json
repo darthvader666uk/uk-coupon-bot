@@ -1141,6 +1141,66 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BARRI10",
+      "description": "10% off PortAventura tickets",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tiqets.com",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JACKIE5",
+      "description": "5% off your next experience",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tiqets.com",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DPP5TIQETS",
+      "description": "5% off your purchase",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tiqets.com",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -639,28 +639,6 @@
       }
     },
     {
-      "code": "WEEKEND",
-      "description": "Free Shipping Storewide at Peruvian Connection",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/peruvianconnection.com",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "FALL20",
       "description": "20% off",
       "type": "percentage",

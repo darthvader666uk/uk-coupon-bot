@@ -82,6 +82,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "TP20TYRES",
+      "description": "Save on selected tyres at Tyre Pros with code TP20TYRES.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/tyrepros.co.uk",
+      "addedAt": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
