@@ -551,26 +551,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE20",
-      "description": "20% off any order over £50",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": 50,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/zoevacosmetics.com",
-      "addedAt": "2026-11-04T17:51:25.811Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

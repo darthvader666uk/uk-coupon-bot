@@ -505,6 +505,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "EXTRA10UK",
+      "description": "10% off orders over £1000 at Diamonds Factory",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 1000,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/diamonds-factory-discount-codes",
+      "addedAt": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

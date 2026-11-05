@@ -224,70 +224,10 @@
       }
     },
     {
-      "code": "SAVE25",
-      "description": "£25 off when you spend over £200",
-      "type": "fixed",
-      "value": 25,
-      "minSpend": 200,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/r-r-country",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BF20",
-      "description": "20% Off at R&R Country",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/r-r-country",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SALE20",
       "description": "Save 20% as a R&R Country member – Use Promo Codes",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/r-r-country",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SALE15",
-      "description": "15% Off Summer Sale at R&R Country",
-      "type": "percentage",
-      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

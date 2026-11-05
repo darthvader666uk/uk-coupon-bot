@@ -270,26 +270,6 @@
       }
     },
     {
-      "code": "20OFF",
-      "description": "£20 Off UK Orders Over £100",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/w-wellness",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MVC15",
       "description": "Save 15% on your order with W Wellness Discount Codes",
       "type": "percentage",

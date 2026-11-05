@@ -454,7 +454,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/high-street-tv-discount-codes",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -490,11 +490,12 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "savoo"
       ],
       "url": "https://www.wethrift.com/codes/highstreettv.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-10-31T20:01:33.278Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -562,6 +563,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SPOOKY10",
+      "description": "Halloween Treat: 10% off plus Free Delivery at High Street TV",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/high-street-tv-discount-codes",
+      "addedAt": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

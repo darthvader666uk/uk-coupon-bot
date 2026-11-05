@@ -288,26 +288,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRST20",
-      "description": "Enjoy 20% Off First Purchase at VetUK with Promo Code for New Customers",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/vetuk",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

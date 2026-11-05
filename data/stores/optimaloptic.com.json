@@ -336,6 +336,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "AFTERPAY",
+      "description": "50% Off Entire Purchase",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/optimaloptic.com",
+      "addedAt": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPOOKY",
+      "description": "Optimal Optic Promo Code: Take This Exceptional Discount + Free Shipping",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/optimaloptic.com",
+      "addedAt": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

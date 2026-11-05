@@ -307,26 +307,6 @@
       }
     },
     {
-      "code": "SAVE30",
-      "description": "Claim Your £30 Off Discount Code for Route One Today",
-      "type": "fixed",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/route-one",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "AUTUMN15",
       "description": "Exclusive 15% Savings Using Route One Promo Code",
       "type": "percentage",

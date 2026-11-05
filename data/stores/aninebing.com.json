@@ -17,7 +17,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/aninebing.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -209,27 +209,6 @@
       "lastWorkedAt": "2026-10-10T00:00:00Z"
     },
     {
-      "code": "SUMMER30",
-      "description": "Enjoy 30% off select ANINE BING orders when this promo code is applied as you check out.",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "wethrift"
-      ],
-      "url": "https://grabcaramel.com/coupons/aninebing.com",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ANINEBING15",
       "description": "Save 15% off at ANINE BING with code ANINEBING15.",
       "type": "percentage",
@@ -318,11 +297,12 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "caramel"
       ],
       "url": "https://www.wethrift.com/codes/aninebing.com",
       "addedAt": "2026-11-04T17:51:25.811Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-05T13:48:53.775Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -334,26 +314,6 @@
       "description": "15% Off Select Orders",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/aninebing.com",
-      "addedAt": "2026-11-04T17:51:25.811Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",
