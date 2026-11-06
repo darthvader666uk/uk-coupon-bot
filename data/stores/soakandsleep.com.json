@@ -1249,6 +1249,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "WELCOME20",
+      "description": "20% off storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/soakandsleep.com",
+      "addedAt": "2026-11-06T17:20:06.868Z",
+      "lastSeen": "2026-11-06T17:20:06.868Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
