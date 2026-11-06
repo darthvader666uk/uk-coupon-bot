@@ -565,29 +565,6 @@
       }
     },
     {
-      "code": "BUNDLE",
-      "description": "Discount Code: 10% Off Storewide at Sculpted By Aimee",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "wethrift"
-      ],
-      "url": "https://www.coupert.com/store/sculptedbyaimee.com",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-05T00:00:00Z"
-    },
-    {
       "code": "THREEPLUS",
       "description": "20% off select items",
       "type": "percentage",
@@ -728,28 +705,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "COUPERT10",
-      "description": "Limited Offer: 10% Off Your First Order",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/sculptedbyaimee.com",
-      "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-06T00:00:00Z"
     },
     {
       "code": "VC15",

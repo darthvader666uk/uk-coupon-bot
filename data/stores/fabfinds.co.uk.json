@@ -42,6 +42,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FABFINDSTEN",
+      "description": "10% off Orders at FabFinds",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fab-finds",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CPT10",
+      "description": "Fab Finds New User Discount via Discount Codes: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fab-finds",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FABFINDS7",
+      "description": "Savings are available on your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fab-finds",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

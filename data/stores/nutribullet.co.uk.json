@@ -438,47 +438,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SPOOKY10",
-      "description": "10% off orders plus Free Next Day Delivery at Nutribullet",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/nutribullet-discount-codes",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "THANKS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://nutribullet.knoji.com/",
-      "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

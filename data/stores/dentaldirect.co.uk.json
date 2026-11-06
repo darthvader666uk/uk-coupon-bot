@@ -1,0 +1,27 @@
+{
+  "domain": "dentaldirect.co.uk",
+  "name": "Dental Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FORTEGEL25",
+      "description": "Enjoy 25% off your purchase",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/dental-direct",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

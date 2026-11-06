@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "VE15",
+      "description": "Apply Voucher Code: Save 15% at Grauonline",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/grauonline-eu",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SET26",
+      "description": "Free shipping on your GrauOnline order",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/grauonline-eu",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

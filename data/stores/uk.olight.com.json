@@ -1145,66 +1145,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "DISCOUNT",
-      "description": "olight.com coupon",
-      "type": "fixed",
-      "value": 22,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/olight.com",
-      "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CODE10",
-      "description": "10% Off Storewide at Olight",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/olight.com",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME25",
-      "description": "olight.com coupon",
-      "type": "fixed",
-      "value": 22,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/olight.com",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -432,26 +432,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SUBSCRIPTION",
-      "description": "10% off your first order when you subscribe",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/rentalmotorbike",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

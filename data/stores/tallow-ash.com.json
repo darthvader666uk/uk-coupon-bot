@@ -602,28 +602,6 @@
       }
     },
     {
-      "code": "SUBSCRIPTION",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://tallowash.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "6FOR34",
       "description": "15% off select items",
       "type": "percentage",

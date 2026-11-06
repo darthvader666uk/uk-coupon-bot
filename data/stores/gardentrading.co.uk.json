@@ -246,26 +246,6 @@
       }
     },
     {
-      "code": "TREAT25",
-      "description": "Apply an additional 25% off at checkout when you purchase select items using Garden Trading's discount code on your cart.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/gardentrading.co.uk",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BLACK25",
       "description": "Apply this Garden Trading discount code when you check out to take 25% off everything.",
       "type": "percentage",

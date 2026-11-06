@@ -1333,29 +1333,6 @@
       }
     },
     {
-      "code": "BUNDLE",
-      "description": "20% Off When You Buy 4 Or More",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/moo.com",
-      "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-16T00:00:00Z"
-    },
-    {
       "code": "25BIZ",
       "description": "Save 25% off on Business Cards + free shipping at moo.com",
       "type": "percentage",

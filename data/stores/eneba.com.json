@@ -144,7 +144,7 @@
       ],
       "url": "https://eneba.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -531,7 +531,7 @@
       ],
       "url": "https://eneba.knoji.com/",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -661,7 +661,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/eneba-com",
       "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1168,7 +1168,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/eneba.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -3878,7 +3878,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/eneba-com",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -4178,7 +4178,7 @@
       ],
       "url": "https://www.coupert.com/store/eneba.com",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -5570,26 +5570,6 @@
       }
     },
     {
-      "code": "EASTER",
-      "description": "Get up to 10% off your qualifying purchase at checkout when this Eneba coupon code is applied.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/eneba.com",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "AUTUMN5",
       "description": "Enjoy 5% off on your order",
       "type": "percentage",
@@ -5674,6 +5654,66 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "code": "NOVEM7",
+      "description": "Save 7% off on your order",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/eneba-com",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "100MINUS1NIN",
+      "description": "Discount Code Gives 15% Off at Eneba",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/eneba-com",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MAMUTELIVE",
+      "description": "Discounts are available on your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/eneba-com",
+      "addedAt": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
