@@ -327,26 +327,6 @@
       }
     },
     {
-      "code": "TENOFF",
-      "description": "Save an extra 10% off your order at TRU DIAMONDS with code TENOFF.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/trudiamonds.com",
-      "addedAt": "2026-11-05T18:00:41.650Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WELCOME3",
       "description": "Get this ring for £69 at Tru-Diamonds with code WELCOME3.",
       "type": "fixed",

@@ -404,26 +404,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "WELCOME10",
-      "description": "Get 10% off your first non-subscription order at Wild Dose with code WELCOME10.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/wild-dose.com",
-      "addedAt": "2026-11-05T18:00:41.650Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

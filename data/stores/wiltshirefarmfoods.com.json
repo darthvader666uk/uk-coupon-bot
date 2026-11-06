@@ -396,26 +396,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "WELCOME5",
-      "description": "Save £5 on your order at Wiltshire Farm Foods with voucher code WELCOME5.",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/wiltshirefarmfoods.com",
-      "addedAt": "2026-11-05T18:00:41.650Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

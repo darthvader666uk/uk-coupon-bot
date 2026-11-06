@@ -543,28 +543,6 @@
       }
     },
     {
-      "code": "WELCOMEBACK20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "wethrift"
-      ],
-      "url": "https://stories.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "LKOMMEN",
       "description": "Enjoy a discount with & Other Stories Discount Code",
       "type": "unknown",
@@ -625,26 +603,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-03T00:00:00Z"
-    },
-    {
-      "code": "THANKYOU",
-      "description": "Free shipping and handling",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/stories.com",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -643,48 +643,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "FALL10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://lavetir.knoji.com/",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "BF15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://lavetir.knoji.com/",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

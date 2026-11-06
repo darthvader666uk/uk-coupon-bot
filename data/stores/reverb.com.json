@@ -791,26 +791,6 @@
       }
     },
     {
-      "code": "SHIPFREE",
-      "description": "Free Shipping with Discount Code",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/reverb",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "UK-GEAR-DEALS",
       "description": "Use this Reverb Promo Codes for savings",
       "type": "unknown",

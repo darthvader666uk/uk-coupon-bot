@@ -441,47 +441,6 @@
       }
     },
     {
-      "code": "PAYDAY20",
-      "description": "Take 20% off with this UK Planet Tools Promo Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "wethrift"
-      ],
-      "url": "https://uk.coupert.com/promo-code/uk-planet-tools",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PAYDAY10",
-      "description": "Save £10 on your order at UK Planet Tools with code PAYDAY10 when you spend £250 or more.",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 250,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/ukplanettools.co.uk",
-      "addedAt": "2026-11-05T18:00:41.650Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "PAYDAY5",
       "description": "5% off sitewide",
       "type": "percentage",

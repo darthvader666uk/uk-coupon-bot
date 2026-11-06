@@ -1,0 +1,27 @@
+{
+  "domain": "groupon.co.uk",
+  "name": "Groupon",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GLOWUP",
+      "description": "Up to 74% off Selected orders at Groupon",
+      "type": "percentage",
+      "value": 74,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/groupon-discount-codes",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

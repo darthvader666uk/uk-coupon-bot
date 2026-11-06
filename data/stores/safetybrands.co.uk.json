@@ -66,27 +66,6 @@
       }
     },
     {
-      "code": "GIVEME10",
-      "description": "10% off storewide",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift",
-        "coupert"
-      ],
-      "url": "https://www.wethrift.com/codes/safetybrands.co.uk",
-      "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "7CT3DEBNFH01",
       "description": "£35.00 off entire order",
       "type": "fixed",

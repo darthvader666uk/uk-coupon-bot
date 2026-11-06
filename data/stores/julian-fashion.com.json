@@ -161,11 +161,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/julian-fashion.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -316,11 +317,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/julian-fashion.com",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -998,6 +1000,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "LASTSSSALE",
+      "description": "Extra 25% off Selected orders at Julian Fashion",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/julian-fashion-discount-codes",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WAIT15JF",
+      "description": "15% off Full-Priced orders at Julian Fashion",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/julian-fashion-discount-codes",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

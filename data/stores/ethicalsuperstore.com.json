@@ -1,0 +1,47 @@
+{
+  "domain": "ethicalsuperstore.com",
+  "name": "Ethical Superstore",
+  "category": "general",
+  "codes": [
+    {
+      "code": "X5EME",
+      "description": "£5 off orders over £50 at Ethical Superstore",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/ethical-superstore-discount-codes",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "X10EME",
+      "description": "£10 off orders over £80 at Ethical Superstore",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/ethical-superstore-discount-codes",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

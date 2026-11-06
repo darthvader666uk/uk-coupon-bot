@@ -466,27 +466,6 @@
       "verified": false
     },
     {
-      "code": "WELCOMEBACK20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://acer.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "TAKE40CHARGERS",
       "description": "",
       "type": "unknown",
@@ -508,25 +487,24 @@
       "verified": false
     },
     {
-      "code": "SAVE12",
-      "description": "",
+      "code": "MYSTERY",
+      "description": "Mystery Discount at acer",
       "type": "unknown",
       "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "savoo",
       "sources": [
-        "knoji"
+        "savoo"
       ],
-      "url": "https://acer.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "url": "https://www.savoo.co.uk/brands/acer-discount-codes",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

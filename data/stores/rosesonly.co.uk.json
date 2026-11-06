@@ -104,26 +104,6 @@
       }
     },
     {
-      "code": "FIRST5",
-      "description": "Get a £5 off your first order",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/roses-only",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CART5",
       "description": "Enjoy a Discount of 5% Using Roses Only Discount Codes",
       "type": "percentage",

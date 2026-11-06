@@ -358,26 +358,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FLASH10",
-      "description": "Save 10% on your order at Vapoholic with code FLASH10 when you spend £30.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 30,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/vapoholic.co.uk",
-      "addedAt": "2026-11-05T18:00:41.650Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

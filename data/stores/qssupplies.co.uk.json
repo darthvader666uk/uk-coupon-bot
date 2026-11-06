@@ -97,13 +97,13 @@
       ],
       "url": "https://qssupplies.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "TAPS5",
@@ -118,13 +118,13 @@
       ],
       "url": "https://qssupplies.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "EXTRA5AS",
@@ -139,7 +139,7 @@
       ],
       "url": "https://qssupplies.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -160,7 +160,7 @@
       ],
       "url": "https://qssupplies.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -181,7 +181,7 @@
       ],
       "url": "https://qssupplies.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -202,7 +202,7 @@
       ],
       "url": "https://qssupplies.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -223,7 +223,7 @@
       ],
       "url": "https://qssupplies.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-05T13:09:57.832Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -270,6 +270,27 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "AMANDA10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://qssupplies.knoji.com/",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

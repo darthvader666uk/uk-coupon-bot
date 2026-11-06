@@ -684,52 +684,10 @@
       }
     },
     {
-      "code": "VIP20",
-      "description": "20% Off Orders for Loyalty Members",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mackenzie-childs.com",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-07-03T00:00:00Z"
-    },
-    {
       "code": "SPOILEDHOME20",
       "description": "New Customers: Enjoy 20% Off at MacKenzie-Childs Coupon code",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mackenzie-childs.com",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SHIPFREE",
-      "description": "Free Shipping On Everything Purchased At mackenzie-childs.com",
-      "type": "free_shipping",
-      "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

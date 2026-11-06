@@ -504,6 +504,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "FLASHSALE",
+      "description": "35% off Flash Sale at Card Factory",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/card-factory-discount-codes",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

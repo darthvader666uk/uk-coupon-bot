@@ -63,7 +63,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/mattandnat.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -87,14 +87,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/mattandnat.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-29T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z"
     },
     {
       "code": "NOEMIE5",
@@ -111,7 +111,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/mattandnat.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -135,7 +135,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/mattandnat.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -182,7 +182,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/mattandnat.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -204,7 +204,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/mattandnat.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -962,7 +962,7 @@
       ],
       "url": "https://www.coupert.com/store/mattandnat.com",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1128,17 +1128,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://mattandnat.knoji.com/",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-10-03T00:00:00Z"
     },
     {
       "code": "TRACY5",
@@ -1181,6 +1183,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "EARTH50",
+      "description": "50% Off Matt & Nat Coupon on Your Purchase",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/mattandnat.com",
+      "addedAt": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
