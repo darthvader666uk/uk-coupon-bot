@@ -77,13 +77,13 @@
       ],
       "url": "https://routeone.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": false
     },
     {
       "code": "SARAHR1",
@@ -235,16 +235,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "knoji"
       ],
       "url": "https://www.wethrift.com/codes/routeone.co.uk",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
     },
     {
       "code": "CM2024",
@@ -327,24 +329,46 @@
       }
     },
     {
-      "code": "MAY10",
-      "description": "Sale offers 10% off",
-      "type": "percentage",
-      "value": 10,
+      "code": "BF2025",
+      "description": "Buy 3 Get 1 Free",
+      "type": "bogo",
+      "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "knoji",
       "sources": [
-        "coupert"
+        "knoji"
       ],
-      "url": "https://uk.coupert.com/promo-code/route-one",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "url": "https://routeone.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "CL20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://routeone.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

@@ -136,7 +136,7 @@
       ],
       "url": "https://golflefleur.knoji.com/",
       "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -157,7 +157,7 @@
       ],
       "url": "https://golflefleur.knoji.com/",
       "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -261,7 +261,7 @@
       ],
       "url": "https://golflefleur.knoji.com/",
       "addedAt": "2026-10-15T10:52:45.812Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -282,7 +282,7 @@
       ],
       "url": "https://golflefleur.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -429,7 +429,7 @@
       ],
       "url": "https://golflefleur.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -500,24 +500,46 @@
       "verified": false
     },
     {
-      "code": "AUTUMN",
-      "description": "Extra savings on your order from the golflefleur.com community",
+      "code": "SAVEBIG",
+      "description": "",
       "type": "unknown",
       "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "coupert",
+      "source": "knoji",
       "sources": [
-        "coupert"
+        "knoji"
       ],
-      "url": "https://uk.coupert.com/promo-code/golf-le-fleur",
-      "addedAt": "2026-11-06T15:41:40.358Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "url": "https://golflefleur.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
+    },
+    {
+      "code": "NOVTGC",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://golflefleur.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

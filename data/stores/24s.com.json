@@ -201,7 +201,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/24s",
       "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -343,7 +343,7 @@
       ],
       "url": "https://24s.knoji.com/",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -364,7 +364,7 @@
       ],
       "url": "https://24s.knoji.com/",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -463,16 +463,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "knoji"
       ],
       "url": "https://www.wethrift.com/codes/24s.com",
       "addedAt": "2026-11-04T17:51:25.811Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true
     },
     {
       "code": "SEP20",
@@ -493,6 +495,111 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "WELCOME10-NHSI-5Q7X-IZ4A-BIFE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://24s.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "KSCT10-BYBI5MTK7E",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://24s.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "VISAH226",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://24s.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HOTJAN15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://24s.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "SANTA100",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://24s.knoji.com/",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -39,14 +39,14 @@
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-01T00:00:00Z"
+      "lastWorkedAt": "2026-11-07T00:00:00Z"
     },
     {
       "code": "GB23-RETURN5",
@@ -61,14 +61,14 @@
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-01T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z"
     },
     {
       "code": "GBOJ-AEG2-9WSR",
@@ -83,7 +83,7 @@
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -145,14 +145,14 @@
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-02T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z"
     },
     {
       "code": "FLASH5",
@@ -168,14 +168,14 @@
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-02T00:00:00Z"
+      "lastWorkedAt": "2026-11-07T00:00:00Z"
     },
     {
       "code": "SPRINGTEN",
@@ -236,6 +236,72 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "BLACK5",
+      "description": "Get 5% off at aeg.co.uk now",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/aeg.co.uk",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-07T00:00:00Z"
+    },
+    {
+      "code": "RGAUG20",
+      "description": "Grab Up to 20% Off on Your Orders at AEG Electrolux",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/aeg.co.uk",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-07T00:00:00Z"
+    },
+    {
+      "code": "BLUE5",
+      "description": "Recently saved £74.99",
+      "type": "fixed",
+      "value": 74.99,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/aeg.co.uk",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T00:00:00Z"
     }
   ]
 }

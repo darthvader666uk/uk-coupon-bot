@@ -1,0 +1,27 @@
+{
+  "domain": "books4people.co.uk",
+  "name": "Books 4 People",
+  "category": "general",
+  "codes": [
+    {
+      "code": "B4P5",
+      "description": "Black Friday and Cyber Monday: 5% off orders over £30 at Books4People",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/books-4-people-discount-codes",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

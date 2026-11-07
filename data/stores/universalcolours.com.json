@@ -123,46 +123,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SAVE50",
-      "description": "Save £50 off £300 spend at Universal Colours with code SAVE50.",
-      "type": "fixed",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/universalcolours.com",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE30",
-      "description": "Save £30 off £200 spend at Universal Colours with code SAVE30.",
-      "type": "fixed",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/universalcolours.com",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

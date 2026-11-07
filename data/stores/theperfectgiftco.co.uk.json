@@ -346,27 +346,6 @@
       }
     },
     {
-      "code": "SHOP10",
-      "description": "Save 10% on your order with The Perfect Gift Co. Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "wethrift"
-      ],
-      "url": "https://uk.coupert.com/promo-code/the-perfect-gift-co",
-      "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CWOFF50",
       "description": "Save 10% with The Perfect Gift Co. Promo Codes today",
       "type": "percentage",
@@ -589,26 +568,6 @@
     {
       "code": "SUMMERSALE",
       "description": "10% off storewide",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/theperfectgiftco.co.uk",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME10",
-      "description": "10% off your first order",
       "type": "percentage",
       "value": 10,
       "minSpend": null,

@@ -785,28 +785,6 @@
       "verified": true
     },
     {
-      "code": "HOME20",
-      "description": "20% off Home Kit at Chelsea FC",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "knoji"
-      ],
-      "url": "https://www.savoo.co.uk/brands/chelsea-fc-discount-codes",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "CFCEXTRA10",
       "description": "10% off",
       "type": "percentage",
@@ -890,27 +868,6 @@
         "lastTested": null
       },
       "verified": true
-    },
-    {
-      "code": "SHOP10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://chelseafc.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

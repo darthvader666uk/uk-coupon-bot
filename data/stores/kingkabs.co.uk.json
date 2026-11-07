@@ -104,26 +104,6 @@
       }
     },
     {
-      "code": "STUDENT20",
-      "description": "Get 20% off your next three rides at KingKabs with code STUDENT20.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/kingkabs.co.uk",
-      "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "DM5",
       "description": "£5 off your first 5 rides",
       "type": "fixed",

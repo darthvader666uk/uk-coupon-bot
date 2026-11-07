@@ -339,28 +339,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "NEWYEAR10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "wethrift"
-      ],
-      "url": "https://xylondon.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }

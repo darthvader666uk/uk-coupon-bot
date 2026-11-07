@@ -660,26 +660,6 @@
       }
     },
     {
-      "code": "CLEARANCE",
-      "description": "Get an extra 20% off all clearance items at Lovehoney with code CLEARANCE.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/lovehoney.co.uk",
-      "addedAt": "2026-11-02T20:08:14.128Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "NEXTMOVE",
       "description": "Get 20% off your next order at Lovehoney with code NEXTMOVE.",
       "type": "percentage",
@@ -799,6 +779,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SAVEMORE",
+      "description": "Enjoy Up to 20% Off When You Use Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/lovehoney.co.uk",
+      "addedAt": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

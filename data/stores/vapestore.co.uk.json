@@ -737,91 +737,10 @@
       "verified": false
     },
     {
-      "code": "DEAL10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://vapestore.knoji.com/",
-      "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SAVE10",
-      "description": "Get 10% off your purchase at VapeStore with code SAVE10.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/vapestore.co.uk",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "VIP20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/vapestore.co.uk",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "EASTER15",
       "description": "15% off sitewide, Free Shipping",
       "type": "percentage",
       "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/vapestore.co.uk",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "THANKYOU10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",

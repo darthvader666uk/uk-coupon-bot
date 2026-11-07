@@ -254,27 +254,6 @@
       }
     },
     {
-      "code": "DEAL10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://daysoft.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "FAMILY",
       "description": "",
       "type": "unknown",
@@ -296,50 +275,10 @@
       "verified": false
     },
     {
-      "code": "SAVE50",
-      "description": "Score 50% off sale",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/daysoft",
-      "addedAt": "2026-11-06T15:41:40.358Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "DSFSSYRYME",
       "description": "Good savings available at daysoft.com",
       "type": "unknown",
       "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/daysoft",
-      "addedAt": "2026-11-06T15:41:40.358Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FALL20",
-      "description": "Get Daysoft 20% Off using Discount Code",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

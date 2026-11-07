@@ -308,46 +308,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "AUTUMN",
-      "description": "20% off storewide",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/the-half-moon.com",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SUMMER",
-      "description": "Buy 2, Get 1 Free on select items",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/the-half-moon.com",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

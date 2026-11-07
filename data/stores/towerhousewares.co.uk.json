@@ -439,26 +439,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "HOLIDAY",
-      "description": "Get 20% off full price products at Tower Housewares with code HOLIDAY when you spend £39.99.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": 39.99,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/towerhousewares.co.uk",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
