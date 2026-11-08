@@ -679,11 +679,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://letterfest.knoji.com/",
       "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -711,6 +712,26 @@
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "WINTER25",
+      "description": "up to 25% off orders at Letterfest",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/letter-fest-discount-codes",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

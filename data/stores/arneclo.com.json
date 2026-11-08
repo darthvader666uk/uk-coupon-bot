@@ -348,6 +348,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "ALLBFB25OFF500SEP",
+      "description": "Get 25% off on all featured brands",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -381,13 +381,13 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "FALLWEATHER",
@@ -486,13 +486,13 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "CORDUROY",
@@ -851,9 +851,9 @@
     },
     {
       "code": "SALE72HOURS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "40% off",
+      "type": "percentage",
+      "value": 40,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -862,19 +862,19 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "WHIRLPOOL",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "25% Off Storewide",
+      "type": "percentage",
+      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -883,19 +883,19 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "UNWIND",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "20% Off Womens Tugless Ribbed Midkini",
+      "type": "percentage",
+      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -904,19 +904,19 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "SUMMERDAYZ",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "70% off",
+      "type": "percentage",
+      "value": 70,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -925,19 +925,19 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "SWIMSALE70",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "40% off",
+      "type": "percentage",
+      "value": 40,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -946,13 +946,13 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "FLEECEDAYS",
@@ -998,9 +998,9 @@
     },
     {
       "code": "SERVICE",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "75% Off Select Items",
+      "type": "percentage",
+      "value": 75,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -1009,13 +1009,13 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "P3B9",
@@ -1039,9 +1039,9 @@
     },
     {
       "code": "SHIMMER",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "30% Off Storewide",
+      "type": "percentage",
+      "value": 30,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -1050,19 +1050,19 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "FEATHERVEST",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "50% off",
+      "type": "percentage",
+      "value": 50,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -1071,19 +1071,19 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "HURRYNOW15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "50% Off Select Items",
+      "type": "percentage",
+      "value": 50,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -1092,7 +1092,7 @@
       ],
       "url": "https://landsend.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1482,6 +1482,27 @@
     },
     {
       "code": "COZYSUPIMA",
+      "description": "45% off",
+      "type": "percentage",
+      "value": 45,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://landsend.knoji.com/",
+      "addedAt": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "FLEECEBF50",
       "description": "",
       "type": "unknown",
       "value": null,
@@ -1492,8 +1513,71 @@
         "knoji"
       ],
       "url": "https://landsend.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EARLYDEALS",
+      "description": "50% Off Specific Categories",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://landsend.knoji.com/",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "FESTIVEFIT",
+      "description": "60% Off Storewide",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://landsend.knoji.com/",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "COZYCREW",
+      "description": "60% Off (Storewide) at Lands' End",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://landsend.knoji.com/",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,

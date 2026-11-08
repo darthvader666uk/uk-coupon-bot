@@ -326,70 +326,10 @@
       }
     },
     {
-      "code": "XMAS20",
-      "description": "Get an extra 20% off at TJC with code XMAS20.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/tjc.co.uk",
-      "addedAt": "2026-11-08T08:53:45.483Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PAYDAY",
-      "description": "Get an extra 20% off at TJC with code PAYDAY, applicable on almost everything, even already discounted pieces.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/tjc.co.uk",
-      "addedAt": "2026-11-08T08:53:45.483Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "VIP25",
       "description": "Apply code VIP25 to get an extra 25% off at TJC.",
       "type": "percentage",
       "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/tjc.co.uk",
-      "addedAt": "2026-11-08T08:53:45.483Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREEDEL",
-      "description": "Get free shipping at TJC with code FREEDEL.",
-      "type": "free_shipping",
-      "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",

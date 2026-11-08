@@ -164,26 +164,6 @@
       }
     },
     {
-      "code": "GET10",
-      "description": "Apply Vapeverse Discount Codes to save 10%",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/vapeverse-co-uk",
-      "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T08:28:53.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "VAPE10",
       "description": "Vapeverse: Save 10% using Discount Codes",
       "type": "percentage",

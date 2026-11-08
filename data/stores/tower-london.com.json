@@ -421,46 +421,24 @@
       }
     },
     {
-      "code": "JAN10",
-      "description": "5% off",
+      "code": "NEW5",
+      "description": "5% off orders at Tower London",
       "type": "percentage",
       "value": 5,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "savoo",
       "sources": [
-        "knoji"
+        "savoo"
       ],
-      "url": "https://towerlondon.knoji.com/",
-      "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "url": "https://www.savoo.co.uk/brands/tower-london-discount-codes",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "FHM7B9SSJLAY6NAX",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://towerlondon.knoji.com/",
-      "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

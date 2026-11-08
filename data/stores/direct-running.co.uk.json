@@ -566,26 +566,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "BIRTHDAY10",
-      "description": "£10 off orders over £120 at Direct-Running",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 120,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/direct-running-discount-codes",
-      "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/passenger-clothing-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -36,7 +36,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/passenger-clothing-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -45,9 +45,9 @@
     },
     {
       "code": "ROAMERS10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% Off Storewide",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -56,13 +56,13 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "ESCAPE10",
@@ -77,7 +77,7 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -87,9 +87,9 @@
     },
     {
       "code": "TWOBEANIES",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "15% Off Beanies",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -98,18 +98,18 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "WALKTHEWALK",
-      "description": "",
-      "type": "unknown",
+      "description": "Free Shipping On Select Items",
+      "type": "free_shipping",
       "value": null,
       "minSpend": null,
       "expiry": null,
@@ -119,19 +119,19 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "BAGS&PACKS10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% Off On Backpacks And Bags",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -140,41 +140,20 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "ADVENTURE10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://passengerclothing.knoji.com/",
-      "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": true
     },
     {
       "code": "PLASTICFREE",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
+      "description": "Free Water Bottle Your Purchase Over £60 at Passenger Clothing (Site-Wide)",
+      "type": "fixed",
+      "value": 60,
+      "minSpend": 60,
       "expiry": null,
       "source": "knoji",
       "sources": [
@@ -182,19 +161,19 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "BLUELIGHT10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% Off Select Items",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -203,19 +182,19 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "ESCAPE15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "15% Off Brewster Enamel Mug",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -224,19 +203,19 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "JOURNEY10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% Off Storewide (select Item)",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -245,13 +224,13 @@
       ],
       "url": "https://passengerclothing.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "LAYERS20",
@@ -266,7 +245,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/passenger-clothing-discount-codes",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
       "testResults": {
         "total": 0,
         "worked": 0,

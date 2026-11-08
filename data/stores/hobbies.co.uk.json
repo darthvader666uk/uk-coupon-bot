@@ -816,26 +816,6 @@
       }
     },
     {
-      "code": "FLASH10",
-      "description": "Claim 10% Off at Hobbies.co.uk via Promo Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/hobbiescouk",
-      "addedAt": "2026-11-06T15:41:40.358Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "HC4515",
       "description": "Hobbies.co.uk: Save 5% using Discount Codes",
       "type": "percentage",

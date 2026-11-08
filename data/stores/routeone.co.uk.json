@@ -371,27 +371,6 @@
       "verified": false
     },
     {
-      "code": "SAVE30",
-      "description": "£30 Off Storewide at Route One",
-      "type": "fixed",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "wethrift"
-      ],
-      "url": "https://uk.coupert.com/promo-code/route-one",
-      "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MAY10",
       "description": "Receive 10% Off on Your Order",
       "type": "percentage",
@@ -425,66 +404,6 @@
       "url": "https://uk.coupert.com/promo-code/route-one",
       "addedAt": "2026-11-08T08:28:53.816Z",
       "lastSeen": "2026-11-08T08:28:53.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PAYDAY10",
-      "description": "10% off, £60 minimum spend",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/routeone.co.uk",
-      "addedAt": "2026-11-08T08:53:45.483Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE15",
-      "description": "Save £15 on your order at Route One with code SAVE15 when you spend £100.",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/routeone.co.uk",
-      "addedAt": "2026-11-08T08:53:45.483Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SPOOKY",
-      "description": "10% off everything",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/routeone.co.uk",
-      "addedAt": "2026-11-08T08:53:45.483Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,

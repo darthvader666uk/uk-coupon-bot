@@ -725,26 +725,6 @@
       }
     },
     {
-      "code": "GIFT10",
-      "description": "10% off your next order",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/tallow-ash.com",
-      "addedAt": "2026-11-06T17:20:06.868Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SUBSCRIPTION",
       "description": "Find Meaningful Price Reductions",
       "type": "unknown",

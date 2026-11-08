@@ -381,6 +381,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "NEWYEAR10",
+      "description": "10% off orders at Best Gym Equipment",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/best-gym-equipment-discount-codes",
+      "addedAt": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

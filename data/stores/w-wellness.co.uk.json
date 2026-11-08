@@ -328,26 +328,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "BH10",
-      "description": "Save £10 on your order at w-wellness with code BH10 when you spend £50.",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 50,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/w-wellness.co.uk",
-      "addedAt": "2026-11-04T17:51:25.811Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
