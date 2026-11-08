@@ -78,11 +78,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mooseknucklescanada.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -122,11 +123,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mooseknucklescanada.com",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -226,11 +228,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mooseknucklescanada.com",
       "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -248,11 +251,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/mooseknucklescanada.com",
       "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -320,6 +324,66 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-08T00:00:00Z"
+    },
+    {
+      "code": "MKDEC23",
+      "description": "Free Beanie with Full-Price Purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mooseknucklescanada.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MKBF2023",
+      "description": "Up to 40% off select styles",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mooseknucklescanada.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SPEND300",
+      "description": "Save £50",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/mooseknucklescanada.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

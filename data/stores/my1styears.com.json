@@ -14,11 +14,12 @@
       "sources": [
         "coupert",
         "savoo",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/my1styears.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,11 +38,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/my1styears.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -251,11 +253,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://my1styears.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -273,11 +276,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://my1styears.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -567,11 +571,12 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/my-1st-years-discount-codes",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -588,17 +593,318 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://my1styears.knoji.com/",
       "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "FALL20",
+      "description": "20% off sitewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE15",
+      "description": "Save 15% on your order at My 1st Years with code SAVE15 when you spend £40.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE20",
+      "description": "Save 25% on your order at My 1st Years with code SAVE20 when you spend £55.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 55,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE25",
+      "description": "Save 25% on your order at My 1st Years with code SAVE25 when you spend £80 or more.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WELCOME20",
+      "description": "Get 20% off your first order at My 1st Years with code WELCOME20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WEARE15",
+      "description": "15% off sitewide",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "M1YEASTER20",
+      "description": "20% off Easter collection",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DIONNE20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "10EXCLUSIVE",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW20",
+      "description": "20% off sitewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREDDIE",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "VIP25",
+      "description": "25% off storewide",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SHOPM1Y10",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JUNE20",
+      "description": "20% off sitewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MFYHAVE5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/my1styears.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

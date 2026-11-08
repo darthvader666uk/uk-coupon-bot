@@ -254,6 +254,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MEDEUNIKE",
+      "description": "Get a free 1 week rental plus a free baby crib mattress protector with a 3-month rental at Medela with code MEDEUNIKE.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/medela.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MEDNICU",
+      "description": "Get £10 off per month on your rental at Medela with code MEDNICU, bringing the monthly cost down from £49 to £39.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/medela.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

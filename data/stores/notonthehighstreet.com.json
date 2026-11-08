@@ -646,11 +646,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://notonthehighstreet.knoji.com/",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -688,11 +689,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://notonthehighstreet.knoji.com/",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1003,11 +1005,12 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/not-on-the-high-street-discount-codes",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-10-31T11:30:20.399Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1023,11 +1026,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://notonthehighstreet.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1076,6 +1080,86 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "MVC10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/notonthehighstreet.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PAYDAY",
+      "description": "Get up to £10 off your order at notonthehighstreet with code PAYDAY.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/notonthehighstreet.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COUNTDOWN10",
+      "description": "10% off, £40 minimum spend",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/notonthehighstreet.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEXT10-LAR8",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/notonthehighstreet.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

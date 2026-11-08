@@ -97,11 +97,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://myvitamins.knoji.com/",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -163,11 +164,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://myvitamins.knoji.com/",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -814,6 +816,206 @@
       "url": "https://grabcaramel.com/coupons/myvitamins.com",
       "addedAt": "2026-11-07T12:22:06.183Z",
       "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ROSHNIP",
+      "description": "15% off + Free Shipping",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREEDEL15",
+      "description": "15% off everything, Free Shipping",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TWOMUMMYS",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GEMMAL",
+      "description": "Save on your order at myvitaminsuk with discount code GEMMAL.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CAITLINALICE",
+      "description": "Save 10% at Myvitaminsuk with code CAITLINALICE.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COLLAGEN10",
+      "description": "Get Collagen Powder for £10 at Myvitamins when you use code COLLAGEN10.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COLLAGENIO",
+      "description": "Try Clear Collagen for £10 at Myvitamins with code COLLAGENIO.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ADYANT-R1",
+      "description": "52% off Vitamins & Supplements",
+      "type": "percentage",
+      "value": 52,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW20OFF",
+      "description": "20% off your order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AMELIA",
+      "description": "10% off and Free Shipping",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/myvitamins.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,

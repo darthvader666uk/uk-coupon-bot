@@ -76,11 +76,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://newskillsacademy.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -223,11 +224,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://newskillsacademy.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -265,11 +267,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://newskillsacademy.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -486,6 +489,106 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SOCIAL80",
+      "description": "Up to 80% off entire website",
+      "type": "percentage",
+      "value": 80,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/newskillsacademy.co.uk",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AWIN65",
+      "description": "65% off Sitewide",
+      "type": "percentage",
+      "value": 65,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/newskillsacademy.co.uk",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "REACH65",
+      "description": "65% off",
+      "type": "percentage",
+      "value": 65,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/newskillsacademy.co.uk",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "75DISCOUNT",
+      "description": "75% OFF",
+      "type": "percentage",
+      "value": 75,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/newskillsacademy.co.uk",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SOCIALBF",
+      "description": "£19 best-selling courses",
+      "type": "fixed",
+      "value": 19,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/newskillsacademy.co.uk",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

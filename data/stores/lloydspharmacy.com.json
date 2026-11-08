@@ -41,7 +41,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/lloyds-pharmacy-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -302,7 +302,7 @@
       ],
       "url": "https://www.coupert.com/store/lloydspharmacy.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -844,7 +844,7 @@
       ],
       "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -864,7 +864,7 @@
       ],
       "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -884,7 +884,7 @@
       ],
       "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -904,7 +904,7 @@
       ],
       "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -947,7 +947,7 @@
       ],
       "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
       "addedAt": "2026-11-02T20:08:14.128Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -974,29 +974,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "BASKET10",
-      "description": "10% Off Select Items at LloydsPharmacy",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/lloydspharmacy.com",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-07T00:00:00Z"
     },
     {
       "code": "MO10",
@@ -1126,6 +1103,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "5OFF",
+      "description": "5% off all orders",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

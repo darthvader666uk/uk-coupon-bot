@@ -297,7 +297,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/liberty.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -320,7 +320,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/liberty.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -344,7 +344,7 @@
       ],
       "url": "https://www.coupert.com/store/libertylondon.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -456,27 +456,6 @@
       "verified": true
     },
     {
-      "code": "ADVENT10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://libertylondon.knoji.com/",
-      "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "LIBERTYCHRISTMAS",
       "description": "30% OFF",
       "type": "percentage",
@@ -489,7 +468,7 @@
       ],
       "url": "https://www.wethrift.com/codes/libertylondon.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -509,7 +488,7 @@
       ],
       "url": "https://www.wethrift.com/codes/libertylondon.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -578,6 +557,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "NEWYEAR",
+      "description": "10% off all day today",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/libertylondon.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TREAT20",
+      "description": "20% off entire website",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/libertylondon.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

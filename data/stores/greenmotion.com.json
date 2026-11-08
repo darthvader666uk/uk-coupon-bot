@@ -95,29 +95,6 @@
       "lastWorkedAt": "2026-10-24T00:00:00Z"
     },
     {
-      "code": "GREEN10",
-      "description": "Save 10% on Lapland Adventures",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/greenmotion.com",
-      "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
-    },
-    {
       "code": "CAMP50",
       "description": "50% Off Car & Camp Bookings",
       "type": "percentage",
@@ -707,27 +684,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "DPF10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://greenmotion.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
     }
   ]
 }

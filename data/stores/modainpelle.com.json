@@ -170,11 +170,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/modainpelle.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -217,11 +218,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/modainpelle.com",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -352,6 +354,46 @@
       "url": "https://grabcaramel.com/coupons/modainpelle.com",
       "addedAt": "2026-11-08T12:30:54.216Z",
       "lastSeen": "2026-11-08T12:30:54.216Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "3FOR2",
+      "description": "3 for 2",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/modainpelle.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EXTRA20",
+      "description": "Get an extra 20% off sale items at Moda in Pelle with code EXTRA20, plus free delivery on orders over £70.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 70,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/modainpelle.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,

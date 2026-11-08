@@ -710,11 +710,12 @@
       "sources": [
         "coupert",
         "knoji",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/eat-fresh",
       "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1225,11 +1226,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/morrisons.com",
       "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1686,6 +1688,86 @@
       "url": "https://uk.coupert.com/promo-code/eat-fresh",
       "addedAt": "2026-11-06T15:41:40.358Z",
       "lastSeen": "2026-11-06T15:41:40.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW20",
+      "description": "Get £20 off your first shop at Morrisons with code NEW20 when you spend £60.",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/morrisons.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "25MULTIMOR",
+      "description": "Get £40 off your shop at Morrisons with code 25MULTIMOR, when you spend £60.",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 60,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/morrisons.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15MULTIMOR",
+      "description": "Save £40 off a £60 shop at Morrisons with code 15MULTIMOR.",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/morrisons.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE25M60",
+      "description": "Get £40 off your £60 shop at Morrisons with code SAVE25M60.",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/morrisons.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -1632,27 +1632,6 @@
       "verified": false
     },
     {
-      "code": "HOLIDAY10",
-      "description": "Shop and get 10% off your purchase using a coupon code on your cart.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "coupert"
-      ],
-      "url": "https://grabcaramel.com/coupons/halfords.com",
-      "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "C2WEXCLUSIVES",
       "description": "Exclusive Deals on Selected Bikes",
       "type": "unknown",
@@ -1940,28 +1919,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-07T00:00:00Z"
-    },
-    {
-      "code": "BR10",
-      "description": "10% Off Sitewide - Savings on Everything for You",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/halfords.co.uk",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
     },
     {
       "code": "BFD10",

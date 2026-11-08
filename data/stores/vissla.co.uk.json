@@ -590,26 +590,6 @@
       }
     },
     {
-      "code": "TAKE10",
-      "description": "10% off is ready for your order",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/vissla",
-      "addedAt": "2026-11-08T14:50:36.707Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "GET10",
       "description": "Enjoy 10% Off on Your Purchases",
       "type": "percentage",

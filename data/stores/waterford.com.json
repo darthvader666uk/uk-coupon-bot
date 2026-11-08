@@ -630,28 +630,6 @@
       }
     },
     {
-      "code": "SORRY10",
-      "description": "Shop Now at WWRD and Get 10% Off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/waterford.com",
-      "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-07T00:00:00Z"
-    },
-    {
       "code": "ME20",
       "description": "20% Off 1st Order With Email sign up",
       "type": "percentage",

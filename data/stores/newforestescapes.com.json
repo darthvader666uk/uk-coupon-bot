@@ -82,6 +82,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "AM1MW",
+      "description": "Get £50 off your stay at New Forest Escapes with code AM1MW when you book for November.",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/newforestescapes.com",
+      "addedAt": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
