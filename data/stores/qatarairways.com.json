@@ -812,6 +812,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "TAKE5",
+      "description": "Use Qatar Airways Promo Code for 5% Off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qatar-airways",
+      "addedAt": "2026-11-08T14:50:36.707Z",
+      "lastSeen": "2026-11-08T14:50:36.707Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
