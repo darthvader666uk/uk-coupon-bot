@@ -22,6 +22,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "NEWSN20",
+      "description": "Get Tough Leads 20% Off using Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/toughleads-co-uk",
+      "addedAt": "2026-11-08T08:28:53.816Z",
+      "lastSeen": "2026-11-08T08:28:53.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TOTEVIP",
+      "description": "Use Tough Leads Discount Code for 10% Off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/toughleads-co-uk",
+      "addedAt": "2026-11-08T08:28:53.816Z",
+      "lastSeen": "2026-11-08T08:28:53.816Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

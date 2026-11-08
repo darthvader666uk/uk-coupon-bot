@@ -238,28 +238,6 @@
       }
     },
     {
-      "code": "BLACK5",
-      "description": "Get 5% off at aeg.co.uk now",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/aeg.co.uk",
-      "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-07T00:00:00Z"
-    },
-    {
       "code": "RGAUG20",
       "description": "Grab Up to 20% Off on Your Orders at AEG Electrolux",
       "type": "percentage",
