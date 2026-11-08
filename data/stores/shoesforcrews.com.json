@@ -366,7 +366,7 @@
       ],
       "url": "https://www.coupert.com/store/shoesforcrews.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -489,7 +489,7 @@
       ],
       "url": "https://shoesforcrews.knoji.com/",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -533,7 +533,7 @@
       ],
       "url": "https://shoesforcrews.knoji.com/",
       "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -767,7 +767,7 @@
       ],
       "url": "https://shoesforcrews.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -954,7 +954,7 @@
       ],
       "url": "https://www.coupert.com/store/shoesforcrews.com",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1122,7 +1122,7 @@
       ],
       "url": "https://www.wethrift.com/codes/shoesforcrews.com",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1142,7 +1142,7 @@
       ],
       "url": "https://www.wethrift.com/codes/shoesforcrews.com",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-03T17:41:39.039Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1179,11 +1179,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://shoesforcrews.knoji.com/",
       "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1269,6 +1270,66 @@
       "url": "https://www.coupert.com/store/shoesforcrews.com",
       "addedAt": "2026-11-07T12:22:06.183Z",
       "lastSeen": "2026-11-07T12:22:06.183Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PIE020",
+      "description": "Save 20% on select work shoes at Shoes For Crews with promo code PIE020.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/shoesforcrews.com",
+      "addedAt": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CNK399",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/shoesforcrews.com",
+      "addedAt": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GLRT20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/shoesforcrews.com",
+      "addedAt": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,

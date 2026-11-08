@@ -179,7 +179,7 @@
       ],
       "url": "https://www.coupert.com/store/revivecollagen.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -670,7 +670,7 @@
       ],
       "url": "https://revivecollagen.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -951,13 +951,73 @@
       ],
       "url": "https://www.wethrift.com/codes/revivecollagen.com",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "HELLO10",
+      "description": "20% off storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/revivecollagen.com",
+      "addedAt": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREESHIPPING",
+      "description": "Free Shipping",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/revivecollagen.com",
+      "addedAt": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "EMAIL10",
+      "description": "10% off first 28-day Subscription",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/revivecollagen.com",
+      "addedAt": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-08T08:53:45.483Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
