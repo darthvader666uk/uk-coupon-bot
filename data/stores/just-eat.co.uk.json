@@ -576,7 +576,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -598,7 +598,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -619,7 +619,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -640,7 +640,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -661,7 +661,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -682,7 +682,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -724,7 +724,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1689,7 +1689,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2031,7 +2031,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2052,7 +2052,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2073,7 +2073,7 @@
       ],
       "url": "https://justeat.knoji.com/",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2202,26 +2202,6 @@
       }
     },
     {
-      "code": "SHOP15",
-      "description": "15% off on every qualifying order",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/just-eat",
-      "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "YUM25",
       "description": "Just Eat UK Black Friday: Save 25% with Discount Code",
       "type": "percentage",
@@ -2260,6 +2240,27 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "EMAIL20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://justeat.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
     }
   ]
 }

@@ -524,26 +524,6 @@
       }
     },
     {
-      "code": "BF2025",
-      "description": "20% off sitewide",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/revitalash.co.uk",
-      "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CELEBRATE",
       "description": "25% off",
       "type": "percentage",
@@ -553,17 +533,38 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "wethrift"
+        "wethrift",
+        "savoo"
       ],
       "url": "https://revitalash.knoji.com/",
       "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true
+    },
+    {
+      "code": "OCT20",
+      "description": "20% off orders at RevitaLash",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/revitalash-discount-codes",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

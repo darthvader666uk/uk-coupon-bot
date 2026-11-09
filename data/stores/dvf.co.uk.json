@@ -17,7 +17,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/dvf-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -59,13 +59,13 @@
       ],
       "url": "https://dvf.knoji.com/",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "GRACE15",
@@ -80,7 +80,7 @@
       ],
       "url": "https://dvf.knoji.com/",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -279,9 +279,9 @@
     },
     {
       "code": "THELOVELIST",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "15% Off Storewide",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -290,19 +290,19 @@
       ],
       "url": "https://dvf.knoji.com/",
       "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "FRIENDS25",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "25% Off Storewide",
+      "type": "percentage",
+      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -311,13 +311,34 @@
       ],
       "url": "https://dvf.knoji.com/",
       "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
+    },
+    {
+      "code": "MISSYOU20",
+      "description": "20% Off (Storewide)",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://dvf.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
     }
   ]
 }

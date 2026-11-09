@@ -16,14 +16,34 @@
       ],
       "url": "https://www.coupert.com/store/londonsupplements.co.uk",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-29T00:00:00Z"
+      "lastWorkedAt": "2026-11-07T00:00:00Z"
+    },
+    {
+      "code": "FIFTEEN",
+      "description": "15% off select orders",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/londonsupplements.co.uk",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

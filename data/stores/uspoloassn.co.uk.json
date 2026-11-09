@@ -484,49 +484,7 @@
       "verified": true
     },
     {
-      "code": "FALL30",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://uspoloassn.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "FAMILY25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://uspoloassn.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "NEW25",
       "description": "25% off",
       "type": "percentage",
       "value": 25,
@@ -628,67 +586,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SIMPLYCODES5",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://uspoloassn.knoji.com/",
-      "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SALE20",
-      "description": "Extra 20% Off Mens Summer Sale",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/uspoloassn-co-uk",
-      "addedAt": "2026-11-08T14:50:36.707Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "TAKE20",
-      "description": "Enjoy 20% off in-store",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/uspoloassn-co-uk",
-      "addedAt": "2026-11-08T14:50:36.707Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

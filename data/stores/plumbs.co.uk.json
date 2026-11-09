@@ -82,46 +82,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SALE10",
-      "description": "Use Promo Codes at plumbs.co.uk: Save 10%",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/plumbscouk",
-      "addedAt": "2026-11-08T14:50:36.707Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA5",
-      "description": "Enjoy 5% Off with plumbs.co.uk Promo Codes",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/plumbscouk",
-      "addedAt": "2026-11-08T14:50:36.707Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

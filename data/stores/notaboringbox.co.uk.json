@@ -187,50 +187,10 @@
       }
     },
     {
-      "code": "EXTRA20",
-      "description": "20% off all orders over £99",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": 99,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/notaboringbox.co.uk",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAH20",
       "description": "20% off storewide",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/notaboringbox.co.uk",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FLASH10",
-      "description": "10% off EVERYTHING this Easter weekend",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",

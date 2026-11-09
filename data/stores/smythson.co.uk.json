@@ -16,7 +16,7 @@
       ],
       "url": "https://smythson.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -37,7 +37,7 @@
       ],
       "url": "https://smythson.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -58,7 +58,7 @@
       ],
       "url": "https://smythson.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -79,7 +79,7 @@
       ],
       "url": "https://smythson.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -100,7 +100,7 @@
       ],
       "url": "https://smythson.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -121,7 +121,7 @@
       ],
       "url": "https://smythson.knoji.com/",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -205,7 +205,7 @@
       ],
       "url": "https://smythson.knoji.com/",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -214,7 +214,28 @@
       "verified": false
     },
     {
-      "code": "NEW25",
+      "code": "BANK10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://smythson.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "EXTRA25",
       "description": "25% off",
       "type": "percentage",
       "value": 25,
@@ -225,8 +246,71 @@
         "knoji"
       ],
       "url": "https://smythson.knoji.com/",
-      "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "WELCOME10-NHSI-5Q7X-IZ4A-BIFE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://smythson.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "KSCT10-BYBI5MTK7E",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://smythson.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false
+    },
+    {
+      "code": "HOTJAN15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://smythson.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,

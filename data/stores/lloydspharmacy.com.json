@@ -768,27 +768,6 @@
       "verified": false
     },
     {
-      "code": "SESAMECARES",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://lloydspharmacy.knoji.com/",
-      "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-24T16:19:46.607Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "FR33ND",
       "description": "Get Your Lloyds Pharmacy Promo Code for Unique Savings",
       "type": "unknown",
@@ -985,11 +964,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://www.coupert.com/store/lloydspharmacy.com",
       "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1103,26 +1083,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "5OFF",
-      "description": "5% off all orders",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/lloydspharmacy.com",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

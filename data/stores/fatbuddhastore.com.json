@@ -347,27 +347,6 @@
       }
     },
     {
-      "code": "JAN15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fatbuddhastore.knoji.com/",
-      "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "AUG20",
       "description": "20% off",
       "type": "percentage",
@@ -387,26 +366,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "COMEBACK10",
-      "description": "10% off orders at Fat Buddha Store",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/fat-buddha-store-discount-codes",
-      "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

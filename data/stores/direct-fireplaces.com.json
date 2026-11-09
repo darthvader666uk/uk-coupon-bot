@@ -276,6 +276,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "SPRING5",
+      "description": "Bank Holiday Spring Sale: 5% off orders at Direct Fireplaces",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/direct-fireplaces-voucher-codes",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

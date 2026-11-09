@@ -709,26 +709,6 @@
       }
     },
     {
-      "code": "PAYDAY20",
-      "description": "20% off all orders",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/nutravita.com",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "NUTRASHAKER",
       "description": "Get a free shaker at Nutravita with code NUTRASHAKER when your basket value is over £10.",
       "type": "fixed",
@@ -753,26 +733,6 @@
       "description": "Get it for free at Nutravita with code NUTRASHR.",
       "type": "unknown",
       "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/nutravita.com",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE25",
-      "description": "Save 25% off everything at Nutravita with code SAVE25.",
-      "type": "percentage",
-      "value": 25,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",

@@ -329,27 +329,6 @@
       }
     },
     {
-      "code": "BF2025",
-      "description": "Buy 3 Get 1 Free",
-      "type": "bogo",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://routeone.knoji.com/",
-      "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "CL20",
       "description": "20% off",
       "type": "percentage",
@@ -403,26 +382,6 @@
       ],
       "url": "https://uk.coupert.com/promo-code/route-one",
       "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE30",
-      "description": "£30 Off Storewide at Route One",
-      "type": "fixed",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/route-one",
-      "addedAt": "2026-11-08T14:50:36.707Z",
       "lastSeen": "2026-11-08T14:50:36.707Z",
       "testResults": {
         "total": 0,

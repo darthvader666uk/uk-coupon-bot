@@ -24,26 +24,6 @@
       }
     },
     {
-      "code": "SIGNUP",
-      "description": "Free Shipping on First Order Over £15",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": 15,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/hooded-owls",
-      "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "15HOBBITS",
       "description": "15% off Easter potion kit",
       "type": "percentage",

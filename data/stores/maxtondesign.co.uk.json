@@ -232,7 +232,7 @@
       ],
       "url": "https://maxtondesign.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -253,7 +253,7 @@
       ],
       "url": "https://maxtondesign.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -274,7 +274,7 @@
       ],
       "url": "https://maxtondesign.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -295,7 +295,7 @@
       ],
       "url": "https://maxtondesign.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -316,7 +316,7 @@
       ],
       "url": "https://maxtondesign.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -565,24 +565,25 @@
       }
     },
     {
-      "code": "SALE10",
-      "description": "10% off storewide",
-      "type": "percentage",
-      "value": 10,
+      "code": "20OFFSEAN",
+      "description": "",
+      "type": "unknown",
+      "value": null,
       "minSpend": null,
       "expiry": null,
-      "source": "wethrift",
+      "source": "knoji",
       "sources": [
-        "wethrift"
+        "knoji"
       ],
-      "url": "https://www.wethrift.com/codes/maxtondesign.co.uk",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "url": "https://maxtondesign.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": false
     }
   ]
 }

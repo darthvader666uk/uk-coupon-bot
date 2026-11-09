@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/avon-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -57,7 +57,7 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -78,13 +78,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "MISSYOU15",
@@ -99,13 +99,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "SHOPIT10",
@@ -120,13 +120,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "ORDER10",
@@ -141,13 +141,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "25WKND",
@@ -256,9 +256,9 @@
     },
     {
       "code": "TEXT15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "15% Off Storewide",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -267,13 +267,13 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true
     },
     {
       "code": "LOL250",
@@ -297,31 +297,10 @@
       "verified": false
     },
     {
-      "code": "SUMMERSHIP40",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://avon.knoji.com/",
-      "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "PREVIEW15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "15% Off Storewide",
+      "type": "percentage",
+      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -330,13 +309,54 @@
       ],
       "url": "https://avon.knoji.com/",
       "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "COMEBACK15",
+      "description": "15% Off (Storewide)",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://avon.knoji.com/",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true
+    },
+    {
+      "code": "SALE25",
+      "description": "Extra 25% off Selected Products at Avon",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/avon-discount-codes",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

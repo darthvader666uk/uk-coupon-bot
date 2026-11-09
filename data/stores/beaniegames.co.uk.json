@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/beaniegames.co.uk",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     },
     {
       "code": "TONIES",
@@ -38,14 +38,14 @@
       ],
       "url": "https://www.coupert.com/store/beaniegames.co.uk",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     },
     {
       "code": "Z4YGQGGI",
@@ -90,6 +90,72 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-02T00:00:00Z"
+    },
+    {
+      "code": "VIP15",
+      "description": "15% Off Regular Price £14.95",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/beaniegames.co.uk",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
+    },
+    {
+      "code": "STEIFF",
+      "description": "5% Off Collection",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/beaniegames.co.uk",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-08T00:00:00Z"
+    },
+    {
+      "code": "28CJ8J",
+      "description": "Recently saved £6.26",
+      "type": "fixed",
+      "value": 6.26,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/beaniegames.co.uk",
+      "addedAt": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
     }
   ]
 }
