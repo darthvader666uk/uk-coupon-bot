@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/xtremeskins.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -40,14 +40,14 @@
       ],
       "url": "https://www.coupert.com/store/xtremeskins.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-03T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z"
     },
     {
       "code": "ASUS50",
@@ -84,14 +84,14 @@
       ],
       "url": "https://www.coupert.com/store/xtremeskins.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-07T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z"
     },
     {
       "code": "BH30",
@@ -174,14 +174,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/xtremeskins",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T00:00:00Z"
     },
     {
       "code": "AWESOME15",
@@ -538,25 +538,26 @@
       "lastWorkedAt": "2026-11-02T00:00:00Z"
     },
     {
-      "code": "SAVE40",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "BFIPAD",
+      "description": "Grab 25% off by entering promo code",
+      "type": "percentage",
+      "value": 25,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://xtremeskins.knoji.com/",
-      "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "url": "https://www.coupert.com/store/xtremeskins.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T00:00:00Z"
     }
   ]
 }

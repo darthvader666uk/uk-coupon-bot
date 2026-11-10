@@ -209,6 +209,86 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FINDINGFOODS10",
+      "description": "Enjoy 10% Discount at americanfizz.co.uk",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/americanfizz.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIRST25",
+      "description": "Save 40% on Your First Order at American Fizz",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/americanfizz.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FIZZ50",
+      "description": "Get 50% OFF on Gift Boxes",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/americanfizz.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COOKIES36",
+      "description": "Enjoy 36% Off Cookies, Cakes & Bakery",
+      "type": "percentage",
+      "value": 36,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/americanfizz.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

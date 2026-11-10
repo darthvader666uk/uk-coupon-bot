@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/satisfyrunning.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -97,6 +97,46 @@
       "url": "https://uk.coupert.com/promo-code/satisfy-running",
       "addedAt": "2026-10-22T13:30:00.956Z",
       "lastSeen": "2026-10-26T14:52:06.363Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FRIDAY13",
+      "description": "Enjoy Big Savings on the Latest Products",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/satisfyrunning.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "HOLIDAY25",
+      "description": "Claim 25% off your order",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/satisfyrunning.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,

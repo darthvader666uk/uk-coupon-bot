@@ -24,50 +24,10 @@
       }
     },
     {
-      "code": "HELLO10",
-      "description": "Redeem Promo Codes: Get 10% Off at Good Grain",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/good-grain",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BF2025",
       "description": "20% off this Black Friday weekend",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/goodgrain.co.uk",
-      "addedAt": "2026-11-10T09:24:39.308Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREEDELIVERY",
-      "description": "Free Gift",
-      "type": "unknown",
-      "value": null,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",

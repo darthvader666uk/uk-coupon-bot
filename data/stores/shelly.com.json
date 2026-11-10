@@ -244,14 +244,14 @@
       ],
       "url": "https://shelly.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-12T00:00:00Z"
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     },
     {
       "code": "AYL10",
@@ -291,14 +291,14 @@
       ],
       "url": "https://shelly.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-08T00:00:00Z"
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     },
     {
       "code": "DINAMOTECH10",
@@ -867,6 +867,72 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "LATE15",
+      "description": "15% Off Before This Offer Flies Away",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shelly.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T00:00:00Z"
+    },
+    {
+      "code": "COUPERT10",
+      "description": "Enjoy 10% Off Your Purchase with Shelly Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shelly.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T00:00:00Z"
+    },
+    {
+      "code": "AOVAI_UK519TSO",
+      "description": "Us.shelly.com offers extra savings on your shopping",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shelly.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     }
   ]
 }

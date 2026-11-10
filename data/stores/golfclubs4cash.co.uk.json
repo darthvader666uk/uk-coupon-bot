@@ -738,51 +738,10 @@
       }
     },
     {
-      "code": "25OFF",
-      "description": "Claim 25% Off at Golf Clubs 4 Cash via Discount Code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "wethrift"
-      ],
-      "url": "https://uk.coupert.com/promo-code/golf-clubs-4-cash",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "FW10",
       "description": "10% off Fairway Woods",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/golfclubs4cash.co.uk",
-      "addedAt": "2026-11-10T09:24:39.308Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",
@@ -901,26 +860,6 @@
     {
       "code": "SEP15",
       "description": "Apply coupon code SEP15 to save 15% on your order at Golf Clubs 4 Cash with a £200 minimum spend.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/golfclubs4cash.co.uk",
-      "addedAt": "2026-11-10T09:24:39.308Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "APP15",
-      "description": "Save 15% on everything at Golf Clubs 4 Cash exclusively in the app with code APP15.",
       "type": "percentage",
       "value": 15,
       "minSpend": null,

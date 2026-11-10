@@ -102,26 +102,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "EMAIL20",
-      "description": "Get Custom Gifts 20% Off using Discount Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/custom-gifts",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

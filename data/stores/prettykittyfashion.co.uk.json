@@ -144,7 +144,7 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -166,7 +166,7 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -226,14 +226,14 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-03T00:00:00Z"
+      "lastWorkedAt": "2026-11-05T00:00:00Z"
     },
     {
       "code": "NOV80",
@@ -248,14 +248,14 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-03T00:00:00Z"
+      "lastWorkedAt": "2026-11-05T00:00:00Z"
     },
     {
       "code": "TIC10",
@@ -270,12 +270,56 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "VIPNOV15",
+      "description": "Pretty Kitty Fashion Promo Code for 15% Off - Shop Now",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
+    },
+    {
+      "code": "OCT15",
+      "description": "Recently saved £10.49",
+      "type": "fixed",
+      "value": 10.49,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-24T00:00:00Z"
     }
   ]
 }

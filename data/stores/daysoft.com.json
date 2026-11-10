@@ -314,46 +314,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "SAVE50",
-      "description": "Receive 50% Off on Your Order",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/daysoft",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FALL20",
-      "description": "Get Daysoft 20% Off using Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/daysoft",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

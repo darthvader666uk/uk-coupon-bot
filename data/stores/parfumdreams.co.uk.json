@@ -795,11 +795,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://parfumdreams.knoji.com/",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -827,6 +828,86 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "GBP8",
+      "description": "£8 off orders over £59 at Parfumdreams",
+      "type": "fixed",
+      "value": 8,
+      "minSpend": 59,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/parfumdreams-discount-codes",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GBP12",
+      "description": "£12 off orders over £89 at Parfumdreams",
+      "type": "fixed",
+      "value": 12,
+      "minSpend": 89,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/parfumdreams-discount-codes",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GBP18",
+      "description": "£18 off orders over £129 at Parfumdreams",
+      "type": "fixed",
+      "value": 18,
+      "minSpend": 129,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/parfumdreams-discount-codes",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GBP25",
+      "description": "£25 off orders over £179 at Parfumdreams",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": 179,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/parfumdreams-discount-codes",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

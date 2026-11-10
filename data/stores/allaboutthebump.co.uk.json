@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/allaboutthebump.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -233,6 +233,28 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "NEWCUSTOMER10",
+      "description": "10% Off Your First Order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/allaboutthebump.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-14T00:00:00Z"
     }
   ]
 }

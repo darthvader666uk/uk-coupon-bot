@@ -122,26 +122,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "15OFF",
-      "description": "Apply Coolandnew Discount Codes to save 15%",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/coolandnew",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -320,13 +320,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/liberty.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-11-03T00:00:00Z"
     },
     {
@@ -344,7 +344,7 @@
       ],
       "url": "https://www.coupert.com/store/libertylondon.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -559,25 +559,68 @@
       "verified": false
     },
     {
-      "code": "PD-INSIGHTS-803EBBD5",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "code": "30%OFF",
+      "description": "30% Off Liberty Discount Code",
+      "type": "percentage",
+      "value": 30,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://libertylondon.knoji.com/",
-      "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "url": "https://www.coupert.com/store/libertylondon.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
+    },
+    {
+      "code": "BLACKFRIDAY25",
+      "description": "25% off is ready for your order",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/libertylondon.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SOCIAL10",
+      "description": "Get 10% Off with Liberty Coupon Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/libertylondon.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     }
   ]
 }

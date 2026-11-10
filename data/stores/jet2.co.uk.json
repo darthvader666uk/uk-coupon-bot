@@ -508,6 +508,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BFDEAL30",
+      "description": "Black Friday: 30% off Hold Baggage in Manage My Booking at Jet2",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/jet2-discount-codes",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

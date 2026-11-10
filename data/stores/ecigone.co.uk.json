@@ -16,14 +16,14 @@
       ],
       "url": "https://www.coupert.com/store/ecigone.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-03T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z"
     },
     {
       "code": "WKEND10",
@@ -125,14 +125,14 @@
       ],
       "url": "https://www.coupert.com/store/ecigone.co.uk",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
+      "verified": true,
+      "lastWorkedAt": "2026-11-03T00:00:00Z"
     },
     {
       "code": "HELLVAPE10OFF",
@@ -401,7 +401,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ecigone-co-uk",
       "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -697,7 +697,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ecigone-co-uk",
       "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -829,6 +829,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "WELCOME30",
+      "description": "Join ecigone.co.uk Newsletter and Receive 30% off Your First Order",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ecigone.co.uk",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

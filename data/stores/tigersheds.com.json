@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/tiger-sheds-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -80,7 +80,7 @@
       ],
       "url": "https://tigersheds.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -102,7 +102,7 @@
       ],
       "url": "https://tigersheds.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -439,7 +439,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/tiger-sheds-discount-codes",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -659,27 +659,6 @@
       "verified": false
     },
     {
-      "code": "SUMMER5",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://tigersheds.knoji.com/",
-      "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "TASHA10",
       "description": "",
       "type": "unknown",
@@ -699,6 +678,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BANK10",
+      "description": "Extra 10% off Bank Holiday Event at Tiger Sheds",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tiger-sheds-discount-codes",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

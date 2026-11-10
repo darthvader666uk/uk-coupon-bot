@@ -17,14 +17,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/outdazl",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-02T00:00:00Z"
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     },
     {
       "code": "GG20",
@@ -80,7 +80,7 @@
       ],
       "url": "https://www.coupert.com/store/outdazl.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -102,7 +102,7 @@
       ],
       "url": "https://www.coupert.com/store/outdazl.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -310,38 +310,39 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://outdazl.knoji.com/",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T00:00:00Z"
     },
     {
-      "code": "SHIPFREE",
-      "description": "Free shipping",
-      "type": "free_shipping",
-      "value": null,
+      "code": "THANKYOU",
+      "description": "Thanksgiving Day: Buy One Get One Free on Select Products",
+      "type": "percentage",
+      "value": 50,
       "minSpend": null,
       "expiry": null,
-      "source": "knoji",
+      "source": "coupert",
       "sources": [
-        "knoji"
+        "coupert"
       ],
-      "url": "https://outdazl.knoji.com/",
-      "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "url": "https://www.coupert.com/store/outdazl.com",
+      "addedAt": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-10T14:12:41.909Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      },
-      "verified": false
+      }
     }
   ]
 }

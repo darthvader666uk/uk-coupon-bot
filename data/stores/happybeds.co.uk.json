@@ -607,28 +607,6 @@
       }
     },
     {
-      "code": "WEEKEND15",
-      "description": "Extra 15 Percent",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "wethrift"
-      ],
-      "url": "https://happybeds.knoji.com/",
-      "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "FEB10",
       "description": "10% off",
       "type": "percentage",
@@ -648,48 +626,6 @@
         "lastTested": null
       },
       "verified": false
-    },
-    {
-      "code": "EXTRA15",
-      "description": "15% Off with Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "wethrift"
-      ],
-      "url": "https://uk.coupert.com/promo-code/happy-beds-uk",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVEMORE",
-      "description": "Happy Beds Black Friday Deal: Save with Discount Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "wethrift"
-      ],
-      "url": "https://uk.coupert.com/promo-code/happy-beds-uk",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     },
     {
       "code": "HUKDCOSY50",
@@ -952,50 +888,10 @@
       }
     },
     {
-      "code": "FLASH15",
-      "description": "15% off selected lines",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/happybeds.co.uk",
-      "addedAt": "2026-11-10T09:24:39.308Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "THEHOLLIES10",
       "description": "10% off",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/happybeds.co.uk",
-      "addedAt": "2026-11-10T09:24:39.308Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SUMMER15",
-      "description": "15% off selected lines",
-      "type": "percentage",
-      "value": 15,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",
