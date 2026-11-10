@@ -684,26 +684,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "TREAT10",
-      "description": "When this promotional code is applied during checkout, you can get 10% off on £60 or more total orders.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 60,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/bodykind.com",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

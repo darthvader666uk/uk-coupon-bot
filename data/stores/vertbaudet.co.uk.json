@@ -322,26 +322,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "TREAT10",
-      "description": "Use the coupon to receive £10 off orders of £60 or more at Vertbaudet UK.",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 60,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/vertbaudet.co.uk",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
