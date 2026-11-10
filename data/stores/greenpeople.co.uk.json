@@ -333,11 +333,12 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/greenpeople.co.uk",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -358,6 +359,66 @@
       "url": "https://grabcaramel.com/coupons/greenpeople.co.uk",
       "addedAt": "2026-11-09T14:41:34.419Z",
       "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CALM25",
+      "description": "Apply code CALM25 to save 25% at Green People.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/greenpeople.co.uk",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUN25",
+      "description": "Save on your order at Green People with code SUN25.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/greenpeople.co.uk",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GVPIP35",
+      "description": "35% off",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/greenpeople.co.uk",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,

@@ -32,11 +32,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/guildford-spectrum",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -52,11 +53,52 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/guildford-spectrum",
       "addedAt": "2026-11-06T15:41:40.358Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NOJF26",
+      "description": "0 joining fee",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/guildfordspectrum.co.uk",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NOJFJ26",
+      "description": "No joining fee",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/guildfordspectrum.co.uk",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,

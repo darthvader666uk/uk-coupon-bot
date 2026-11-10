@@ -183,7 +183,7 @@
       ],
       "url": "https://kitbag.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -410,11 +410,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://kitbag.knoji.com/",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -477,7 +478,7 @@
       ],
       "url": "https://www.wethrift.com/codes/kitbag.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -497,7 +498,47 @@
       ],
       "url": "https://www.wethrift.com/codes/kitbag.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "COUNTDOWN",
+      "description": "Free UK Delivery",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kitbag.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "10OFF",
+      "description": "10% off your purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kitbag.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,

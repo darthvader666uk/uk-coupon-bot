@@ -63,7 +63,7 @@
       ],
       "url": "https://www.coupert.com/store/hobbycraft.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -771,6 +771,46 @@
       "url": "https://www.savoo.co.uk/brands/hobbycraft-discount-codes",
       "addedAt": "2026-10-31T11:30:20.399Z",
       "lastSeen": "2026-10-31T11:30:20.399Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SUMMER",
+      "description": "£5 off £20 or £10 off £40",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/hobbycraft.co.uk",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DIPANKAR10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/hobbycraft.co.uk",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,

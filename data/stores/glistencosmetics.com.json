@@ -206,11 +206,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/glistencosmetics.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1434,11 +1435,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/glistencosmetics.com",
       "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1759,6 +1761,126 @@
       "url": "https://uk.coupert.com/promo-code/glisten-cosmetics",
       "addedAt": "2026-11-10T09:00:21.533Z",
       "lastSeen": "2026-11-10T09:00:21.533Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PINKISH20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/glistencosmetics.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "WETHRIFT15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/glistencosmetics.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "JESSICAROSE20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/glistencosmetics.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "RACHEL10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/glistencosmetics.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BBELSAS",
+      "description": "save 20% on your next order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/glistencosmetics.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MUMU10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/glistencosmetics.com",
+      "addedAt": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-10T09:24:39.308Z",
       "testResults": {
         "total": 0,
         "worked": 0,

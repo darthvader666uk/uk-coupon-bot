@@ -83,26 +83,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "BANKHOL",
-      "description": "Book online at Lightwater Valley and get £18 per person with code BANKHOL.",
-      "type": "fixed",
-      "value": 18,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/lightwatervalley.co.uk",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -204,26 +204,6 @@
       }
     },
     {
-      "code": "SALE25",
-      "description": "Get Virgin Media 25% Off using Promo Code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/virgin-media",
-      "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "OSOGEP20",
       "description": "Customers can enjoy discounts up to 20% on every order",
       "type": "percentage",
