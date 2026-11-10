@@ -1688,29 +1688,6 @@
       }
     },
     {
-      "code": "BF15",
-      "description": "Get 15% off with coupon code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "coupert"
-      ],
-      "url": "https://grabcaramel.com/coupons/tradeinn.com",
-      "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-05T00:00:00Z"
-    },
-    {
       "code": "CM15",
       "description": "Black Friday: 15% Off at Tradeinn",
       "type": "percentage",

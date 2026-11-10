@@ -1,0 +1,27 @@
+{
+  "domain": "broadband.co.uk",
+  "name": "Broadband",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVING10",
+      "description": "10% Off with Email sign up - Broadband Genie Discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/broadband",
+      "addedAt": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

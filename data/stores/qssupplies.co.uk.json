@@ -270,26 +270,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "TENOFF",
-      "description": "10% Off on Clearance Sale Items",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/qs-supplies",
-      "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -82,6 +82,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "50OFF",
+      "description": "50% Off Your order, Start Saving on Top Brands Now",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/glive-co-uk",
+      "addedAt": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

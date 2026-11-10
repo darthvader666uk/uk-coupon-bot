@@ -63,26 +63,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "TENOFF",
-      "description": "Get 10% off everything at RSPCA Clothing with code TENOFF.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/rspcaclothing.co.uk",
-      "addedAt": "2026-11-08T08:53:45.483Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

@@ -445,27 +445,6 @@
       "verified": false
     },
     {
-      "code": "HOLIDAY25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://daytona.knoji.com/",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "FANREWARDS26",
       "description": "",
       "type": "unknown",
@@ -485,6 +464,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "TIKTOK10",
+      "description": "Redeem Discount Code for 10% Off Daytona",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/daytona",
+      "addedAt": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

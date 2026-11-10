@@ -1587,28 +1587,6 @@
       "lastWorkedAt": "2026-11-04T00:00:00Z"
     },
     {
-      "code": "HOLIDAY25",
-      "description": "Apply 25% off at checkout when you purchase using Humble Bundle's discount code in your cart.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/humblebundle.com",
-      "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "HOLIDAY21",
       "description": "Enjoy This Exceptional Discount + Free Shipping. Don’t Let These Savings Get Away",
       "type": "free_shipping",

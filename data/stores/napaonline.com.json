@@ -1097,26 +1097,6 @@
       }
     },
     {
-      "code": "MISSYOU",
-      "description": "20% off storewide",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/napaonline.com",
-      "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MEMORIAL2025",
       "description": "20% off storewide",
       "type": "percentage",
@@ -1195,28 +1175,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "WINTER",
-      "description": "napaonline.com promo code WINTER",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://grabcaramel.com/coupons/napaonline.com",
-      "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     }
   ]
 }
