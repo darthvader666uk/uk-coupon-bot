@@ -1,0 +1,27 @@
+{
+  "domain": "ksteamwear.co.uk",
+  "name": "KS Teamwear",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME5",
+      "description": "5% off your first KS Teamwear order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ks-teamwear-discount",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

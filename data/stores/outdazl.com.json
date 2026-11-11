@@ -303,49 +303,6 @@
       "verified": false
     },
     {
-      "code": "CHECKOUT10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://outdazl.knoji.com/",
-      "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-09T00:00:00Z"
-    },
-    {
-      "code": "THANKYOU",
-      "description": "Thanksgiving Day: Buy One Get One Free on Select Products",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/outdazl.com",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ATC15",
       "description": "15% off storewide items",
       "type": "percentage",

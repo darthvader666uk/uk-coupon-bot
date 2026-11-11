@@ -1278,26 +1278,6 @@
       }
     },
     {
-      "code": "DISCOUNT15",
-      "description": "Take 15% off with coupon",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/skinnydiplondon.com",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "MOLLYBIGG",
       "description": "10% off",
       "type": "percentage",

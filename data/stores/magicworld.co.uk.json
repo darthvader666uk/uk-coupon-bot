@@ -16,7 +16,7 @@
       ],
       "url": "https://www.coupert.com/store/magicworld.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -36,7 +36,7 @@
       ],
       "url": "https://www.coupert.com/store/magicworld.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -313,26 +313,6 @@
       "verified": false
     },
     {
-      "code": "NEWSLETTER10",
-      "description": "10% Off Registration Bonus",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/magicworld.co.uk",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CM30",
       "description": "Receive 30% off across your purchase",
       "type": "percentage",
@@ -345,7 +325,27 @@
       ],
       "url": "https://www.coupert.com/store/magicworld.co.uk",
       "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "DLCHECKTFF",
+      "description": "Shop magicworld.co.uk Products With Discounts Up To 10% Off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/magicworld",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,

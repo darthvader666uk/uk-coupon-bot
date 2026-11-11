@@ -102,6 +102,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "10GUGI",
+      "description": "Apply Discount Codes: Save 10% at Mad Arches",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/mad-arches",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MA10",
+      "description": "Save 10% with Mad Arches Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/mad-arches",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SALESSUCCESS",
+      "description": "Save 10% with Mad Arches Promo Codes today",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/mad-arches",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

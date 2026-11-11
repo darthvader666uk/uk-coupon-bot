@@ -16,7 +16,7 @@
       ],
       "url": "https://www.coupert.com/store/lebara.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -38,7 +38,7 @@
       ],
       "url": "https://www.coupert.com/store/lebara.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -60,7 +60,7 @@
       ],
       "url": "https://www.coupert.com/store/lebara.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -126,7 +126,7 @@
       ],
       "url": "https://www.coupert.com/store/lebara.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -193,7 +193,7 @@
       ],
       "url": "https://www.coupert.com/store/lebara.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -455,7 +455,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/lebara",
       "addedAt": "2026-10-25T13:04:57.179Z",
-      "lastSeen": "2026-10-25T13:04:57.179Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -471,11 +471,12 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/lebara.co.uk",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -558,6 +559,46 @@
       "url": "https://uk.coupert.com/promo-code/lebara",
       "addedAt": "2026-11-03T15:49:13.765Z",
       "lastSeen": "2026-11-03T15:49:13.765Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE50",
+      "description": "Claim 50% Off at Lebara via Promo Code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lebara",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AMAZON",
+      "description": "Lebara: Save £5 using Promo Code",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/lebara",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,

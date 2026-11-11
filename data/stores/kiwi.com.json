@@ -37,7 +37,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-11-02T20:08:14.128Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -233,7 +233,7 @@
       ],
       "url": "https://www.coupert.com/store/kiwi.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-11-03T15:49:13.765Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1801,6 +1801,106 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "BF24EUR",
+      "description": "Claim Kiwi.com Black Friday using Promo Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TRESENMIMALETA10EUR",
+      "description": "Kiwi.com: Save 10% using Promo Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BF25EUR",
+      "description": "Kiwi.com Black Friday: Save 25% with Discount Codes",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "15KIWIVOL",
+      "description": "Apply Discount Codes: Save 15% at Kiwi.com",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "KIWICOM20",
+      "description": "Use Kiwi.com Discount Codes and save 20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/kiwi-com",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

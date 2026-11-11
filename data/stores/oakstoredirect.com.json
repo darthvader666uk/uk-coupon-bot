@@ -1,0 +1,27 @@
+{
+  "domain": "oakstoredirect.com",
+  "name": "Oak Store Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME5",
+      "description": "Oak Store Direct New User Discount with Promo Code: 5%",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/oak-store-direct",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

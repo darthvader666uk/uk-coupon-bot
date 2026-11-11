@@ -304,26 +304,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "CHECKOUT10",
-      "description": "Use Discount Codes at RISE coffee box: Save 10%",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/rise-coffee-box",
-      "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

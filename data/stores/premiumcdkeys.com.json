@@ -2688,26 +2688,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "THANKYOU",
-      "description": "Save 10% on your order at PremiumCDKeys with code THANKYOU.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/premiumcdkeys.com",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

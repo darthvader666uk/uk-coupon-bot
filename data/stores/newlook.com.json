@@ -494,11 +494,12 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/newlook.com",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -514,11 +515,12 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/newlook.com",
       "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -539,6 +541,106 @@
       "url": "https://www.wethrift.com/codes/newlook.com",
       "addedAt": "2026-11-11T08:20:16.325Z",
       "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "APP10",
+      "description": "Take 10% off your First Order with Mobile App at New Look",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-look-uk",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "ZOOM20",
+      "description": "Take 20% Off New Look with Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-look-uk",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEXTDAY",
+      "description": "FREE NEXT DAY DELIVERY",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-look-uk",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GEORGIA15",
+      "description": "15% Off New Look Discount Code – Limited Offer",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-look-uk",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "SAVE5",
+      "description": "Unlock 5% off using New Look Discount Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/new-look-uk",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
       "testResults": {
         "total": 0,
         "worked": 0,

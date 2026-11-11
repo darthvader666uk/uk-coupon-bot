@@ -853,27 +853,6 @@
       }
     },
     {
-      "code": "WELCOMENEWUSERS",
-      "description": "End Clothing First Purchase using Discount Code: 25%",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "caramel"
-      ],
-      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
-      "addedAt": "2026-11-06T15:41:40.358Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "NOVSAVE",
       "description": "",
       "type": "unknown",

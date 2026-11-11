@@ -1,0 +1,27 @@
+{
+  "domain": "ok-living.co.uk",
+  "name": "Ok Living",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GFP10",
+      "description": "Ok Living Black Friday: Claim 10% with Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ok-living-co-uk",
+      "addedAt": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    }
+  ]
+}

@@ -1958,26 +1958,6 @@
       "lastWorkedAt": "2026-11-05T00:00:00Z"
     },
     {
-      "code": "25OFF",
-      "description": "Use this Burton discount code at checkout to unlock an extra 25% off your entire order.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/burton.co.uk",
-      "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SINGLESDAY",
       "description": "Extra 22% Off All Burton with Code",
       "type": "percentage",
@@ -2020,28 +2000,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-05T00:00:00Z"
-    },
-    {
-      "code": "EXTRA25",
-      "description": "Extra 25% Off Selected Items Over £60",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": 60,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/burton.co.uk",
-      "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
     },
     {
       "code": "NTWNG20",
