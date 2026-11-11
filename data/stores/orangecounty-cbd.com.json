@@ -702,46 +702,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "20OFF",
-      "description": "Redeem Promo Code: Get 20% Off at Orange County CBD",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/orange-county-cbd",
-      "addedAt": "2026-11-10T16:08:37.281Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVEMORE",
-      "description": "Discount Code Delivers £32.13 Savings at Orange County CBD",
-      "type": "fixed",
-      "value": 32.13,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/orange-county-cbd",
-      "addedAt": "2026-11-10T16:08:37.281Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

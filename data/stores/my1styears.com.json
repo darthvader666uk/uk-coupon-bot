@@ -19,7 +19,7 @@
       ],
       "url": "https://www.coupert.com/store/my1styears.com",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -576,7 +576,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/my-1st-years-discount-codes",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -787,90 +787,10 @@
       }
     },
     {
-      "code": "SAVE15",
-      "description": "Save 15% on your order at My 1st Years with code SAVE15 when you spend £40.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 40,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/my1styears.com",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE25",
-      "description": "Save 25% on your order at My 1st Years with code SAVE25 when you spend £80 or more.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": 80,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/my1styears.com",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME20",
-      "description": "Get 20% off your first order at My 1st Years with code WELCOME20.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/my1styears.com",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ADVENT10",
       "description": "10% off any advent calendar",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/my1styears.com",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "NEW20",
-      "description": "20% off sitewide",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "wethrift",
@@ -900,6 +820,26 @@
       "url": "https://www.wethrift.com/codes/my1styears.com",
       "addedAt": "2026-11-11T08:20:16.325Z",
       "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GIFT10",
+      "description": "Spend and Save: £10 off Full-Priced orders over £50 at My 1st Years",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/my-1st-years-discount-codes",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,

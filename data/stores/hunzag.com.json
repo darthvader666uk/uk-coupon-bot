@@ -16,7 +16,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/hunza-g-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -60,7 +60,7 @@
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -171,7 +171,7 @@
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -854,7 +854,7 @@
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -961,7 +961,7 @@
       ],
       "url": "https://www.coupert.com/store/hunzag.com",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1019,17 +1019,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T00:00:00Z"
     },
     {
       "code": "WELCOMEFX4JTCKQ",
@@ -1040,17 +1042,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T00:00:00Z"
     },
     {
       "code": "WELCOME5MJ3BP8Q",
@@ -1061,17 +1065,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-08T00:00:00Z"
     },
     {
       "code": "WELCOME84X77MPC",
@@ -1082,17 +1088,41 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://hunzag.knoji.com/",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-07T00:00:00Z"
+    },
+    {
+      "code": "WELCOMEN66KVJJ7",
+      "description": "Secure 10% Off by Registering",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hunzag.com",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T00:00:00Z"
     }
   ]
 }

@@ -486,46 +486,6 @@
       }
     },
     {
-      "code": "5OFF",
-      "description": "Save £5 on orders over £40 at Opie Oils with code 5OFF.",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": 40,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/opieoils.co.uk",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE10",
-      "description": "10% off everything, including parts",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/opieoils.co.uk",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CIVINFO",
       "description": "10% off storewide",
       "type": "percentage",
@@ -571,66 +531,6 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/opieoils.co.uk",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "GET10",
-      "description": "10% off Low stock",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/opieoils.co.uk",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PAYDAY",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/opieoils.co.uk",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAVE5",
-      "description": "Save £10 on orders over £100 at Opie Oils with code SAVE5.",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 100,
       "expiry": null,
       "source": "wethrift",
       "sources": [

@@ -3336,26 +3336,6 @@
       }
     },
     {
-      "code": "GET10",
-      "description": "Save up to 30% off at OTTOCAST with code GET10.",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/ottocast.com",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "HL10",
       "description": "Apply code HL10 to save 10% on your order at ottocast.com.",
       "type": "percentage",

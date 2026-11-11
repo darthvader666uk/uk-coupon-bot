@@ -296,27 +296,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "PAYDAY15",
-      "description": "Get 15% off at Gorgeous Shop with code PAYDAY15.",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift",
-        "coupert"
-      ],
-      "url": "https://www.wethrift.com/codes/gorgeousshop.com",
-      "addedAt": "2026-11-10T09:24:39.308Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

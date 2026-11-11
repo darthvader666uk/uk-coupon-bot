@@ -84,26 +84,6 @@
       }
     },
     {
-      "code": "TAKE15",
-      "description": "Fishpools 15% Off: Apply Promo Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/fishpools",
-      "addedAt": "2026-11-10T16:08:37.281Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SHIPFREE",
       "description": "Receive Meaningful Savings at fishpools.co.uk",
       "type": "unknown",

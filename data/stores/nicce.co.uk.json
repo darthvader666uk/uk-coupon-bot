@@ -296,6 +296,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "NEW25",
+      "description": "25% off New Arrival orders at NICCE",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/nicce-discount-codes",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

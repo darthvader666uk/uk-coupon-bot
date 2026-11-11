@@ -17,14 +17,14 @@
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-26T00:00:00Z"
+      "lastWorkedAt": "2026-11-08T00:00:00Z"
     },
     {
       "code": "SAVE7",
@@ -40,13 +40,13 @@
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-10-26T00:00:00Z"
     },
     {
@@ -63,13 +63,13 @@
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-10-18T00:00:00Z"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -107,7 +107,7 @@
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -482,7 +482,7 @@
       ],
       "url": "https://www.coupert.com/store/999inks.co.uk",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -490,27 +490,6 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-26T00:00:00Z"
-    },
-    {
-      "code": "LOVE14",
-      "description": "14% off",
-      "type": "percentage",
-      "value": 14,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://999inks.knoji.com/",
-      "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "10TREAT",
@@ -616,6 +595,28 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "VIP20",
+      "description": "20% off Compatible, Remanufactured, and OEM Ink and Toner at 999Inks",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/999inks.co.uk",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-26T00:00:00Z"
     }
   ]
 }

@@ -1263,26 +1263,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "PAYDAY",
-      "description": "Get up to £10 off your order at notonthehighstreet with code PAYDAY.",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "wethrift",
-      "sources": [
-        "wethrift"
-      ],
-      "url": "https://www.wethrift.com/codes/notonthehighstreet.com",
-      "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }

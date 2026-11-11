@@ -482,14 +482,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/hollandandbarrett.com",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-07T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z"
     },
     {
       "code": "EXTRA22",
@@ -806,7 +806,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -970,7 +970,7 @@
       ],
       "url": "https://www.coupert.com/store/hollandandbarrett.com",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1065,6 +1065,130 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-25T00:00:00Z"
+    },
+    {
+      "code": "DRAW25",
+      "description": "25% off Orders Over £45 at Holland and Barrett",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 45,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T00:00:00Z"
+    },
+    {
+      "code": "SPIN22",
+      "description": "22% off Orders Over £35 at Holland and Barrett",
+      "type": "percentage",
+      "value": 22,
+      "minSpend": 35,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T00:00:00Z"
+    },
+    {
+      "code": "APP25",
+      "description": "20% off App Orders Over £40 at Holland and Barrett",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREEHB",
+      "description": "Free WellImmune Powder with Orders Over £40 at Holland and Barrett",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "FREEHB2",
+      "description": "Free Biotin with Orders Over £40 at Holland and Barrett",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "CHOOSE22",
+      "description": "Get an extra 22% off when you spend £40*. App Exclusive, only on app",
+      "type": "percentage",
+      "value": 22,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/hollandandbarrett.com",
+      "addedAt": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

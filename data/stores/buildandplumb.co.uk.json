@@ -62,26 +62,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "FIRSTORDER10",
-      "description": "Build And Plumb First Purchase via Promo Code: 10%",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/build-and-plumb",
-      "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
     }
   ]
 }
