@@ -162,6 +162,66 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "FREEONE",
+      "description": "Get 1 free when you buy 2 at Perfume Shark with code FREEONE.",
+      "type": "bogo",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/perfumeshark.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "AUTUMN",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/perfumeshark.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "PAY20",
+      "description": "Get 20% off at Perfume Shark with code PAY20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/perfumeshark.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

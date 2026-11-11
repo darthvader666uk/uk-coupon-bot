@@ -255,26 +255,6 @@
       }
     },
     {
-      "code": "BF23",
-      "description": "Use this Pondkeeper promo code at checkout to get 20% off your entire orders.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/pondkeeper.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "22SUNNY",
       "description": "Free Next Day Delivery on orders of £30 or more on our Sizzling Summer Sale",
       "type": "fixed",
@@ -525,6 +505,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "10CENT",
+      "description": "10% off at Pondkeeper for all products",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/pondkeeper.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BIOFLAT20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/pondkeeper.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

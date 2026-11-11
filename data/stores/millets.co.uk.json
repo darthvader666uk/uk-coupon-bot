@@ -263,6 +263,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "20OFF",
+      "description": "Get an extra 20% off Peter Storm & North Ridge Clothing & Footwear at Millets with code 20OFF.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/millets.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

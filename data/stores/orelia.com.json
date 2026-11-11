@@ -978,6 +978,86 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "OLIST-HK4C",
+      "description": "Apply discount code OLIST-HK4C to save 15% at orelia.com.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/orelia.com",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OLIST-S3B2",
+      "description": "Get 15% off jewellery at Orelia London with code OLIST-S3B2.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/orelia.com",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OLIST-NT23",
+      "description": "Use code OLIST-NT23 to save on your order at oreliajewellery.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/orelia.com",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "OLIST-827S",
+      "description": "15% off jewellery purchase",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/orelia.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

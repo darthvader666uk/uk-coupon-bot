@@ -72,11 +72,12 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://primrose.knoji.com/",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -434,6 +435,26 @@
       "url": "https://www.savoo.co.uk/brands/primrose-discount-codes",
       "addedAt": "2026-11-06T13:48:54.663Z",
       "lastSeen": "2026-11-09T14:41:34.419Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "LEE15",
+      "description": "Save 15% on full price items at Primrose with code LEE15.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/primrose.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
       "testResults": {
         "total": 0,
         "worked": 0,

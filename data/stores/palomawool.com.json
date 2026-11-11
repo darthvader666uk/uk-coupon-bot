@@ -34,11 +34,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/palomawool.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -54,11 +55,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/palomawool.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -119,6 +121,26 @@
       "url": "https://www.coupert.com/store/palomawool.com",
       "addedAt": "2026-10-05T13:09:57.832Z",
       "lastSeen": "2026-10-05T13:09:57.832Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "STAYHOME",
+      "description": "10% off your order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/palomawool.com",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
       "testResults": {
         "total": 0,
         "worked": 0,

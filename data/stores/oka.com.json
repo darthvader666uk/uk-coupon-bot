@@ -33,11 +33,12 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/oka-discount-codes",
       "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -226,6 +227,26 @@
       "url": "https://www.coupert.com/store/oka.com",
       "addedAt": "2026-11-10T14:12:41.909Z",
       "lastSeen": "2026-11-10T14:12:41.909Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GARDEN15",
+      "description": "15% off all Garden",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/oka.com",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
       "testResults": {
         "total": 0,
         "worked": 0,

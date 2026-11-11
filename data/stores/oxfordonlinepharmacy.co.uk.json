@@ -162,6 +162,46 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "MI1WL",
+      "description": "£10 off when you spend over £80",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/oxfordonlinepharmacy.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "MITM6",
+      "description": "£10 off orders over £80",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/oxfordonlinepharmacy.co.uk",
+      "addedAt": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

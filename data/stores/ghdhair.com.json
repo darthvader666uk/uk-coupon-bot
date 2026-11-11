@@ -512,26 +512,6 @@
       }
     },
     {
-      "code": "TRAVEL",
-      "description": "Take 20% off select orders when you purchase with a promo code in your cart at GHD Hair.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/ghdhair.com",
-      "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SPEED25",
       "description": "Memorial Day Steal - 25% off on New Speed Dryer",
       "type": "percentage",
@@ -896,26 +876,6 @@
       "description": "Score 25% off select flat irons and curling irons at GHD Hair when you enter this promo code while checking out.",
       "type": "percentage",
       "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/ghdhair.com",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CYBER10",
-      "description": "Enter this promo code at checkout to get an extra £10 off your £100 or more purchase of hair curlers, dryers, straighteners, and other related products when you shop at ghd hair during their Black",
-      "type": "fixed",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "caramel",

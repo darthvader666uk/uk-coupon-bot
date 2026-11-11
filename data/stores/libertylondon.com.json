@@ -599,28 +599,6 @@
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "SOCIAL10",
-      "description": "Get 10% Off with Liberty Coupon Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/libertylondon.com",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-11-09T00:00:00Z"
     }
   ]
 }
