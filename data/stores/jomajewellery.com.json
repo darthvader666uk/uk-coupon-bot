@@ -407,7 +407,7 @@
       ],
       "url": "https://jomajewellery.knoji.com/",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2401,7 +2401,7 @@
       ],
       "url": "https://www.wethrift.com/codes/jomajewellery.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -3309,6 +3309,46 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "GIFT20",
+      "description": "Get up to 25% off your order at Joma Jewellery with code GIFT20.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jomajewellery.com",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "GIFT25",
+      "description": "Get 25% off your order at Joma Jewellery when you spend £50 with code GIFT25.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jomajewellery.com",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

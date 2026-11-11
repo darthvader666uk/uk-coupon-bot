@@ -42,6 +42,26 @@
         "worked": 0,
         "lastTested": null
       }
+    },
+    {
+      "code": "XMAS30",
+      "description": "Get the G2 Ultra for £559.00 plus two free gifts at Kukirin UK with discount code XMAS30.",
+      "type": "fixed",
+      "value": 559,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kukirin.co.uk",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }

@@ -579,28 +579,6 @@
       "verified": false
     },
     {
-      "code": "HALLOWEEN",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "wethrift"
-      ],
-      "url": "https://paramountshop.knoji.com/",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "PEAKDEALS",
       "description": "35% off officially licensed merch",
       "type": "percentage",

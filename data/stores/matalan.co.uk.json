@@ -205,7 +205,7 @@
       ],
       "url": "https://matalan.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -227,7 +227,7 @@
       ],
       "url": "https://matalan.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -373,7 +373,7 @@
       ],
       "url": "https://www.wethrift.com/codes/matalan.co.uk",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -393,7 +393,7 @@
       ],
       "url": "https://www.wethrift.com/codes/matalan.co.uk",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -413,33 +413,12 @@
       ],
       "url": "https://www.wethrift.com/codes/matalan.co.uk",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-08T16:39:08.387Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       }
-    },
-    {
-      "code": "BANKHOL",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://matalan.knoji.com/",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
     },
     {
       "code": "SAVEBIG",
@@ -455,6 +434,86 @@
       "url": "https://grabcaramel.com/coupons/matalan.co.uk",
       "addedAt": "2026-11-11T13:17:03.137Z",
       "lastSeen": "2026-11-11T13:17:03.137Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "TAKE20",
+      "description": "20% off Lingerie",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/matalan.co.uk",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEWYEAR",
+      "description": "20% off £40 & 25% off £60",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/matalan.co.uk",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "BLACKFRIDAY",
+      "description": "Up to 25% off £65",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/matalan.co.uk",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
+    },
+    {
+      "code": "NEW25",
+      "description": "25% off orders over £45",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 45,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/matalan.co.uk",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
       "testResults": {
         "total": 0,
         "worked": 0,

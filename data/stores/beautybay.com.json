@@ -703,26 +703,6 @@
       }
     },
     {
-      "code": "BANKHOL",
-      "description": "Save £5 off on orders of £30 or more",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": 30,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/beautybay.com",
-      "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WELCOME10OFF",
       "description": "beautybay.com coupon",
       "type": "percentage",

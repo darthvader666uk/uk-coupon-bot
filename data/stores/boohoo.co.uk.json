@@ -1929,26 +1929,6 @@
       }
     },
     {
-      "code": "APP20",
-      "description": "Apply this boohoo discount code during checkout to score an extra 20% off your qualifying purchase via app.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/boohoo.com",
-      "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "ATMEMBER",
       "description": "boohoo.com coupon",
       "type": "percentage",

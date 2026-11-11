@@ -572,6 +572,26 @@
         "lastTested": null
       },
       "verified": false
+    },
+    {
+      "code": "GIFT10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/maccosmetics.co.uk",
+      "addedAt": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      }
     }
   ]
 }
