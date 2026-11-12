@@ -131,6 +131,26 @@ actually changed get rewritten.
 the userscript doesn't keep a hand-synced copy. `scraper/lib/stores.js` is the
 single source of truth; the index is generated from it.
 
+## 🔗 Used By
+
+Two things read `data/` straight from `raw.githubusercontent.com`, so check
+both before renaming a field or moving a file.
+
+- **The userscript** (`tampermonkey/`), as above.
+- **Front Page**, my personal news and deals page (private repo, `~/frontpage`,
+  code in `app/lib/coupons.php`). It shows codes under HotUKDeals deals and on
+  its own Codes page.
+  - Reads `index.json` (`stores` and `aliases`) once an hour, and every store
+    file once a day (the shops current deals link to every 6 hours). Around
+    4,500 requests a day.
+  - From each code it uses `code`, `description`, `type`, `value`, `minSpend`,
+    `expiry`, `lastSeen`, `sources` and `testResults.worked`.
+  - It keeps a code that 2+ sources list (or that tested as working) in the
+    last 4 days, or one source in the last 2. If the scrapers stop running,
+    codes drop off Front Page within 2 to 4 days.
+  - It keeps its own copy, so a GitHub outage only freezes its codes. The page
+    keeps working.
+
 ## 🚫 Dead Codes
 
 `data/dead-codes.json` is the memory that makes "don't use it again" work.
