@@ -489,6 +489,17 @@ console.log("\nKnoji target selection");
     storeKey("diy.com") === "bq" && SUBDOMAIN_OVERRIDES["diy.com"] === "bq");
 }
 
+console.log("\nLater sources fill gaps");
+{
+  const c = { code: "X", description: "Get ￡5 Off with This Exclusive Code", type: "unknown", value: null };
+  enrichCode(c);
+  check("a full-width pound is read as a saving", c.description.includes("£5") && c.type === "fixed" && c.value === 5, JSON.stringify(c));
+  const stores = {};
+  mergeCodes(stores, [entry({ code: "FILLME" })]);
+  mergeCodes(stores, [entry({ code: "FILLME", source: "hukd", expiry: "2026-12-31T23:59:59.000Z" })]);
+  check("a later source's expiry fills an empty one", stores["currys.co.uk"].codes[0].expiry === "2026-12-31T23:59:59.000Z");
+}
+
 console.log("\nListed at last check");
 {
   const T1 = "2026-11-01T00:00:00.000Z", T2 = "2026-11-05T00:00:00.000Z";

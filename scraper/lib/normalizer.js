@@ -28,6 +28,10 @@ export function cleanDescription(desc) {
   let cleaned = desc.replace(/<!\[CDATA\[/gi, "").replace(/\]\]>/g, "").trim();
   // Strip HTML tags
   cleaned = cleaned.replace(/<[^>]+>/g, "").trim();
+  // Full-width forms to plain ones: Coupert writes "Get ￡5 Off", and the
+  // saving and type matchers only know "£".
+  // Only the full-width block: NFKC on the whole string turns ™ into "TM".
+  cleaned = cleaned.replace(/[\uFF01-\uFF5E\uFFE0-\uFFE6]/g, (ch) => ch.normalize("NFKC"));
   // Collapse whitespace
   cleaned = cleaned.replace(/\s+/g, " ").trim();
   // Filter out garbage descriptions
@@ -322,6 +326,8 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
       if (entry.lastWorkedAt && (!existing.lastWorkedAt || entry.lastWorkedAt > existing.lastWorkedAt)) {
         existing.lastWorkedAt = entry.lastWorkedAt;
       }
+      // A later source often knows the end date the first one didn't.
+      if (!existing.expiry && entry.expiry) existing.expiry = entry.expiry;
       if (entry.source && !existing.sources?.includes(entry.source)) {
         existing.sources = [...(existing.sources || []), entry.source];
       }
