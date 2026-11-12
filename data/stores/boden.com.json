@@ -288,20 +288,21 @@
       "type": "percentage",
       "value": 15,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:00.000Z",
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/boden.com",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "MUM20",
@@ -316,13 +317,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/boden.com",
       "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

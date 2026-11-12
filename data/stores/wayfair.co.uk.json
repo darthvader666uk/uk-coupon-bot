@@ -438,20 +438,23 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-13T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/wayfair-uk",
       "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T16:03:15.495Z"
+      "listedAt": "2026-11-12T14:26:09.672Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T14:16:17.646Z"
     },
     {
       "code": "BDGOO3",
@@ -496,6 +499,73 @@
       },
       "verified": false,
       "listedAt": "2026-11-08T12:30:54.216Z"
+    },
+    {
+      "code": "CODE20",
+      "description": "Select dinnerware sets reduced by 20% with this coupon",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-13T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/wayfair.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T14:27:18.726Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "NEW10",
+      "description": "Take 10% off new arrivals by applying this Wayfair discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-14T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/wayfair.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T14:13:38.161Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "BREAKFAST10",
+      "description": "Save 10% on breakfast appliances when this voucher is applied",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-13T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/wayfair.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

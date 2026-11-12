@@ -81,15 +81,16 @@
       "type": "percentage",
       "value": 15,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-13T23:59:59.000Z",
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/bluevanilla.com",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -97,28 +98,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-12T00:00:00Z",
-      "listedAt": "2026-11-09T14:41:34.419Z"
-    },
-    {
-      "code": "FREE48",
-      "description": "Enjoy Free Shipping on Any Purchase",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/bluevanilla.com",
-      "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-10-13T13:33:59.695Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "listedAt": "2026-10-13T13:33:59.695Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "UNIN4WAAW8WH1HP",
@@ -196,22 +176,23 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:00.000Z",
       "source": "savoo",
       "sources": [
         "savoo",
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/blue-vanilla-discount-codes",
       "addedAt": "2026-11-01T12:21:17.882Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "BACK20",
@@ -234,6 +215,69 @@
       },
       "verified": true,
       "listedAt": "2026-11-09T14:41:34.419Z"
+    },
+    {
+      "code": "AUTUMN15",
+      "description": "Get 15% markdown when you claim the Blue Vanilla discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-13T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bluevanilla.com",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "WELCOME10",
+      "description": "Claim the Blue Vanilla discount code to enjoy 10% savings on your purchases",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-13T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bluevanilla.com",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "THANKS10",
+      "description": "Use the Blue Vanilla coupon code to save 10% on everything",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bluevanilla.com",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T13:41:24.576Z"
+      "listedAt": null
     },
     {
       "code": "GOWILD10",
@@ -37,13 +37,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/wickey-discount-codes",
       "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T13:41:24.576Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "FLIP10",
@@ -388,6 +388,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-10T14:12:41.909Z"
+    },
+    {
+      "code": "HALLOWEEN",
+      "description": "Extra 10% off orders over £750 at Wickey",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 750,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/wickey-discount-codes",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

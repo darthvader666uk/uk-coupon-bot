@@ -52,20 +52,21 @@
       "type": "fixed",
       "value": 50,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2027-01-01T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/yourmedicals",
       "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "SABD10",

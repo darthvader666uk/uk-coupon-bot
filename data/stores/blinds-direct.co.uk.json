@@ -1,0 +1,28 @@
+{
+  "domain": "blinds-direct.co.uk",
+  "name": "Blinds Direct",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE20",
+      "description": "£20 off when you Spend £149 at Blinds Direct",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 149,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/blinds-direct-discount-codes",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    }
+  ]
+}

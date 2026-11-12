@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": null
     },
     {
       "code": "ADVENT25",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": null
     },
     {
       "code": "SAVOO20",
@@ -64,7 +64,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": null
+    },
+    {
+      "code": "NEW15",
+      "description": "15% off orders at REHAB",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rehab-your-hair-discount-codes",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

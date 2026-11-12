@@ -1,0 +1,30 @@
+{
+  "domain": "ukmeds.co.uk",
+  "name": "UK Meds",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NOV10",
+      "description": "Get 10% off your orders with this UK Meds discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-26T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/ukmeds.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T08:36:27.093Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "domain": "bedeckhome.com",
+  "name": "Bedeck",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BENEFIT10",
+      "description": "10% off bedding with our Bedeck Home discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-12T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bedeckhome.com",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T10:33:01.073Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "WELCOME5",
+      "description": "Use this Bedeck discount code to get 5% off first orders over £49",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 49,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bedeckhome.com",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    }
+  ]
+}

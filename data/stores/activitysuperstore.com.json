@@ -1,0 +1,30 @@
+{
+  "domain": "activitysuperstore.com",
+  "name": "Activity Superstore",
+  "category": "general",
+  "codes": [
+    {
+      "code": "10OFF60",
+      "description": "£10 off orders over £60 at Activity Superstore",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 60,
+      "expiry": "2026-11-15T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/activitysuperstore.com",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T14:51:10.383Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    }
+  ]
+}

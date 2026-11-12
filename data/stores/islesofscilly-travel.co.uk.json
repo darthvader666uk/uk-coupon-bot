@@ -68,9 +68,9 @@
     },
     {
       "code": "LOCAL17",
-      "description": "Score ￡17 off your order this Black Friday weekend",
-      "type": "unknown",
-      "value": null,
+      "description": "Score £17 off your order this Black Friday weekend",
+      "type": "fixed",
+      "value": 17,
       "minSpend": null,
       "expiry": null,
       "source": "coupert",

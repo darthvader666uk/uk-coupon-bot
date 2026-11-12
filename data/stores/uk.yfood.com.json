@@ -1,0 +1,28 @@
+{
+  "domain": "uk.yfood.com",
+  "name": "YFood",
+  "category": "general",
+  "codes": [
+    {
+      "code": "YFOOD-UK",
+      "description": "Enjoy 15% off on your orders using YFood discount code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/uk.yfood.eu",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    }
+  ]
+}

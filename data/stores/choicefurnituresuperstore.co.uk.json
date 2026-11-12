@@ -58,13 +58,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "CRYSTAL12",
@@ -289,13 +289,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "SUM7",
@@ -373,13 +373,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "SUPER10",
@@ -478,34 +478,37 @@
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "SAVE10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "10% off when you use this Choice Furniture Superstore discount code",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-15T23:59:00.000Z",
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T07:27:57.131Z"
     },
     {
       "code": "SAVE15",
@@ -520,13 +523,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "NEW10",
@@ -541,13 +544,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "WELCOMENEWUSERS",
@@ -562,13 +565,57 @@
       ],
       "url": "https://grabcaramel.com/coupons/choicefurnituresuperstore.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "BLACK12",
+      "description": "Extra 12% off furniture sale when you use this Choice Furniture Superstore promo code",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/choicefurnituresuperstore.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "CLEAR10",
+      "description": "Extra 10% off on all orders when you use this code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-15T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/choicefurnituresuperstore.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-31T07:59:35.033Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

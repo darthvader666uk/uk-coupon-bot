@@ -261,21 +261,22 @@
       "type": "percentage",
       "value": 15,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-22T23:59:59.000Z",
       "source": "caramel",
       "sources": [
         "caramel",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/americangolf.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T17:51:25.811Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "SAVE100NAD",
@@ -290,13 +291,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/americangolf.co.uk",
       "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "BIKELIVE15",
@@ -339,6 +340,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-04T17:51:25.811Z"
+    },
+    {
+      "code": "XJSI1TYVF0",
+      "description": "£10 off the luxury advent calendar with this American Golf discount code",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-14T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/americangolf.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T16:03:19.860Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

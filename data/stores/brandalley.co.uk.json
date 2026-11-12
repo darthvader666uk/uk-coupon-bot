@@ -314,20 +314,23 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-17T23:59:59.000Z",
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/brandalley-discount-codes",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T09:03:23.129Z"
     },
     {
       "code": "RESET20",
@@ -342,13 +345,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/brandalley.co.uk",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "GARDEN10",
@@ -384,13 +387,55 @@
       ],
       "url": "https://www.savoo.co.uk/brands/brandalley-discount-codes",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "WELCOME15",
+      "description": "Take 15% off your first purchase with this code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/brandalley.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "APP15",
+      "description": "Save 15% on your app order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2027-03-06T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/brandalley.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

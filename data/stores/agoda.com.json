@@ -1,0 +1,28 @@
+{
+  "domain": "agoda.com",
+  "name": "Agoda",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AGODADEAL8",
+      "description": "Take up to 8% off stays when you spend over £93 with this promo code",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": 93,
+      "expiry": "2026-11-22T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/agoda.com",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    }
+  ]
+}

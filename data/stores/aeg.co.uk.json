@@ -9,15 +9,16 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-14T23:59:59.000Z",
       "source": "coupert",
       "sources": [
         "coupert",
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -25,7 +26,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T00:00:00Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "GBOJ-AEG3-9WSR",
@@ -33,14 +34,15 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-15T23:59:00.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -48,7 +50,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T00:00:00Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "GB23-RETURN5",
@@ -56,22 +58,23 @@
       "type": "percentage",
       "value": 5,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-16T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/aeg.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "lastWorkedAt": "2026-11-12T05:29:46.649Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "GBOJ-AEG2-9WSR",

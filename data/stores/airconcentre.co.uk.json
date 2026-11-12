@@ -531,6 +531,29 @@
       },
       "verified": false,
       "listedAt": "2026-10-30T12:02:27.438Z"
+    },
+    {
+      "code": "20OFF",
+      "description": "Take 20% off your order with this Air Con Centre discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-12T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/airconcentre.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T17:08:39.262Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
     }
   ]
 }

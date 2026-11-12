@@ -9,14 +9,15 @@
       "type": "percentage",
       "value": 5,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2027-02-17T23:59:00.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/board-game-co-uk",
       "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -24,7 +25,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-14T00:00:00Z",
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "ZATU3",
@@ -32,23 +33,24 @@
       "type": "percentage",
       "value": 5,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2027-02-17T23:59:00.000Z",
       "source": "coupert",
       "sources": [
         "coupert",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/board-game-co-uk",
       "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-14T00:00:00Z",
-      "listedAt": "2026-11-04T17:51:25.811Z"
+      "lastWorkedAt": "2026-10-31T06:50:32.324Z",
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "EXIT20",

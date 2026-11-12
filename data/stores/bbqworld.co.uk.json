@@ -1,0 +1,49 @@
+{
+  "domain": "bbqworld.co.uk",
+  "name": "BBQWorld",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BBQ20OFF",
+      "description": "Get 20% discount sitewide with the BBQWorld discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bbqworld.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "BBQ5",
+      "description": "Use BBQWorld discount code to get an extra 5% off on orders over £250",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 250,
+      "expiry": "2026-11-30T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bbqworld.co.uk",
+      "addedAt": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T14:26:09.672Z"
+    }
+  ]
+}
