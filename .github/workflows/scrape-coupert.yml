@@ -23,13 +23,17 @@ name: Scrape Coupert (self-hosted)
 on:
   schedule:
     - cron: '30 7 * * *'   # 07:30 UTC, after the main 06:00 cloud run
+    # A second lap so each store is checked every ~3 days rather than ~5.
+    # sources/coupert.js moves its slice every 12 hours to match.
+    - cron: '30 19 * * *'
   workflow_dispatch:
 
-# If the machine was off, don't let queued runs pile up — only the newest
-# matters, since each run re-scrapes everything anyway.
+# If the machine was off, don't let queued runs pile up: GitHub keeps one
+# pending run and drops older ones. A run in progress is never cancelled, as
+# with two schedules (fired hours late) one could otherwise kill the other.
 concurrency:
   group: scrape-coupert
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   coupert:

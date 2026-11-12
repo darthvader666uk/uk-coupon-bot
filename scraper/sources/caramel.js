@@ -160,6 +160,8 @@ async function requestedDomains(known) {
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
+  // Stores whose page loaded, codes or not (see markListed).
+  const checked = [];
   const errors = [];
   let storeList = stores;
   if (!storeList) {
@@ -186,6 +188,8 @@ export async function scrape(stores = null) {
         await delay(REQUEST_GAP_MS);
         if (coupons.length) break;
       }
+      // An answer with no coupons is still an answer: Caramel has none now.
+      checked.push(domain);
       if (!coupons.length) continue;
 
       const seen = new Set();
@@ -207,5 +211,5 @@ export async function scrape(stores = null) {
 
   const duration = Date.now() - start;
   console.log(`[Caramel] Found ${entries.length} codes (${errors.length} errors) in ${duration}ms`);
-  return { entries, duration, errors };
+  return { entries, checked, duration, errors };
 }

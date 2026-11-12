@@ -11,7 +11,7 @@ import { tmpdir } from "os";
 import { join } from "path";
 import {
   mergeCodes, sanitizeStores, pruneExpiredCodes, extractExpiry, isExpired, enrichCode, extractValue, dropCrossStoreNoise,
-  extractMinSpend, cleanDescription, removeCode, dropForeignCurrency, dropRetiredSources,
+  extractMinSpend, cleanDescription, removeCode, dropForeignCurrency, dropRetiredSources, markListed,
 } from "../lib/normalizer.js";
 import {
   loadDeadCodes, saveDeadCodes, addDeadCode, isDeadCode,
@@ -211,7 +211,7 @@ console.log("\nCross-store noise");
   for (let i = 0; i < 12; i++) {
     stores[`shop${i}.co.uk`] = {
       name: `Shop ${i}`,
-      codes: [{ code: "LOOKFANTASTIC", description: "" }, { code: `REAL${i}`, description: "10% off" }],
+      codes: [{ code: "LOOKFANTASTIC", description: "Recently saved £16.00" }, { code: `REAL${i}`, description: "10% off" }],
     };
   }
   const { removed, distinctNoisy } = dropCrossStoreNoise(stores);
@@ -228,6 +228,12 @@ console.log("\nCross-store noise");
     "c.co.uk": { name: "C", codes: [{ code: "SHARED10" }] },
   };
   check("a genuinely shared code survives", dropCrossStoreNoise(stores).removed === 0);
+}
+{
+  // Generic codes are real on many shops, each worded its own way.
+  const stores = {};
+  for (let i = 0; i < 12; i++) stores[`shop${i}.co.uk`] = { name: `Shop ${i}`, codes: [{ code: "WELCOME10", description: `10% off your first order at Shop ${i}` }] };
+  check("a generic code on many shops survives", dropCrossStoreNoise(stores).removed === 0);
 }
 {
   // Storage sizes and console names came from product copy, not offers.
@@ -481,6 +487,28 @@ console.log("\nKnoji target selection");
 
   check("diy.com derives the Knoji subdomain from the override",
     storeKey("diy.com") === "bq" && SUBDOMAIN_OVERRIDES["diy.com"] === "bq");
+}
+
+console.log("\nListed at last check");
+{
+  const T1 = "2026-11-01T00:00:00.000Z", T2 = "2026-11-05T00:00:00.000Z";
+  const stores = { "currys.co.uk": { name: "Currys", checked: { savoo: T2 }, codes: [
+    { code: "GONE10", sources: ["savoo"], lastSeen: T1, seenBy: { savoo: T1 } },
+    { code: "BOTH10", sources: ["savoo", "knoji"], lastSeen: T1, seenBy: { savoo: T1, knoji: T1 } },
+    { code: "OLDREC", sources: ["knoji"], lastSeen: T1 },
+  ] } };
+  markListed(stores);
+  const [gone, both, old] = stores["currys.co.uk"].codes;
+  check("a code missing from the source's latest look is not listed", gone.listedAt === null);
+  check("another source still listing it keeps it listed", both.listedAt === T1);
+  check("a code from before seenBy is backfilled from lastSeen", old.listedAt === T1 && old.seenBy.knoji === T1);
+
+  const s2 = { "currys.co.uk": { name: "Currys", codes: [
+    { code: "STALE5", sources: ["savoo"], lastSeen: T1, seenBy: { savoo: T1 } },
+  ] } };
+  mergeCodes(s2, [], { checked: [{ storeDomain: "currys.co.uk", via: "savoo" }] });
+  markListed(s2);
+  check("a look that found no codes still counts as a check", s2["currys.co.uk"].codes[0].listedAt === null);
 }
 
 console.log(`\n${passed} passed, ${failed} failed\n`);

@@ -267,6 +267,15 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
   let skipped = 0;
   let blocked = 0;
 
+  // Which scraper saw what, and when it last looked at each store. A code is
+  // live while at least one scraper still listed it at its last look (see
+  // markListed). Keyed by scraper (`via`), not source label: coupert and
+  // coupert-www both label their codes "coupert" but check different pages.
+  for (const { storeDomain, via, source } of options.checked || []) {
+    const store = existingStores[canonicalDomain(storeDomain)];
+    if (store) store.checked = { ...store.checked, [via || source]: now };
+  }
+
   for (const entry of newEntries) {
     const domain = canonicalDomain(entry.storeDomain);
     if (!domain || isJunkDomain(domain)) {
@@ -290,6 +299,8 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
 
     const store = existingStores[domain];
     store.name = displayName(domain, store.name);
+    const seenKey = entry.via || entry.source || "unknown";
+    store.checked = { ...store.checked, [seenKey]: now };
     const normalised = normalizeCode(entry.code);
     const existing = store.codes.find(
       (c) => normalizeCode(c.code) === normalised
@@ -302,6 +313,7 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
         existing.testResults.worked = Math.round(entry.successRate * existing.testResults.total);
       }
       existing.lastSeen = now;
+      existing.seenBy = { ...existing.seenBy, [seenKey]: now };
       // Codes stored before storedCode existed lost their hyphens. Take the
       // separators back from a source that still has them.
       if (existing.code === normalised && storedCode(entry.code) !== normalised) existing.code = storedCode(entry.code);
@@ -336,6 +348,7 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
         url: entry.url || "",
         addedAt: now,
         lastSeen: now,
+        seenBy: { [seenKey]: now },
         testResults: { total: 0, worked: 0, lastTested: null },
         // Some sources say whether they have checked the code works.
         ...(entry.verified !== undefined ? { verified: !!entry.verified } : {}),
@@ -366,8 +379,14 @@ export function mergeCodes(existingStores, newEntries, options = {}) {
  * Several sources hunt for uppercase tokens inside anything whose class name
  * contains "deal"/"offer"/"voucher", which sweeps up related-store sidebars and
  * brand names. The fingerprint is unmistakable: "PBDPMR" was filed against
- * 2750 stores and "LOOKFANTASTIC" against 1339. A genuine code shared by even
- * eight unrelated retailers is implausible, so this is a safe cut.
+ * 2750 stores and "LOOKFANTASTIC" against 1339.
+ *
+ * Counted per code AND description, not per code alone. Generic codes are
+ * real on many shops (on 2026-11-12 WELCOME10 was on 143, SAVE10 on 73), each
+ * with its own wording, and a per-code cut deleted every copy. The junk is
+ * one block repeated word for word: Coupert filed JESSICA, "Recently saved
+ * £16.00", under 125 stores. Copies with no description are left alone, as
+ * the scrapers that harvested bare tokens have been retired.
  */
 export const MAX_STORES_PER_CODE = 8;
 
@@ -377,26 +396,25 @@ export const MAX_STORES_PER_CODE = 8;
  */
 const NOT_A_CODE = /^(\d+(GB|TB|MB|KG|ML|CM|MM|W|K)|PS\d|XBOX|HDMI|USB|LED|LCD|OLED|SIM|VAT|UK|EU|USA)$/i;
 
-/** Drop codes that appear on implausibly many stores, plus obvious non-codes. */
+/** Drop a code+description repeated on implausibly many stores, plus obvious non-codes. */
 export function dropCrossStoreNoise(stores, maxStores = MAX_STORES_PER_CODE) {
+  const key = (c) => (c.description ? `${normalizeCode(c.code)}\u0000${c.description}` : null);
   const storeCount = new Map();
   for (const store of Object.values(stores)) {
     for (const c of store.codes || []) {
-      const k = normalizeCode(c.code);
-      storeCount.set(k, (storeCount.get(k) || 0) + 1);
+      const k = key(c);
+      if (k) storeCount.set(k, (storeCount.get(k) || 0) + 1);
     }
   }
 
   const noisy = new Set();
-  for (const [code, n] of storeCount) if (n >= maxStores) noisy.add(code);
+  for (const [k, n] of storeCount) if (n >= maxStores) noisy.add(k);
 
   let removed = 0;
   for (const domain of Object.keys(stores)) {
     const before = (stores[domain].codes || []).length;
-    stores[domain].codes = (stores[domain].codes || []).filter((c) => {
-      const k = normalizeCode(c.code);
-      return !noisy.has(k) && !NOT_A_CODE.test(k);
-    });
+    stores[domain].codes = (stores[domain].codes || []).filter((c) =>
+      !noisy.has(key(c)) && !NOT_A_CODE.test(normalizeCode(c.code)));
     removed += before - stores[domain].codes.length;
     if (stores[domain].codes.length === 0) delete stores[domain];
   }
@@ -498,6 +516,9 @@ export function sanitizeStores(stores) {
     }
 
     const target = result[domain];
+    for (const [via, at] of Object.entries(store.checked || {})) {
+      if (!target.checked?.[via] || at > target.checked[via]) target.checked = { ...target.checked, [via]: at };
+    }
     for (const code of store.codes || []) {
       const normalised = normalizeCode(code.code);
       if (!normalised) {
@@ -517,6 +538,9 @@ export function sanitizeStores(stores) {
         existing.sources = [...new Set([...(existing.sources || []), ...(code.sources || [])])];
         if (new Date(code.lastSeen || 0) > new Date(existing.lastSeen || 0)) {
           existing.lastSeen = code.lastSeen;
+        }
+        for (const [via, at] of Object.entries(code.seenBy || {})) {
+          if (!existing.seenBy?.[via] || at > existing.seenBy[via]) existing.seenBy = { ...existing.seenBy, [via]: at };
         }
         if (existing.expiry == null && code.expiry != null) existing.expiry = code.expiry;
         if (!existing.url && code.url) existing.url = code.url;
@@ -579,6 +603,33 @@ export function pruneStaleCodes(stores, maxAgeDays = 90) {
   }
 
   return { stores, pruned };
+}
+
+/**
+ * Set each code's `listedAt`: the newest time a scraper saw it on a look at
+ * the store that it has not since contradicted. null when every scraper that
+ * had the code has looked again and no longer lists it.
+ *
+ * This is what readers should judge liveness by, rather than lastSeen's age.
+ * Each source works through its stores in turn, a few days per cycle, so a
+ * code last seen four days ago on a store last checked four days ago is as
+ * current as anything we know. Age alone hid most single-source codes.
+ *
+ * Codes from before seenBy existed get one entry per source at lastSeen.
+ */
+export function markListed(stores) {
+  for (const store of Object.values(stores)) {
+    const checked = store.checked || {};
+    for (const c of store.codes || []) {
+      if (!c.seenBy) c.seenBy = Object.fromEntries((c.sources || [c.source]).map((s) => [s, c.lastSeen]));
+      let listedAt = null;
+      for (const [via, at] of Object.entries(c.seenBy)) {
+        if (checked[via] && checked[via] > at) continue; // looked again, gone
+        if (!listedAt || at > listedAt) listedAt = at;
+      }
+      c.listedAt = listedAt;
+    }
+  }
 }
 
 /**

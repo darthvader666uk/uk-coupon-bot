@@ -71,6 +71,8 @@ export function extractEntries(props, storeDomain, url) {
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
+  // Stores whose page loaded, codes or not (see markListed).
+  const checked = [];
   const errors = [];
   const storeList = stores || selectSlice(loadStoreDomains().sort(), STORES_PER_RUN);
 
@@ -124,6 +126,7 @@ export async function scrape(stores = null) {
           console.log(`[Wethrift] ${site}: page is for ${primary}, not ${domain} — skipping`);
           continue;
         }
+        checked.push(domain);
         const found = extractEntries(props, domain, `${STORE_URL}/${site}`);
         if (found.length) {
           entries.push(...found);
@@ -153,5 +156,5 @@ export async function scrape(stores = null) {
 
   const duration = Date.now() - start;
   console.log(`[Wethrift] Found ${entries.length} codes across ${hits} pages (${errors.length} errors) in ${duration}ms`);
-  return { entries, duration, errors };
+  return { entries, checked, duration, errors };
 }

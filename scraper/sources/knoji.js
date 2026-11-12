@@ -176,6 +176,8 @@ function describe(entry) {
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
+  // Stores whose page loaded, codes or not (see markListed).
+  const checked = [];
   const errors = [];
 
   let browser;
@@ -250,6 +252,7 @@ export async function scrape(stores = null) {
       await page.waitForTimeout(2500);
 
       const found = await page.evaluate(collectCodes);
+      checked.push(storeDomain);
       let kept = 0;
       for (const item of found) {
         if (!isValidCode(item.code)) continue;
@@ -291,5 +294,5 @@ export async function scrape(stores = null) {
 
   const duration = Date.now() - start;
   console.log(`[Knoji] Found ${entries.length} codes (${errors.length} errors) in ${duration}ms`);
-  return { entries, duration, errors };
+  return { entries, checked, duration, errors };
 }

@@ -73,6 +73,11 @@ const GM_STUBS = `
   window.GM_xmlhttpRequest = (opts) => {
     window.__ukcpRequests.push(opts.url);
     setTimeout(() => {
+      if (opts.url.startsWith("https://api.github.com/")) {
+        window.__ukcpPosted = (window.__ukcpPosted || []).concat({ url: opts.url, data: JSON.parse(opts.data) });
+        opts.onload({ status: 201, responseText: "{}" });
+        return;
+      }
       if (opts.url.endsWith("/index.json")) {
         opts.onload({ status: 200, responseText: JSON.stringify(window.__ukcpIndex) });
         return;
@@ -309,6 +314,28 @@ console.log("\nPromo input detection");
   await context.close();
 }
 
+console.log("\nThumbs-down reports with a token");
+{
+  const { page } = await makePage(browser, "www.currys.co.uk", CHECKOUT_HTML);
+  await page.evaluate(() => { window.__ukcpStore.ukcp_github_token = "test-token"; });
+  await page.click("#ukcp-badge");
+  await page.locator('.ukcp-item .ukcp-vote[data-vote="down"]').first().click();
+  await page.waitForTimeout(100);
+  const posted = await page.evaluate(() => window.__ukcpPosted || []);
+  check("files the issue through the API", posted.length === 1 && posted[0].url.endsWith("/issues")
+    && posted[0].data.labels[0] === "failed-code" && posted[0].data.title.startsWith("❌ Code failed: "), JSON.stringify(posted));
+  check("no GitHub page opened", !(await page.evaluate(() => window.__ukcpOpened)));
+  // Clearing the vote and thumbing down again must not file a second report.
+  const code = /Code failed: (\S+) @/.exec(posted[0]?.data.title || "")?.[1];
+  const item = () => page.locator(".ukcp-item", { has: page.locator(".ukcp-code", { hasText: code }) }).first();
+  await item().locator('.ukcp-vote[data-vote="down"]').click();
+  await page.waitForTimeout(100);
+  await item().locator('.ukcp-vote[data-vote="down"]').click();
+  await page.waitForTimeout(100);
+  check("the same code is reported once", (await page.evaluate(() => window.__ukcpPosted || [])).length === 1);
+  await page.close();
+}
+
 console.log("\nVoting and hiding");
 {
   const { page, context } = await makePage(browser, "www.currys.co.uk", CHECKOUT_HTML);
@@ -316,7 +343,8 @@ console.log("\nVoting and hiding");
   await page.locator('.ukcp-item .ukcp-vote[data-vote="down"]').first().click();
   await page.waitForTimeout(100);
   check("thumbs-down decrements badge", (await page.locator("#ukcp-badge").textContent()) === "2");
-  check("report link offered", await page.locator(".ukcp-report-slot .ukcp-link").count() === 1);
+  check("no token: thumbs-down opens the prefilled issue",
+    (await page.evaluate(() => window.__ukcpOpened || "")).includes("/issues/new?labels=failed-code"));
 
   // A code you marked as broken must sink, not sit at the top greyed out.
   const order = await page.locator(".ukcp-code").allTextContents();

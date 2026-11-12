@@ -31,6 +31,7 @@ jobs:
           - savoo
           - knoji
           - caramel
+          - hukd
           - coupert-www
 
     steps:
@@ -51,7 +52,7 @@ jobs:
       # Chromium is ~150 MB and was downloaded three times a night. Cached on
       # the lockfile, so a Playwright bump still refreshes it.
       - name: Cache Playwright browsers
-        if: matrix.source != 'caramel' && matrix.source != 'coupert-www'   # plain HTTP, no browser
+        if: matrix.source != 'caramel' && matrix.source != 'coupert-www' && matrix.source != 'hukd'   # plain HTTP, no browser
         id: pw-cache
         uses: actions/cache@v6
         with:
@@ -59,12 +60,12 @@ jobs:
           key: playwright-${{ runner.os }}-${{ hashFiles('scraper/package-lock.json') }}
 
       - name: Install Playwright browsers
-        if: matrix.source != 'caramel' && matrix.source != 'coupert-www' && steps.pw-cache.outputs.cache-hit != 'true'
+        if: matrix.source != 'caramel' && matrix.source != 'coupert-www' && matrix.source != 'hukd' && steps.pw-cache.outputs.cache-hit != 'true'
         working-directory: scraper
         run: npx playwright install chromium --with-deps
 
       - name: Install Playwright system deps
-        if: matrix.source != 'caramel' && matrix.source != 'coupert-www' && steps.pw-cache.outputs.cache-hit == 'true'
+        if: matrix.source != 'caramel' && matrix.source != 'coupert-www' && matrix.source != 'hukd' && steps.pw-cache.outputs.cache-hit == 'true'
         working-directory: scraper
         run: npx playwright install-deps chromium
 

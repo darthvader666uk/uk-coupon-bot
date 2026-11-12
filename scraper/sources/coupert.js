@@ -242,6 +242,8 @@ export function normaliseOffers(cards, options = {}) {
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
+  // Stores whose page loaded, codes or not (see markListed).
+  const checked = [];
   const errors = [];
   let storeList = stores || STORES;
 
@@ -322,6 +324,7 @@ export async function scrape(stores = null) {
       const merchant = await page.evaluate(collectMerchant).catch(() => null);
       const storeDomain = storeDomainFor(slug, merchant?.url);
       const storeName = merchant?.name || cleanStoreName(slug);
+      checked.push(storeDomain);
 
       for (const offer of offers) {
         entries.push({
@@ -386,7 +389,8 @@ export async function scrape(stores = null) {
         as.map((a) => /\/promo-code\/([a-z0-9-]+)\/?$/.exec(new URL(a.href).pathname)?.[1]).filter(Boolean));
       const rest = [...new Set(slugs)].filter((s) => !STORES.includes(s)).sort();
       console.log(`[Coupert] Directory lists ${rest.length} stores beyond the ${STORES.length} pinned`);
-      storeList = [...STORES, ...selectSlice(rest, STORES_PER_RUN)];
+      // Twice a day (scrape-coupert.yml), so the slice moves every 12 hours.
+      storeList = [...STORES, ...selectSlice(rest, STORES_PER_RUN, Math.floor(Date.now() / 43200000))];
     } catch (err) {
       console.log(`[Coupert] Directory unavailable (${err.message.split("\n")[0]}) — pinned stores only`);
     }
@@ -433,5 +437,5 @@ export async function scrape(stores = null) {
 
   const duration = Date.now() - start;
   console.log(`[Coupert] Found ${entries.length} codes (${errors.length} errors) in ${duration}ms`);
-  return { entries, duration, errors };
+  return { entries, checked, duration, errors };
 }

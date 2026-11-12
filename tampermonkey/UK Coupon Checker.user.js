@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UK Coupon Checker
 // @namespace    https://github.com/darthvader666uk/uk-coupon-bot
-// @version      2.5.2
+// @version      2.6.0
 // @description  Shows available UK coupon codes for the current store. Copies a code and fills the promo box for you — you press Apply.
 // @updateURL    https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
 // @downloadURL  https://raw.githubusercontent.com/darthvader666uk/uk-coupon-bot/main/tampermonkey/UK%20Coupon%20Checker.user.js
@@ -13,6 +13,7 @@
 // @grant        GM_openInTab
 // @grant        GM_registerMenuCommand
 // @connect      raw.githubusercontent.com
+// @connect      api.github.com
 // @run-at       document-idle
 // @noframes
 // ==/UserScript==
@@ -62,6 +63,11 @@
   const STALE_AFTER_DAYS = 21;
   const HIDDEN_SITES_KEY = "ukcp_hidden_sites";
   const VOTES_KEY = "ukcp_votes";
+  // A fine-grained GitHub token (Issues: read and write, this repo only), set
+  // from the Tampermonkey menu. With it a thumbs-down files the report itself.
+  const TOKEN_KEY = "ukcp_github_token";
+  // `domain::CODE` -> ISO time, so toggling a vote can't file the same report twice.
+  const REPORTED_KEY = "ukcp_reported";
 
   // ─── SMALL HELPERS ───────────────────────────────────────────────────────
   const log = (...args) => console.log("[UK Coupon Checker]", ...args);
@@ -573,6 +579,12 @@
   }
 
   function reportFailedCode(code) {
+    const reported = readObject(REPORTED_KEY);
+    const key = `${state.domain}::${code}`;
+    if (reported[key]) {
+      setStatus(`"${code}" was already reported. It goes on the next nightly run.`);
+      return;
+    }
     const title = `❌ Code failed: ${code} @ ${state.domain}`;
     const body = [
       `**Code:** \`${code}\``,
@@ -584,11 +596,40 @@
     const url =
       `https://github.com/${REPO}/issues/new` +
       `?labels=failed-code&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
-    // Opened rather than POSTed: creating the issue directly would need a
-    // GitHub token stored in the browser. The scraper picks these up on its
-    // next run via fetchFailedCodeIssues().
-    if (typeof GM_openInTab === "function") GM_openInTab(url, { active: true });
-    else window.open(url, "_blank");
+    const openPage = () => {
+      if (typeof GM_openInTab === "function") GM_openInTab(url, { active: true });
+      else window.open(url, "_blank");
+    };
+    // The scraper picks these up on its next run via fetchFailedCodeIssues().
+    // No token: open the prefilled issue for you to submit.
+    const token = GM_getValue(TOKEN_KEY, "");
+    if (!token) {
+      openPage();
+      return;
+    }
+    GM_xmlhttpRequest({
+      method: "POST",
+      url: `https://api.github.com/repos/${REPO}/issues`,
+      headers: {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+      },
+      data: JSON.stringify({ title, body, labels: ["failed-code"] }),
+      onload: (res) => {
+        if (res.status === 201) {
+          GM_setValue(REPORTED_KEY, { ...readObject(REPORTED_KEY), [key]: new Date().toISOString() });
+          setStatus(`"${code}" reported. It's removed on the next nightly run.`, true);
+        } else {
+          setStatus(`Report failed (HTTP ${res.status}), opening GitHub instead.`);
+          openPage();
+        }
+      },
+      onerror: () => {
+        setStatus("Report failed, opening GitHub instead.");
+        openPage();
+      },
+    });
   }
 
   /**
@@ -782,19 +823,9 @@
     renderList();
 
     if (next === "down") {
-      setStatus(`"${codeObj.code}" moved to the bottom. Report it so it gets removed?`);
-      const foot = state.panel.querySelector(".ukcp-report-slot");
-      if (foot) {
-        foot.innerHTML = "";
-        const btn = document.createElement("button");
-        btn.className = "ukcp-link";
-        btn.textContent = `Report ${codeObj.code}`;
-        btn.addEventListener("click", () => {
-          reportFailedCode(codeObj.code);
-          foot.innerHTML = "";
-        });
-        foot.appendChild(btn);
-      }
+      // A thumbs-down is the report: one click, not two.
+      setStatus(`"${codeObj.code}" moved to the bottom, reporting it…`);
+      reportFailedCode(codeObj.code);
     } else if (next === "up") {
       setStatus(`Thanks — "${codeObj.code}" marked as working.`, true);
     } else {
@@ -898,7 +929,6 @@
       <div class="ukcp-status"></div>
       <div class="ukcp-list"></div>
       <div class="ukcp-foot">
-        <span class="ukcp-report-slot"></span>
         <button class="ukcp-link ukcp-test" hidden title="Tries up to ${CART_TESTS_PER_RUN} codes against your basket through the store's own cart API, then clears them. Nothing is clicked.">Test codes in basket</button>
         <button class="ukcp-link ukcp-hide-site">Hide on ${escapeHtml(currentHost())}</button>
       </div>
@@ -963,6 +993,16 @@
     // was cached can still be reached: an unmatched host has no panel and so
     // no ↻ button.
     if (typeof GM_registerMenuCommand === "function") {
+      GM_registerMenuCommand("Set GitHub token for reports", () => {
+        const entered = prompt(
+          "Fine-grained GitHub token (Issues: read and write, uk-coupon-bot only).\n" +
+          "With it, a thumbs-down files the report itself. Leave empty to remove it.",
+          ""
+        );
+        if (entered === null) return;
+        GM_setValue(TOKEN_KEY, entered.trim());
+        alert(entered.trim() ? "Token saved. Thumbs-down now reports codes directly." : "Token removed.");
+      });
       GM_registerMenuCommand("Refresh codes", async () => {
         const fresh = await fetchIndex(true).catch(() => null);
         const d = fresh && resolveDomain(host, fresh.stores || {}, fresh.aliases || {});

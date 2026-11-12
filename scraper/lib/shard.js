@@ -47,7 +47,8 @@ export function writeShards(dataDir, database) {
       domain,
       name: store.name || domain,
       category: store.category || "general",
-      codes,
+      // seenBy is merge bookkeeping (see markListed). Readers get listedAt.
+      codes: codes.map(({ seenBy, ...c }) => c),
     };
     const serialised = JSON.stringify(payload, null, 2);
     const file = join(storesDir, `${domain}.json`);

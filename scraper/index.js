@@ -30,7 +30,8 @@ import { scrape as scrapeKnoji } from "./sources/knoji.js";
 import { scrape as scrapeCaramel } from "./sources/caramel.js";
 import { scrape as scrapeCoupertWww } from "./sources/coupert-www.js";
 import { scrape as scrapeWethrift } from "./sources/wethrift.js";
-import { mergeCodes, pruneStaleCodes, pruneExpiredCodes, normalizeCode, removeCode, sanitizeStores } from "./lib/normalizer.js";
+import { scrape as scrapeHukd } from "./sources/hukd.js";
+import { mergeCodes, pruneStaleCodes, pruneExpiredCodes, normalizeCode, removeCode, sanitizeStores, markListed } from "./lib/normalizer.js";
 import { canonicalDomain } from "./lib/stores.js";
 import { isEmptyScrape, hasCollapsed } from "./lib/guards.js";
 import { loadDeadCodes, saveDeadCodes, addDeadCode, isDeadCode, pruneDeadCodes, purgeDeadFromStores } from "./lib/deadcodes.js";
@@ -146,6 +147,8 @@ async function main() {
   }
 
   const allEntries = [];
+  // Stores a scraper looked at, codes or not, as { storeDomain, via }.
+  const allChecked = [];
   const errors = [];
 
   // Run scrapers
@@ -157,6 +160,7 @@ async function main() {
   if (!sourceFlag || sourceFlag === "caramel") scrapers.push({ name: "caramel", fn: scrapeCaramel });
   if (!sourceFlag || sourceFlag === "coupert-www") scrapers.push({ name: "coupert-www", fn: scrapeCoupertWww });
   if (!sourceFlag || sourceFlag === "wethrift") scrapers.push({ name: "wethrift", fn: scrapeWethrift });
+  if (!sourceFlag || sourceFlag === "hukd") scrapers.push({ name: "hukd", fn: scrapeHukd });
 
   // Re-run the cleaning rules over the stored database without scraping.
   // The registry decides which domain a code belongs to, so when it is
@@ -175,7 +179,11 @@ async function main() {
     for (const file of files) {
       try {
         const parsed = JSON.parse(readFileSync(join(mergeDirFlag, file), "utf8"));
-        allEntries.push(...(parsed.entries || []));
+        // Artifacts from before `via` existed: tag them with the source that
+        // emitted them, which is the scraper name.
+        const via = parsed.source && parsed.source !== "all" ? parsed.source : undefined;
+        allEntries.push(...(parsed.entries || []).map((e) => ({ via, ...e })));
+        allChecked.push(...(parsed.checked || []));
         if (parsed.errors?.length) errors.push(...parsed.errors);
         console.log(`  • ${file}: ${(parsed.entries || []).length} entries`);
       } catch (err) {
@@ -189,7 +197,8 @@ async function main() {
     try {
       console.log(`\n🔍 Scraping ${name}…`);
       const result = await fn();
-      allEntries.push(...result.entries);
+      allEntries.push(...result.entries.map((e) => ({ ...e, via: name })));
+      allChecked.push(...(result.checked || []).map((storeDomain) => ({ storeDomain, via: name })));
       // Worth saying out loud even when other sources carried the run: a
       // source silently dropping to zero is how a scraper stays broken for
       // weeks while the totals still look healthy.
@@ -230,7 +239,7 @@ async function main() {
   if (emitFlag) {
     // Emit-only: hand the raw entries to the merge job and touch nothing else.
     mkdirSync(dirname(emitFlag), { recursive: true });
-    writeFileSync(emitFlag, JSON.stringify({ source: sourceFlag || "all", entries: allEntries, errors }));
+    writeFileSync(emitFlag, JSON.stringify({ source: sourceFlag || "all", entries: allEntries, checked: allChecked, errors }));
     console.log(`📤 Wrote ${allEntries.length} raw entries to ${emitFlag} (no merge, no push)`);
     return;
   }
@@ -238,6 +247,7 @@ async function main() {
   // Merge into database
   const { stores, stats } = mergeCodes(database.stores, allEntries, {
     isDeadCode: (code, domain) => isDeadCode(deadCodes, code, domain),
+    checked: allChecked,
   });
   console.log(`  ✅ Added: ${stats.added} | Updated: ${stats.updated}${stats.blocked ? ` | Blocked (reported dead): ${stats.blocked}` : ""}`);
 
@@ -258,8 +268,9 @@ async function main() {
   const expired = pruneExpiredCodes(sanitized.stores);
   if (expired.pruned > 0) console.log(`  📅 Pruned ${expired.pruned} long-expired codes`);
 
-  // Prune stale codes (>90 days old)
-  const pruned = pruneStaleCodes(expired.stores, 90);
+  // Prune codes unseen for 30 days. Every source gets round its stores in
+  // well under that, so a code this old has gone from every site that had it.
+  const pruned = pruneStaleCodes(expired.stores, 30);
   if (pruned.pruned > 0) {
     console.log(`  🗑 Pruned ${pruned.pruned} stale codes`);
   }
@@ -318,6 +329,7 @@ async function main() {
       delete database.stores[key];
     }
   }
+  markListed(database.stores);
   database.meta.lastUpdated = new Date().toISOString();
   database.meta.totalCodes = Object.values(database.stores).reduce((sum, s) => sum + s.codes.length, 0);
 

@@ -137,6 +137,8 @@ export function selectSlice(all, perRun = STORES_PER_RUN, day = Math.floor(Date.
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
+  // Stores whose page loaded, codes or not (see markListed).
+  const checked = [];
   const errors = [];
   const storeList = stores || selectSlice(await discoverStores());
 
@@ -173,6 +175,7 @@ export async function scrape(stores = null) {
       const cards = await page.evaluate(collectCodeCards);
       const storeDomain = extractDomain(slug);
       const storeName = cleanStoreName(slug);
+      checked.push(storeDomain);
       let found = 0;
       for (const card of cards) {
         if (!belongsToStore(card.title, slugName(slug), extractDomain(slug), storeName)) continue;
@@ -204,5 +207,5 @@ export async function scrape(stores = null) {
 
   const duration = Date.now() - start;
   console.log(`[Savoo] Found ${entries.length} codes (${errors.length} errors) in ${duration}ms`);
-  return { entries, duration, errors };
+  return { entries, checked, duration, errors };
 }

@@ -1,6 +1,6 @@
 # 🎟 UK Coupon Bot
 
-Automated UK coupon code scraper + browser checker. Scrapes codes from Savoo, Knoji, GG.deals and Coupert, stores them in a JSON database, and shows available codes via a Tampermonkey script when you visit UK stores.
+Automated UK coupon code scraper + browser checker. Scrapes codes from Savoo, Knoji, GG.deals, Coupert, Caramel, Wethrift and HotUKDeals, stores them in a JSON database, and shows available codes via a Tampermonkey script when you visit UK stores.
 
 ## 🏗 Architecture
 
@@ -79,6 +79,7 @@ uk-coupon-bot/
 │   ├── sources/
 │   │   ├── caramel.js             # Plain HTTP — Caramel API, carries lastWorkedAt
 │   │   ├── coupert-www.js         # Plain HTTP — www.coupert.com store pages, dated 'saved' codes
+│   │   ├── hukd.js                # Plain HTTP — HotUKDeals voucher pages, codes in the page data
 │   │   ├── savoo.js               # Playwright scraper — best UK breadth
 │   │   ├── knoji.js               # Playwright (headful) — densest per store
 │   │   ├── ggdeals.js             # Playwright (headful) — gaming stores
@@ -144,10 +145,13 @@ both before renaming a field or moving a file.
     file once a day (the shops current deals link to every 6 hours). Around
     4,500 requests a day.
   - From each code it uses `code`, `description`, `type`, `value`, `minSpend`,
-    `expiry`, `lastSeen`, `sources` and `testResults.worked`.
-  - It keeps a code that 2+ sources list (or that tested as working) in the
-    last 4 days, or one source in the last 2. If the scrapers stop running,
-    codes drop off Front Page within 2 to 4 days.
+    `expiry`, `listedAt` (falling back to `lastSeen`), `sources` and
+    `testResults.worked`.
+  - It keeps a code whose `listedAt` is in the last 10 days. `listedAt` is the
+    newest look at the shop, by any scraper that had the code, that still
+    listed it, and null once every one of them has looked again without it
+    (`markListed()` in `lib/normalizer.js`). If the scrapers stop running,
+    codes drop off Front Page within 10 days.
   - It keeps its own copy, so a GitHub outage only freezes its codes. The page
     keeps working.
 
@@ -219,9 +223,12 @@ Each code entry:
   on the page is clicked. Working codes get a 👍 and show their saving. Refuses
   to run on an empty basket or one that already has a discount applied, and
   stops at once if the store rate-limits attempts (Shopify allows about six).
-- **👍 / 👎 per code** — thumbs-down hides the code on that store and offers to
-  open a prefilled `failed-code` GitHub issue, which the scraper reads on its
-  next run and removes.
+- **👍 / 👎 per code** — thumbs-down hides the code on that store and files a
+  `failed-code` GitHub issue, which the scraper reads on its next run and
+  removes. With a token set (Tampermonkey menu: "Set GitHub token for
+  reports", a fine-grained token with Issues read and write on this repo
+  only) it files the issue itself. Without one it opens the prefilled issue
+  for you to submit.
 - **Request codes for this store** — on a site the database does not know,
   nothing is injected, but the Tampermonkey menu offers a prefilled
   `store-request` issue. The nightly scrape asks Caramel for that domain and
@@ -270,7 +277,7 @@ which genuinely quote dollars to UK buyers.
 ## ⚠️ Notes
 
 - Codes are scraped from public sources — no warranty on validity
-- Some codes may be targeted/expired — use the "Report Failed" button to help clean up
+- Some codes may be targeted/expired — thumbs them down to help clean up
 - The scraper respects rate limits (1.5-2s between requests)
 - Codes older than 90 days are automatically pruned
 - **Bot protection:** Coupert and GG.deals sit behind Cloudflare, which serves

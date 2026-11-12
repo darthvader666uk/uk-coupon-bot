@@ -176,6 +176,8 @@ export async function sitemapUkStores() {
 export async function scrape(stores = null) {
   const start = Date.now();
   const entries = [];
+  // Stores whose page loaded, codes or not (see markListed).
+  const checked = [];
   const errors = [];
   let storeList = stores;
   if (!storeList) {
@@ -203,6 +205,7 @@ export async function scrape(stores = null) {
         if (info) break;
       }
       if (!info) continue;
+      checked.push(domain);
       const found = extractEntries(info, domain);
       entries.push(...found);
       hits++;
@@ -216,5 +219,5 @@ export async function scrape(stores = null) {
 
   const duration = Date.now() - start;
   console.log(`[Coupert-www] Found ${entries.length} codes across ${hits} stores (${errors.length} errors) in ${duration}ms`);
-  return { entries, duration, errors };
+  return { entries, checked, duration, errors };
 }

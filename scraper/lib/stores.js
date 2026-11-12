@@ -41,7 +41,7 @@ const CORRECTIONS = JSON.parse(
  * "manual" covers codes added by hand after they worked at checkout. Nothing
  * re-scrapes them, so they still age out through pruneStaleCodes.
  */
-export const ACTIVE_SOURCES = new Set(["caramel", "coupert", "ggdeals", "knoji", "manual", "savoo", "wethrift"]);
+export const ACTIVE_SOURCES = new Set(["caramel", "coupert", "ggdeals", "hukd", "knoji", "manual", "savoo", "wethrift"]);
 
 /** Alias domain -> canonical domain. */
 export const ALIASES = {
