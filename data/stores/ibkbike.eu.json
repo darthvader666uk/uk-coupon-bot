@@ -1,0 +1,49 @@
+{
+  "domain": "ibkbike.eu",
+  "name": "Ibkbike",
+  "category": "general",
+  "codes": [
+    {
+      "code": "IBKCONNECT10",
+      "description": "10% off your first order or selected items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ibkbike-uk",
+      "addedAt": "2026-11-12T16:31:29.079Z",
+      "lastSeen": "2026-11-12T16:31:29.079Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T16:31:29.079Z"
+    },
+    {
+      "code": "WELCOME10",
+      "description": "10% off your first order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ibkbike-uk",
+      "addedAt": "2026-11-12T16:31:29.079Z",
+      "lastSeen": "2026-11-12T16:31:29.079Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T16:31:29.079Z"
+    }
+  ]
+}
