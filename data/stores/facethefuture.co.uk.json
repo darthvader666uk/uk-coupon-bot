@@ -21,27 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "MOON10",
-      "description": "Enjoy Up to 10% Off on Your Purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/facethefuture.co.uk",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "NEW16",
@@ -56,12 +37,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/facethefuture.co.uk",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "NEW15APP",
@@ -72,16 +54,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/facethefuture.co.uk",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "EARLY20",
@@ -101,7 +85,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-29T12:14:25.904Z"
     },
     {
       "code": "EARLY15",
@@ -121,7 +106,161 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-29T12:14:25.904Z"
+    },
+    {
+      "code": "HELLO15",
+      "description": "Enter this Face the Future voucher code at checkout to get 15% off your qualifying purchase.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/facethefuture.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "ADVENT20",
+      "description": "Save 20% on selected advent calendar orders when you use this Face the Future voucher code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-16T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/facethefuture.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T08:19:43.739Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "MED20",
+      "description": "20% off Medik8 orders when you use this Face the Future promo code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/facethefuture.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T07:50:34.123Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "STOCKUP",
+      "description": "15% off all orders when you use this Face the Future discount code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/facethefuture.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T07:43:34.807Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "VTCFTF10",
+      "description": "10% off your first purchase when you use this Face the Future voucher code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/facethefuture.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "WELLNESS10",
+      "description": "10% off full-priced items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2027-02-25T00:00:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/facethefuture.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "NEWIN10",
+      "description": "Save 10% on full-priced items by using this discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/facethefuture.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

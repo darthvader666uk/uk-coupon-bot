@@ -1,0 +1,30 @@
+{
+  "domain": "levi.com",
+  "name": "Levi's",
+  "category": "general",
+  "codes": [
+    {
+      "code": "JOINTHEMAILINGLIST",
+      "description": "Take 10% off your order when you use this Levi's discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/levi.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T08:42:00.223Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

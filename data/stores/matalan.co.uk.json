@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "APPSAVE",
-      "description": "20% off Matalan App Orders Over £40",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": 40,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/matalan-discount-codes",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "LIMITED20",
       "description": "Enjoy 20% off almost everything with this Matalan code.",
       "type": "percentage",
@@ -36,12 +16,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/matalan.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "DELIVERY",
@@ -53,16 +34,20 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/matalan.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T11:17:45.041Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "MUSTHAVES",
@@ -84,27 +69,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "HAPPY25",
-      "description": "Score 25% off on £40 total purchases using this Matalan voucher code during checkout.",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": 40,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/matalan.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SCORE20",
@@ -126,27 +92,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "HURRY20",
-      "description": "Apply this Matalan voucher code at checkout to get 20% off your select order.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/matalan.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "TRY20",
@@ -167,7 +114,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "JUMP20",
@@ -183,13 +131,14 @@
       ],
       "url": "https://matalan.knoji.com/",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "HURRY25",
@@ -211,7 +160,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "2040SEP",
@@ -233,7 +183,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "20JUN60",
@@ -254,7 +205,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MAY2060",
@@ -275,7 +227,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-29T12:14:25.904Z"
     },
     {
       "code": "FE5UD-080P-UWNA",
@@ -290,12 +243,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/matalan.co.uk",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "KIDS20",
@@ -316,7 +270,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SEPMVC25",
@@ -337,7 +292,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "NEW26",
@@ -358,7 +314,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "ENJOY10",
@@ -378,7 +335,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "EGGSTRA",
@@ -398,7 +356,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "MYTREAT",
@@ -418,7 +377,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "SAVEBIG",
@@ -433,12 +393,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/matalan.co.uk",
       "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "TAKE20",
@@ -458,7 +419,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "NEWYEAR",
@@ -478,7 +440,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "BLACKFRIDAY",
@@ -498,7 +461,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "NEW25",
@@ -518,7 +482,77 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
+    },
+    {
+      "code": "BLACKFRIYAY",
+      "description": "Enjoy 25% off when you spend £65 with this Matalan promo code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 65,
+      "expiry": "2026-11-26T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/matalan.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T09:39:55.627Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "APP10",
+      "description": "Take 10% off your app purchase with this Matalan discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-16T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/matalan.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T10:46:59.513Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "MTL2610NX",
+      "description": "Save 10% on your full-priced order using this code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-24T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/matalan.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T16:04:04.872Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

@@ -24,7 +24,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z",
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "TASTE20",
@@ -47,7 +48,8 @@
         "lastTested": null
       },
       "verified": false,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
+      "lastWorkedAt": "2026-10-05T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BAGSOFF20",
@@ -67,7 +69,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "RELAX10",
@@ -87,7 +90,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "SUNSEEKER100",
@@ -110,7 +114,8 @@
         "lastTested": null
       },
       "verified": false,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "lastWorkedAt": "2026-10-04T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "HOLDBAGS15",
@@ -130,7 +135,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T13:01:35.629Z"
     },
     {
       "code": "MJS25SALE50",
@@ -150,7 +156,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T17:43:55.093Z"
     },
     {
       "code": "BAG20OFF",
@@ -172,7 +179,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "MENORCANORTH24",
@@ -192,27 +200,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "FINALCALL100",
-      "description": "Apply Jet2 Discount Code for savings",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/jet2-com",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T13:01:35.629Z"
     },
     {
       "code": "SOLO30",
@@ -232,49 +221,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "JET2SEPT",
-      "description": "10% Off Experiences in September and October",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jet2.com",
-      "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BAGSOFF25",
-      "description": "Save 25% off with code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jet2.com",
-      "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-11T12:14:32.018Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2025-12-10T00:00:00Z"
+      "listedAt": "2026-10-29T14:58:30.815Z"
     },
     {
       "code": "SEATSAVE25",
@@ -296,7 +244,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-12-18T00:00:00Z"
+      "lastWorkedAt": "2025-12-18T00:00:00Z",
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "CITY120",
@@ -316,29 +265,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SUMMER27",
-      "description": "Available discounts for smarter shopping at jet2.com",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/jet2.com",
-      "addedAt": "2026-10-11T12:14:32.018Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "listedAt": "2026-10-20T13:17:34.310Z"
     },
     {
       "code": "MEALDEAL20",
@@ -360,27 +288,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "BAGSOFF15",
-      "description": "Apply Jet2 Discount Code to save 15%",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/jet2-com",
-      "addedAt": "2026-10-12T17:19:35.227Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "LBJ9E5653P",
@@ -400,7 +309,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T13:01:35.629Z"
     },
     {
       "code": "J2HSPF60",
@@ -420,7 +330,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T13:01:35.629Z"
     },
     {
       "code": "WAREHOUSE30",
@@ -440,7 +351,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T13:01:35.629Z"
     },
     {
       "code": "SEAT10",
@@ -460,7 +372,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T17:43:55.093Z"
     },
     {
       "code": "HOLDBAGS25",
@@ -480,7 +393,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-20T13:17:34.310Z"
     },
     {
       "code": "HBSALE15",
@@ -502,7 +416,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "MEALS20",
@@ -522,7 +437,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-25T13:04:57.179Z"
     },
     {
       "code": "V54FDFFC69",
@@ -542,7 +458,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-25T13:04:57.179Z"
     },
     {
       "code": "AUGUST100",
@@ -564,7 +481,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "SEATSAVE10",
@@ -584,7 +502,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-25T13:04:57.179Z"
     },
     {
       "code": "DOTW03062026",
@@ -604,7 +523,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T17:43:55.093Z"
     },
     {
       "code": "OFL5A64XDX",
@@ -624,7 +544,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-29T14:58:30.815Z"
     },
     {
       "code": "BFDEAL30",
@@ -644,7 +565,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "BAGSALE",
@@ -666,7 +588,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "DISCMEALS10",
@@ -677,17 +600,20 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://jet2.knoji.com/",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T11:45:00.380Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "AUGMEAL",
@@ -708,7 +634,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "JET2HOLIDAYS",
@@ -729,7 +656,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "JET2MEALS10",
@@ -750,7 +678,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "JET2OFF",
@@ -771,7 +700,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "MDEAL25",
@@ -792,7 +722,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SAVESEATS10",
@@ -813,7 +744,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BAG15SALE",
@@ -834,7 +766,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SAVEMEALS25",
@@ -855,7 +788,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "JET2EASTER10",
@@ -876,7 +810,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BFTREAT",
@@ -896,7 +831,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "MMJ3E",
@@ -916,7 +852,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "AG299CXD4A",
@@ -936,7 +873,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     }
   ]
 }

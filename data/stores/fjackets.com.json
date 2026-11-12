@@ -24,7 +24,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-25T00:00:00Z",
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "SPECIAL12",
@@ -47,7 +48,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-27T00:00:00Z"
+      "lastWorkedAt": "2026-10-27T00:00:00Z",
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "SECRET25",
@@ -69,7 +71,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-10-14T11:07:21.531Z"
     },
     {
       "code": "SPECIAL14",
@@ -91,7 +94,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "MD30",
@@ -113,27 +117,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-05-27T00:00:00Z"
-    },
-    {
-      "code": "FREESHIPTSC",
-      "description": "Grab Free Shipping for Site-wide",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/fjackets.com",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2025-05-27T00:00:00Z",
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "MOM25",
@@ -155,7 +140,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2023-12-02T00:00:00Z"
+      "lastWorkedAt": "2023-12-02T00:00:00Z",
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "DPF25",
@@ -175,7 +161,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-20T13:17:34.310Z"
     },
     {
       "code": "COUPONSEEKER25",
@@ -197,7 +184,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-03T00:00:00Z"
+      "lastWorkedAt": "2026-08-03T00:00:00Z",
+      "listedAt": "2026-10-25T13:04:57.179Z"
     },
     {
       "code": "NXTSAVE15",
@@ -219,7 +207,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
+      "lastWorkedAt": "2026-10-28T00:00:00Z",
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "UNLOCKFJ",
@@ -239,7 +228,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T13:01:35.629Z"
     },
     {
       "code": "2DAY20",
@@ -261,49 +251,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "DPF25OFF",
-      "description": "Get 25% off with Film Jackets Discount Codes",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://uk.coupert.com/promo-code/film-jackets",
-      "addedAt": "2026-10-06T14:44:51.217Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "PRIME25",
-      "description": "Extra £25 Off Selected Items",
-      "type": "fixed",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/fjackets.com",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": true,
+      "listedAt": "2026-10-16T13:01:35.629Z"
     },
     {
       "code": "END30",
@@ -323,7 +272,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "BIG50",
@@ -343,112 +293,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "EXTRA10WLKBKATJH",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fjackets.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "KATTYKAV",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fjackets.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "BRIAN10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fjackets.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "ALASKANX",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fjackets.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "CUSTOMLEATHER",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://fjackets.knoji.com/",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "WD20",
@@ -468,27 +314,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "HONEY25",
-      "description": "Save 25% with Film Jackets Discount Codes",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/film-jackets",
-      "addedAt": "2026-10-12T17:19:35.227Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-20T13:17:34.310Z"
     }
   ]
 }

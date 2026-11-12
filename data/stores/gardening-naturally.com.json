@@ -1,0 +1,30 @@
+{
+  "domain": "gardening-naturally.com",
+  "name": "Gardening Naturally",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NEW05",
+      "description": "Enjoy 5% off your total order at checkout, provided the basket value is over £15",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": 15,
+      "expiry": "2026-11-15T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/gardening-naturally.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-31T03:56:49.529Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

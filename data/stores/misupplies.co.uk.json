@@ -4,24 +4,25 @@
   "category": "general",
   "codes": [
     {
-      "code": "H3YAGA1N",
-      "description": "5% off Selected orders at MI Supplies",
-      "type": "percentage",
+      "code": "FIVEOFF",
+      "description": "Enjoy £5 off on your first order with this MI Supplies discount code",
+      "type": "fixed",
       "value": 5,
       "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
+      "expiry": "2026-11-25T23:59:59.000Z",
+      "source": "hukd",
       "sources": [
-        "savoo"
+        "hukd"
       ],
-      "url": "https://www.savoo.co.uk/brands/mi-supplies-discount-codes",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T15:08:25.222Z",
+      "url": "https://www.hotukdeals.com/vouchers/misupplies.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

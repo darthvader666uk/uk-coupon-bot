@@ -12,36 +12,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/mercury-holidays-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "TOUR100",
-      "description": "Up to £200 off Solo Travellers on Mercury Holidays 2026 and 2027 Escorted Tours",
-      "type": "fixed",
-      "value": 200,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/mercury-holidays-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-08T10:21:39.687Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BEACH100",
@@ -62,7 +44,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "BLACK200",
@@ -73,16 +56,20 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/mercuryholidays.co.uk",
       "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T06:15:42.365Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BLACK100",
@@ -93,16 +80,87 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/mercuryholidays.co.uk",
       "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T06:17:49.776Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "DEAL200",
+      "description": "Take £200 off on selected bookings",
+      "type": "fixed",
+      "value": 200,
+      "minSpend": null,
+      "expiry": "2026-11-19T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/mercuryholidays.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "BOOK25",
+      "description": "Take £25 off per person on selected bookings with this Mercury Holidays discount code",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/mercuryholidays.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T07:13:35.542Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "WELCOME25",
+      "description": "Enjoy £25 off per person on all bookings with this Mercury Holidays discount code",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-12-23T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/mercuryholidays.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T16:22:23.575Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

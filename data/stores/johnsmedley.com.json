@@ -22,7 +22,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "LD26-MC0326LV",
@@ -43,7 +44,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "WELC-MC2603LV",
@@ -65,7 +67,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "JHSM15",
@@ -86,7 +89,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SALEJUMP",
@@ -107,7 +111,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SALEACC",
@@ -128,7 +133,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SHORT10",
@@ -149,7 +155,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "7OYR2WRCWBGK",
@@ -170,7 +177,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FFSS30",
@@ -191,7 +199,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FFSS25",
@@ -212,7 +221,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "ND7L9B0HR2MB",
@@ -233,7 +243,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FOKKCC28Z8QO",
@@ -254,7 +265,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "MVC16",
@@ -275,7 +287,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "RETURN25",
@@ -297,7 +310,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "MISSYOU20",
@@ -318,7 +332,54 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
+    },
+    {
+      "code": "NEWSLETTER10",
+      "description": "Save 10% off your first order with this John Smedley discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnsmedley.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T07:45:49.406Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "NOV20OFF",
+      "description": "Get 20% off selected styles with this Black Friday John Smedley discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnsmedley.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T03:06:24.626Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

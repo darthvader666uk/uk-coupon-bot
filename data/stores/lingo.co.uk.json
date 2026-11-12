@@ -4,47 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "RESET10",
-      "description": "10% off Lingo's 4-Week Plan plus Free Delivery",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/lingo-discount-codes",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T15:08:25.222Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FF95762",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://lingo.knoji.com/",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
       "code": "12THSALE",
       "description": "",
       "type": "unknown",
@@ -63,7 +22,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "MOMENTUM20",
@@ -84,28 +44,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "54SVERIZONXP",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://lingo.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "FALL25",
@@ -126,7 +66,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     }
   ]
 }

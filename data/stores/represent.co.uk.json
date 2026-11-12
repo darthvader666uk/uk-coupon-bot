@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "MATHEW",
@@ -42,7 +43,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SPRING-SALE",
@@ -63,28 +65,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "AUGUSTBX",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://represent.knoji.com/",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "CAOILI666",
@@ -105,7 +87,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "26HYGWM",
@@ -126,7 +109,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "OLDROW10",
@@ -147,7 +131,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-29T12:14:25.904Z"
     },
     {
       "code": "GOKART",
@@ -168,7 +153,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "WELCOME2BTB",
@@ -189,7 +175,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "FREEDOM10",
@@ -210,7 +197,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SAS10LIONS",
@@ -231,7 +219,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "FALLHAUL",
@@ -252,7 +241,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "ALEKRP4NKZ",
@@ -273,7 +263,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "BIL10",
@@ -294,7 +285,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "XMAS10",
@@ -315,7 +307,29 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
+    },
+    {
+      "code": "EXTRA15",
+      "description": "The Vault Sale: Extra 15% off orders at Represent",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/represent-discount-codes",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

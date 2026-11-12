@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "GETDEAL20",
-      "description": "20% Off First Order at Dripmade for New Users with Promo Codes",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/dripmade",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SECRET20",
       "description": "20% Off Dripmade Discount Codes – Shop and Save Now",
       "type": "percentage",
@@ -41,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-28T14:36:13.997Z"
     }
   ]
 }

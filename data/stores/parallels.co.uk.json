@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "PD35",
@@ -43,7 +44,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "BIZ35",
@@ -65,7 +67,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "PARALLELS35",
@@ -86,7 +89,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "BIZ25",
@@ -107,7 +111,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "GURU10",
@@ -128,7 +133,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CA_25OFF",
@@ -149,7 +155,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "PARALLELS45",
@@ -170,7 +177,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "PARALLELS35OFF",
@@ -191,7 +199,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "PARBIZ35",
@@ -212,7 +221,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "STD45",
@@ -233,7 +243,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "SALE45",
@@ -254,7 +265,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "SALE35",
@@ -275,7 +287,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "PRO45",
@@ -296,7 +309,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "STD35",
@@ -317,7 +331,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "DPF50",
@@ -338,7 +353,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "PARALLELS50",
@@ -359,7 +375,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "DPF35",
@@ -380,7 +397,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "NEW45",
@@ -401,7 +419,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "NEW35",
@@ -422,7 +441,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "DESKTOP35",
@@ -443,28 +463,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "HALL20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://parallels.knoji.com/",
-      "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "SAFSHOWCASE",
@@ -485,7 +485,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "DEALS5",
@@ -506,7 +507,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "WVTG98",
@@ -527,28 +529,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "SWWINRAR30..",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://parallels.knoji.com/",
-      "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "EASE-6YPW-GGYA",
@@ -569,7 +551,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "ADMITAD10",
@@ -590,28 +573,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "BF2024HPFRI",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://parallels.knoji.com/",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "LEILA10",
@@ -632,7 +595,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-28T12:04:45.735Z"
     },
     {
       "code": "FOCUS25",
@@ -653,7 +617,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SAFNISM4",
@@ -674,7 +639,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-24T16:19:46.607Z"
     },
     {
       "code": "TECHADVISOR45",
@@ -695,7 +661,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "SWWINRAR30",
@@ -716,7 +683,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CA_10",
@@ -737,7 +705,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BF2023C",
@@ -758,7 +727,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "WELCOMECW5",
@@ -779,7 +749,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "BLSAVE10",
@@ -800,7 +771,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "PD50",
@@ -821,7 +793,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "HIGHSIERRA",
@@ -842,7 +815,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "LATIMES10",
@@ -863,7 +837,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CHELEN15",
@@ -884,7 +859,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "PD-CART-SAVE10",
@@ -905,7 +881,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "D1U-UGN-JCJ",
@@ -926,7 +903,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "ZISKIND10",
@@ -947,7 +925,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "STAYSAFE",
@@ -968,7 +947,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "3UG-6AA-R7A",
@@ -989,7 +969,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "MYHPREMIUM10",
@@ -1010,7 +991,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "58L-KFB-931",
@@ -1031,7 +1013,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "8GN7",
@@ -1052,7 +1035,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "66V-BDF-1Q5",
@@ -1073,7 +1057,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "LUCK24",
@@ -1094,7 +1079,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SAFCOUPERT5",
@@ -1115,7 +1101,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     }
   ]
 }

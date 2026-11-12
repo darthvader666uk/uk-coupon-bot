@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "E20",
-      "description": "£20 Off First Order on Black Friday",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/housefuel",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "LOCAL30",
       "description": "Use HouseFuel Promotional Code and save 30% off",
       "type": "percentage",
@@ -41,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-29T14:58:30.815Z"
     },
     {
       "code": "LAST20",
@@ -61,7 +42,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T16:08:37.281Z"
     },
     {
       "code": "TWEET15",
@@ -81,7 +63,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T16:08:37.281Z"
     }
   ]
 }

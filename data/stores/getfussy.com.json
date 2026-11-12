@@ -1,0 +1,53 @@
+{
+  "domain": "getfussy.com",
+  "name": "Fussy",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME10",
+      "description": "New users take 10% off with this Fussy discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2027-03-12T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/getfussy.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T09:27:12.654Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "IMFUSSY10",
+      "description": "Get 10% off all purchases",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/getfussy.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-10-30T15:30:59.407Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

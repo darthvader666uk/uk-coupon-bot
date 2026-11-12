@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "USGTGAFFCJ2024BLACKFRIDAY",
@@ -42,49 +43,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "LABOR50",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://gotogate.knoji.com/",
-      "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "NEWHOTELUSER",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://gotogate.knoji.com/",
-      "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": true,
+      "listedAt": "2026-10-19T11:44:11.574Z"
     },
     {
       "code": "DMD40",
@@ -105,7 +65,29 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-19T11:44:11.574Z"
+    },
+    {
+      "code": "AWGLOBAL",
+      "description": "Enjoy a 2% discount on selected flights",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2027-02-25T00:00:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/gotogate.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

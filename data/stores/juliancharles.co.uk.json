@@ -21,27 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "COMINGHOME15",
-      "description": "Extra 15% off orders over £75 at Julian Charles",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": 75,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/julian-charles-discount-codes",
-      "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-11T10:20:57.737Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "HOT15",
@@ -62,7 +43,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "JCHOME15",
@@ -74,17 +56,20 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://juliancharles.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-07T10:16:59.598Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "JCMOBILE10",
@@ -105,7 +90,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "REWARD10",
@@ -126,7 +112,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "QUICKBED",
@@ -147,7 +134,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "VCUK8",
@@ -168,7 +156,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "CUSTOM20",
@@ -189,7 +178,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SLEEPBETTER",
@@ -210,7 +200,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "23CHECKOUT",
@@ -231,7 +222,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "TEXT7MCSK0",
@@ -252,7 +244,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "LUSH30",
@@ -273,7 +266,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "TOPSALE10",
@@ -294,7 +288,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SNOOZE15",
@@ -314,7 +309,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "HAPPYNY15",
@@ -334,7 +330,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "AUTUMN",
@@ -354,7 +351,75 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
+    },
+    {
+      "code": "EXTRA15",
+      "description": "15% off when you spend £75 and use this Julian Charles voucher code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 75,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/juliancharles.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "GET10",
+      "description": "£10 off when you spend £80 with this promo code",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 80,
+      "expiry": "2026-11-12T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/juliancharles.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-07T10:49:18.537Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "WELCOME",
+      "description": "Take 10% off your order when you use this Julian Charles discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-12T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/juliancharles.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T07:05:37.463Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

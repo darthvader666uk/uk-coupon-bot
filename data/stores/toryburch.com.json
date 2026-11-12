@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "ONLINE20",
-      "description": "Get 20% off with code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/toryburch.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "CASHBACK",
       "description": "15% off everything",
       "type": "percentage",
@@ -41,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T08:53:45.483Z"
     },
     {
       "code": "OCTTB15-7CMWPQW4GVL9",
@@ -62,7 +43,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "THANKS",
@@ -77,12 +59,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/toryburch.co.uk",
       "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SPRING",
@@ -97,12 +80,34 @@
       ],
       "url": "https://grabcaramel.com/coupons/toryburch.co.uk",
       "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "EXTRA15",
+      "description": "Additional 15% off on Sale",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/toryburch.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

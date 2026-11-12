@@ -4,46 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "BIRTHDAYTREAT20",
-      "description": "20% off orders at Heist",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/heist-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOMETOHEIST",
-      "description": "10% off Selected orders at Heist",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/heist-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SHEERSHIPPING",
       "description": "Free Delivery on Sheer Burgundy orders at Heist",
       "type": "free_shipping",
@@ -56,12 +16,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/heist-discount-codes",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

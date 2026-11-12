@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "BHV26",
-      "description": "Bank Holiday Sale: Extra £5 off orders over £250 at One Garden",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": 250,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/one-garden-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "GRAND25",
       "description": "£25 off orders over £1,000 at One Garden",
       "type": "fixed",
@@ -41,47 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SUMMERSAVER",
-      "description": "£10 off orders over £500 at One Garden",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 500,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/one-garden-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-08T10:21:39.687Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "ZEST3OFF",
-      "description": "3% off Any Zest orders at One Garden",
-      "type": "percentage",
-      "value": 3,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/one-garden-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-08T10:21:39.687Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SAVE10TODAY",
@@ -101,7 +42,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-01T12:21:17.882Z"
     },
     {
       "code": "SHED10",
@@ -121,7 +63,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     }
   ]
 }

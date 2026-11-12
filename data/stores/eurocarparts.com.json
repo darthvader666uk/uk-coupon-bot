@@ -1,0 +1,53 @@
+{
+  "domain": "eurocarparts.com",
+  "name": "Euro Car Parts",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BFAFFSAVE31",
+      "description": "Take 31% off your order when you spend £30+",
+      "type": "percentage",
+      "value": 31,
+      "minSpend": 30,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/eurocarparts.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T16:23:55.001Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SAVE30",
+      "description": "Get 30% off car parts when you spend £30",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": "2026-11-26T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/eurocarparts.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T09:45:54.002Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

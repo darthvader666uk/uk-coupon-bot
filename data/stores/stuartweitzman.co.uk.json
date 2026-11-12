@@ -23,7 +23,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "FW25",
@@ -43,7 +44,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-01T12:21:17.882Z"
     },
     {
       "code": "SWBIRTHDAYGIFT",
@@ -64,7 +66,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "24HOURS15",
@@ -85,7 +88,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SWWELCOME15",
@@ -106,7 +110,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "UNLOCK25",
@@ -127,7 +132,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SHOELOVE",
@@ -148,7 +154,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SUNSET30",
@@ -169,7 +176,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "FALL2025",
@@ -190,7 +198,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "LDW30",
@@ -211,7 +220,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "FIREWORKS30",
@@ -232,7 +242,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "ICECREAM",
@@ -253,7 +264,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "FUNINSUN",
@@ -274,7 +286,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WARMUP25",
@@ -295,7 +308,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SWMOON30",
@@ -316,7 +330,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "JANUARY30",
@@ -337,154 +352,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "CYBER40",
-      "description": "40% off",
-      "type": "percentage",
-      "value": 40,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://stuartweitzman.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "PREVIEW25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://stuartweitzman.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "ENJOY30",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://stuartweitzman.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "SUNNYDEAL20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://stuartweitzman.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "COZYUP",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://stuartweitzman.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "HEYFALL",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://stuartweitzman.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "FNL10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://stuartweitzman.knoji.com/",
-      "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "VIP20OFF",
@@ -505,7 +374,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "15OFF24H",
@@ -526,7 +396,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "VIPEARLY",
@@ -547,7 +418,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SWSPECIAL20",
@@ -568,7 +440,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "15OFFNEWJOINER",
@@ -589,7 +462,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SWFALL26",
@@ -610,7 +484,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     }
   ]
 }

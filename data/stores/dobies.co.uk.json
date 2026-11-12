@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUDAW169",
@@ -41,67 +42,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SUDAW168",
-      "description": "Mix & Match Bulbs for £3 at Dobies",
-      "type": "fixed",
-      "value": 3,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/dobies-discount-codes",
-      "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SUDAW166",
-      "description": "Mix & Match Bulbs for £3 at Dobies",
-      "type": "fixed",
-      "value": 3,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/dobies-discount-codes",
-      "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SUDAW162",
-      "description": "10% off Garden Ready Plants at Dobies",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/dobies-discount-codes",
-      "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-09-11T10:20:57.737Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUDAW172",
@@ -121,7 +63,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUDAW173",
@@ -141,7 +84,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUDAW174",
@@ -161,7 +105,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUDN1873",
@@ -181,7 +126,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-06T13:48:54.663Z"
     },
     {
       "code": "SUDAW176",
@@ -201,7 +147,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-06T13:48:54.663Z"
     },
     {
       "code": "SUDAW164",
@@ -221,7 +168,50 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-06T13:48:54.663Z"
+    },
+    {
+      "code": "SUDAW118",
+      "description": "Get £20 off orders over £100 with this Dobies discount code",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 100,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/dobies.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SUDHUKD5",
+      "description": "Enjoy 15% off when you spend £30 or more",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 30,
+      "expiry": "2027-01-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/dobies.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

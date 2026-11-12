@@ -22,7 +22,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "DM916",
@@ -43,7 +44,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "DMPLUMP",
@@ -64,7 +66,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "B1G1",
@@ -85,7 +88,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "WELCOMEGIFT",
@@ -106,7 +110,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "DMDITCH",
@@ -127,7 +132,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "BTS25",
@@ -148,7 +154,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "DM618",
@@ -169,7 +176,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "JUNE35",
@@ -190,7 +198,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FLASH40",
@@ -211,7 +220,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "MOM30",
@@ -232,28 +242,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "MARCH30",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kiehls.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
+      "verified": false,
+      "listedAt": "2026-10-25T10:33:12.100Z"
     },
     {
       "code": "DEALMOONSKINC",
@@ -274,7 +264,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SEPT35",
@@ -295,7 +286,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "DMFLASH",
@@ -316,7 +308,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "HYDRATE",
@@ -336,7 +329,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "PRUE12",
@@ -357,7 +351,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "WELCOME20",
@@ -368,16 +363,39 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/kiehls.co.uk",
       "addedAt": "2026-11-11T17:49:54.508Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "OXFORDSTREET15",
+      "description": "15% off Oxford Street Store Closure at Kiehl's",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/kiehls-discount-codes",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

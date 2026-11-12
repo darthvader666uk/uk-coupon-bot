@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "NEWSEASON",
@@ -45,7 +46,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-13T00:00:00Z"
+      "lastWorkedAt": "2026-09-13T00:00:00Z",
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "AFFWC12",
@@ -58,142 +60,20 @@
       "sources": [
         "coupert",
         "knoji",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/mahabis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
-    },
-    {
-      "code": "BUY3",
-      "description": "25% Off When Purchasing Three Items",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mahabis.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BUY2",
-      "description": "20% Off When Buying 2 or More Pairs",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mahabis.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME6S9T776Q",
-      "description": "Get Special Discounts With mahabis.com's Newsletter",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mahabis.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
-    },
-    {
-      "code": "WELCOME4057",
-      "description": "10% Off Your First Order",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mahabis.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WELCOME5PJJQ3HL",
-      "description": "5% Off + Join mahabis.com Newsletter Today",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mahabis.com",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2025-07-12T00:00:00Z"
-    },
-    {
-      "code": "BUY1",
-      "description": "20% Off When Buying 2 Or More Slippers",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mahabis.com",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-10-05T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SLIPPERBAG",
@@ -215,7 +95,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BDAY-89KB8S6G",
@@ -236,7 +117,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "DAD15",
@@ -257,7 +139,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "VOLARE20",
@@ -278,7 +161,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "VOLARE10",
@@ -300,7 +184,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SOLARPOWER",
@@ -321,7 +206,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SERENO15",
@@ -342,7 +228,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "MORE15",
@@ -363,7 +250,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "NY15",
@@ -384,7 +272,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BUNDLE2024",
@@ -405,7 +294,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-HGBSH3PP",
@@ -426,7 +316,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-QDJTF8J2",
@@ -447,7 +338,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-BZM6GMLM",
@@ -468,7 +360,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-VDMCXMGG",
@@ -489,7 +382,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-T8R63QTK",
@@ -510,7 +404,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-TXLBTHC8",
@@ -531,7 +426,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-LM6ZG4DG",
@@ -552,7 +448,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-D6PWV2GH",
@@ -573,7 +470,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-77Q67STW",
@@ -594,7 +492,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-KHNCX277",
@@ -615,7 +514,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-ZP845W5F",
@@ -636,7 +536,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-WJ6JMKWH",
@@ -657,7 +558,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-JWW8D6JC",
@@ -678,7 +580,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-H8B5HLBL",
@@ -699,7 +602,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-SZJ7GD84",
@@ -720,7 +624,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-BK732FGC",
@@ -741,7 +646,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-SD258SCK",
@@ -762,7 +668,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-8XDCXDMR",
@@ -783,7 +690,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-4VWPSJGC",
@@ -804,7 +712,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "WELCOME-MG3Z285P",
@@ -825,7 +734,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "CLUBOOFOS-AMT5-9NQV358",
@@ -846,7 +756,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SAVE10NAT",
@@ -867,28 +778,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "EARTH15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://mahabis.knoji.com/",
-      "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-25T10:33:12.100Z"
     },
     {
       "code": "15CSAC",
@@ -909,7 +800,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "FEETUP",
@@ -933,7 +825,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-05T00:00:00Z"
+      "lastWorkedAt": "2026-10-05T00:00:00Z",
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "WELBNSM5PV",
@@ -954,7 +847,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-25T10:33:12.100Z"
     },
     {
       "code": "HEYNATUSRVIAGQTT",
@@ -975,7 +869,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "AUTUMN5",
@@ -996,7 +891,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "VIP40",
@@ -1016,7 +912,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T20:08:14.128Z"
     },
     {
       "code": "MID-SEASON",
@@ -1036,7 +933,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T20:08:14.128Z"
     },
     {
       "code": "UNLOCK30",
@@ -1057,7 +955,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "WELB8BNZX7",
@@ -1078,7 +977,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BANKHOL10",
@@ -1098,7 +998,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T16:39:08.387Z"
     },
     {
       "code": "WELCOMEBACK",
@@ -1118,7 +1019,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     }
   ]
 }

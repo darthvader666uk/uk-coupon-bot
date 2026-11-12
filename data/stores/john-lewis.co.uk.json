@@ -4,49 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "EL5PS",
-      "description": "Apply John Lewis Discount Code to save 5%",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "DELIVERY0809",
-      "description": "Free Standard Delivery and Recycling on Selected Bosch Appliances at John Lewis",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "savoo"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-01T14:37:50.920Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
-    },
-    {
       "code": "APPLENEXTDAY",
       "description": "Get Free Next Day Delivery Your Order",
       "type": "unknown",
@@ -58,63 +15,20 @@
         "coupert",
         "savoo",
         "knoji",
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
-    },
-    {
-      "code": "MICRO36525",
-      "description": "Take ￡25 Off with John Lewis Promo Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "savoo"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-08-26T00:00:00Z"
-    },
-    {
-      "code": "BENEFITSEPT",
-      "description": "Free Gift on 2+ Benefit Orders",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-07T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "PACTSB40",
@@ -136,7 +50,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-05-27T00:00:00Z"
+      "lastWorkedAt": "2026-05-27T00:00:00Z",
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "FREEDELIVERYLE01",
@@ -158,7 +73,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
+      "lastWorkedAt": "2026-10-28T00:00:00Z",
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "BUDSWATCH",
@@ -178,29 +94,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "NINJA20JL",
-      "description": "Take 20% off with this John Lewis Promo Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-08-24T00:00:00Z"
+      "listedAt": "2026-10-31T14:11:25.661Z"
     },
     {
       "code": "EL6PSET",
@@ -220,7 +115,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-21T13:30:13.824Z"
     },
     {
       "code": "HISENSESOUND50",
@@ -243,49 +139,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-09T00:00:00Z"
-    },
-    {
-      "code": "LANCOME0626",
-      "description": "Enjoy a Discount of ￡10 on Your Purchase with This John Lewis Discount Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-28T13:19:16.812Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "ELEMISTRAVEL",
-      "description": "Free Elemis travel essentials gift with this John Lewis discount code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-28T13:19:16.812Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-08-27T00:00:00Z"
+      "lastWorkedAt": "2026-09-09T00:00:00Z",
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "SAMSUNGTRADE60",
@@ -305,27 +160,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "4MAC25",
-      "description": "Unlock 25% Off John Lewis with Discount Code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T12:13:14.338Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T09:00:21.533Z"
     },
     {
       "code": "LEGOAUGUST",
@@ -348,7 +184,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-24T00:00:00Z"
+      "lastWorkedAt": "2026-08-24T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "TVRECYCLE150",
@@ -369,7 +206,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-24T16:19:46.607Z"
     },
     {
       "code": "INSTAXMINI5",
@@ -392,48 +230,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-26T00:00:00Z"
-    },
-    {
-      "code": "JL15COM09",
-      "description": "Special Deals: Get 15% Off with John Lewis Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "savoo"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "THEORDINARY25",
-      "description": "Free Gift on £25+ The Ordinary Orders",
-      "type": "fixed",
-      "value": 25,
-      "minSpend": 25,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-09-10T12:18:12.005Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-09-26T00:00:00Z",
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "US95TR50",
@@ -455,87 +253,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-01-29T00:00:00Z"
-    },
-    {
-      "code": "MYLAPTOP10",
-      "description": "Save 10% with John Lewis Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-10T12:18:12.005Z",
-      "lastSeen": "2026-09-10T12:18:12.005Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "DYSONNDD",
-      "description": "Free Next Day Delivery on the Dyson CameraJet Electric Toothbrush with this code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-15T12:46:30.553Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "2MAC15",
-      "description": "Enjoy a Generous 15% Discount with John Lewis Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-11T12:16:34.403Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EUFY150JL",
-      "description": "John Lewis has available savings when you shop",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-11T12:16:34.403Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2025-01-29T00:00:00Z",
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "NINJAB1002",
@@ -555,108 +274,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SAMSUNG10TVJL",
-      "description": "10% off Your Purchases",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-11T12:16:34.403Z",
-      "lastSeen": "2026-09-11T12:16:34.403Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "JL10COM09",
-      "description": "10% off Selected Laptops for New and Existing John Lewis Members",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/john-lewis-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "ELBRUSH",
-      "description": "Free Estée Lauder Makeup Brush Gift with Selected Estée Lauder Purchases at John Lewis",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "coupert"
-      ],
-      "url": "https://www.savoo.co.uk/brands/john-lewis-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-28T13:19:16.812Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CTTROUSERS20",
-      "description": "£20 off when you buy 2 or more selected trousers with this John Lewis promo code",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-12T11:41:24.799Z",
-      "lastSeen": "2026-09-12T11:41:24.799Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "ESPA90",
-      "description": "Free ESPA Optimal Skin Spa Ritual gift with this John Lewis discount code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-12T11:41:24.799Z",
-      "lastSeen": "2026-09-12T11:41:24.799Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-28T14:36:13.997Z"
     },
     {
       "code": "BABYSET2",
@@ -678,7 +297,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-01-19T00:00:00Z"
+      "lastWorkedAt": "2025-01-19T00:00:00Z",
+      "listedAt": "2026-11-08T14:50:36.707Z"
     },
     {
       "code": "SAMSUNG10",
@@ -700,7 +320,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-08-10T00:00:00Z"
+      "lastWorkedAt": "2025-08-10T00:00:00Z",
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "V8CYCLONE",
@@ -723,27 +344,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-06T00:00:00Z"
-    },
-    {
-      "code": "SAMSUNGGAL50",
-      "description": "£50 Off Your Order",
-      "type": "fixed",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-13T12:48:26.470Z",
-      "lastSeen": "2026-09-13T12:48:26.470Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-09-06T00:00:00Z",
+      "listedAt": "2026-10-29T14:58:30.815Z"
     },
     {
       "code": "2026RADLEY25",
@@ -763,70 +365,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SONY25SOUNDBAR",
-      "description": "Save 25% on Selected Sony Soundbars when Bought with Any Sony TV",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "coupert"
-      ],
-      "url": "https://www.savoo.co.uk/brands/john-lewis-discount-codes",
-      "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-08-26T00:00:00Z"
-    },
-    {
-      "code": "SAMMUSICFRAME08",
-      "description": "Get a Free Wireless Speaker on Samsung Frame TVs at John Lewis",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/john-lewis-discount-codes",
-      "addedAt": "2026-09-14T11:24:23.549Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "ESTEELAUDER75",
-      "description": "Grab 30% off with John Lewis Promo Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-14T14:17:04.136Z",
-      "lastSeen": "2026-09-14T14:17:04.136Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "listedAt": "2026-11-10T09:00:21.533Z"
     },
     {
       "code": "MYJLBABYBOX",
@@ -848,7 +388,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z"
+      "lastWorkedAt": "2026-09-24T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "HALFINSTALL55",
@@ -870,7 +411,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-09-29T00:00:00Z"
+      "lastWorkedAt": "2025-09-29T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "BIOLIFTINGMASK",
@@ -893,7 +435,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-15T00:00:00Z"
+      "lastWorkedAt": "2026-09-15T00:00:00Z",
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "TOMFORD100",
@@ -916,7 +459,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
+      "lastWorkedAt": "2026-09-25T00:00:00Z",
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "MYBLEND100",
@@ -933,14 +477,15 @@
       ],
       "url": "https://johnlewis.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-24T00:00:00Z"
+      "lastWorkedAt": "2026-08-24T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "TERRY2",
@@ -963,7 +508,8 @@
         "lastTested": null
       },
       "verified": false,
-      "lastWorkedAt": "2026-10-19T00:00:00Z"
+      "lastWorkedAt": "2026-10-19T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "GOOGLE100",
@@ -984,7 +530,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "PHILIPS20",
@@ -1000,13 +547,14 @@
       ],
       "url": "https://johnlewis.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "YSL75",
@@ -1022,13 +570,14 @@
       ],
       "url": "https://johnlewis.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "MYJLBEAUTY15",
@@ -1045,34 +594,14 @@
       ],
       "url": "https://johnlewis.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "NEWHSN2026",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://johnlewis.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "VIPREWARD15",
@@ -1088,198 +617,14 @@
       ],
       "url": "https://johnlewis.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "THEDIVAWITHIN",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://johnlewis.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "SAVEONHOUSEHOLD",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://johnlewis.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "RETAILBD10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://johnlewis.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "APPLENEO",
-      "description": "£10 Off with John Lewis Promo Code",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-15T12:46:30.553Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-08-28T00:00:00Z"
-    },
-    {
-      "code": "SAMSUNGSPEAKERBW08",
-      "description": "Free Smart Speaker with Samsung The Movingstyle Portable Touch Screen Smart TV Orders at John Lewis",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-15T12:46:30.553Z",
-      "lastSeen": "2026-09-15T12:46:30.553Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PIXEL11PROACCS",
-      "description": "Free £200 Value Pixel 11 Pro Accessories on Pixel 11 Pro Orders",
-      "type": "fixed",
-      "value": 200,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-15T12:46:30.553Z",
-      "lastSeen": "2026-09-17T12:40:13.987Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "GS2615OFF",
-      "description": "Grab 15% Discount with John Lewis Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-15T12:46:30.553Z",
-      "lastSeen": "2026-09-15T12:46:30.553Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "JLXNINJA20",
-      "description": "Enjoy 20% Off at John Lewis with This Exclusive Promo Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-15T12:46:30.553Z",
-      "lastSeen": "2026-09-15T12:46:30.553Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "LEGODUPLO",
-      "description": "5% Off Promo Code for John Lewis Today",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-15T12:46:30.553Z",
-      "lastSeen": "2026-09-15T12:46:30.553Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "MYJL10OFF120",
@@ -1301,7 +646,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "JLCOTTON",
@@ -1316,12 +662,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "PHILIPS15POP",
@@ -1336,12 +683,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "RODDTSHIRT",
@@ -1356,12 +704,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "KINDLECASE25",
@@ -1377,12 +726,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SDJ35",
@@ -1397,12 +747,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BENEFITSAVE5",
@@ -1418,12 +769,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "APPLEWATCH1170",
@@ -1438,12 +790,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "JMLHAND100",
@@ -1458,12 +811,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "80LANCOME",
@@ -1478,12 +832,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "LM70WATCHS11",
@@ -1498,12 +853,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "LIZEARLE35",
@@ -1518,12 +874,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "DEEPSLEEP",
@@ -1538,12 +895,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "FREEDELIVERY1007",
@@ -1558,12 +916,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "FREEDELIVERY0003",
@@ -1579,14 +938,15 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-26T00:00:00Z"
+      "lastWorkedAt": "2026-10-26T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WBLS58GHTLZ8ZKY",
@@ -1601,12 +961,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "LAILA15",
@@ -1621,12 +982,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "VIPSMS25",
@@ -1641,12 +1003,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "40THISWORKS",
@@ -1661,12 +1024,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "EVELOM100",
@@ -1681,12 +1045,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "LIZEARLE40",
@@ -1702,12 +1067,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BABYBOXAUG",
@@ -1729,7 +1095,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-20T00:00:00Z"
+      "lastWorkedAt": "2026-08-20T00:00:00Z",
+      "listedAt": "2026-10-21T13:30:13.824Z"
     },
     {
       "code": "MYJLSAVE10LE001",
@@ -1751,7 +1118,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-24T00:00:00Z"
+      "lastWorkedAt": "2026-08-24T00:00:00Z",
+      "listedAt": "2026-10-27T11:28:20.543Z"
     },
     {
       "code": "ELEMIS98",
@@ -1773,49 +1141,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-01-06T00:00:00Z"
-    },
-    {
-      "code": "MARYSMEALS",
-      "description": "Free Clarins X Mary's Meals Skincare Set on £80+ Clarins Orders",
-      "type": "fixed",
-      "value": 80,
-      "minSpend": 80,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "DEEPSLEEP40",
-      "description": "Free Gift with This Works Orders Over £40 at John Lewis",
-      "type": "fixed",
-      "value": 40,
-      "minSpend": 40,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-23T00:00:00Z"
+      "lastWorkedAt": "2025-01-06T00:00:00Z",
+      "listedAt": "2026-11-06T15:41:40.358Z"
     },
     {
       "code": "SHEA50",
@@ -1835,7 +1162,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "BABYBOXJUNE",
@@ -1855,49 +1183,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SUMMER26UKI",
-      "description": "Get a 3-month free instant ink trial with this John Lewis discount code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-17T10:36:32.615Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "08DELIVERYLE",
-      "description": "Free Shipping on Your Order",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
+      "listedAt": "2026-11-02T17:43:55.093Z"
     },
     {
       "code": "MYJLPET",
@@ -1917,69 +1204,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SAMSUNGGAL30",
-      "description": "Recently saved £80.00",
-      "type": "fixed",
-      "value": 80,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-01T12:27:25.583Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-09-03T00:00:00Z"
-    },
-    {
-      "code": "SUNGLASSES50",
-      "description": "Apply Promo Code to get 50% off at John Lewis",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-17T12:40:13.987Z",
-      "lastSeen": "2026-09-20T12:31:44.565Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "15BOBBI",
-      "description": "Enjoy 15% Off Your Order: Take this John Lewis Discount Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-17T12:40:13.987Z",
-      "lastSeen": "2026-09-18T12:18:13.772Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "listedAt": "2026-10-27T11:28:20.543Z"
     },
     {
       "code": "FURNITUREDELIVERY",
@@ -2001,415 +1227,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
-    },
-    {
-      "code": "LGSOUNDSM5",
-      "description": "Take Up to 5% Off at John Lewis",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "MOTOTAG2OAK",
-      "description": "33% Off Motorola Bluetooth on Motorola G37 Smartphone Orders",
-      "type": "percentage",
-      "value": 33,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "AIRTAG",
-      "description": "25% off Apple Airtag with Apple Titanium Watch Orders at John Lewis",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-26T12:19:41.223Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BUMBLE45",
-      "description": "Free Bumble and bumble thickening gift with this John Lewis discount code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-19T13:10:07.975Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "DELIVERY09101",
-      "description": "Free Delivery on Haier X Series Washer Dryer Orders",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-20T12:31:44.565Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "code": "LOVETODREAM15",
-      "description": "Get £15 off when your order at least 2 Love to Dream sleeping bags using this voucher code",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-20T12:31:44.565Z",
-      "lastSeen": "2026-09-20T12:31:44.565Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAMSUNG10ALL",
-      "description": "Special Deals: Get 10% Off with John Lewis Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-20T12:31:44.565Z",
-      "lastSeen": "2026-09-25T12:52:04.595Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CHANTECAILLE90",
-      "description": "Free Chantecaille Faux Cils Mascara, Black on £90+ Chantecaille Orders",
-      "type": "fixed",
-      "value": 90,
-      "minSpend": 90,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-20T00:00:00Z"
-    },
-    {
-      "code": "LGSOUNDBAR082",
-      "description": "Free Soundbar with LG OLED55C64LA Smart TV Orders at John Lewis",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SONYS2000FOC",
-      "description": "Free Gift on Sony Bravia 8 Smart TV Orders",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SHOCKZOPEN30",
-      "description": "£30 Off Shokz OpenFit Air Bluetooth True Wireless Open-Ear Headphones, Black for Members",
-      "type": "fixed",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "code": "BOSCHHPI207",
-      "description": "Enjoy a Fantastic John Lewis Promo Code for 10% Off Your Next Purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-21T14:24:28.824Z",
-      "lastSeen": "2026-09-21T14:24:28.824Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "LGTV2008",
-      "description": "Enjoy a Fantastic 20% Discount with John Lewis Discount Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-21T14:24:28.824Z",
-      "lastSeen": "2026-09-21T14:24:28.824Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "MYJLTV1508",
-      "description": "Get 15% Off Your Order with John Lewis Promo Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-21T14:24:28.824Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "MYEXPERT5",
-      "description": "Unlock £5 off Your Cart",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "MARSHALL10JL08",
-      "description": "Extra savings up to 10% off on all johnlewis.com Products",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FREEPILLOW",
-      "description": "Get a free Snuz pregnancy pillow with this John Lewis discount code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-22T12:43:46.356Z",
-      "lastSeen": "2026-09-22T12:43:46.356Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "IPHONE18CASE15",
-      "description": "Apply Promo Code for savings at John Lewis",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-23T12:50:03.271Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
-    },
-    {
-      "code": "ADAPTER15",
-      "description": "Use John Lewis Promo Code and save 15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-23T12:50:03.271Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "45RITUALS",
-      "description": "Enjoy 45% off with John Lewis Discount Code",
-      "type": "percentage",
-      "value": 45,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-23T12:50:03.271Z",
-      "lastSeen": "2026-09-23T12:50:03.271Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-09-25T00:00:00Z",
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "40LEGO",
@@ -2431,7 +1250,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "TCLTV15",
@@ -2451,29 +1271,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SAMSUNGQS90H1",
-      "description": "Savings are available on your order",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "listedAt": "2026-10-29T14:58:30.815Z"
     },
     {
       "code": "LMSHIMMERS",
@@ -2495,7 +1294,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2025-02-05T00:00:00Z"
+      "lastWorkedAt": "2025-02-05T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "DELIVERY0910LE",
@@ -2511,36 +1311,15 @@
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z"
-    },
-    {
-      "code": "SONOSERASL1005",
-      "description": "Unlock a 5% Discount with John Lewis Promo Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-24T12:48:45.493Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
+      "lastWorkedAt": "2026-10-31T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "DELIVERINSTALLHPI774",
@@ -2560,129 +1339,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "MYAEG10",
-      "description": "10% Off Orders for Members",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BERTAZZONI094",
-      "description": "Free Gift on Bertazzoni Gas Orders",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BERTAZZONI092",
-      "description": "Free Gift with Bertazzoni Cooker Orders at John Lewis",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "NEFF50HOOD",
-      "description": "£50 off Neff Cooker Hood with Neff Tempered Glass Orders at John Lewis",
-      "type": "fixed",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SAMSUNGS6D",
-      "description": "30% Off with John Lewis Promo Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-25T12:52:04.595Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BB20OFF",
-      "description": "Up to 20% Off at John Lewis",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-30T14:25:47.257Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-09-29T00:00:00Z"
+      "listedAt": "2026-10-26T13:31:31.584Z"
     },
     {
       "code": "TV10OCT",
@@ -2704,67 +1362,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
-    },
-    {
-      "code": "BENEFITSAVE10",
-      "description": "£10 off Benefit Orders Over £50 at John Lewis",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 50,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-10-12T14:05:57.990Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BERTAZZONI091",
-      "description": "Free Gift on Bertazzoni Heritage Series Range Cooker Orders",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BOSCHHPIDELIV09",
-      "description": "Save more with John Lewis Promo Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-26T12:19:41.223Z",
-      "lastSeen": "2026-09-26T12:19:41.223Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-09-25T00:00:00Z",
+      "listedAt": "2026-10-18T10:29:12.748Z"
     },
     {
       "code": "BOSCH50HOOD",
@@ -2784,7 +1383,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-18T13:37:21.092Z"
     },
     {
       "code": "NEWJOINER",
@@ -2804,69 +1404,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "OURA4JL",
-      "description": "20% Off John Lewis Discount Code – Shop and Save Now",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-09-28T13:19:16.812Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "BENEFITSAVE20",
-      "description": "20% Off Your Purchase at John Lewis",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
-    },
-    {
-      "code": "PIXEL11FOLDACCS",
-      "description": "A sale on your order at johnlewis.com",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-09-30T14:25:47.257Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "listedAt": "2026-10-13T15:38:25.584Z"
     },
     {
       "code": "MYJLCANON20",
@@ -2889,7 +1428,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-20T00:00:00Z"
+      "lastWorkedAt": "2026-10-20T00:00:00Z",
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "10LEGO",
@@ -2906,13 +1446,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CRICUT30",
@@ -2928,13 +1469,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CRICUT15",
@@ -2950,13 +1492,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CRICUT5",
@@ -2973,14 +1516,15 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "lastWorkedAt": "2026-10-19T00:00:00Z"
+      "lastWorkedAt": "2026-10-19T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "MYJLSONY200",
@@ -2996,13 +1540,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "GOOGLE50",
@@ -3017,12 +1562,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "25NORTON",
@@ -3038,13 +1584,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "FREETVDELIVERY1001",
@@ -3060,12 +1607,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CHITOSAN",
@@ -3076,56 +1624,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "LCTVGS45",
-      "description": "Unlock 45% off using John Lewis Discount Code",
-      "type": "percentage",
-      "value": 45,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-10-02T14:25:11.634Z",
-      "lastSeen": "2026-10-02T14:25:11.634Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "KINDLECASE15",
-      "description": "Save £15 on Selected Amazon Cases",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "LAUNDRYKNIT",
@@ -3145,7 +1655,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-24T12:32:52.250Z"
     },
     {
       "code": "CLINIQUESET20",
@@ -3156,36 +1667,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-31T14:11:25.661Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "PIXEL11PROCASE",
-      "description": "Apply John Lewis Discount Code for savings",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-03T04:53:39.770Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "HPCHARGE1",
@@ -3196,38 +1691,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
-    },
-    {
-      "code": "PIXELBUDSPRO2",
-      "description": "Enjoy a discount with John Lewis Discount Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-10-28T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "EL50SET",
@@ -3249,7 +1726,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "06SOUNDBAR251",
@@ -3269,49 +1747,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SHOWJL1350",
-      "description": "Enjoy Big Savings on the Latest Products",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-10-08T00:00:00Z"
-    },
-    {
-      "code": "JLKINDLE850",
-      "description": "You'll enjoy something new with the latest promotion",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/john-lewis.co.uk",
-      "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SAMSUNGAFF09",
@@ -3331,7 +1768,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "GIVENCHY20",
@@ -3353,7 +1791,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z",
+      "listedAt": "2026-11-10T09:00:21.533Z"
     },
     {
       "code": "SEPT26ATB10",
@@ -3373,7 +1812,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-23T13:10:32.892Z"
     },
     {
       "code": "CLARINSSET80",
@@ -3396,7 +1836,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-10-28T14:36:13.997Z"
     },
     {
       "code": "BBSAVE15",
@@ -3419,7 +1860,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-18T00:00:00Z"
+      "lastWorkedAt": "2026-10-18T00:00:00Z",
+      "listedAt": "2026-10-27T11:28:20.543Z"
     },
     {
       "code": "SISLEYPARIS200",
@@ -3439,27 +1881,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "LEHPI10",
-      "description": "Apply Promo Code to get 10% off at John Lewis",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/john-lewis",
-      "addedAt": "2026-10-12T17:19:35.227Z",
-      "lastSeen": "2026-10-12T17:19:35.227Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-27T13:25:39.484Z"
     },
     {
       "code": "VITALPERFECTION",
@@ -3479,7 +1902,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-13T15:38:25.584Z"
     },
     {
       "code": "TCLTV10",
@@ -3490,18 +1914,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-14T13:25:10.108Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-14T00:00:00Z"
+      "lastWorkedAt": "2026-10-14T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "PIXEL11PROXLCASE",
@@ -3521,7 +1947,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "TRADE75",
@@ -3543,7 +1970,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "OCTBEAUTYBOX",
@@ -3565,7 +1993,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-16T00:00:00Z"
+      "lastWorkedAt": "2026-10-16T00:00:00Z",
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "USG10TY0306",
@@ -3585,7 +2014,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-29T14:58:30.815Z"
     },
     {
       "code": "MCAFEE60",
@@ -3596,18 +2026,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-10-18T10:29:12.748Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-10-31T12:21:35.986Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "MATIERE250",
@@ -3629,7 +2061,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-22T00:00:00Z"
+      "lastWorkedAt": "2026-10-22T00:00:00Z",
+      "listedAt": "2026-11-10T16:08:37.281Z"
     },
     {
       "code": "TRINNYCLEANER",
@@ -3649,7 +2082,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-25T13:04:57.179Z"
     },
     {
       "code": "GOOGLEPIXELBUDS07",
@@ -3669,7 +2103,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-21T13:30:13.824Z"
     },
     {
       "code": "AEGMICRO100",
@@ -3689,7 +2124,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T14:50:06.082Z"
     },
     {
       "code": "FRAGRANCE30",
@@ -3711,7 +2147,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-21T00:00:00Z"
+      "lastWorkedAt": "2026-10-21T00:00:00Z",
+      "listedAt": "2026-10-27T13:25:39.484Z"
     },
     {
       "code": "DECSAVE",
@@ -3732,7 +2169,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "FOLD8",
@@ -3752,7 +2190,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T14:50:36.707Z"
     },
     {
       "code": "SONOSACE5",
@@ -3763,18 +2202,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-20T13:17:34.310Z",
-      "lastSeen": "2026-11-06T15:41:40.358Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-22T00:00:00Z"
+      "lastWorkedAt": "2026-10-22T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "OCTBABYBOX",
@@ -3797,7 +2238,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-08T00:00:00Z"
+      "lastWorkedAt": "2026-11-08T00:00:00Z",
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "FRAGRANCE10",
@@ -3817,7 +2259,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "TOMFORDGWP3",
@@ -3837,7 +2280,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "TRIO150",
@@ -3859,7 +2303,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "180ADP",
@@ -3879,7 +2324,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T14:50:36.707Z"
     },
     {
       "code": "SONOSMOVE5",
@@ -3899,7 +2345,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-21T13:30:13.824Z"
     },
     {
       "code": "AEGMICRO150",
@@ -3919,7 +2366,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T08:28:53.816Z"
     },
     {
       "code": "CKJREWS",
@@ -3934,12 +2382,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-10-22T10:44:37.881Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "US40TR5008",
@@ -3959,7 +2408,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-31T14:11:25.661Z"
     },
     {
       "code": "SONOSRAY5",
@@ -3981,7 +2431,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
+      "lastWorkedAt": "2026-10-28T00:00:00Z",
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "TRAVEL90",
@@ -4001,7 +2452,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "MYJLBEATS",
@@ -4023,7 +2475,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-06T13:48:54.663Z"
     },
     {
       "code": "AEGDELIVERY2310",
@@ -4043,7 +2496,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "S50B",
@@ -4063,7 +2517,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T08:28:53.816Z"
     },
     {
       "code": "NEOMTC26",
@@ -4083,7 +2538,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-24T12:32:52.250Z"
     },
     {
       "code": "AEG100",
@@ -4103,7 +2559,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "STUDIO5",
@@ -4123,7 +2580,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-24T16:19:46.607Z"
     },
     {
       "code": "BOSCHS2",
@@ -4143,7 +2601,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "AEG75",
@@ -4164,7 +2623,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "CLINIQUE10",
@@ -4184,7 +2644,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "AEG50",
@@ -4207,7 +2668,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-10-30T00:00:00Z",
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "DYSONCLIPS",
@@ -4218,18 +2680,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-10-26T13:31:31.584Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-11-03T05:20:23.652Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "POUCH220",
@@ -4252,7 +2716,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-25T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "NURSERYBABY10",
@@ -4274,7 +2739,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T16:08:37.281Z"
     },
     {
       "code": "WRAP5",
@@ -4296,7 +2762,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "FRAGRANCE20",
@@ -4316,7 +2783,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-27T13:25:39.484Z"
     },
     {
       "code": "BEAUTY100",
@@ -4328,18 +2796,20 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "wethrift"
+        "wethrift",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-01T00:00:00Z"
+      "lastWorkedAt": "2026-11-01T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SKINROCKS75",
@@ -4359,7 +2829,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-29T14:58:30.815Z"
     },
     {
       "code": "GIVENCHY15",
@@ -4382,7 +2853,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-25T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SHARKPOWERPRO90",
@@ -4402,7 +2874,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "SAMSUNGTV10OCT",
@@ -4422,7 +2895,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T14:50:06.082Z"
     },
     {
       "code": "SAMSOUND4",
@@ -4442,7 +2916,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T14:50:06.082Z"
     },
     {
       "code": "TARGUSVERSAVU",
@@ -4462,7 +2937,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "BOSETRADEIN10",
@@ -4482,7 +2958,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "LEGOSS25",
@@ -4502,7 +2979,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "LG20TV",
@@ -4522,7 +3000,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "SONOSARC5",
@@ -4542,7 +3021,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-04T16:03:15.495Z"
     },
     {
       "code": "DELIVERYTV",
@@ -4564,7 +3044,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "US70TR0306",
@@ -4584,7 +3065,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-03T15:49:13.765Z"
     },
     {
       "code": "SHARKCRYO15",
@@ -4604,7 +3086,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-03T15:49:13.765Z"
     },
     {
       "code": "FIVE5U",
@@ -4619,12 +3102,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WELCOME2026",
@@ -4639,12 +3123,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "LGSOUND2",
@@ -4655,18 +3140,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-06T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CANDLE130",
@@ -4686,7 +3173,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "INSTALL45",
@@ -4708,7 +3196,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-08T08:28:53.816Z"
     },
     {
       "code": "BOOMDOCK",
@@ -4730,7 +3219,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "DYSONPADDLEPINK",
@@ -4752,7 +3242,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-06T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "PAPERWHITECASE25",
@@ -4772,7 +3263,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-04T16:03:15.495Z"
     },
     {
       "code": "2026DELIVERYFSD",
@@ -4794,7 +3286,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "LEDELIVERY",
@@ -4806,18 +3299,20 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "NOVDELIVERY",
@@ -4839,7 +3334,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z",
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "SAMMUSIC5SOUND",
@@ -4859,7 +3355,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SAMMUSIC7SOUND",
@@ -4870,16 +3367,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T09:55:05.852Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "FLORALSTREET60",
@@ -4890,16 +3391,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T09:59:40.327Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "QS750F",
@@ -4919,7 +3424,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "LOVE2DREAM15",
@@ -4941,7 +3447,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-06T15:41:40.358Z"
     },
     {
       "code": "AVEDA10",
@@ -4961,7 +3468,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-06T15:41:40.358Z"
     },
     {
       "code": "LGSOUND50",
@@ -4981,7 +3489,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-06T15:41:40.358Z"
     },
     {
       "code": "SAMSUNGS80FREE",
@@ -5001,7 +3510,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "LENOVOCHARGE20",
@@ -5012,16 +3522,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T08:28:53.816Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "FFBTYTK",
@@ -5041,7 +3553,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T14:50:36.707Z"
     },
     {
       "code": "MYLAPTOP15",
@@ -5052,16 +3565,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-11-08T14:50:36.707Z",
-      "lastSeen": "2026-11-10T09:00:21.533Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T04:14:01.837Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BESPOKE",
@@ -5081,7 +3598,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T14:50:36.707Z"
     },
     {
       "code": "SONOSPLAY5",
@@ -5101,7 +3619,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T14:50:36.707Z"
     },
     {
       "code": "WBLS5DFB4MAPI4N",
@@ -5122,7 +3641,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "PTV26",
@@ -5143,7 +3663,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "TAPJOY",
@@ -5164,7 +3685,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "AEGHPI2310",
@@ -5175,16 +3697,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T11:58:54.790Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SAMSUNGSPACE100",
@@ -5204,7 +3730,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T16:08:37.281Z"
     },
     {
       "code": "Q600HFOC",
@@ -5224,7 +3751,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SIMPLYCODES",
@@ -5239,12 +3767,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CART15",
@@ -5259,12 +3788,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/johnlewis.com",
       "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "TRINNYLONDON70",
@@ -5275,16 +3805,20 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/john-lewis.co.uk",
       "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T11:02:26.705Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "70FRESH",
@@ -5304,7 +3838,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "APP10",
@@ -5316,16 +3851,20 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-11-11T15:56:39.426Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T11:40:56.829Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SAMSUNGSPACE2100",
@@ -5345,7 +3884,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "HWQS750F09",
@@ -5365,7 +3905,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "MIELE2250",
@@ -5376,16 +3917,286 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/john-lewis",
       "addedAt": "2026-11-11T15:56:39.426Z",
-      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-02T10:35:28.408Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "FIRST15",
+      "description": "20% off • 1374 Competitor Deals • Last Checked: Just now Top codes Best deals Activity Saving hacks FAQ Today's John Lewis promo",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "HELLO10",
+      "description": "20% off at johnlewis.com",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "THANKS20",
+      "description": "20% off at johnlewis.com",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "HELLO15",
+      "description": "20% off at johnlewis.com",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "MYGALAXYTAB140",
+      "description": "Save £140 on Samsung Galaxy Tab S12 Ultra for My John Lewis members",
+      "type": "fixed",
+      "value": 140,
+      "minSpend": null,
+      "expiry": "2026-11-16T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T04:16:08.141Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SAMGALULTRA100",
+      "description": "Save £100 on Galaxy Watch Ultra2 with this John Lewis voucher code",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": "2026-11-17T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T14:39:22.767Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "PIXEL11FOLDCASE",
+      "description": "Purchase a Google Pixel 11 Pro fold and get 50% off a phone case",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": "2026-11-17T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T12:22:17.430Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "BT50",
+      "description": "Buy selected Christmas trees and get 50% off baubles",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": "2026-11-17T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T05:41:52.957Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "KINDLEFABRIC",
+      "description": "Take £25 off a case when you purchase this Kindle",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-11-16T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T10:11:25.334Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SONOSSUB10",
+      "description": "Buy a Sonos soundbar and subwoofer together and get 10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "LANCOMEXMAS90",
+      "description": "Receive the Lancôme holiday beauty box Christmas gift set when you spend over £50",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 50,
+      "expiry": "2026-11-16T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T05:14:05.625Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "PIXEL10CASE",
+      "description": "Receive a free phone case with a Google Pixel 10 smartphone purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-17T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnlewis.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T04:53:58.064Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

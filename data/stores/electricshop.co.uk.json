@@ -23,7 +23,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "TRADE250",
@@ -45,7 +46,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SAVE200",
@@ -67,7 +69,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SONY20",
@@ -88,7 +91,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SONYSAVE15",
@@ -109,7 +113,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SAM15",
@@ -130,7 +135,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "LG15PERCENT",
@@ -151,7 +157,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "8728CXVW",
@@ -172,7 +179,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "10CART",
@@ -193,7 +201,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "20CART",
@@ -214,7 +223,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "GWJUN19",
@@ -235,7 +245,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SW3HJEPT7T21",
@@ -256,7 +267,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BUNNY40DEAL",
@@ -277,7 +289,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "RADIO20",
@@ -298,49 +311,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "BUYDIG50",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://electricshop.knoji.com/",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "10OFF150",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://electricshop.knoji.com/",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BUYDIG15",
@@ -361,27 +333,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "SAM100",
-      "description": "Up to £100 off orders at Electricshop",
-      "type": "fixed",
-      "value": 100,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/electricshop-discount-codes",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": false,
+      "listedAt": "2026-10-24T16:19:46.607Z"
     },
     {
       "code": "COFFEE20",
@@ -401,7 +354,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T10:42:51.592Z"
     },
     {
       "code": "SAVE250",
@@ -423,7 +377,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "ESHOP30",
@@ -445,7 +400,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "TCL15",
@@ -466,7 +422,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "VIP75",
@@ -487,7 +444,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-28T12:04:45.735Z"
     },
     {
       "code": "WC26",
@@ -508,7 +466,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CM15",
@@ -529,7 +488,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "TCL20",
@@ -550,7 +510,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BUYDIG10",
@@ -571,7 +532,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "AEG10",
@@ -593,7 +555,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "KNOCK20",
@@ -614,7 +577,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-05T13:48:53.775Z"
     },
     {
       "code": "BFSP15",
@@ -635,7 +599,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "THX25",
@@ -656,7 +621,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     }
   ]
 }

@@ -1,0 +1,74 @@
+{
+  "domain": "groceries.iceland.co.uk",
+  "name": "Iceland",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ICE15OFF75",
+      "description": "Get £15 off first orders over £75 with this Iceland discount code",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": 75,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/groceries.iceland.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T14:20:29.912Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "ICE10OFF60",
+      "description": "£10 off orders over £60 for new customers with this Iceland promo code",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 60,
+      "expiry": "2026-12-31T22:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/groceries.iceland.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T17:29:55.425Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "ICE5OFF45",
+      "description": "£5 off for new customers spending £45+ using this code",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/groceries.iceland.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

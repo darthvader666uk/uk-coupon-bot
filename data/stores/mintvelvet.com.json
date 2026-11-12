@@ -23,7 +23,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MVWELCOME15",
@@ -35,17 +36,20 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://mintvelvet.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T15:42:57.294Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "10MVHELLO",
@@ -57,17 +61,20 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://mintvelvet.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T15:40:58.764Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "HELLOMV10",
@@ -79,17 +86,20 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://mintvelvet.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T15:42:06.728Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SPRINGMV15",
@@ -110,7 +120,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MVMAR15",
@@ -131,7 +142,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MV15JUNE",
@@ -152,7 +164,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MV15MAY",
@@ -173,7 +186,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MVHELLO15",
@@ -194,7 +208,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SHEERLUXE20",
@@ -215,7 +230,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MV20",
@@ -236,7 +252,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MVHELLO10",
@@ -257,49 +274,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "15SPRING",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://mintvelvet.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "DSLMOON10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://mintvelvet.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MVTREAT20",
@@ -322,7 +298,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "SOGREAT",
@@ -343,7 +320,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SHIP2ME",
@@ -364,47 +342,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "EASY12",
-      "description": "Take 20% off your order today when applying this Mint Velvet in cart.",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/mintvelvet.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "VIP2017",
-      "description": "Get an extra 10% off when you use this Mint Velvet discount code.",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/mintvelvet.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": false,
+      "listedAt": "2026-10-24T16:19:46.607Z"
     },
     {
       "code": "STUDENT484769",
@@ -415,16 +354,20 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/mintvelvet.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T15:39:48.810Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "NNM_NZ79SD",
@@ -445,7 +388,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "BLOOMCHIC",
@@ -466,7 +410,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "B33-WZV",
@@ -487,7 +432,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "DSLHONEY10",
@@ -508,7 +454,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SAROOP15",
@@ -528,7 +475,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "FARM20",
@@ -549,7 +497,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     }
   ]
 }

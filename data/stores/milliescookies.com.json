@@ -1,0 +1,49 @@
+{
+  "domain": "milliescookies.com",
+  "name": "Millie's Cookies",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EXTRA20",
+      "description": "Redeem the Millie's Cookies coupon for a 50% off on your orders",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/milliescookies.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "MILLIES10",
+      "description": "Use Millie's Cookies coupon for a 10% savings on your orders",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/milliescookies.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

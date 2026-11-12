@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "M2C",
-      "description": "Discount on policies via partner code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/insurancewith",
-      "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-10-08T15:10:11.855Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "WINTER26",
       "description": "Save More, Get 20% Off Your Order",
       "type": "percentage",
@@ -42,7 +22,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "NOV26",
@@ -62,7 +43,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     }
   ]
 }

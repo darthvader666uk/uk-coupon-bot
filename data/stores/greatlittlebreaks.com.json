@@ -12,16 +12,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/great-little-breaks-discount-codes",
       "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CINDERELLA",
@@ -41,7 +43,52 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T09:24:39.308Z"
+    },
+    {
+      "code": "VIPVBP",
+      "description": "Save up to 35% Bletchley park experience with this Great Little Breaks discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/greatlittlebreaks.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "VIPRHSGLOW",
+      "description": "VIP Members: save £20 on your RHS Glow Wisley booking",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-12T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/greatlittlebreaks.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T11:52:32.452Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

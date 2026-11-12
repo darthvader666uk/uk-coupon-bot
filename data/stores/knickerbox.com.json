@@ -1,0 +1,30 @@
+{
+  "domain": "knickerbox.com",
+  "name": "Knickerbox",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SINGLE20",
+      "description": "Get 20% off in the Singles' Day Sale",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-12T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/knickerbox.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T14:19:53.515Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

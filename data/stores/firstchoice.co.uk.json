@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "SEA200",
-      "description": "Use this TUI promo code at checkout to apply £200 off per booking on sailings departing between 1st October 2026 and 31st January 2027.",
-      "type": "fixed",
-      "value": 200,
-      "minSpend": null,
-      "expiry": null,
-      "source": "caramel",
-      "sources": [
-        "caramel"
-      ],
-      "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "SAILAWAY300",
       "description": "Take £300 per booking on long-haul sailings around the caribbean with this First Choice code.",
       "type": "fixed",
@@ -37,14 +17,15 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-01-26T00:00:00Z"
+      "lastWorkedAt": "2026-01-26T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BLK150",
@@ -60,14 +41,15 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-01-26T00:00:00Z"
+      "lastWorkedAt": "2026-01-26T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BFRIDAY",
@@ -82,12 +64,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "GETAWAY",
@@ -103,14 +86,15 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SAILAWAY200",
@@ -126,14 +110,15 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-01-22T00:00:00Z"
+      "lastWorkedAt": "2026-01-22T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "UNIVERSAL200",
@@ -148,18 +133,40 @@
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
-      "code": "UQ96B67EC0",
-      "description": "Get up to 10% off when you add this First Choice code.",
-      "type": "percentage",
-      "value": 10,
+      "code": "SAVE100",
+      "description": "Enjoy £100 off per booking on 7 & 10 night holidays when you spend £800 at First Choice.",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 800,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SUMMER",
+      "description": "Take an extra £100 off on your purchase at firstchoice.co.uk.",
+      "type": "fixed",
+      "value": 100,
       "minSpend": null,
       "expiry": null,
       "source": "caramel",
@@ -167,55 +174,14 @@
         "caramel"
       ],
       "url": "https://grabcaramel.com/coupons/firstchoice.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SUMMERFUN",
-      "description": "Get 10% Off selected products on Your Order",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/firstchoice.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "CHELSEA50",
-      "description": "50% Off Your Purchase at First Choice",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/firstchoice.co.uk",
-      "addedAt": "2026-10-04T11:56:09.669Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

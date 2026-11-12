@@ -1,0 +1,49 @@
+{
+  "domain": "furnitureinfashion.net",
+  "name": "Furniture in Fashion",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FIF20",
+      "description": "Save an extra 20% when you spend £2,000 or more using this Furniture in Fashion discount code",
+      "type": "fixed",
+      "value": 2,
+      "minSpend": 2,
+      "expiry": "2026-11-12T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/furnitureinfashion.net",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "FIF15",
+      "description": "Extra 15% off all orders over £999 with this Furniture in Fashion discount code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 999,
+      "expiry": "2026-11-12T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/furnitureinfashion.net",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

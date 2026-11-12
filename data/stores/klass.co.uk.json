@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "DELIVERY",
-      "description": "Free Delivery at Klass",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/klass-discount-codes",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "HAPPY15",
       "description": "Extra 15% off Full-Priced at Klass",
       "type": "percentage",
@@ -43,7 +23,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "10NEW",
@@ -65,7 +46,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "KLNC20",
@@ -87,7 +69,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "NHS15FPNP",
@@ -99,17 +82,19 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/klass-discount-codes",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "NEWSLETTER15",
@@ -120,17 +105,20 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://klass.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-03T17:10:16.955Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "AUT20",
@@ -152,7 +140,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "HOTHOTHOT",
@@ -173,7 +162,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "GROUPON20",
@@ -194,7 +184,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FESTIVE15",
@@ -215,7 +206,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "WOM20",
@@ -236,7 +228,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "RSVPYES",
@@ -257,7 +250,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "COSY15",
@@ -277,7 +271,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUNSHINE",
@@ -298,7 +293,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "COSY20",
@@ -318,7 +314,71 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
+    },
+    {
+      "code": "WELCOME15",
+      "description": "Spend £30 on your first purchase and take 15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 30,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/klass.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "EXTRA15",
+      "description": "Enjoy an extra 15% off on sale items with this Klass discount code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-11-24T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/klass.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "KLN15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-24T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/klass.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

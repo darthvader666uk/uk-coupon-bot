@@ -23,7 +23,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SEP30",
@@ -47,7 +48,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
+      "lastWorkedAt": "2026-09-22T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BANKHOL30",
@@ -71,7 +73,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-04T00:00:00Z"
+      "lastWorkedAt": "2026-10-04T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "DETAIL20",
@@ -96,7 +99,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
+      "lastWorkedAt": "2026-09-21T00:00:00Z",
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "PARTS30",
@@ -114,14 +118,15 @@
       ],
       "url": "https://www.coupert.com/store/gsfcarparts.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "TDC25",
@@ -145,7 +150,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "MW25",
@@ -168,7 +174,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-19T00:00:00Z"
+      "lastWorkedAt": "2026-09-19T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "GSF121325GT",
@@ -191,7 +198,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "MAT25",
@@ -214,7 +222,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BATTERY35",
@@ -237,7 +246,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-29T00:00:00Z"
+      "lastWorkedAt": "2026-09-29T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "AFF17OFF",
@@ -260,247 +270,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
-    },
-    {
-      "code": "71SIX",
-      "description": "Get Up to 25% Off at GSF Car Parts",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
-      "code": "FSH65",
-      "description": "65% Off at GSF Car Parts",
-      "type": "percentage",
-      "value": 65,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
-    },
-    {
-      "code": "BOX60",
-      "description": "Shop Now at GSF Car Parts and Get 60% Off",
-      "type": "percentage",
-      "value": 60,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-20T00:00:00Z"
-    },
-    {
-      "code": "MAY25",
-      "description": "25% Off GSF Car Parts Discount Code for Your Orders",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
-    },
-    {
-      "code": "STREET0626",
-      "description": "Discover Savings of £38.3 - Shop Now at GSF Car Parts",
-      "type": "fixed",
-      "value": 38.3,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-30T00:00:00Z"
-    },
-    {
-      "code": "BWS50",
-      "description": "Weekend offer 50% off",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-19T00:00:00Z"
-    },
-    {
-      "code": "DURACELL30",
-      "description": "Enjoy Up to 30% Off with GSF Car Parts Coupon",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-07T00:00:00Z"
-    },
-    {
-      "code": "SEP22",
-      "description": "25% off promotional pricing now available",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-16T00:00:00Z"
-    },
-    {
-      "code": "MAR25",
-      "description": "25% Off car parts, Free Shipping",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-07T00:00:00Z"
-    },
-    {
-      "code": "SPICYBN1",
-      "description": "Things are heating up with Checkmate . Save with the best savings app",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SPR65",
-      "description": "65% Off GSF Car Parts Coupon on Your Purchase",
-      "type": "percentage",
-      "value": 65,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "ANORAK",
@@ -523,117 +294,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
-    },
-    {
-      "code": "TURBO30",
-      "description": "GSF Car Parts Offers 30% Off Promo Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-18T00:00:00Z"
-    },
-    {
-      "code": "MOT25",
-      "description": "Shop Now and Save 25%",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-19T10:04:40.460Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-10T00:00:00Z"
-    },
-    {
-      "code": "GSF25",
-      "description": "25% Off car parts, Free Shipping: The best GSF Car Parts discount code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-20T00:00:00Z"
-    },
-    {
-      "code": "PAY24",
-      "description": "Get 5% Off with GSF Car Parts Coupon Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
-    },
-    {
-      "code": "WELUDAXL0F2ZOT9",
-      "description": "Slash prices on your favorite products",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-20T00:00:00Z"
+      "lastWorkedAt": "2026-09-22T00:00:00Z",
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "LUKE25",
@@ -656,29 +318,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
-    },
-    {
-      "code": "MEG25",
-      "description": "25% Off website or app orders: The best GSF Car Parts discount code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
+      "lastWorkedAt": "2026-10-09T00:00:00Z",
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "SS30",
@@ -695,256 +336,15 @@
       ],
       "url": "https://www.coupert.com/store/gsfcarparts.com",
       "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-11-03T13:28:55.454Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
-    },
-    {
-      "code": "APP30",
-      "description": "30% Off Storewide at GSF Car Parts",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
-    },
-    {
-      "code": "EVERY30",
-      "description": "Up to 15% Off at GSF Car Parts",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
-    },
-    {
-      "code": "JUNE24",
-      "description": "Get 20% Off with GSF Car Parts Coupon Code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-23T00:00:00Z"
-    },
-    {
-      "code": "MOT24",
-      "description": "24% Off car parts, Free Shipping",
-      "type": "percentage",
-      "value": 24,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "code": "BAT30",
-      "description": "Save 30% on Select Items",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-17T00:00:00Z"
-    },
-    {
-      "code": "WELP38CH4XABKB2",
-      "description": "Gsfcarparts.com has available savings for you",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-24T10:42:02.864Z",
-      "lastSeen": "2026-09-24T10:42:02.864Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-16T00:00:00Z"
-    },
-    {
-      "code": "LARA20",
-      "description": "Limited Time: 15% Off GSF Car Parts Promo Code",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-03T00:00:00Z"
-    },
-    {
-      "code": "ROAD26",
-      "description": "Competitive pricing and current savings at gsfcarparts.com",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-25T00:00:00Z"
-    },
-    {
-      "code": "AUG30",
-      "description": "30% Off GSF Car Parts Discount Code for Your Orders",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-25T10:47:14.050Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-16T00:00:00Z"
-    },
-    {
-      "code": "GSF9REW",
-      "description": "Get 45% Off Your Order At GSF Car Parts",
-      "type": "percentage",
-      "value": 45,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
-      "code": "NY2026",
-      "description": "Gsfcarparts.com has available savings for you",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z"
+      "lastWorkedAt": "2026-09-27T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "AA25",
@@ -967,117 +367,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-26T00:00:00Z"
-    },
-    {
-      "code": "APR25",
-      "description": "GSF Car Parts Promo Code: 25% Off Your Entire Order",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "code": "KATANA30",
-      "description": "Limited Time: 30% Off GSF Car Parts Promo Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-28T12:17:26.677Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-22T00:00:00Z"
-    },
-    {
-      "code": "DEC30",
-      "description": "30% off Car Parts, Free Shipping: The best GSF Car Parts discount code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-09-26T10:28:42.866Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-16T00:00:00Z"
-    },
-    {
-      "code": "RACE0926",
-      "description": "Get 25% Off Using GSF Car Parts Coupon Code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-30T00:00:00Z"
-    },
-    {
-      "code": "SUM65",
-      "description": "65% Off Your Purchase with Exclusive Coupon",
-      "type": "percentage",
-      "value": 65,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-19T00:00:00Z"
+      "lastWorkedAt": "2026-09-26T00:00:00Z",
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "SPEND30",
@@ -1101,183 +392,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
-      "code": "BF011230GSF25",
-      "description": "Enjoy a discount at gsfcarparts.com",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
-      "code": "AB1125PMSSA",
-      "description": "Extra Benefits with This GSF Car Parts Promo Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z"
-    },
-    {
-      "code": "WIN65",
-      "description": "65% Off GSF Car Parts Coupon on Your Purchase",
-      "type": "percentage",
-      "value": 65,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-29T00:00:00Z"
-    },
-    {
-      "code": "KIT50",
-      "description": "50% OFF Oils and Filters",
-      "type": "percentage",
-      "value": 50,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-03T11:14:32.650Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
-      "code": "RAIN30",
-      "description": "You're in for a treat - save 25%",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-02T00:00:00Z"
-    },
-    {
-      "code": "GEEKY25",
-      "description": "Get 25% off on your purchase",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-02T11:56:13.373Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-27T00:00:00Z"
-    },
-    {
-      "code": "SORRY25",
-      "description": "25% Off GSF Car Parts Discount Code",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
-    },
-    {
-      "code": "BATTERY30",
-      "description": "Exclusive 30% Off Promo Code at GSF Car Parts",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-28T00:00:00Z"
+      "lastWorkedAt": "2026-10-02T00:00:00Z",
+      "listedAt": "2026-11-01T12:21:17.882Z"
     },
     {
       "code": "UPGRADE10",
@@ -1294,14 +410,15 @@
       ],
       "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "lastWorkedAt": "2026-10-06T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "OCT30",
@@ -1325,93 +442,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
-    },
-    {
-      "code": "ABAPTV6JAC4",
-      "description": "Get 30% Off with GSF Car Parts Coupon Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
-    },
-    {
-      "code": "D10177920",
-      "description": "35% Off on Your GSF Car Parts Order",
-      "type": "percentage",
-      "value": 35,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-09T00:00:00Z"
-    },
-    {
-      "code": "PAY25",
-      "description": "GSF Car Parts Promo Code for 25% Off - Shop Now",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-10T00:00:00Z"
-    },
-    {
-      "code": "NEW65",
-      "description": "65% Off Any Purchase",
-      "type": "percentage",
-      "value": 65,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/gsfcarparts.com",
-      "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-10-10T00:00:00Z",
+      "listedAt": "2026-11-01T12:21:17.882Z"
     },
     {
       "code": "BAZ60X",
@@ -1432,7 +464,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CAZ60X",
@@ -1453,7 +486,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "MID60",
@@ -1474,7 +508,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "REP5",
@@ -1495,7 +530,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "AZSAVINGS",
@@ -1516,7 +552,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-24T10:14:28.255Z"
     },
     {
       "code": "CRUISEON",
@@ -1537,7 +574,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-28T12:04:45.735Z"
     },
     {
       "code": "NAPATEXT",
@@ -1558,7 +596,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-24T10:14:28.255Z"
     },
     {
       "code": "FB3OFF2",
@@ -1579,7 +618,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-28T12:04:45.735Z"
     },
     {
       "code": "GLASS50",
@@ -1600,7 +640,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CLUBOSCARO10",
@@ -1621,7 +662,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "BIG60",
@@ -1642,7 +684,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SUM45",
@@ -1663,7 +706,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SAVINGS4YOU",
@@ -1684,7 +728,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "MONEY10",
@@ -1705,7 +750,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CNLGY20",
@@ -1726,7 +772,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-28T12:04:45.735Z"
     },
     {
       "code": "SAVE10UP",
@@ -1747,7 +794,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "LEAFDROP",
@@ -1768,7 +816,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "TUNECP5",
@@ -1789,7 +838,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "TREAT30",
@@ -1805,13 +855,14 @@
       ],
       "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "NOV30",
@@ -1822,17 +873,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://gsfcarparts.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "EMWC10P100A01LZZZC",
@@ -1853,7 +906,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CARE20",
@@ -1874,7 +928,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "JUN30",
@@ -1894,7 +949,29 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T09:24:39.308Z"
+    },
+    {
+      "code": "CAR30",
+      "description": "30% off car parts when you use this GSF Car Parts discount code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": "2026-11-13T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/gsfcarparts.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

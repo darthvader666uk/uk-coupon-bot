@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-29T12:14:25.904Z"
     },
     {
       "code": "CLOSEOUTS",
@@ -43,47 +44,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "WAVERLY",
-      "description": "15% off Tuners + Pins",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/stewmac.com",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PEAKMETER",
-      "description": "Take 10% Off Sitewide on Everything",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/stewmac.com",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "STEWMAC",
@@ -103,7 +65,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T10:42:51.592Z"
     },
     {
       "code": "NOCOUPONNEEDED",
@@ -123,7 +86,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-16T10:42:51.592Z"
     },
     {
       "code": "EEEEEEEEEEEEEEEEEEEEEE",
@@ -143,7 +107,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "W5OFF",
@@ -164,7 +129,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FAM25",
@@ -185,7 +151,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SUBSCRIBED",
@@ -206,7 +173,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     }
   ]
 }

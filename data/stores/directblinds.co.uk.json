@@ -4,46 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "10OFF200",
-      "description": "Extra 10% off orders over £200 at Swift Direct Blinds",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 200,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/directblinds-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "THERMAL10",
-      "description": "Extra 10% off Thermal Blinds and Curtains at Swift Direct Blinds",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/directblinds-discount-codes",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "REALWOOD10",
       "description": "Extra 10% off Real Wood Blinds at Swift Direct Blinds",
       "type": "percentage",
@@ -61,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     }
   ]
 }

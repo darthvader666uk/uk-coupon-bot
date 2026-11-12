@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "HOWSAVOO250",
-      "description": "£15 off orders over £150 at House Of Watches",
-      "type": "fixed",
-      "value": 15,
-      "minSpend": 150,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/house-of-watches-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "867ATIXNVZYL",
       "description": "5% off orders at House Of Watches",
       "type": "percentage",
@@ -42,7 +22,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "HOW060",
@@ -53,16 +34,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/house-of-watches-discount-codes",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SEKONDA5",
@@ -73,16 +56,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/house-of-watches-discount-codes",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CASIO5",
@@ -93,16 +78,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/house-of-watches-discount-codes",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "CITIZEN10",
@@ -114,36 +101,18 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/house-of-watches-discount-codes",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "CASIO4",
-      "description": "4% off Casio G-Shock at House Of Watches",
-      "type": "percentage",
-      "value": 4,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/house-of-watches-discount-codes",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "HOW-SAVOO253",
@@ -163,7 +132,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "CAS5",
@@ -183,7 +153,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "ROTARY10",
@@ -203,7 +174,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T09:24:39.308Z"
     },
     {
       "code": "HOW-SAVOO281",
@@ -223,7 +195,52 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T12:30:54.216Z"
+    },
+    {
+      "code": "HOW215",
+      "description": "Save £10 on your order",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/houseofwatches.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-01T05:50:56.470Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "BR10",
+      "description": "Take 10% off Bell & Ross purchases with this House of Watches coupon",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/houseofwatches.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

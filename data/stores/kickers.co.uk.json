@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "KICK10",
@@ -32,17 +33,20 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://kickers.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T10:22:51.314Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "MEMBER15",
@@ -63,7 +67,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "APPAREL20",
@@ -84,7 +89,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "KICKITWITHUS10",
@@ -105,7 +111,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "KICKGSG20",
@@ -126,7 +133,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "EXCLUSIVE15",
@@ -147,7 +155,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "MEMBER10",
@@ -168,7 +177,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "REVEAL",
@@ -189,7 +199,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "BKF6PEN20",
@@ -209,7 +220,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
     },
     {
       "code": "TOVNI30",
@@ -229,7 +241,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T20:08:14.128Z"
     },
     {
       "code": "GETCODE",
@@ -249,7 +262,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T20:08:14.128Z"
     },
     {
       "code": "5OFF",
@@ -269,7 +283,29 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T17:49:54.508Z"
+    },
+    {
+      "code": "WELCOME20",
+      "description": "Get 20% off for new customers",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/kickers.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

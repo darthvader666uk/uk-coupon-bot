@@ -23,7 +23,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "NAP108LCP",
@@ -44,7 +45,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "SECOND10",
@@ -66,7 +68,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "FREESHIPCC",
@@ -87,7 +90,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "NAP108LB8",
@@ -108,7 +112,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "NAP108MDR",
@@ -129,7 +134,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "NAP108KFK",
@@ -150,7 +156,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "NAP108KD9",
@@ -172,7 +179,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "NAP10FPX",
@@ -193,7 +201,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "PP10",
@@ -214,7 +223,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "CYBER15",
@@ -235,7 +245,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "A10",
@@ -256,7 +267,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "BIRTHDAY10OFF",
@@ -277,49 +289,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "NAP10WLM",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://netaporter.knoji.com/",
-      "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "KSNY15DC34DHGKFC",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://netaporter.knoji.com/",
-      "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-09-16T10:39:18.435Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "NAP10FP",
@@ -341,7 +312,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "GOLDFREESHIP",
@@ -361,87 +333,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "NAP10TFS",
-      "description": "Get Free Shipping With Code",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/net-a-porter-uk",
-      "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T08:34:09.440Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "NAPFP10",
-      "description": "Get 10% Off Your Order with Net-A-Porter Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/net-a-porter-uk",
-      "addedAt": "2026-10-04T08:34:09.440Z",
-      "lastSeen": "2026-10-04T08:34:09.440Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "NETA24",
-      "description": "Take 10% off using Net-A-Porter Discount Codes",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/net-a-porter-uk",
-      "addedAt": "2026-10-04T13:47:11.815Z",
-      "lastSeen": "2026-10-04T13:47:11.815Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "HSBC15",
-      "description": "Enjoy 15% off with Net-A-Porter Discount Codes",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/net-a-porter-uk",
-      "addedAt": "2026-10-09T14:54:36.034Z",
-      "lastSeen": "2026-10-09T14:54:36.034Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "VOGUE20",
@@ -461,7 +354,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T14:50:06.082Z"
     },
     {
       "code": "SHOPTOUNLOCK",
@@ -481,7 +375,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-03T15:49:13.765Z"
     },
     {
       "code": "REESHIP",
@@ -501,7 +396,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-13T15:38:25.584Z"
     },
     {
       "code": "BRONZEWELCOME",
@@ -521,7 +417,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "PSFREESHIP",
@@ -541,7 +438,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "WELCOME2022",
@@ -561,7 +459,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     },
     {
       "code": "MSK2024",
@@ -581,7 +480,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-22T13:30:00.956Z"
     },
     {
       "code": "LYN15",
@@ -601,7 +501,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-22T13:30:00.956Z"
     },
     {
       "code": "WEL08-KHKYB13INXFB1LVG",
@@ -616,12 +517,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/net-a-porter.com",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "KSNY15-9WC3S7BLWC",
@@ -636,12 +538,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/net-a-porter.com",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SINGLES25",
@@ -661,7 +564,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T14:50:06.082Z"
     },
     {
       "code": "BIG10",
@@ -681,7 +585,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-30T14:50:06.082Z"
     },
     {
       "code": "WELCOME10DJ67G5NN",
@@ -701,7 +606,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-03T15:49:13.765Z"
     },
     {
       "code": "LIDIAEDIT",
@@ -721,7 +627,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T08:20:16.325Z"
     },
     {
       "code": "SECURE",
@@ -741,7 +648,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T08:20:16.325Z"
     },
     {
       "code": "FIRSF10",
@@ -761,7 +669,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T08:20:16.325Z"
     },
     {
       "code": "FIX15",
@@ -781,7 +690,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T08:20:16.325Z"
     },
     {
       "code": "EXCLUSIVE30",
@@ -801,7 +711,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T08:20:16.325Z"
     },
     {
       "code": "SORRY10",
@@ -821,7 +732,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T08:20:16.325Z"
     },
     {
       "code": "APP10",
@@ -841,7 +753,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T15:56:39.426Z"
     }
   ]
 }

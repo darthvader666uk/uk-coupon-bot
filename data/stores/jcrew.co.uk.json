@@ -4,27 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "SHOPSALE",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://jcrew.knoji.com/",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
       "code": "FALLFORIT",
       "description": "15% off",
       "type": "percentage",
@@ -43,49 +22,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "SUMMERSPF",
-      "description": "Free gift",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://jcrew.knoji.com/",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "NEWHYOU",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://jcrew.knoji.com/",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "JCREWAPP",
@@ -106,49 +44,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "SOFUN70",
-      "description": "70% off",
-      "type": "percentage",
-      "value": 70,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://jcrew.knoji.com/",
-      "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "REWARDYOU",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://jcrew.knoji.com/",
-      "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-09-23T10:34:34.457Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "CARDLOVE",
@@ -169,7 +66,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-24T10:14:28.255Z"
     },
     {
       "code": "AUTUMN50",
@@ -190,7 +88,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "ALMCDT26",
@@ -211,7 +110,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SHOPMORE",
@@ -232,7 +132,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SHOPKIDS",
@@ -253,7 +154,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     }
   ]
 }

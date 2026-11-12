@@ -1,0 +1,74 @@
+{
+  "domain": "fashionworld.co.uk",
+  "name": "Fashion World",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BIRTHDAY",
+      "description": "25% off full-price items with £30 minimum",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2027-03-25T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/fashionworld.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SECRET",
+      "description": "Use Fashion World discount code to get 25% off on orders more than £30",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-11-16T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/fashionworld.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T04:47:58.527Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SPARKLE",
+      "description": "Use this Fashion World discount code and save £15 on your order",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-11-12T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/fashionworld.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T08:35:38.430Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

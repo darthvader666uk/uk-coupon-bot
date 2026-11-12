@@ -4,46 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "LOVE2SHOP",
-      "description": "Save on First Purchase for New Customers at CitizenCard with Discount Code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/citizencard",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-10-11T16:09:18.202Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "EPETITION",
-      "description": "£5 Discount for ePetition Signers",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/citizencard",
-      "addedAt": "2026-09-30T14:25:47.257Z",
-      "lastSeen": "2026-09-30T14:25:47.257Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "BOOMTOWN",
       "description": "£8 Off Your ID Card Application",
       "type": "fixed",
@@ -61,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-19T15:17:36.796Z"
     },
     {
       "code": "PANCAKESCC",
@@ -82,7 +43,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "10DS22",
@@ -103,7 +65,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "EASY10",
@@ -124,7 +87,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "FREEBLUE",
@@ -145,7 +109,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "INSTA15",
@@ -166,7 +131,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-13T13:33:59.695Z"
     },
     {
       "code": "DIGITAL",
@@ -186,7 +152,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "FREE1824",
@@ -206,7 +173,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-19T15:17:36.796Z"
     },
     {
       "code": "FREEVOTERID",
@@ -226,7 +194,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-10T16:08:37.281Z"
     }
   ]
 }

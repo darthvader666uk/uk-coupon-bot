@@ -4,46 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "NEW15OFF",
-      "description": "New Customers: Extra 15% off orders at Liz Earle",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/liz-earle-discount-codes",
-      "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-09-07T15:08:25.222Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "5OFFSSSA",
-      "description": "£5 off Superskin Bundle at Liz Earle",
-      "type": "fixed",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/liz-earle-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-18T10:23:42.347Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "5OFFBYSR",
       "description": "£5 off Build Your Skincare Routine at Liz Earle",
       "type": "fixed",
@@ -61,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "CP30OFF",
@@ -81,7 +42,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "3DAYSFD",
@@ -101,7 +63,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "5WYS50",
@@ -116,12 +79,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/liz-earle-discount-codes",
       "addedAt": "2026-10-13T13:33:59.695Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "5BUNDLE",
@@ -136,12 +100,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/liz-earle-discount-codes",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

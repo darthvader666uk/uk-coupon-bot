@@ -1,0 +1,28 @@
+{
+  "domain": "europe.nflshop.com",
+  "name": "NFL Shop",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FREESHIP",
+      "description": "Get free delivery on your next order over £30 with this code",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/europe.nflshop.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

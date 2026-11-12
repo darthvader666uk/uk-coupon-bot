@@ -4,26 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "SAVOOEXT10",
-      "description": "30% off Summer Sale plus Extra 10% off at Avant",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/avant-discount-codes",
-      "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "AVTSUMMEREXT",
       "description": "30% off Summer Sale plus Extra 10% off orders at Avant",
       "type": "percentage",
@@ -41,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "VEGANUARY25",
@@ -62,7 +43,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-10-20T10:57:42.385Z"
     },
     {
       "code": "VBGBG5",
@@ -83,7 +65,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-10-20T10:57:42.385Z"
     },
     {
       "code": "EXCLUSIVE25",
@@ -104,28 +87,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "BDAY24AS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://avant.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-10-08T12:52:52.863Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": true,
+      "listedAt": "2026-10-20T10:57:42.385Z"
     },
     {
       "code": "REF688785326",
@@ -146,28 +109,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "BIENVENIDO20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://avant.knoji.com/",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-20T10:57:42.385Z"
     }
   ]
 }

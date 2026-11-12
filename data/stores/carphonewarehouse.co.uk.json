@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "CPWACCS5",
@@ -41,47 +42,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "HONOR20",
-      "description": "£20 off Honor 600 Lite at Carphone Warehouse",
-      "type": "fixed",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/carphone-warehouse-discount-codes",
-      "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "HONOR100",
-      "description": "£100 off Honor 600 at Carphone Warehouse",
-      "type": "fixed",
-      "value": 100,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/carphone-warehouse-discount-codes",
-      "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-09-29T12:01:38.582Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "NEWSAMSUNGFLIPFOLD50",
@@ -96,12 +58,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/carphone-warehouse-discount-codes",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "GOOGLECASE25",
@@ -116,12 +79,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/carphone-warehouse-discount-codes",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "GALAXY150",
@@ -136,12 +100,55 @@
       ],
       "url": "https://www.savoo.co.uk/brands/carphone-warehouse-discount-codes",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-06T13:48:54.663Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SPOOKY10",
+      "description": "£10 off Upfront Cost of Pay Monthly Handsets at Carphone Warehouse",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/carphone-warehouse-discount-codes",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "AUTUMN10",
+      "description": "£10 off Upfront Cost of Pay Monthly Handsets at Carphone Warehouse",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/carphone-warehouse-discount-codes",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

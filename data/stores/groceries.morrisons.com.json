@@ -1,0 +1,51 @@
+{
+  "domain": "groceries.morrisons.com",
+  "name": "Morrisons",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NEW20",
+      "description": "£20 off when you spend £60 or more, plus £10 off your next 4 orders with Morrisons discount code for new ustomers",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": 60,
+      "expiry": "2027-01-24T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/groceries.morrisons.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "NEWHERE15",
+      "description": "£15 off when you spend £60+ plus £12 off your next 3 orders with this code",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": 60,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/groceries.morrisons.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T09:29:16.469Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

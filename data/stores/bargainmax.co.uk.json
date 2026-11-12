@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "GET4EASTER",
@@ -43,7 +44,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BIKE-100-12",
@@ -63,7 +65,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "WELOVETOYS",
@@ -85,7 +88,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "FB50",
@@ -106,7 +110,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-02T14:17:38.953Z"
     },
     {
       "code": "PD20",
@@ -130,7 +135,8 @@
         "lastTested": null
       },
       "verified": false,
-      "lastWorkedAt": "2026-06-02T00:00:00Z"
+      "lastWorkedAt": "2026-06-02T00:00:00Z",
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "30FUN",
@@ -154,30 +160,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-16T00:00:00Z"
-    },
-    {
-      "code": "BIKE10",
-      "description": "10% Off Storewide at Bargain Max",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/bargainmax.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-15T00:00:00Z"
+      "lastWorkedAt": "2026-09-16T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "TRUE50",
@@ -200,27 +184,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-15T00:00:00Z"
-    },
-    {
-      "code": "SPICY2Z6",
-      "description": "Things are heating up with Checkmate . Save with the best savings app",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/bargainmax.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-09-16T20:47:49.537Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "lastWorkedAt": "2026-09-15T00:00:00Z",
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "PRAM10",
@@ -241,7 +206,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "TRUETOYS10",
@@ -262,7 +228,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "CLEAR20",
@@ -283,7 +250,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "SUNNY20",
@@ -304,7 +272,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "HELLOAGAIN",
@@ -325,7 +294,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BOO20",
@@ -346,7 +316,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-25T10:33:12.100Z"
     },
     {
       "code": "BUILDER30",
@@ -367,7 +338,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "HELLOSLOOMOO",
@@ -388,28 +360,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "WELCOME8T3BTT4V",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bargainmax.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "MDDISCO",
@@ -430,49 +382,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "JA2VYFTFAY62",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bargainmax.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "EMBDAYKBR324820",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bargainmax.knoji.com/",
-      "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-09-30T11:55:13.825Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "HELLO7SGB3NETMS1NMDMT",
@@ -493,7 +404,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-25T10:33:12.100Z"
     },
     {
       "code": "START25",
@@ -514,7 +426,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "PRIME50",
@@ -535,7 +448,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "MVC8OFF60",
@@ -556,7 +470,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     }
   ]
 }

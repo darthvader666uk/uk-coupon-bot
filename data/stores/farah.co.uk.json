@@ -23,7 +23,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BFEXTRA10",
@@ -35,17 +36,19 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/farah.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "FRESHERS20",
@@ -67,7 +70,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "GETITNOW",
@@ -87,7 +91,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "UNI20",
@@ -108,7 +113,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "FARAH20",
@@ -119,17 +125,20 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://farah.knoji.com/",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T07:40:52.917Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "ARMY10",
@@ -150,7 +159,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "STUDENTS",
@@ -171,7 +181,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "STUDENTBEANS",
@@ -192,7 +203,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "IMBACK20",
@@ -213,7 +225,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "ESSENTIAL10",
@@ -234,7 +247,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "NHS10",
@@ -250,13 +264,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/farah.co.uk",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "EXCLUSIVE10",
@@ -277,7 +292,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BLUE10",
@@ -293,13 +309,36 @@
       ],
       "url": "https://grabcaramel.com/coupons/farah.co.uk",
       "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SUMMER15",
+      "description": "Get an extra 15% off sale items during the Farah Summer sale at Farah.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel",
+        "savoo"
+      ],
+      "url": "https://grabcaramel.com/coupons/farah.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

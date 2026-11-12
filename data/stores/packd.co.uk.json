@@ -25,7 +25,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "lastWorkedAt": "2026-10-06T00:00:00Z",
+      "listedAt": "2026-11-11T08:20:16.325Z"
     },
     {
       "code": "SUMMERSUN10",
@@ -48,7 +49,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-06T00:00:00Z"
+      "lastWorkedAt": "2026-10-06T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "FROZENFRENZY-15",
@@ -71,48 +73,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-14T00:00:00Z"
-    },
-    {
-      "code": "JUL20",
-      "description": "20% Off with Email sign up - Pack'd Discount code",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/packd.co.uk",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-09-27T11:05:01.975Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "FIRSTSHOP10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://packd.knoji.com/",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
+      "lastWorkedAt": "2026-09-14T00:00:00Z",
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "FRUITY10",
@@ -133,7 +95,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "PURPLEBERRY10",
@@ -154,7 +117,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "AMAFRUITS15",
@@ -175,7 +139,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "OBL15",
@@ -196,28 +161,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "LD26",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://packd.knoji.com/",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-06T12:52:03.776Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "SORRY15",
@@ -238,7 +183,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-10-25T10:33:12.100Z"
     },
     {
       "code": "INSIDESCOOP",
@@ -259,7 +205,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "WAAV15",
@@ -280,7 +227,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-09T14:41:34.419Z"
     }
   ]
 }

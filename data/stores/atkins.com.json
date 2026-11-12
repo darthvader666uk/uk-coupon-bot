@@ -24,7 +24,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-13T00:00:00Z"
+      "lastWorkedAt": "2026-10-13T00:00:00Z",
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "ATKINS10",
@@ -47,7 +48,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-13T00:00:00Z"
+      "lastWorkedAt": "2026-10-13T00:00:00Z",
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "YOURWAY10",
@@ -70,7 +72,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
+      "lastWorkedAt": "2026-10-12T00:00:00Z",
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "BUILDABOX12",
@@ -93,7 +96,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-12T00:00:00Z"
+      "lastWorkedAt": "2026-10-12T00:00:00Z",
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "LDAY26",
@@ -116,7 +120,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-31T00:00:00Z"
+      "lastWorkedAt": "2026-08-31T00:00:00Z",
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "ENDULGE20",
@@ -139,7 +144,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-09-15T00:00:00Z"
+      "lastWorkedAt": "2026-09-15T00:00:00Z",
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "BAB26",
@@ -161,7 +167,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "SNACKIN",
@@ -183,7 +190,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "YUM20",
@@ -205,47 +213,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "SHIP4FREE",
-      "description": "Free shipping: The best Atkins code",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/atkins.com",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "RAISEIT",
-      "description": "Buy 3, get 1 free: The best Atkins code",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/atkins.com",
-      "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-07T12:39:06.346Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": true,
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "SHIPAUG",
@@ -268,217 +237,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-08-04T00:00:00Z"
-    },
-    {
-      "code": "SATISFY10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "SATISFY15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "MARCH21",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "PRES2021",
-      "description": "Free Shipping",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "VDAY2021",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "VARIETY21",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "SAVEBIG21",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "MCDTXT15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "MY15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "TAMARA15",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://atkins.knoji.com/",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-09T12:44:22.562Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "lastWorkedAt": "2026-08-04T00:00:00Z",
+      "listedAt": "2026-11-01T14:49:05.837Z"
     },
     {
       "code": "AFP10",
@@ -498,7 +258,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-01T14:49:05.837Z"
     }
   ]
 }

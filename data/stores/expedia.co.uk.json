@@ -21,7 +21,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "FOOTBALL10",
@@ -41,7 +42,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-09T14:41:34.419Z"
     },
     {
       "code": "CFEXPUK",
@@ -56,12 +58,36 @@
       ],
       "url": "https://grabcaramel.com/coupons/expedia.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "8HUKDEXP2026",
+      "description": "Take 8% off hotel stays using this exclusive Expedia discount code",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/expedia.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-06T05:39:03.450Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

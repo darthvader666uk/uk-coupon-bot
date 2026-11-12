@@ -4,46 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "EXTRA10NOW",
-      "description": "Unlock 10% Off Unbeatable Blinds with Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/unbeatable-blinds",
-      "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "SMPMHGQV7C85Z",
-      "description": "Get 30% off your purchase using Unbeatable Blinds Promo Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/unbeatable-blinds",
-      "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-09-28T16:07:36.446Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
       "code": "EXTRABF10",
       "description": "Extra 10% Off Black Friday Sale",
       "type": "percentage",
@@ -62,7 +22,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-06T17:20:06.868Z"
     }
   ]
 }

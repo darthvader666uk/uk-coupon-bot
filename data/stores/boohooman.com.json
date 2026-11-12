@@ -26,7 +26,8 @@
         "lastTested": null
       },
       "verified": false,
-      "lastWorkedAt": "2026-10-28T00:00:00Z"
+      "lastWorkedAt": "2026-10-28T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FULLFIT",
@@ -47,7 +48,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "BHW10",
@@ -69,7 +71,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "DOUBLE",
@@ -93,7 +96,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-23T00:00:00Z",
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "AFTV30",
@@ -117,7 +121,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z"
+      "lastWorkedAt": "2026-10-31T00:00:00Z",
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "EMAIL50",
@@ -138,7 +143,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "EMAIL40",
@@ -159,70 +165,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "DEADLINE",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "MAN40",
-      "description": "40% off",
-      "type": "percentage",
-      "value": 40,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
-    },
-    {
-      "code": "30MAN",
-      "description": "30% off",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-21T11:19:32.118Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "30PLUS",
@@ -243,70 +187,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "DEY9AFV5II",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "WELCOME15GS",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "LBAFF25OFF",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-09-15T10:50:48.606Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": true,
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "NEWYOU",
@@ -327,7 +209,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "YESYES",
@@ -348,49 +231,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "LTYNSAF4C9S",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-19T10:04:40.460Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "HANNA20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-09-20T10:20:57.109Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MAN5",
@@ -412,7 +254,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "COUNTDOWN",
@@ -433,7 +276,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "GOGOGO",
@@ -454,7 +298,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "MAN30",
@@ -475,49 +320,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
-    },
-    {
-      "code": "DARCY2615",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "AD4TI",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://boohooman.knoji.com/",
-      "addedAt": "2026-09-22T10:37:19.445Z",
-      "lastSeen": "2026-09-22T10:37:19.445Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "FRESH30",
@@ -538,7 +342,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "GLITCH",
@@ -559,7 +364,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "NEWSEASON",
@@ -580,7 +386,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-08T12:30:54.216Z"
     },
     {
       "code": "UNLOCK",
@@ -603,7 +410,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "BRAND15",
@@ -626,7 +434,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-07T00:00:00Z"
+      "lastWorkedAt": "2026-11-07T00:00:00Z",
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "UNLCOK",
@@ -646,7 +455,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "FACEBOOK10",
@@ -666,7 +476,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "SPENDSAVE",
@@ -686,7 +497,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "BRAND10",
@@ -706,7 +518,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "EXTRASALE",
@@ -726,7 +539,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "FIRST500",
@@ -749,7 +563,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-05T00:00:00Z"
+      "lastWorkedAt": "2026-11-05T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "10MAN",
@@ -772,7 +587,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-27T00:00:00Z"
+      "lastWorkedAt": "2026-10-27T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "EXTRATIEN",
@@ -792,7 +608,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "DELIVER",
@@ -812,7 +629,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "NEXT500",
@@ -832,7 +650,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "BRAVO10DEL",
@@ -852,7 +671,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "WEL-10-2T6D",
@@ -872,7 +692,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "LOCKER10",
@@ -892,7 +713,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "BHM45",
@@ -912,7 +734,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "DISCOVER",
@@ -932,7 +755,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "BRANDS20",
@@ -952,7 +776,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "SET50",
@@ -972,7 +797,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "AFTV10",
@@ -992,7 +818,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "REASON",
@@ -1013,7 +840,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "3TEES",
@@ -1036,7 +864,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-27T00:00:00Z"
+      "lastWorkedAt": "2026-10-27T00:00:00Z",
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "MAN12",
@@ -1058,7 +887,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "MAN15",
@@ -1080,7 +910,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-30T00:00:00Z"
+      "lastWorkedAt": "2026-10-30T00:00:00Z",
+      "listedAt": "2026-10-30T12:02:27.438Z"
     },
     {
       "code": "TT10",
@@ -1102,7 +933,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-23T00:00:00Z"
+      "lastWorkedAt": "2026-10-23T00:00:00Z",
+      "listedAt": "2026-10-24T16:19:46.607Z"
     },
     {
       "code": "60RABATT",
@@ -1124,7 +956,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-22T00:00:00Z"
+      "lastWorkedAt": "2026-10-22T00:00:00Z",
+      "listedAt": "2026-10-24T16:19:46.607Z"
     },
     {
       "code": "BRAND20",
@@ -1140,14 +973,15 @@
       ],
       "url": "https://www.coupert.com/store/boohooman.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-09T00:00:00Z"
+      "lastWorkedAt": "2026-11-09T00:00:00Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "BHW15",
@@ -1169,7 +1003,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-06T13:48:54.663Z"
     },
     {
       "code": "ATTITUDE10",
@@ -1191,7 +1026,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-07T00:00:00Z"
+      "lastWorkedAt": "2026-11-07T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "GROOMING5",
@@ -1213,7 +1049,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-06T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "PROSPER",
@@ -1235,7 +1072,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "GOOGLE10",
@@ -1257,7 +1095,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SAMHAM",
@@ -1279,7 +1118,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "NICOLE10",
@@ -1301,7 +1141,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-24T00:00:00Z"
+      "lastWorkedAt": "2026-10-24T00:00:00Z",
+      "listedAt": "2026-10-27T11:28:20.543Z"
     },
     {
       "code": "TWENTY",
@@ -1321,7 +1162,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": null
     },
     {
       "code": "WANTED15",
@@ -1344,7 +1186,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-06T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z",
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "AB10",
@@ -1366,7 +1209,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-06T00:00:00Z"
+      "lastWorkedAt": "2026-11-06T00:00:00Z",
+      "listedAt": "2026-11-06T13:48:54.663Z"
     },
     {
       "code": "MANUS15",
@@ -1388,7 +1232,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "TWOSYNC",
@@ -1410,7 +1255,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-07T00:00:00Z"
+      "lastWorkedAt": "2026-11-07T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "AMBASSADOR10",
@@ -1432,7 +1278,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-01T00:00:00Z"
+      "lastWorkedAt": "2026-11-01T00:00:00Z",
+      "listedAt": "2026-11-04T13:41:24.576Z"
     },
     {
       "code": "MANUS10",
@@ -1454,7 +1301,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "WANTED20",
@@ -1476,7 +1324,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z"
+      "lastWorkedAt": "2026-11-10T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "WANTED10",
@@ -1498,7 +1347,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUCCESS",
@@ -1520,7 +1370,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-05T00:00:00Z"
+      "lastWorkedAt": "2026-11-05T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "DROPOFF",
@@ -1540,7 +1391,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "WEL10-2R5X",
@@ -1562,7 +1414,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SUNX15",
@@ -1584,7 +1437,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-04T00:00:00Z"
+      "lastWorkedAt": "2026-11-04T00:00:00Z",
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "SURPRISE",
@@ -1605,7 +1459,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "AFTVX10",
@@ -1627,7 +1482,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "WANTED11",
@@ -1649,7 +1505,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "MANUK15",
@@ -1671,7 +1528,8 @@
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z"
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-11T13:17:03.137Z"
     },
     {
       "code": "SPOOKY",
@@ -1691,7 +1549,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-11T13:17:03.137Z"
     }
   ]
 }

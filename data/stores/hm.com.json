@@ -1,0 +1,30 @@
+{
+  "domain": "hm.com",
+  "name": "H&M",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BECOMEAMEMBER",
+      "description": "Enjoy up to 30% off full-price at H&M",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": "2027-01-21T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/hm.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T08:54:48.487Z",
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

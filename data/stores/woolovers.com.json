@@ -24,7 +24,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-05T18:00:41.650Z"
     },
     {
       "code": "SHELL10",
@@ -45,7 +46,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "TROPIC10",
@@ -61,13 +63,14 @@
       ],
       "url": "https://woolovers.knoji.com/",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "ROSY10",
@@ -88,7 +91,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "LINEN20",
@@ -109,7 +113,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "NAUTICAL10",
@@ -130,7 +135,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "GIVING10",
@@ -151,7 +157,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "DREAM10",
@@ -167,13 +174,14 @@
       ],
       "url": "https://woolovers.knoji.com/",
       "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "SUN25",
@@ -194,7 +202,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "DAISY10",
@@ -215,7 +224,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "FLOWER10",
@@ -236,7 +246,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "PREVIEW10",
@@ -257,7 +268,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "THANKU20",
@@ -278,7 +290,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "OCEAN10",
@@ -299,68 +312,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
-    },
-    {
-      "code": "NETWORK10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://woolovers.knoji.com/",
-      "addedAt": "2026-09-19T10:04:40.460Z",
-      "lastSeen": "2026-09-19T10:04:40.460Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false
-    },
-    {
-      "code": "WL261P",
-      "description": "20% off Full-Priced orders at WoolOvers",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/woolovers-discount-codes",
-      "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WP261NC",
-      "description": "20% off Full-Priced orders at WoolOvers",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo"
-      ],
-      "url": "https://www.savoo.co.uk/brands/woolovers-discount-codes",
-      "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-10T12:01:05.261Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "SMILE10",
@@ -376,12 +329,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/woolovers-discount-codes",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WL262P",
@@ -402,7 +356,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-10-31T11:30:20.399Z"
     },
     {
       "code": "WA2611",
@@ -418,12 +373,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/woolovers",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "NEW2026FB",
@@ -444,7 +400,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-05T18:00:41.650Z"
     },
     {
       "code": "WP269",
@@ -460,32 +417,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/woolovers",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "SLEIGH20",
-      "description": "Get £10 Off Your Order",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/woolovers",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-09-29T14:37:55.816Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WA267",
@@ -500,12 +438,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WF267",
@@ -520,12 +459,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WL267",
@@ -540,12 +480,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WL268",
@@ -560,12 +501,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "RDM36",
@@ -580,12 +522,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WF268",
@@ -600,12 +543,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WH268",
@@ -620,12 +564,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WA268",
@@ -640,12 +585,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "OUTFIT10",
@@ -660,12 +606,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WAB2612",
@@ -680,12 +627,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WX269",
@@ -700,12 +648,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WF269",
@@ -720,12 +669,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "MISSU36",
@@ -740,12 +690,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WA269",
@@ -760,12 +711,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WP268",
@@ -780,12 +732,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WN269",
@@ -800,12 +753,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WM268",
@@ -820,12 +774,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WL269",
@@ -840,12 +795,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "LINEN25",
@@ -860,12 +816,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WP2611",
@@ -880,12 +837,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WLB2611",
@@ -900,12 +858,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WAB2611",
@@ -920,92 +879,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
-    },
-    {
-      "code": "NATURE10",
-      "description": "Save 10% on First Purchase for New Customers at Woolovers with Discount Code",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/woolovers",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "PROMISE15",
-      "description": "Your shopping today gets 15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/woolovers",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T11:22:37.370Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "WOOL14",
-      "description": "Valuable savings at woolovers.com",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/woolovers",
-      "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
-    },
-    {
-      "code": "GLX20",
-      "description": "Enjoy a Discount of 30% with Your Woolovers Promo Code",
-      "type": "percentage",
-      "value": 30,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/woolovers",
-      "addedAt": "2026-10-05T16:40:00.368Z",
-      "lastSeen": "2026-10-05T16:40:00.368Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WARM15",
@@ -1027,7 +907,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "EASY15",
@@ -1049,7 +930,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-05T18:00:41.650Z"
     },
     {
       "code": "LABOR15",
@@ -1071,7 +953,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "STYLE15",
@@ -1093,7 +976,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-05T18:00:41.650Z"
     },
     {
       "code": "SHOP25",
@@ -1114,7 +998,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-03T13:28:55.454Z"
     },
     {
       "code": "AUTUMN25",
@@ -1129,12 +1014,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WINTER25",
@@ -1154,7 +1040,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-05T18:00:41.650Z"
     },
     {
       "code": "AUGUST15",
@@ -1169,12 +1056,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/woolovers.com",
       "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     },
     {
       "code": "WL263P",
@@ -1194,7 +1082,8 @@
         "total": 0,
         "worked": 0,
         "lastTested": null
-      }
+      },
+      "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
       "code": "FROST15",
@@ -1215,7 +1104,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "WLU264L",
@@ -1236,7 +1126,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": true
+      "verified": true,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "BLOSSOM20",
@@ -1257,7 +1148,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "SUNSHINE10",
@@ -1278,7 +1170,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "WISH15",
@@ -1299,7 +1192,8 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "GIVE15",
@@ -1320,7 +1214,71 @@
         "worked": 0,
         "lastTested": null
       },
-      "verified": false
+      "verified": false,
+      "listedAt": "2026-11-10T14:12:41.909Z"
+    },
+    {
+      "code": "SAVE30",
+      "description": "Use this promo code at checkout and receive up to a £30 discount on your order.",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/woolovers.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SAVE15",
+      "description": "Enjoy 15% off select orders adding this Wool Overs code.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/woolovers.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "SAVE5",
+      "description": "Use this Wool Overs promo code at checkout to unlock £5 off your orders of £50 or more.",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/woolovers.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "domain": "latamairlines.com",
+  "name": "LATAM Airlines",
+  "category": "general",
+  "codes": [
+    {
+      "code": "MEGAPROMO",
+      "description": "Get 5% off when you use the LATAM Airlines discount code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/latamairlines.com",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}

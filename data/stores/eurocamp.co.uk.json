@@ -1,0 +1,28 @@
+{
+  "domain": "eurocamp.co.uk",
+  "name": "Eurocamp",
+  "category": "general",
+  "codes": [
+    {
+      "code": "30MULTI",
+      "description": "Enjoy 30% off multi-stay bookings",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": "2027-06-30T22:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/eurocamp.co.uk",
+      "addedAt": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T10:55:05.747Z"
+    }
+  ]
+}
