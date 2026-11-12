@@ -182,17 +182,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/gisou",
       "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "WELCOME57334S",
@@ -235,6 +236,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-10T16:08:37.281Z"
+    },
+    {
+      "code": "TUTAI10",
+      "description": "Use code TUTAI10 to save on your order at Gisou.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gisou.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
     }
   ]
 }

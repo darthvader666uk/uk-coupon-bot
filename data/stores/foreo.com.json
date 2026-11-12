@@ -77,17 +77,18 @@
       "expiry": "2026-11-30T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/foreo.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "TRAIN25",
@@ -119,17 +120,18 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/foreo.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "HALLOWEEN",
@@ -151,6 +153,489 @@
         "lastTested": null
       },
       "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "FOSKJES",
+      "description": "Get an extra discount at checkout at the FOREO Global Store on Shopee with code FOSKJES.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "BLACKDEAL",
+      "description": "Use code BLACKDEAL to save on your order at foreo_official.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FOREOLIN",
+      "description": "Apply code FOREOLIN to save 15% off at FOREO.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FOREO1111",
+      "description": "Get an extra 15% off at FOREO with code FOREO1111.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FOREOJA",
+      "description": "Get 15% off at FOREO with code FOREOJA.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FOREOMJ",
+      "description": "Get an additional 15% off at FOREO on Shopee with code FOREOMJ.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "LUNA2026",
+      "description": "Get 50% off at FOREO with code LUNA2026.",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "WETHRIFT30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "BCUK30",
+      "description": "Save 30% off at FOREO with code BCUK30.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "35NEWBYS",
+      "description": "Get an extra 35% off almost all products at FOREO with code 35NEWBYS.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "30TARANEW",
+      "description": "Get 30% off at FOREO with code 30TARANEW.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "ZARA35",
+      "description": "Save 35% off your order at FOREO with code ZARA35.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "35XOVLOGS",
+      "description": "Use code 35XOVLOGS for an extra 35% off almost all FOREO products.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "DD30",
+      "description": "Get up to 30% off almost all FOREO products, even sale items, with code DD30.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "DD35",
+      "description": "Get up to 50% off almost all products, including sale items, at FOREO with code DD35.",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "GAIL30",
+      "description": "Get up to 30% off FAQ 202 and almost all FOREO products with code GAIL30.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "GAIL35",
+      "description": "Use code GAIL35 at FOREO for an extra 35% off FAQ 202 and almost all products, including already discounted items, for savings up to 50% off.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "JARVIS35",
+      "description": "Get 35% off almost all products at FOREO with code JARVIS35, stackable with sale items for up to 50% off.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "GALINA",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "WITHDANA30",
+      "description": "30% off FAQ 202 and more",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FOREOHEAL",
+      "description": "Get 2,000 บาท off at FOREO with code FOREOHEAL.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "LOU30EXTRA",
+      "description": "30% off FAQ 202 LED mask",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "AMANDAS30",
+      "description": "30% off FAQ201 LED Mask & more",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/foreo.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
     }
   ]
 }

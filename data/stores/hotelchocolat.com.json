@@ -586,13 +586,13 @@
       ],
       "url": "https://www.wethrift.com/codes/hotelchocolat.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T09:24:39.308Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "15PC-62FL7MV4XR",
@@ -607,13 +607,13 @@
       ],
       "url": "https://www.wethrift.com/codes/hotelchocolat.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T09:24:39.308Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "CARBOHOLIC",
@@ -628,13 +628,13 @@
       ],
       "url": "https://www.wethrift.com/codes/hotelchocolat.com",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T09:24:39.308Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "EGG-KC457208",
@@ -759,13 +759,13 @@
       ],
       "url": "https://www.wethrift.com/codes/hotelchocolat.com",
       "addedAt": "2026-11-10T09:24:39.308Z",
-      "lastSeen": "2026-11-10T09:24:39.308Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T09:24:39.308Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "XMAS2026",
@@ -789,6 +789,48 @@
       "verified": true,
       "lastWorkedAt": "2026-11-12T09:29:58.819Z",
       "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "BF20",
+      "description": "20% off orders of £35 or more",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 35,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/hotelchocolat.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FREESHIP",
+      "description": "Free Shipping",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/hotelchocolat.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
     }
   ]
 }

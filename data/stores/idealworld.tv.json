@@ -12,17 +12,18 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/idealworld.tv",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "BR10",
@@ -33,17 +34,18 @@
       "expiry": "2027-01-01T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/idealworld.tv",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "SAVE10",
@@ -75,17 +77,18 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/idealworld.tv",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "IWBB26",
@@ -193,6 +196,321 @@
         "lastTested": null
       },
       "listedAt": "2026-11-12T10:55:05.747Z"
+    },
+    {
+      "code": "JORD10",
+      "description": "Save on your order at idealworld.tv with code JORD10.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "EXTRA15",
+      "description": "15% off Beauty Orders",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "STEP15",
+      "description": "£15 off Soulsmart Electric Stepper, Free Shipping",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FREEDELIVERY",
+      "description": "Free Shipping Storewide",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "AFF15",
+      "description": "15% off non discounted items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "XMAS15",
+      "description": "15% off Christmas",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "NIKKI10",
+      "description": "Use code NIKKI10 to save on your order at ideal world.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "IVANA10",
+      "description": "Use discount code IVANA10 to save on your order at idealworld.tv.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "HOTUK12",
+      "description": "12% off storewide",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "COREBF10",
+      "description": "£10 off + Free Shipping",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "FLASH12",
+      "description": "12% off your order",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "ALEX10",
+      "description": "11% off storewide",
+      "type": "percentage",
+      "value": 11,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "BEAUTY",
+      "description": "20% off your purchase",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "BONANZA",
+      "description": "15% off + Free Shipping",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "CHLOE10",
+      "description": "Save on your order at Ideal World with code CHLOE10.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/idealworld.tv",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
     }
   ]
 }

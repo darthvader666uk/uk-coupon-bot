@@ -34,18 +34,19 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://gamestop.knoji.com/",
       "addedAt": "2026-09-15T10:50:48.606Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "20%EXTRATRADECREDIT",
@@ -554,17 +555,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/gamestop.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-24T10:14:28.255Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "MEMBERSONLY",
@@ -806,17 +808,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/gamestop.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-23T10:45:38.341Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-12T18:07:21.916Z"
     },
     {
       "code": "IQBAL4086",
@@ -1063,17 +1066,312 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/gamestop.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "WYXVLEFQ",
+      "description": "Save 25% on your first Power Pak at GameStop with code WYXVLEFQ.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "JJO26",
+      "description": "Get 25% off your first Power Packs order at GameStop with code JJO26, up to $25 off.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "GTA6",
+      "description": "Get an $80 GameStop gift card with code GTA6 after installation.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "TBJAKE",
+      "description": "Get 25% off your first order at GameStop with code TBJAKE.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "33UPP9C9",
+      "description": "Save on your first order at GameStop with code 33UPP9C9.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "M59KHWJK",
+      "description": "Get 25% off (up to $25) all digital Power Packs on new accounts at GameStop with code M59KHWJK.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "UEWNV7YN",
+      "description": "Get 25% off your first order at GameStop with code UEWNV7YN.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "X3AAMUJA",
+      "description": "Get 25% off your first pack at GameStop with code X3AAMUJA, up to $25 savings for new customers.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "V99N5BKL",
+      "description": "Get 25% off your first pack at GameStop with code V99N5BKL.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "HEARTOFTHEPACK",
+      "description": "10% off Yugioh",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "UDEAFFLEAD620",
+      "description": "60% off storewide",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "2X9MGP2",
+      "description": "Save $",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "GIFT10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "TAKE10OFF",
+      "description": "Save $",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/gamestop.com",
+      "addedAt": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-12T18:07:21.916Z"
     }
   ]
 }
