@@ -48,6 +48,8 @@ export const STORES = [
   // Live but absent from every directory page, so only reachable pinned.
   // Store request #2: orangecounty-cbd.com.
   "orange-county-cbd",
+  // wmc.org.uk: never turned up in the data via the directory slice.
+  "wales-millennium-centre",
 ];
 
 /**
