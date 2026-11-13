@@ -1,0 +1,28 @@
+{
+  "domain": "plasticcentre.co.uk",
+  "name": "Plastic Centre",
+  "category": "general",
+  "codes": [
+    {
+      "code": "CLAD10",
+      "description": "10% off your order over £150",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 150,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/plasticcentre-co-uk",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    }
+  ]
+}

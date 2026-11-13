@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-22T13:30:00.956Z"
+      "listedAt": null
     },
     {
       "code": "YAZMIN10",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-30T14:50:06.082Z"
+      "listedAt": null
     },
     {
       "code": "CM10",
@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-30T14:50:06.082Z"
+      "listedAt": null
     },
     {
       "code": "CGGGZFG",
@@ -85,7 +85,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-30T14:50:06.082Z"
+      "listedAt": null
     },
     {
       "code": "AUGUST20",
@@ -106,7 +106,91 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-03T15:49:13.765Z"
+      "listedAt": null
+    },
+    {
+      "code": "SUBSCRIBE5",
+      "description": "Opal Living New User Discount via Discount Codes: 5%",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/opal-living",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "OFFER20",
+      "description": "A promo code at Opal Living helps you save money",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/opal-living",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "OCT15",
+      "description": "Opal Living New User Discount with Promo Codes: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/opal-living",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "SUBSCRIPTION5",
+      "description": "Opal Living Sign-up Discount with Promo Codes: 5%",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/opal-living",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

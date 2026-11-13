@@ -418,7 +418,70 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T16:03:15.495Z"
+      "listedAt": null
+    },
+    {
+      "code": "WELCOME10",
+      "description": "Ultimate Juice First Purchase via Promo Codes: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ultimate-juice-discount",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "OFFER15",
+      "description": "Ultimate Juice New User Discount via Discount Codes: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ultimate-juice-discount",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "FIRST10",
+      "description": "Ultimate Juice New User Discount via Discount Codes: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ultimate-juice-discount",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

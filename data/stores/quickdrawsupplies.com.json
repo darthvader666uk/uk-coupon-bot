@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "ME10",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "C2YKGME10",
@@ -64,7 +64,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-30T14:50:06.082Z"
+      "listedAt": null
+    },
+    {
+      "code": "WELCOME10",
+      "description": "Quickdraw Supplies 10% Off with voucher code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quickdraw-supplies",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

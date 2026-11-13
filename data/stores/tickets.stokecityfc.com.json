@@ -1,0 +1,28 @@
+{
+  "domain": "tickets.stokecityfc.com",
+  "name": "Stoke City Football Club",
+  "category": "general",
+  "codes": [
+    {
+      "code": "RICARDOS40",
+      "description": "Black Friday - Save £5 Per Person on £40 Package",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 40,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/stoke-city",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    }
+  ]
+}

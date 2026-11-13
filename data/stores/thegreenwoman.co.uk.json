@@ -22,7 +22,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T14:11:25.661Z"
+      "listedAt": null
+    },
+    {
+      "code": "GREEN10",
+      "description": "Discount Codes: Get 10% Off at The Green Woman",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/the-green-woman",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "AUTUMN",
+      "description": "The Green Woman Secret Codes and Hot Deals",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/the-green-woman",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

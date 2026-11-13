@@ -48,7 +48,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-02T00:00:00Z",
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "STEAMEDBUNS",
@@ -71,7 +71,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-06T00:00:00Z",
-      "listedAt": "2026-10-30T14:50:06.082Z"
+      "listedAt": null
     },
     {
       "code": "BRANCHUSCREATIONS",
@@ -142,7 +142,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-20T00:00:00Z",
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "U6RXJ5HVKN541",
@@ -163,7 +163,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-18T13:37:21.092Z"
+      "listedAt": null
     },
     {
       "code": "5C5M6ANLD4QA2",
@@ -184,7 +184,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-30T14:50:06.082Z"
+      "listedAt": null
     },
     {
       "code": "W10NFZ7K9Q9",
@@ -249,7 +249,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-18T13:37:21.092Z"
+      "listedAt": null
     },
     {
       "code": "PHANTOMROY7",
@@ -294,7 +294,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T16:03:15.495Z"
+      "listedAt": null
     },
     {
       "code": "FHS8E16DXPHM2",
@@ -315,7 +315,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-18T13:37:21.092Z"
+      "listedAt": null
     },
     {
       "code": "71424UTY2VJZ8",
@@ -336,7 +336,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-14T13:25:10.108Z"
+      "listedAt": null
     },
     {
       "code": "CINEMATE",
@@ -357,7 +357,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "CONTINUOUSDELIVERY",
@@ -372,7 +372,7 @@
       ],
       "url": "https://www.coupert.com/store/qwertee.com",
       "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -380,7 +380,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-05T00:00:00Z",
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "NICOVALMONT",
@@ -419,14 +419,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/qwertee-com",
       "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "ZY32DHNDCHS5R",
@@ -447,7 +447,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-26T14:52:06.363Z"
+      "listedAt": null
     },
     {
       "code": "CRAFTYDRAGON",
@@ -468,7 +468,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T16:03:15.495Z"
+      "listedAt": null
     },
     {
       "code": "PROMO5",
@@ -489,7 +489,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-30T14:50:06.082Z"
+      "listedAt": null
     },
     {
       "code": "EROSIUM",
@@ -708,6 +708,90 @@
       },
       "verified": false,
       "listedAt": "2026-11-10T14:12:41.909Z"
+    },
+    {
+      "code": "VOUCHER15",
+      "description": "Qwertee New Customer Discount through Promo Code: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qwertee-com",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "FL6B84YY2ZTKD",
+      "description": "Savings are available with this offer at qwertee.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qwertee-com",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "U9D92VGZL5VX9",
+      "description": "Claim Qwertee 5% Off via Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qwertee-com",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "LJUNK9S3QU52S",
+      "description": "Current savings are available for your purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qwertee-com",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

@@ -16,13 +16,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ukcc",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-18T13:37:21.092Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "UK30",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "FDX30",
@@ -86,7 +86,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "FVHBGWV",
@@ -107,7 +107,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-18T13:37:21.092Z"
+      "listedAt": null
     },
     {
       "code": "GHOST20",
@@ -123,13 +123,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ukcc",
       "addedAt": "2026-10-31T14:11:25.661Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "FFT30",
@@ -150,7 +150,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": null
     },
     {
       "code": "TSX30",
@@ -728,17 +728,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/ukcc.co.uk",
       "addedAt": "2026-11-05T18:00:41.650Z",
-      "lastSeen": "2026-11-06T17:20:06.868Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T17:20:06.868Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "PSA30",
@@ -760,6 +761,90 @@
         "lastTested": null
       },
       "listedAt": "2026-11-05T18:00:41.650Z"
+    },
+    {
+      "code": "PRIZE30",
+      "description": "Take 30% Off with UKCC Promo Codes",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ukcc",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "PRIZE20",
+      "description": "20% Off Using UKCC Promo Codes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ukcc",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "AUTUMN20",
+      "description": "",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ukcc",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "OCT15",
+      "description": "UKCC New User Discount through Discount Codes: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ukcc",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

@@ -24,6 +24,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-08T14:50:36.707Z"
+    },
+    {
+      "code": "LOGS10",
+      "description": "Get £10 Off UK Logs Direct with Discount Code",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/uklogsdirect-co-uk",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

@@ -22,7 +22,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-14T13:25:10.108Z"
+      "listedAt": null
+    },
+    {
+      "code": "THANKYOU10",
+      "description": "Take 10% off using Quilted Bear discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/quilted-bear",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

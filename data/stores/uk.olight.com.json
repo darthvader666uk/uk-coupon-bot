@@ -907,7 +907,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-22T13:30:00.956Z"
+      "listedAt": null
     },
     {
       "code": "BRSALE",
@@ -1033,7 +1033,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-03T15:49:13.765Z"
+      "listedAt": null
     },
     {
       "code": "BRAVO10",
@@ -1054,7 +1054,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-21T13:30:13.824Z"
+      "listedAt": null
     },
     {
       "code": "OFF30",
@@ -1069,13 +1069,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/olight",
       "addedAt": "2026-10-30T14:50:06.082Z",
-      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T15:56:39.426Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "MAR10",
@@ -1170,17 +1170,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/olight.com",
       "addedAt": "2026-11-11T13:17:03.137Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "DF10",
@@ -1195,13 +1196,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/olight",
       "addedAt": "2026-11-11T15:56:39.426Z",
-      "lastSeen": "2026-11-11T15:56:39.426Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T15:56:39.426Z"
+      "listedAt": "2026-11-13T08:07:32.444Z"
     },
     {
       "code": "DEMAND10",
@@ -1222,7 +1223,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T15:56:39.426Z"
+      "listedAt": null
     },
     {
       "code": "FIRST10",
@@ -1265,6 +1266,69 @@
         "lastTested": null
       },
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "BLACK10",
+      "description": "Olight Black Friday: Save 50% with Promo Codes",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/olight",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "BLC15",
+      "description": "Redeem Promo Codes: Get 15% Off at Olight",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/olight",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "NEW5",
+      "description": "Olight Discount Codes: 5% Off For You",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/olight",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
     }
   ]
 }

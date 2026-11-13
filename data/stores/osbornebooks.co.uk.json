@@ -1,0 +1,28 @@
+{
+  "domain": "osbornebooks.co.uk",
+  "name": "Osborne Books",
+  "category": "general",
+  "codes": [
+    {
+      "code": "NEW10",
+      "description": "Osborne Books First Purchase using Promo Code: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/osborne-books",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    }
+  ]
+}

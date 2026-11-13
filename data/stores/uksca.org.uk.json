@@ -1,0 +1,28 @@
+{
+  "domain": "uksca.org.uk",
+  "name": "Uksca",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FLASH25",
+      "description": "25% Off Just for You, Grab This Amazing Deal Before It’s Gone",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/uksca-discount",
+      "addedAt": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T08:07:32.444Z"
+    }
+  ]
+}
