@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-23T13:10:32.892Z"
+      "listedAt": null
     },
     {
       "code": "CHEEKY20",
@@ -44,6 +44,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-05T18:00:41.650Z"
+    },
+    {
+      "code": "SPOOKY10",
+      "description": "Unlock 10% discount on your purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vintagewholesalers-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

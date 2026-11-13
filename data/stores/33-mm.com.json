@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-19T15:17:36.796Z"
+      "listedAt": null
     },
     {
       "code": "SPICY361",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-15T13:11:11.706Z"
+      "listedAt": null
     },
     {
       "code": "Z36Z7HSL",
@@ -64,7 +64,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-24T12:32:52.250Z"
+      "listedAt": null
+    },
+    {
+      "code": "BLACK10",
+      "description": "33Mm Black Friday: Save 10% with Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/33mm-discount",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

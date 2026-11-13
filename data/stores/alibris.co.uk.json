@@ -337,13 +337,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/alibris",
       "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "TRANSCEND",
@@ -364,7 +364,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "GOLDEN",
@@ -385,7 +385,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "SURPASS",
@@ -406,7 +406,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "KNETBOOKS",
@@ -503,18 +503,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://alibris.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "RN42",
@@ -559,6 +560,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "PROSPER",
+      "description": "Take advantage of Alibris Discount Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/alibris",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "FOLKLORE",
+      "description": "Take £13 Off with Alibris Promo Codes",
+      "type": "fixed",
+      "value": 13,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/alibris",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

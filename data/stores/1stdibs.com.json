@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "THRIFTED15",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "COUNTDOWN15",
@@ -58,13 +58,13 @@
       ],
       "url": "https://www.coupert.com/store/1stdibs.com",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-10-19T15:17:36.796Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-19T15:17:36.796Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "ART2020SHIP",
@@ -107,7 +107,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-24T12:32:52.250Z"
+      "listedAt": null
     },
     {
       "code": "DISCOVERY100",
@@ -128,7 +128,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "1STWELCOME",
@@ -149,7 +149,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-24T12:32:52.250Z"
+      "listedAt": null
     },
     {
       "code": "DISCOVER25",
@@ -170,7 +170,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-24T12:32:52.250Z"
+      "listedAt": null
     },
     {
       "code": "14XXXXXX",
@@ -191,7 +191,70 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
+    },
+    {
+      "code": "FREESHIP",
+      "description": "Free Shipping Art, Fashion & Decor Order at 1stDibs",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/1stdibs-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "HOLIDAY25",
+      "description": "1St DIBS New User Discount via Promo Code: 25%",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/1stdibs-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "FESTIVE",
+      "description": "Unlock a 25% Discount with 1St DIBS Coupon Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/1stdibs-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

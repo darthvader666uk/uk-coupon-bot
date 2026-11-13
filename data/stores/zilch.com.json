@@ -22,7 +22,70 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
+    },
+    {
+      "code": "DEAL15",
+      "description": "Zilch Uk New User Discount with Promo Code: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zilch-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "SEPTEMBER10",
+      "description": "Zilch Uk First Purchase using Discount Code: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zilch-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "GETOFFER",
+      "description": "Unlock Zilch Secret Discounts and Promo Codes",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zilch-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

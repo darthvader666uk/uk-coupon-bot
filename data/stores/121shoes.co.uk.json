@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-19T15:17:36.796Z"
+      "listedAt": null
     },
     {
       "code": "FB10PERCENT",
@@ -37,13 +37,34 @@
       ],
       "url": "https://uk.coupert.com/promo-code/121shoes-co-uk",
       "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "WELCOME10",
+      "description": "10% Off Using 121 Shoes Voucher",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/121shoes-co-uk",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

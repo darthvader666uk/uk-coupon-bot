@@ -22,7 +22,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T14:11:25.661Z"
+      "listedAt": null
+    },
+    {
+      "code": "SALE10",
+      "description": "Enter Email to Receive 10% Off on Your First Order - Vapegreen UK Promo code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/vapegreen",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

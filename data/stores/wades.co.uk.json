@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T14:11:25.661Z"
+      "listedAt": null
     },
     {
       "code": "WELCOME749",
@@ -43,7 +43,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T16:03:15.495Z"
+      "listedAt": null
+    },
+    {
+      "code": "FENCE25",
+      "description": "25% off your first order",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wades",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

@@ -91,7 +91,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-15T13:11:11.706Z"
+      "listedAt": null
     },
     {
       "code": "CASH5",
@@ -112,7 +112,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T14:11:25.661Z"
+      "listedAt": null
     },
     {
       "code": "PRBOLMINIORG2",
@@ -133,7 +133,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-15T13:11:11.706Z"
+      "listedAt": null
     },
     {
       "code": "YMDONNA",
@@ -176,7 +176,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T14:11:25.661Z"
+      "listedAt": null
     },
     {
       "code": "JUSTFORYOU",
@@ -318,18 +318,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://yogamatters.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "BACKTOCLASS",
@@ -594,6 +595,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "GIVE20",
+      "description": "Unlock £20 Off Yogamatters with Promo Code",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yogamatters-discount",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

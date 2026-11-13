@@ -1,0 +1,28 @@
+{
+  "domain": "unique-cottages.co.uk",
+  "name": "Unique Cottages",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HEALTH40",
+      "description": "£40 off NHS self-catering bookings of 5 nights or more",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/unique-cottages",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    }
+  ]
+}

@@ -17,14 +17,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/xplora",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "MOTHER10",
@@ -40,14 +40,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/xplora",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "X4SAVE20",
@@ -91,7 +91,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-15T13:11:11.706Z"
+      "listedAt": null
     },
     {
       "code": "XPLORAUK30",
@@ -107,14 +107,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/xplora",
       "addedAt": "2026-10-05T11:22:37.370Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "XPLORA10",
@@ -158,7 +158,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T14:11:25.661Z"
+      "listedAt": null
     },
     {
       "code": "DAD20",
@@ -174,13 +174,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/xplora",
       "addedAt": "2026-10-23T13:10:32.892Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z",
+      "listedAt": "2026-11-13T15:59:00.203Z",
       "verified": true
     },
     {
@@ -192,18 +192,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://xplora.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "LAURA20",
@@ -534,6 +535,69 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "SAVE10",
+      "description": "Save 10% with Xplora Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xplora",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "FIRST10",
+      "description": "Xplora First Purchase via Promo Codes: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xplora",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "COUPON",
+      "description": "Savings are available on your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xplora",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "domain": "wmc.org.uk",
+  "name": "Wales Millennium Centre",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AELODAU5",
+      "description": "£5 off under-25 tickets on selected shows",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wales-millennium-centre",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    }
+  ]
+}

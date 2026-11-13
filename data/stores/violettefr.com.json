@@ -120,7 +120,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-18T13:37:21.092Z"
+      "listedAt": null
     },
     {
       "code": "WEMISSYOU15",
@@ -187,7 +187,7 @@
       ],
       "url": "https://violettefr.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -195,7 +195,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-28T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "MAGGIEVFR15",
@@ -409,7 +409,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-14T00:00:00Z",
-      "listedAt": "2026-10-31T14:11:25.661Z"
+      "listedAt": null
     },
     {
       "code": "VFR-WG2PH3-20",
@@ -424,13 +424,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/violette-fr",
       "addedAt": "2026-10-18T13:37:21.092Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "VIOLETTE_FR",
@@ -574,13 +574,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/violette-fr",
       "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T14:50:36.707Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "LOYAL20",
@@ -635,18 +635,40 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://violettefr.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "WELCOME15",
+      "description": "Violette Fr Welcome Discount: 15% Off Promo Codes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/violette-fr",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

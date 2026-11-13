@@ -1,0 +1,28 @@
+{
+  "domain": "winwink.co.uk",
+  "name": "Winwink",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME10",
+      "description": "Winwink First Purchase using Promo Code: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/winwink",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    }
+  ]
+}

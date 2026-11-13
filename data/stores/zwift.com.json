@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "GARMIN20",
@@ -37,7 +37,7 @@
       ],
       "url": "https://www.coupert.com/store/zwift.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -45,7 +45,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "ZWIFTMIKE10",
@@ -88,7 +88,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
     },
     {
       "code": "STEERFORLESSEU",
@@ -109,7 +109,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
     },
     {
       "code": "CZWIFT10",
@@ -152,7 +152,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
     },
     {
       "code": "3-DIGIT",
@@ -173,7 +173,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
     },
     {
       "code": "MEMBERSHIPDISCOUNT",
@@ -189,13 +189,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/zwift-com",
       "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "USAT10K",
@@ -639,7 +639,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
     },
     {
       "code": "FREEMAT",
@@ -660,7 +660,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
+    },
+    {
+      "code": "OCTOBER20",
+      "description": "Zwift New User Discount with Voucher Codes: 20%",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zwift-com",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }

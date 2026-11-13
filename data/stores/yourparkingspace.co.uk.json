@@ -17,7 +17,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -25,7 +25,7 @@
       },
       "verified": false,
       "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "TROOPS10",
@@ -41,7 +41,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -49,7 +49,7 @@
       },
       "verified": false,
       "lastWorkedAt": "2026-11-03T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "SECUREMYSPACE",
@@ -65,7 +65,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -73,7 +73,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "HUKDYPS25",
@@ -120,7 +120,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "DPFPARKING10",
@@ -143,7 +143,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "15DISCOUNT",
@@ -190,7 +190,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "ARRIVE10",
@@ -261,7 +261,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "THRIFT10",
@@ -411,7 +411,7 @@
       ],
       "url": "https://www.coupert.com/store/yourparkingspace.co.uk",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -419,7 +419,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "BOOKMONTHLY25",
@@ -442,7 +442,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-16T00:00:00Z",
-      "listedAt": "2026-11-02T14:17:38.953Z"
+      "listedAt": null
     },
     {
       "code": "BOOKING10",
@@ -676,7 +676,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "OFF10",
@@ -830,6 +830,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "RGPARK10",
+      "description": "Get 10% off Airport Parking",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yourparkingspace",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "DISCOUNT15",
+      "description": "Grab 15% Discount with YourParkingSpace Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yourparkingspace",
+      "addedAt": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T15:59:00.203Z"
     }
   ]
 }
