@@ -17,13 +17,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/h10hotels.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T18:07:21.916Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "CANARYDEAL",
@@ -38,7 +38,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/h10hotels.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -46,7 +46,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-05T09:38:39.938Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "MISSYOU",
@@ -61,13 +61,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/h10hotels.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "SPRING26",
@@ -78,17 +78,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "caramel"
       ],
       "url": "https://www.wethrift.com/codes/h10hotels.com",
       "addedAt": "2026-11-12T18:07:21.916Z",
-      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T18:07:21.916Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "WINTER26",
@@ -99,17 +100,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "caramel"
       ],
       "url": "https://www.wethrift.com/codes/h10hotels.com",
       "addedAt": "2026-11-12T18:07:21.916Z",
-      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T18:07:21.916Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "BOXING25",
@@ -215,6 +217,321 @@
         "lastTested": null
       },
       "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "LOVE26",
+      "description": "Simply apply this promo code during checkout to get up to 20% off your select order.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "CANARY26",
+      "description": "Don't forget to apply this discount code at checkout to receive up to 20% off plus an extra 5% off long stays.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "CUPON-H10",
+      "description": "By using this coupon code during checkout, you can save 10% on your eligible purchase.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "NEWRACO",
+      "description": "Apply this promo code at checkout to take up to 20% off your booking at the H10 Racó del Pi Boutique Hotel.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "FALL22",
+      "description": "Book your future travel through H10 Hotels and save 20% by applying this coupon code.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "FLASHCITY",
+      "description": "Use this H10 Hotels promotional code during checkout to get up to 25% off your qualifying purchase.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "FALLSALE",
+      "description": "Score up to 15% off your booking on autumn getaways using this promotional code during checkout.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "OCEANWEEK",
+      "description": "Get 20% off your purchase using a coupon code on your cart.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "OFF15ES",
+      "description": "By using this discount code during checkout, you can save 15% on your eligible purchase.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "SUR26",
+      "description": "Shop and receive 25% off select items using this discount code on your purchase at H10 Hotels.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "DORADA26",
+      "description": "Score up to 25% off your select order when you use this H10 Hotels coupon code during checkout.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "KIDS26",
+      "description": "Enjoy 25% off family holidays with this H10 Hotels code.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "THEONESUMM",
+      "description": "Enjoy up to 20% off your stay and 15% off dining at The One hotels using this promotional code.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "EARLYBOOK",
+      "description": "Use this promo code at checkout to take up to 25% off your stay when you book select hotel accommodations early on this year through H10 Hotels.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "EARLYSUN",
+      "description": "Remember to apply this promo code at checkout to save up to 25% on your select purchase.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/h10hotels.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

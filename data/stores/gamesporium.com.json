@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T11:30:20.399Z"
+      "listedAt": null
     },
     {
       "code": "HALLOWEEN12",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T11:30:20.399Z"
+      "listedAt": null
     },
     {
       "code": "HALLOWEEN5",
@@ -64,7 +64,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-31T11:30:20.399Z"
+      "listedAt": null
+    },
+    {
+      "code": "FLASHSALE12",
+      "description": "12% off selected products — Gamesporium",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "ggdeals",
+      "sources": [
+        "ggdeals"
+      ],
+      "url": "https://gg.deals/vouchers/",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

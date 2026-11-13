@@ -1,0 +1,53 @@
+{
+  "domain": "ocado.co.uk",
+  "name": "Ocado",
+  "category": "general",
+  "codes": [
+    {
+      "code": "25OCADO",
+      "description": "Save 25% on the food in your first order, plus enjoy 3 months of unlimited free deliveries",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-24T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/ocado.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T20:07:56.647Z",
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "OCADOAFF25",
+      "description": "Use this Ocado discount code to get 25% off first orders over £60",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 60,
+      "expiry": "2026-12-21T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/ocado.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T15:05:47.179Z",
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    }
+  ]
+}

@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-20T10:57:42.385Z"
+      "listedAt": null
     },
     {
       "code": "VALENTINE10",
@@ -43,7 +43,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-20T10:57:42.385Z"
+      "listedAt": null
+    },
+    {
+      "code": "BF10",
+      "description": "10% off orders at Swoon London",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/swoon-london-discount-codes",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

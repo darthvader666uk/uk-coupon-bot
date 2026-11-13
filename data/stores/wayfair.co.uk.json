@@ -149,7 +149,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-10-18T10:29:12.748Z"
+      "listedAt": null
     },
     {
       "code": "M7L2N8T4",
@@ -171,7 +171,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-04T13:41:24.576Z"
+      "listedAt": null
     },
     {
       "code": "TGAC2105",
@@ -193,7 +193,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-10-30T12:02:27.438Z"
+      "listedAt": null
     },
     {
       "code": "BIZ25AF47",
@@ -215,7 +215,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-04T13:41:24.576Z"
+      "listedAt": null
     },
     {
       "code": "LNU5G9BQ5RJ9",
@@ -258,7 +258,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-10-24T10:14:28.255Z"
+      "listedAt": null
     },
     {
       "code": "GSCF25",
@@ -280,7 +280,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-10-25T10:33:12.100Z"
+      "listedAt": null
     },
     {
       "code": "COFFEE20",
@@ -408,7 +408,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-04T13:41:24.576Z"
+      "listedAt": null
     },
     {
       "code": "WRBHYSACX",
@@ -423,14 +423,14 @@
       ],
       "url": "https://wayfair.knoji.com/",
       "addedAt": "2026-11-04T13:41:24.576Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-08T12:30:54.216Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "BRAND10",
@@ -469,14 +469,14 @@
       ],
       "url": "https://wayfair.knoji.com/",
       "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-08T12:30:54.216Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "P6Q9L5A8",
@@ -498,7 +498,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-08T12:30:54.216Z"
+      "listedAt": null
     },
     {
       "code": "CODE20",
@@ -532,11 +532,12 @@
       "expiry": "2026-12-14T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "savoo"
       ],
       "url": "https://www.hotukdeals.com/vouchers/wayfair.co.uk",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -544,7 +545,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-05T14:13:38.161Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "BREAKFAST10",
@@ -566,6 +567,138 @@
         "lastTested": null
       },
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "APRIL10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "SAVE500",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "WBUS8",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "N2R7F4T9",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "WELCOME10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "ZZ50905",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://wayfair.knoji.com/",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

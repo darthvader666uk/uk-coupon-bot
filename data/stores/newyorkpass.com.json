@@ -1,0 +1,28 @@
+{
+  "domain": "newyorkpass.com",
+  "name": "New York Pass",
+  "category": "general",
+  "codes": [
+    {
+      "code": "GOPROMOCD",
+      "description": "Extra 5% off when you apply this discount code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-12-31T22:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/newyorkpass.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    }
+  ]
+}

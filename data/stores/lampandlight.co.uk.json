@@ -51,7 +51,7 @@
       "type": "percentage",
       "value": 16,
       "minSpend": 110,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:00.000Z",
       "source": "savoo",
       "sources": [
         "savoo",
@@ -59,13 +59,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/lampandlight-discount-codes",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "AIDEN10",
@@ -101,13 +101,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/lampandlight.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "EXTRA15-UK",
@@ -122,13 +122,34 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/lampandlight.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "BLACK2026",
+      "description": "Take 14% off orders now",
+      "type": "percentage",
+      "value": 14,
+      "minSpend": null,
+      "expiry": "2026-11-18T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/lampandlight.co.uk",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

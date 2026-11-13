@@ -1,0 +1,30 @@
+{
+  "domain": "nuby.com",
+  "name": "Nuby",
+  "category": "general",
+  "codes": [
+    {
+      "code": "HUKD10",
+      "description": "Get an exclusive 10% off everything",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-02T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/nuby.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-05T16:29:03.931Z",
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    }
+  ]
+}

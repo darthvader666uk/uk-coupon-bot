@@ -16,13 +16,15 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/footasylum.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T11:09:10.540Z"
     },
     {
       "code": "SECRET20",
@@ -38,7 +40,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/footasylum.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -46,7 +48,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T12:19:03.570Z",
-      "listedAt": "2026-11-12T18:07:21.916Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "IRL15",
@@ -61,7 +63,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/footasylum.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -69,7 +71,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-06T11:23:00.978Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "APP15",
@@ -85,13 +87,15 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/footasylum.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T18:07:21.916Z"
+      "listedAt": "2026-11-13T13:56:08.358Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T11:14:59.749Z"
     },
     {
       "code": "NEW2026",
@@ -106,7 +110,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/footasylum.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -114,7 +118,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-03T11:54:29.482Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "NEWCUST10",
@@ -129,7 +133,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/footasylum.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -137,7 +141,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-04T11:28:14.004Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "SINGLE22",
@@ -187,20 +191,23 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-18T23:59:59.000Z",
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/footasylum.com",
       "addedAt": "2026-11-12T18:07:21.916Z",
-      "lastSeen": "2026-11-12T18:07:21.916Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T18:07:21.916Z"
+      "listedAt": "2026-11-13T13:56:08.358Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T10:40:34.071Z"
     },
     {
       "code": "LOCKED20",
@@ -264,6 +271,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-12T18:07:21.916Z"
+    },
+    {
+      "code": "DNK10",
+      "description": "Enjoy 10% off full-priced items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-02T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/footasylum.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T10:44:24.570Z",
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

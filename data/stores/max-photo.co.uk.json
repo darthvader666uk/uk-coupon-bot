@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T12:30:54.216Z"
+      "listedAt": null
     },
     {
       "code": "HOME25",
@@ -37,13 +37,34 @@
       ],
       "url": "https://www.savoo.co.uk/brands/max-photo-discount-codes",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "TREAT20",
+      "description": "20% off orders over £20 at Max Photo",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 20,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/max-photo-discount-codes",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "domain": "calvin-klein.co.uk",
+  "name": "Calvin Klein",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EXTRA20",
+      "description": "Extra 20% off orders over £45 at Calvin Klein",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 45,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/calvin-klein-discount-codes",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    }
+  ]
+}

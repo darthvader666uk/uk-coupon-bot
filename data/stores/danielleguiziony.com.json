@@ -79,15 +79,15 @@
       ],
       "url": "https://www.coupert.com/store/danielleguiziony.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-31T00:00:00Z",
-      "listedAt": "2026-11-05T13:48:53.775Z"
+      "lastWorkedAt": "2026-11-12T00:00:00Z",
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "MEMBERSONLY",
@@ -102,15 +102,15 @@
       ],
       "url": "https://www.coupert.com/store/danielleguiziony.com",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-11-05T13:48:53.775Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-05T00:00:00Z",
-      "listedAt": "2026-11-05T13:48:53.775Z"
+      "lastWorkedAt": "2026-11-13T00:00:00Z",
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "SECRET25",
@@ -176,27 +176,6 @@
         "lastTested": null
       },
       "listedAt": "2026-10-16T13:01:35.629Z"
-    },
-    {
-      "code": "PRIVATE30",
-      "description": "Enjoy Big Discount with This Voucher",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/danielleguiziony.com",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "listedAt": "2026-10-14T11:07:21.531Z"
     },
     {
       "code": "DG15",
@@ -325,6 +304,71 @@
         "lastTested": null
       },
       "listedAt": "2026-11-10T16:08:37.281Z"
+    },
+    {
+      "code": "APP20",
+      "description": "20% Off Storewide at Danielle Guizio",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/danielleguiziony.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-13T00:00:00Z",
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "BFSALE",
+      "description": "40% Off On Your Order",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/danielleguiziony.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "GUIZIO30",
+      "description": "Receive 30% Discount on Your Order with Promo Code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/danielleguiziony.com",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

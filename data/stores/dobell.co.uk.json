@@ -16,13 +16,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/dobell-discount-codes",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T12:21:17.882Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "SMILE20",
@@ -597,50 +597,6 @@
       "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
-      "code": "SUMMER20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://dobell.knoji.com/",
-      "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
-    },
-    {
-      "code": "BH20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://dobell.knoji.com/",
-      "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
-    },
-    {
       "code": "FLASH30",
       "description": "30% off",
       "type": "percentage",
@@ -749,6 +705,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "SAVE10",
+      "description": "10% off orders over £100 at Dobell",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/dobell-discount-codes",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

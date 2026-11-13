@@ -24,31 +24,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
-    },
-    {
-      "code": "10OFFAPP150",
-      "description": "£10 off Orders Over £150 on the Mamas & Papas App",
-      "type": "fixed",
-      "value": 10,
-      "minSpend": 150,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "coupert"
-      ],
-      "url": "https://www.savoo.co.uk/brands/mamas-and-papas-discount-codes",
-      "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-14T00:00:00Z",
-      "listedAt": "2026-10-14T11:07:21.531Z"
+      "listedAt": null
     },
     {
       "code": "STAFFMP25",
@@ -64,7 +40,7 @@
       ],
       "url": "https://www.coupert.com/store/mamasandpapas.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -72,95 +48,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-14T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
-    },
-    {
-      "code": "25WELCOME010",
-      "description": "5% Off When You Subscribe to the Newsletter",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mamasandpapas.com",
-      "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-14T00:00:00Z",
-      "listedAt": "2026-10-14T11:07:21.531Z"
-    },
-    {
-      "code": "25WELCOME006",
-      "description": "5% Off Your First Purchase When You Subscribe",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mamasandpapas.com",
-      "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-24T00:00:00Z",
-      "listedAt": "2026-10-14T11:07:21.531Z"
-    },
-    {
-      "code": "NUNA5",
-      "description": "5% Off Storewide at Mamas & Papas",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mamasandpapas.com",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "listedAt": "2026-10-14T11:07:21.531Z"
-    },
-    {
-      "code": "BC10",
-      "description": "Up to 15% off is available on mamasandpapas.com Products",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/mamasandpapas.com",
-      "addedAt": "2026-10-14T11:07:21.531Z",
-      "lastSeen": "2026-10-14T11:07:21.531Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "listedAt": "2026-10-14T11:07:21.531Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "ADM8",
@@ -259,7 +147,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/mamasandpapas.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -267,7 +155,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T10:39:18.261Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

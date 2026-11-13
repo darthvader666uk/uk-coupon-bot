@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
     },
     {
       "code": "10OFF50",
@@ -263,7 +263,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Up to 70% off plus Extra 10% off Sale Items at Ben Sherman",
+      "type": "percentage",
+      "value": 70,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/ben-sherman-discount-codes",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }

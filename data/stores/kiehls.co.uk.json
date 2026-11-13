@@ -360,7 +360,7 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
       "source": "wethrift",
       "sources": [
         "wethrift",
@@ -368,13 +368,13 @@
       ],
       "url": "https://www.wethrift.com/codes/kiehls.co.uk",
       "addedAt": "2026-11-11T17:49:54.508Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "OXFORDSTREET15",
@@ -468,28 +468,6 @@
       "description": "20% off",
       "type": "percentage",
       "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kiehls.knoji.com/",
-      "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-12T14:26:09.672Z"
-    },
-    {
-      "code": "10OFF",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",

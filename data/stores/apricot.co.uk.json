@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": null
     },
     {
       "code": "TREATFORYOU",
@@ -37,13 +37,55 @@
       ],
       "url": "https://www.savoo.co.uk/brands/apricot-discount-codes",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Extra 10% off Sale Items at Apricot",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/apricot-discount-codes",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "PAYDAY",
+      "description": "Free Deivery on Full-Priced orders at Apricot",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/apricot-discount-codes",
+      "addedAt": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-13T13:56:08.358Z"
     }
   ]
 }
