@@ -1,0 +1,28 @@
+{
+  "domain": "healtech.co.uk",
+  "name": "Healtech",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME15",
+      "description": "15% off orders over £79.99",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 79.99,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/healtech",
+      "addedAt": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T14:48:01.351Z"
+    }
+  ]
+}

@@ -64,7 +64,7 @@
       ],
       "url": "https://www.coupert.com/store/hogiesonline.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -72,7 +72,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-01T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T14:48:01.351Z"
     },
     {
       "code": "AL_LXXVOTOSWZVFD1",
@@ -87,7 +87,7 @@
       ],
       "url": "https://www.coupert.com/store/hogiesonline.co.uk",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -95,7 +95,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T14:48:01.351Z"
     },
     {
       "code": "AL_5BQPVBAC7LIAE0",
@@ -110,7 +110,7 @@
       ],
       "url": "https://www.coupert.com/store/hogiesonline.co.uk",
       "addedAt": "2026-09-20T10:20:57.109Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -118,7 +118,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T14:48:01.351Z"
     },
     {
       "code": "SKIN20",
@@ -133,7 +133,7 @@
       ],
       "url": "https://www.coupert.com/store/hogiesonline.co.uk",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -141,7 +141,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2025-12-25T00:00:00Z",
-      "listedAt": "2026-10-29T12:14:25.904Z"
+      "listedAt": "2026-11-14T14:48:01.351Z"
     },
     {
       "code": "FY6R3M",
@@ -340,7 +340,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-16T10:42:51.592Z"
+      "listedAt": null
     },
     {
       "code": "TRG3855N54",
@@ -363,7 +363,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-19T00:00:00Z",
-      "listedAt": "2026-10-29T12:14:25.904Z"
+      "listedAt": null
     },
     {
       "code": "SPARKLE10",
@@ -606,6 +606,69 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "EXTRA5",
+      "description": "Grab 5% off with Hogies Online Promo Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hogies-online",
+      "addedAt": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T14:48:01.351Z"
+    },
+    {
+      "code": "GS10",
+      "description": "10% off in savings is available",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hogies-online",
+      "addedAt": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T14:48:01.351Z"
+    },
+    {
+      "code": "HF9P2M",
+      "description": "Discounts are available on quality products",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/hogies-online",
+      "addedAt": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T14:48:01.351Z"
     }
   ]
 }

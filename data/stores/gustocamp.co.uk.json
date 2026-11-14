@@ -22,7 +22,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": null
+    },
+    {
+      "code": "OCT15",
+      "description": "Gustocamp New User Discount via Discount Codes: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/gustocamp",
+      "addedAt": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T14:48:01.351Z"
+    },
+    {
+      "code": "SEP15",
+      "description": "Gustocamp New User Discount with Promo Codes: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/gustocamp",
+      "addedAt": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T14:48:01.351Z"
     }
   ]
 }
