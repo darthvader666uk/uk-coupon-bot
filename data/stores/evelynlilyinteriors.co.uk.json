@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-24T12:32:52.250Z"
+      "listedAt": null
     },
     {
       "code": "ELI10",
@@ -43,7 +43,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": null
+    },
+    {
+      "code": "EARLYACCESS25",
+      "description": "Discover the best deals - a 10% discount",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/evelynlilyinteriors-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

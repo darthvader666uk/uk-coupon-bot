@@ -70,7 +70,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "NEWHERE",
@@ -87,7 +87,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -95,7 +95,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T11:10:11.506Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "UPTO30",
@@ -159,7 +159,7 @@
       ],
       "url": "https://www.coupert.com/store/asos.co.uk",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -167,7 +167,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T19:57:33.942Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "ALISTBDAY",
@@ -190,7 +190,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-01T00:00:00Z",
-      "listedAt": "2026-10-15T13:11:11.706Z"
+      "listedAt": null
     },
     {
       "code": "ASOSNEWBIE",
@@ -655,7 +655,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2025-12-05T00:00:00Z",
-      "listedAt": "2026-10-19T15:17:36.796Z"
+      "listedAt": null
     },
     {
       "code": "SUNSHINE25",
@@ -699,7 +699,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-19T15:17:36.796Z"
+      "listedAt": null
     },
     {
       "code": "SUMMERWINS",
@@ -1119,7 +1119,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "ASOSBFF",
@@ -1140,7 +1140,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
     },
     {
       "code": "BOUH5",
@@ -1513,6 +1513,69 @@
       "verified": true,
       "lastWorkedAt": "2026-11-06T15:58:17.951Z",
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "WELCOME",
+      "description": "Get 20% Off Your First Order When You Sign Up for ASOS Emails",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asos-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "GIMME20",
+      "description": "Enjoy 20% Off with ASOS Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asos-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "MIDNIGHT",
+      "description": "An additional 30% off applies to special items",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asos-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

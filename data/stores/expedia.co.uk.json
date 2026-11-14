@@ -33,17 +33,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/expedia-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "CFEXPUK",
@@ -75,11 +76,12 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/expedia.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -87,7 +89,112 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-06T05:39:03.450Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "20BLACKCYBER",
+      "description": "Get £20 Off £100+, Up To 50% Off Selected Activities",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/expedia-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "HOLIDAYS20",
+      "description": "Save An extra 20% on Activities This Summer",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/expedia-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "FREECANDLE",
+      "description": "Up to 20% off Weekend Escapes at Expedia",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/expedia-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "VC8BEX26",
+      "description": "Save on your trip with this offer from expedia.co.uk",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/expedia-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "EXP5OFFER",
+      "description": "Claim 5% Off at Expedia via Discount Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/expedia-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

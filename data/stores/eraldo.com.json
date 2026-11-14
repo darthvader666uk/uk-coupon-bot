@@ -24,7 +24,7 @@
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-10-20T10:57:42.385Z"
+      "listedAt": null
     },
     {
       "code": "ARE10",
@@ -47,7 +47,7 @@
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-10-20T10:57:42.385Z"
+      "listedAt": null
     },
     {
       "code": "EXTRARET11",
@@ -116,7 +116,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
     },
     {
       "code": "ERLD15",
@@ -137,7 +137,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-02T17:43:55.093Z"
+      "listedAt": null
     },
     {
       "code": "10ERALDO",
@@ -153,7 +153,7 @@
       ],
       "url": "https://uk.coupert.com/promo-code/eraldo",
       "addedAt": "2026-10-06T14:44:51.217Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -161,7 +161,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-09T00:00:00Z",
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "SAVING65",
@@ -176,13 +176,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/eraldo",
       "addedAt": "2026-10-06T14:44:51.217Z",
-      "lastSeen": "2026-10-20T13:17:34.310Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-20T13:17:34.310Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "EXTRASKIM11",
@@ -604,7 +604,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
     },
     {
       "code": "SP0OKY20",
@@ -625,7 +625,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
     },
     {
       "code": "SIMPLYVD15",
@@ -646,7 +646,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
     },
     {
       "code": "TREAT25",
@@ -667,7 +667,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": null
     },
     {
       "code": "SPOOKY20",
@@ -700,18 +700,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://eraldo.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "EXTRA25",
@@ -734,6 +735,48 @@
       },
       "verified": true,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "EXTRABF10",
+      "description": "Eraldo | BLACK FRIDAY PROMOTION - EXTRA 10% OFF AW26 MAN SALE | Promocode: | Valid Worldwide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/eraldo",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "AUTUMN15",
+      "description": "Eraldo Sign-up Discount with Discount Codes: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/eraldo",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

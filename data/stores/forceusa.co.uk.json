@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-29T14:58:30.815Z"
+      "listedAt": null
     },
     {
       "code": "FIT5",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-02T17:43:55.093Z"
+      "listedAt": null
     },
     {
       "code": "NOFATE247",
@@ -125,14 +125,14 @@
       ],
       "url": "https://forceusa.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "FQ9RST5",
@@ -455,13 +455,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/force-usa",
       "addedAt": "2026-11-06T15:41:40.358Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "ACTIVATE15",
@@ -594,6 +594,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Extra 10% Off All Gym Equipment",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/force-usa",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

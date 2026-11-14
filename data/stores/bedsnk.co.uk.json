@@ -24,7 +24,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-05T00:00:00Z",
-      "listedAt": "2026-11-03T13:28:55.454Z"
+      "listedAt": null
     },
     {
       "code": "SP10",
@@ -39,7 +39,7 @@
       ],
       "url": "https://www.coupert.com/store/bedsnk.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -47,7 +47,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-16T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "SALE100",
@@ -70,7 +70,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-08-30T00:00:00Z",
-      "listedAt": "2026-11-03T13:28:55.454Z"
+      "listedAt": null
     },
     {
       "code": "TBMF39",
@@ -91,7 +91,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "CG879",
@@ -106,13 +106,13 @@
       ],
       "url": "https://www.coupert.com/store/bedsnk.co.uk",
       "addedAt": "2026-09-27T11:05:01.975Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "TREAT120",
@@ -135,7 +135,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-06T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "SALE120",
@@ -156,7 +156,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "B62D7E0C",
@@ -171,13 +171,181 @@
       ],
       "url": "https://www.coupert.com/store/bedsnk.co.uk",
       "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "EXTRA20",
+      "description": "20% Off at BEDSNK with This Promo Codes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "BF20",
+      "description": "£20 Off Luxury Beds",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "PROMO20",
+      "description": "BEDSNK First Purchase using Discount Codes: 20%",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "FALL15",
+      "description": "BEDSNK First Purchase with Discount Codes: 15%",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "GETDEAL5",
+      "description": "BEDSNK New User Discount via Discount Codes: 5%",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "SALE10",
+      "description": "Enjoy 10% off at bedsnk.co.uk sale",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "LOVE24",
+      "description": "Get £50 Off BEDSNK with Promo Codes",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "BANK10",
+      "description": "Discounts are available on your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bedsnk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

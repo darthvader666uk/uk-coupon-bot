@@ -1,0 +1,28 @@
+{
+  "domain": "carregchecks.co.uk",
+  "name": "Carregchecks",
+  "category": "general",
+  "codes": [
+    {
+      "code": "EXTRA10",
+      "description": "Score 10% off on specific products",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/carregchecks-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    }
+  ]
+}

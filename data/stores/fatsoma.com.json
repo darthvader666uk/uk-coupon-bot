@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
     },
     {
       "code": "FRATLIFE",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
     },
     {
       "code": "ABULA15",
@@ -64,7 +64,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
+    },
+    {
+      "code": "WELCOME25",
+      "description": "Fatsoma First Purchase with Promo Code: 25%",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fatsoma",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "STUDENT20",
+      "description": "Fatsoma Student Discount: Get 20% with Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fatsoma",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

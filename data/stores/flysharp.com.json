@@ -22,7 +22,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-02T17:43:55.093Z"
+      "listedAt": null
+    },
+    {
+      "code": "SAVE20",
+      "description": "20% off your booking",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fly-sharp",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

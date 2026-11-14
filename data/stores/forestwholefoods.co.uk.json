@@ -24,7 +24,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-14T00:00:00Z",
-      "listedAt": "2026-10-25T13:04:57.179Z"
+      "listedAt": null
     },
     {
       "code": "CHRIMBOSHOP60",
@@ -45,7 +45,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-29T14:58:30.815Z"
+      "listedAt": null
     },
     {
       "code": "HG9U8M53",
@@ -68,7 +68,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-20T00:00:00Z",
-      "listedAt": "2026-10-16T10:42:51.592Z"
+      "listedAt": null
     },
     {
       "code": "BULK50",
@@ -89,7 +89,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-20T13:17:34.310Z"
+      "listedAt": null
     },
     {
       "code": "FRESH40",
@@ -110,7 +110,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-20T13:17:34.310Z"
+      "listedAt": null
     },
     {
       "code": "FWW50",
@@ -125,13 +125,13 @@
       ],
       "url": "https://www.coupert.com/store/forestwholefoods.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "FWW40",
@@ -146,13 +146,13 @@
       ],
       "url": "https://www.coupert.com/store/forestwholefoods.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "MPY4CJ65",
@@ -173,7 +173,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "NUTSSEEDS20",
@@ -194,7 +194,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
+    },
+    {
+      "code": "HOLLYQGDB",
+      "description": "Forest Whole Foods Discount Code: Claim 5% Off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/forest-whole-foods",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "FIRST20",
+      "description": "Forest Whole Foods New User Discount through Discount Code: 20%",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/forest-whole-foods",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

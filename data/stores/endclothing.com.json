@@ -86,7 +86,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
     },
     {
       "code": "FIFTEEN",
@@ -283,7 +283,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
     },
     {
       "code": "FIRST20IBSEE",
@@ -304,7 +304,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": null
     },
     {
       "code": "VIPSALE",
@@ -391,7 +391,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": null
     },
     {
       "code": "AUGUSTSALE20",
@@ -445,17 +445,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/endclothing.com",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "WC2052HBT",
@@ -522,7 +523,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T15:41:40.358Z"
+      "listedAt": null
     },
     {
       "code": "SOLESUPPLIER15",
@@ -537,13 +538,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
       "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-11-10T16:08:37.281Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "WC15KYAVG",
@@ -763,7 +764,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T09:00:21.533Z"
+      "listedAt": null
     },
     {
       "code": "WC15T7569",
@@ -913,7 +914,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": null
     },
     {
       "code": "SPAR1024",
@@ -934,7 +935,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T16:08:37.281Z"
+      "listedAt": null
     },
     {
       "code": "XC15QJNN1",
@@ -955,7 +956,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T09:00:21.533Z"
+      "listedAt": null
     },
     {
       "code": "BUNDLE15",
@@ -1236,6 +1237,153 @@
       },
       "verified": false,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "APP15",
+      "description": "15% Off Your Next App Order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "WC15RRJFA",
+      "description": "End Clothing: Save 15% using Promo Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "WC1527X29",
+      "description": "Take 15% off using End Clothing Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "BLACKFRIDAY",
+      "description": "END. Promo Code: 25% Off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "FNDPJCKS30",
+      "description": "Claim End Clothing 30% Off via Promo Code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "FIRST10",
+      "description": "End Clothing First Purchase using Discount Code: 10%",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "WELCOMENEWUSERS",
+      "description": "End Clothing Discount Code: Save 40% Today",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/end-clothing-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }

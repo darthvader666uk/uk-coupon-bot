@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "BATHROOM60OFF",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-19T15:17:36.796Z"
+      "listedAt": null
     },
     {
       "code": "BATH50FREEGIFT",
@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-19T15:17:36.796Z"
+      "listedAt": null
     },
     {
       "code": "BATH36",
@@ -79,13 +79,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/bathroommountain-co-uk",
       "addedAt": "2026-10-19T15:17:36.796Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": "2026-11-14T08:20:12.940Z"
     },
     {
       "code": "ANY60",
@@ -106,7 +106,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-28T14:36:13.997Z"
+      "listedAt": null
     },
     {
       "code": "BATHMT40",
@@ -127,7 +127,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
     },
     {
       "code": "BATH30",
@@ -148,7 +148,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T14:49:05.837Z"
+      "listedAt": null
+    },
+    {
+      "code": "BATHMOUNTAIN20",
+      "description": "Bathroommountain New User Discount through Discount Code: 20%",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bathroommountain-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
+    },
+    {
+      "code": "TAPS20",
+      "description": "Bathroommountain Discount Code: 20% Off For You",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bathroommountain-co-uk",
+      "addedAt": "2026-11-14T08:20:12.940Z",
+      "lastSeen": "2026-11-14T08:20:12.940Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T08:20:12.940Z"
     }
   ]
 }
