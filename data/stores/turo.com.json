@@ -1,0 +1,28 @@
+{
+  "domain": "turo.com",
+  "name": "Turo",
+  "category": "general",
+  "codes": [
+    {
+      "code": "TURORENTAL10",
+      "description": "Members get a quote online from ClickMechanic and use this code when selecting your work to receive 10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2027-01-21T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/turo.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "domain": "uk.hotels.com",
+  "name": "Hotels.com",
+  "category": "general",
+  "codes": [
+    {
+      "code": "8HUKD2026HCOM",
+      "description": "Use this exclusive Hotels.com discount code to take 8% off your next hotel stay",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/uk.hotels.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T08:38:58.068Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "NEW10",
+      "description": "New customers get 10% off with this Hotels.com discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/uk.hotels.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-13T17:05:19.130Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

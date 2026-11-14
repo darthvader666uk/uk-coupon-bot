@@ -17,13 +17,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/q-park-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "SYCAF10",
@@ -31,20 +31,23 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-17T23:59:00.000Z",
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/q-park-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-14T12:52:43.546Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-13T12:06:35.033Z"
     },
     {
       "code": "SYLBMGG20",
@@ -761,6 +764,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "SYAIR10",
+      "description": "Save 10% sitewide with this Q-Park discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2027-03-31T22:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/q-park.co.uk",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

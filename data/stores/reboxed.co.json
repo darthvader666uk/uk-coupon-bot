@@ -1,0 +1,28 @@
+{
+  "domain": "reboxed.co",
+  "name": "Reboxed",
+  "category": "general",
+  "codes": [
+    {
+      "code": "RBXDBR10",
+      "description": "£10 discount on orders over £150",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 150,
+      "expiry": "2027-01-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/reboxed.co",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

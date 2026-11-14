@@ -169,7 +169,7 @@
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-05T13:48:53.775Z"
+      "listedAt": null
     },
     {
       "code": "RFE67UKN",
@@ -248,14 +248,14 @@
       ],
       "url": "https://grabcaramel.com/coupons/anker.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "KJSWEEP25",
@@ -463,7 +463,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/anker.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -471,7 +471,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T00:00:00Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "POWERBANK18",
@@ -487,7 +487,7 @@
       ],
       "url": "https://grabcaramel.com/coupons/anker.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -495,7 +495,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "AFFKOL2026",
@@ -4326,17 +4326,19 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/anker.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-14T12:52:43.546Z",
+      "verified": true
     },
     {
       "code": "WS24E8172T8172X2T87A0TB",
@@ -4421,6 +4423,160 @@
         "lastTested": null
       },
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "15ITSTHISERIC",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://anker.knoji.com/",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "20WELCOME",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://anker.knoji.com/",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "CASELY20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://anker.knoji.com/",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "WELCOME15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://anker.knoji.com/",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "SIMPLYCODES25",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://anker.knoji.com/",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "CHRISTMOUS",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://anker.knoji.com/",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "6JKJGRJL",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://anker.knoji.com/",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

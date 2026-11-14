@@ -464,14 +464,15 @@
       "type": "percentage",
       "value": 30,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2027-01-02T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/ugreen.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-10-30T12:02:27.438Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -479,7 +480,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-30T00:00:00Z",
-      "listedAt": "2026-10-30T12:02:27.438Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "NCWXN3D77Q",
@@ -822,14 +823,15 @@
       "type": "percentage",
       "value": 38,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2027-01-02T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/ugreen.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -837,7 +839,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T00:00:00Z",
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "DL45699",
@@ -2529,6 +2531,29 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "HUKD5",
+      "description": "Get an exclusive 5% off best-sellers with this UGREEN discount code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/ugreen",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T11:39:37.844Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

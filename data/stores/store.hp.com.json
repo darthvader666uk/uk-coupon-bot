@@ -1,0 +1,49 @@
+{
+  "domain": "store.hp.com",
+  "name": "HP",
+  "category": "general",
+  "codes": [
+    {
+      "code": "ACCS15",
+      "description": "Enjoy 15% off on accessories when you use the HP discount code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/store.hp.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "ALEVEL10",
+      "description": "Claim HP discount code for a 10% discount on laptops, desktops, printers, and more",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-20T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/store.hp.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

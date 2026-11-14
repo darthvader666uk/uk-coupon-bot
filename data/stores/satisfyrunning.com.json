@@ -79,13 +79,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/satisfy-running",
       "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-10-26T14:52:06.363Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-26T14:52:06.363Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "FRIDAY13",
@@ -107,6 +107,73 @@
         "lastTested": null
       },
       "listedAt": "2026-11-10T14:12:41.909Z"
+    },
+    {
+      "code": "SAVE5",
+      "description": "5% Off Select Items at Satisfy",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/satisfyrunning.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "BLACK10",
+      "description": "10% Off at Satisfy",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/satisfyrunning.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-13T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "BLACKFRIDAY",
+      "description": "More savings are available on your purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/satisfyrunning.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "domain": "store.hmv.com",
+  "name": "HMV",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FILM25",
+      "description": "Get 25% off your orders with this HMV promo code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-11-16T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/store.hmv.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T12:35:59.425Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

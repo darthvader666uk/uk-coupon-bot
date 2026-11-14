@@ -82,14 +82,14 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "SEASONALSALE",
@@ -104,13 +104,13 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "ONED30",
@@ -149,7 +149,7 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -157,7 +157,7 @@
       },
       "verified": false,
       "lastWorkedAt": "2026-10-04T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "WELCOMETOJBL",
@@ -172,13 +172,13 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "MOREFPS",
@@ -661,6 +661,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-10T14:12:41.909Z"
+    },
+    {
+      "code": "WELCOME10",
+      "description": "",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pccasegear.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "WELCOME",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pccasegear.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

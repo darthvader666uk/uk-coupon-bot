@@ -100,22 +100,23 @@
       "type": "percentage",
       "value": 25,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-12-31T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/skyparksecure.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-06-16T00:00:00Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "lastWorkedAt": "2026-11-02T11:37:24.340Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "SECURESPS",
@@ -123,14 +124,15 @@
       "type": "percentage",
       "value": 70,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2027-06-30T21:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/skyparksecure.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-12T10:55:05.747Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -138,7 +140,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-07-05T00:00:00Z",
-      "listedAt": "2026-11-12T10:55:05.747Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "SEO12",
@@ -315,6 +317,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-07T12:22:06.183Z"
+    },
+    {
+      "code": "WELCOMESPS",
+      "description": "Apply this SkyParkSecure promo code for 15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-11-15T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/skyparksecure.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

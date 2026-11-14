@@ -507,6 +507,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-08T14:50:36.707Z"
+    },
+    {
+      "code": "BF25",
+      "description": "Claim £25 off orders in the Black Friday sale with this Simple Online Pharmacy voucher code",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/simpleonlinepharmacy.co.uk",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-01T05:00:03.477Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

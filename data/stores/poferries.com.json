@@ -1,0 +1,28 @@
+{
+  "domain": "poferries.com",
+  "name": "P&O Ferries",
+  "category": "general",
+  "codes": [
+    {
+      "code": "DCAMAZON20",
+      "description": "Receive a £20 Amazon gift card when booking a long break of 7+ days",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2027-01-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/poferries.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

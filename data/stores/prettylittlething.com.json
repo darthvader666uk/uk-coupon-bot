@@ -9,20 +9,21 @@
       "type": "percentage",
       "value": 12,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-23T23:59:00.000Z",
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/prettylittlething-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "UK10PLT",
@@ -30,21 +31,22 @@
       "type": "percentage",
       "value": 75,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-12-31T23:59:00.000Z",
       "source": "savoo",
       "sources": [
         "savoo",
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/prettylittlething-discount-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "YOURDAY",
@@ -52,23 +54,24 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-23T23:59:00.000Z",
       "source": "caramel",
       "sources": [
         "caramel",
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/prettylittlething.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z",
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "lastWorkedAt": "2026-11-12T11:40:30.340Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "BONUS20",
@@ -1077,20 +1080,23 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/pretty-little-thing-uk",
       "addedAt": "2026-11-13T08:07:32.444Z",
-      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": "2026-11-14T12:52:43.546Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T17:33:45.953Z"
     },
     {
       "code": "VIP30",
@@ -1154,6 +1160,50 @@
         "lastTested": null
       },
       "listedAt": "2026-11-13T08:07:32.444Z"
+    },
+    {
+      "code": "ROYALTY20",
+      "description": "Royalty members can enjoy an extra 20% off the sale",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-23T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/prettylittlething.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T08:45:43.442Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "UK8PLT",
+      "description": "Claim 8% off orders using this discount code",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": "2026-11-23T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/prettylittlething.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

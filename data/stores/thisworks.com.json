@@ -1,0 +1,51 @@
+{
+  "domain": "thisworks.com",
+  "name": "This Works",
+  "category": "general",
+  "codes": [
+    {
+      "code": "XMAS25",
+      "description": "Get £25 off gifts this Christmas",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-12-25T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/thisworks.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "OFFER2026",
+      "description": "Save 30% on orders over £45 with this This Works discount code",
+      "type": "fixed",
+      "value": 45,
+      "minSpend": 45,
+      "expiry": "2026-11-15T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/thisworks.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-10T13:49:08.094Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

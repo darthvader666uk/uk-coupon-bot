@@ -451,52 +451,7 @@
       "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
-      "code": "PAYDAY20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "wethrift"
-      ],
-      "url": "https://hedgesdirect.knoji.com/",
-      "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-14T07:54:23.707Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-14T07:54:23.707Z"
-    },
-    {
       "code": "EMAIL20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://hedgesdirect.knoji.com/",
-      "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
-    },
-    {
-      "code": "SALE20",
       "description": "20% off",
       "type": "percentage",
       "value": 20,

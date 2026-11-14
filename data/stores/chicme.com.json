@@ -1,0 +1,28 @@
+{
+  "domain": "chicme.com",
+  "name": "Chicme",
+  "category": "general",
+  "codes": [
+    {
+      "code": "10OFF",
+      "description": "£7.58 off orders over £79 at ChicMe",
+      "type": "fixed",
+      "value": 7.58,
+      "minSpend": 79,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/chicme-discount-codes",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    }
+  ]
+}

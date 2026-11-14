@@ -62,15 +62,15 @@
       ],
       "url": "https://uk.coupert.com/promo-code/sensi-seeds",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "lastWorkedAt": "2026-11-13T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "SENSISPECIAL20",
@@ -109,15 +109,15 @@
       ],
       "url": "https://www.coupert.com/store/sensiseeds.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "lastWorkedAt": "2026-11-13T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "SUPREME",
@@ -156,14 +156,14 @@
       ],
       "url": "https://sensiseeds.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "HSPLSJFN",
@@ -381,14 +381,15 @@
       ],
       "url": "https://sensiseeds.knoji.com/",
       "addedAt": "2026-10-03T11:14:32.650Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "verified": true,
+      "listedAt": "2026-11-14T12:52:43.546Z",
+      "lastWorkedAt": "2026-11-11T00:00:00Z"
     },
     {
       "code": "REG50",
@@ -670,15 +671,15 @@
       ],
       "url": "https://www.coupert.com/store/sensiseeds.com",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-06T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "lastWorkedAt": "2026-11-13T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "DRACULA35",
@@ -763,15 +764,15 @@
       ],
       "url": "https://www.coupert.com/store/sensiseeds.com",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "lastWorkedAt": "2026-11-12T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "TNR15",
@@ -804,18 +805,20 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://sensiseeds.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-14T12:52:43.546Z",
+      "lastWorkedAt": "2026-11-12T00:00:00Z"
     },
     {
       "code": "BLACKFRIDAY",
@@ -882,6 +885,52 @@
       },
       "verified": false,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "FAM35",
+      "description": "Take Up to 35% Off at Sensi Seeds",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sensiseeds.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "PAYBACK30",
+      "description": "Current 30% Off Promo Code at Sensi Seeds",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/sensiseeds.com",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T00:00:00Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

@@ -23,6 +23,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "NOVBBV5",
+      "description": "Get £5 off your order when you spend £40 with this Peacocks promo code",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 40,
+      "expiry": "2026-11-23T23:59:00.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/peacocks.co.uk",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T13:34:22.359Z",
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

@@ -37,13 +37,15 @@
       ],
       "url": "https://www.coupert.com/store/vistaexpert.it",
       "addedAt": "2026-09-30T11:55:13.825Z",
-      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": "2026-11-14T12:52:43.546Z",
+      "verified": true,
+      "lastWorkedAt": "2026-09-13T00:00:00Z"
     },
     {
       "code": "PERSOL10",
@@ -76,18 +78,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://vistaexpertit.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "DAD24",
@@ -233,13 +236,13 @@
       ],
       "url": "https://www.coupert.com/store/vistaexpert.it",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
       "code": "VISTAEXPERT10",
@@ -387,29 +390,6 @@
         "lastTested": null
       },
       "listedAt": null
-    },
-    {
-      "code": "WELCOME5",
-      "description": "5% off",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://vistaexpertit.knoji.com/",
-      "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-13T15:59:00.203Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-13T15:59:00.203Z"
     },
     {
       "code": "COMEBACK",
@@ -605,6 +585,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-13T15:59:00.203Z"
+    },
+    {
+      "code": "WOMEN25",
+      "description": "Worthwhile savings are available on your purchases at vistaexpert.it",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vistaexpert.it",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }

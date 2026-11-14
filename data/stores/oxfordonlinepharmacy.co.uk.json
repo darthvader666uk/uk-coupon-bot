@@ -51,20 +51,23 @@
       "type": "percentage",
       "value": 15,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-29T23:59:00.000Z",
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/oxford-online-pharmacy-discount-codes",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-14T12:52:43.546Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-04T17:45:15.070Z"
     },
     {
       "code": "AWINPILL5",
@@ -128,6 +131,48 @@
         "lastTested": null
       },
       "listedAt": "2026-11-11T08:20:16.325Z"
+    },
+    {
+      "code": "AM10OFF20",
+      "description": "Get £10 off your order when you spend £100 on health essentials with this Oxford Online Pharmacy discount code",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 100,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/oxfordonlinepharmacy.co.uk",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "E1TP86Q",
+      "description": "Claim 10% off with this discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2027-01-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/oxfordonlinepharmacy.co.uk",
+      "addedAt": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T12:52:43.546Z"
     }
   ]
 }
