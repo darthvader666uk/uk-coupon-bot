@@ -132,6 +132,69 @@
         "lastTested": null
       },
       "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "HUKDSHIP",
+      "description": "Free Shipping across the store",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/scancom.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "GET10SCAN",
+      "description": "10% off every time",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/scancom.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "SCANCOM30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/scancom.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
     }
   ]
 }

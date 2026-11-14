@@ -62,11 +62,12 @@
       "sources": [
         "coupert",
         "knoji",
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/prodirectsport.com",
       "addedAt": "2026-09-18T10:23:42.347Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -74,7 +75,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T12:49:25.014Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "FDSTCM25",
@@ -316,11 +317,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/prodirectsport.com",
       "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -328,7 +330,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-04T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "PLAYER20",
@@ -540,17 +542,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/prodirectsport.com",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-21T10:58:47.715Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "HOKA10JAN",
@@ -650,18 +653,19 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://prodirectsport.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "COMINGHOME",
@@ -739,18 +743,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://prodirectsport.knoji.com/",
       "addedAt": "2026-10-24T10:14:28.255Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "BATS10MAR24",
@@ -1153,11 +1158,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/prodirectsport.com",
       "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1165,7 +1171,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-06T00:00:00Z",
-      "listedAt": "2026-11-07T12:22:06.183Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "OSG10",
@@ -1252,6 +1258,468 @@
         "lastTested": null
       },
       "listedAt": "2026-11-11T13:17:03.137Z"
+    },
+    {
+      "code": "APRQUICKCLEAN",
+      "description": "10% off Teamwear",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "3BOOT25",
+      "description": "15% off 3 Pair Of Boots",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "STAYSAFE",
+      "description": "Sitewide",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "10FORYOU",
+      "description": "your order",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "HOKASEPT20",
+      "description": "20% off Hoka Footwear and Apparel",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "3SHOES25",
+      "description": "15% off Running Shoes",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "FREEDELRUG1A",
+      "description": "Free Delivery Across the UK for All Orders",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "CARTER15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "20GILBERT1122",
+      "description": "20% off Ending soon",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "PLAY20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "EXTRA10NRL",
+      "description": "10% off All Nrl Kits",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "CANTERBURY20SEP",
+      "description": "20% off All Canterbury Boots",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "PDSXMAS24",
+      "description": "10% off storewide for members",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "HXYQA30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "PDRCWINTER25",
+      "description": "10% off storewide for members",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "2SHOES25",
+      "description": "10% off when you buy 2 Running Shoes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "PDRCSPRING25",
+      "description": "10% off storewide for members only",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "OCTRUN15",
+      "description": "15% off select items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "MYTEAM",
+      "description": "Free Shipping",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "EASTERPDRC2025",
+      "description": "15% off storewide",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "PDRCAUTUMN24",
+      "description": "10% off storewide for members",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "PDRCXTRA10",
+      "description": "10% off full priced items for members only",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/prodirectsport.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
     }
   ]
 }

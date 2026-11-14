@@ -474,11 +474,12 @@
       "expiry": "2026-12-09T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/procook.co.uk",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -486,7 +487,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T13:32:04.893Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "XMAS30",
@@ -497,11 +498,12 @@
       "expiry": "2026-12-09T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/procook.co.uk",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -509,7 +511,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T12:42:09.442Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "XMAS20",
@@ -520,11 +522,12 @@
       "expiry": "2026-12-09T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/procook.co.uk",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -532,7 +535,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T13:33:40.902Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "WELC39TCX",
@@ -566,17 +569,81 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/procook-discount-codes",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "BREEXCLUSIVE20",
+      "description": "20% off everything",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/procook.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "SAVE30",
+      "description": "£30 off a £150 spend",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/procook.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "HOLLIE10",
+      "description": "Save 10% on the Elite Tri-Ply Casserole Dish (28cm) at ProCook with code HOLLIE10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/procook.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
     }
   ]
 }

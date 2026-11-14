@@ -44,6 +44,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "COLD20",
+      "description": "Get 20% off full-price accessories & clothing at Sealskinz with code COLD20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/sealskinz.com",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
     }
   ]
 }

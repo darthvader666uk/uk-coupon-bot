@@ -12,17 +12,18 @@
       "expiry": "2026-12-16T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/smartbuyglasses.co.uk",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-14T16:23:36.263Z"
     },
     {
       "code": "SAVE25UK",
@@ -489,6 +490,69 @@
         "lastTested": null
       },
       "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "AIMEE10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/smartbuyglasses.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "FLASH12",
+      "description": "12% off frames and lenses",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/smartbuyglasses.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "WORK8",
+      "description": "Get up to 85% off plus an extra 8% off frames and lenses at SmartBuyGlasses with code WORK8.",
+      "type": "percentage",
+      "value": 85,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/smartbuyglasses.co.uk",
+      "addedAt": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-14T16:23:36.263Z"
     }
   ]
 }
