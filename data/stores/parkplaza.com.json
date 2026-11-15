@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
     },
     {
       "code": "INDAUT26",
@@ -43,7 +43,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": null
+    },
+    {
+      "code": "SEAP21126",
+      "description": "11.11 Deals: Up to 35% off Stays at Park Plaza",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/park-plaza-discount-codes",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
     }
   ]
 }

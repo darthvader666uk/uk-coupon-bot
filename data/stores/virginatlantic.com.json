@@ -456,6 +456,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "CARPROMO50",
+      "description": "Redeem this code to take 50% off your flights and vacations with Virgin Atlantic.",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/virginatlantic.com",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
     }
   ]
 }

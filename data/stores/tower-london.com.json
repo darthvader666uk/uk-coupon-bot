@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T12:21:17.882Z"
+      "listedAt": null
     },
     {
       "code": "LAST20",
@@ -536,17 +536,18 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "savoo"
       ],
       "url": "https://www.hotukdeals.com/vouchers/tower-london.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-15T13:21:02.946Z"
     },
     {
       "code": "NEW5",
@@ -557,17 +558,60 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "savoo"
       ],
       "url": "https://www.hotukdeals.com/vouchers/tower-london.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-15T13:21:02.946Z"
+    },
+    {
+      "code": "FLASH15",
+      "description": "Extra 15% off Selected orders at Tower London",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tower-london-discount-codes",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
+    },
+    {
+      "code": "FLASH10",
+      "description": "Extra 10% off orders at Tower London",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/tower-london-discount-codes",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
     }
   ]
 }

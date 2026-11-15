@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T12:30:54.216Z"
+      "listedAt": null
     },
     {
       "code": "STACK90",
@@ -43,7 +43,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T12:30:54.216Z"
+      "listedAt": null
+    },
+    {
+      "code": "10OFF",
+      "description": "10% off orders at RDX",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/rdx-discount-codes",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
     }
   ]
 }

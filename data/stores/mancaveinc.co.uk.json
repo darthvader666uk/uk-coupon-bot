@@ -1,0 +1,28 @@
+{
+  "domain": "mancaveinc.co.uk",
+  "name": "Mancaveinc",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME5",
+      "description": "£5 off orders at ManCave",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/mancaveinc-discount-codes",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
+    }
+  ]
+}

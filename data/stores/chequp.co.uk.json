@@ -1,0 +1,28 @@
+{
+  "domain": "chequp.co.uk",
+  "name": "Chequp",
+  "category": "general",
+  "codes": [
+    {
+      "code": "FREEDELIVERY",
+      "description": "£3.99 off Delivery at CheqUp",
+      "type": "fixed",
+      "value": 3.99,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/chequp-discount-codes",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
+    }
+  ]
+}

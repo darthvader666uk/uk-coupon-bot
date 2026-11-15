@@ -12,11 +12,12 @@
       "expiry": "2026-11-17T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "caramel"
       ],
       "url": "https://www.hotukdeals.com/vouchers/uk.spacenk.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -24,7 +25,49 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T14:56:52.346Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-15T13:21:02.946Z"
+    },
+    {
+      "code": "CT-SOCXZI1TYP5",
+      "description": "spacenk.com coupon",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/spacenk.com",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
+    },
+    {
+      "code": "TREAT15",
+      "description": "15% Off Storewide at Space NK",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/spacenk.com",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T13:21:02.946Z"
     }
   ]
 }

@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": null
     },
     {
       "code": "BEDNMAT",
@@ -58,7 +58,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/bedkingdom.co.uk",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -66,7 +66,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-30T03:28:31.879Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-15T13:21:02.946Z"
     },
     {
       "code": "SPRING10",
@@ -88,6 +88,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "MIX5",
+      "description": "Get 5% off when you buy 2 or more Velmor furniture",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-11-25T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/bedkingdom.co.uk",
+      "addedAt": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-13T04:14:22.544Z",
+      "listedAt": "2026-11-15T13:21:02.946Z"
     }
   ]
 }
