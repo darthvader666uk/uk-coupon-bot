@@ -328,13 +328,13 @@
       ],
       "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-05T18:00:41.650Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "D6X4RRQ2",
@@ -349,13 +349,13 @@
       ],
       "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-05T18:00:41.650Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "BRAND10",
@@ -371,13 +371,13 @@
       ],
       "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "BR15",
@@ -392,13 +392,13 @@
       ],
       "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-05T18:00:41.650Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "VC15",
@@ -413,13 +413,13 @@
       ],
       "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-05T18:00:41.650Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "H7CJ2VQ4",
@@ -440,7 +440,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-05T18:00:41.650Z"
+      "listedAt": null
     },
     {
       "code": "JJNDLXJ",
@@ -455,13 +455,13 @@
       ],
       "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-05T18:00:41.650Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "FEB10",
@@ -499,13 +499,13 @@
       ],
       "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
       "addedAt": "2026-11-05T18:00:41.650Z",
-      "lastSeen": "2026-11-05T18:00:41.650Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-05T18:00:41.650Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "SAVE20",
@@ -538,18 +538,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://widefitshoes.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "XMAS20",
@@ -748,6 +749,69 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "BLACKFRIDAY20",
+      "description": "Take 20% off selected styles at Wide Fit Shoes with code BLACKFRIDAY20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
+    },
+    {
+      "code": "FREESHIPPING",
+      "description": "Get free shipping on all UK orders at Wide Fit Shoes with code FREESHIPPING.",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
+    },
+    {
+      "code": "EASTER15",
+      "description": "20% off everything at Wide Fit Shoes",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/widefitshoes.co.uk",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
     }
   ]
 }

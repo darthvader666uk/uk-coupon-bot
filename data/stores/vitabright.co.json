@@ -75,17 +75,18 @@
       "expiry": "2026-11-20T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/vitabright.co",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "BLACK5OFF",
@@ -152,6 +153,90 @@
         "lastTested": null
       },
       "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "MMCBOGOF",
+      "description": "Get your 2nd bottle free when you buy any 2 single bottles at VitaBright with code MMCBOGOF. Cheapest item will be free.",
+      "type": "bogo",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vitabright.co",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
+    },
+    {
+      "code": "B2G2F-MMTT",
+      "description": "Get Buy 2, Get 2 Free on VitaBright supplements with code B2G2F-MMTT.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vitabright.co",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
+    },
+    {
+      "code": "VC10OFF",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vitabright.co",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
+    },
+    {
+      "code": "SAVE5MAGCOM",
+      "description": "£5 off Magnesium Complex",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/vitabright.co",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
     }
   ]
 }

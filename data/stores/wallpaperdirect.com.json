@@ -161,17 +161,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/wallpaperdirect.com",
       "addedAt": "2026-11-15T13:21:02.946Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-15T16:55:22.243Z"
     },
     {
       "code": "KIND26",
@@ -214,6 +215,48 @@
         "lastTested": null
       },
       "listedAt": "2026-11-15T13:21:02.946Z"
+    },
+    {
+      "code": "SCOT10",
+      "description": "Apply code SCOT10 to get 10% off wallpaper at wallpaperdirect.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/wallpaperdirect.com",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
+    },
+    {
+      "code": "BARN10",
+      "description": "Save 10% at Wallpaper Direct with code BARN10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/wallpaperdirect.com",
+      "addedAt": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T16:55:22.243Z"
     }
   ]
 }
