@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": null
     },
     {
       "code": "FALL55",
@@ -220,6 +220,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-14T12:52:43.546Z"
+    },
+    {
+      "code": "VOUCHER5",
+      "description": "5% Off New customer order Zuma Jay Promo code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zumajay-co-uk",
+      "addedAt": "2026-11-15T15:20:44.701Z",
+      "lastSeen": "2026-11-15T15:20:44.701Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T15:20:44.701Z"
     }
   ]
 }

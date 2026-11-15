@@ -37,13 +37,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/zippos-circus",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-15T15:20:44.701Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": "2026-11-15T15:20:44.701Z"
     },
     {
       "code": "ZC114",
@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": null
     },
     {
       "code": "FB40",
@@ -80,13 +80,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/zippos-circus",
       "addedAt": "2026-10-15T13:11:11.706Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-15T15:20:44.701Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T17:51:25.811Z"
+      "listedAt": "2026-11-15T15:20:44.701Z"
     },
     {
       "code": "ZC79",
@@ -144,13 +144,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/zippos-circus",
       "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-15T15:20:44.701Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": "2026-11-15T15:20:44.701Z"
     },
     {
       "code": "ZC301",
@@ -165,13 +165,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/zippos-circus",
       "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-15T15:20:44.701Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": "2026-11-15T15:20:44.701Z"
     },
     {
       "code": "ZC18",
@@ -224,17 +224,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/zippos.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-15T15:20:44.701Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T17:51:25.811Z"
+      "listedAt": "2026-11-15T15:20:44.701Z"
     },
     {
       "code": "AYR50",
@@ -381,7 +382,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": null
     },
     {
       "code": "SAVE5",
@@ -402,7 +403,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T15:59:00.203Z"
+      "listedAt": null
+    },
+    {
+      "code": "ZIPPOSCIRCUS",
+      "description": "Zippos Circus First Purchase via Promo Code: 20%",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/zippos-circus",
+      "addedAt": "2026-11-15T15:20:44.701Z",
+      "lastSeen": "2026-11-15T15:20:44.701Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-15T15:20:44.701Z"
     }
   ]
 }
