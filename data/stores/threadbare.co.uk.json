@@ -90,7 +90,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "BDAYTIME15",
@@ -135,7 +135,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "MOTHER10",
@@ -224,7 +224,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-13T13:56:08.358Z"
     },
     {
       "code": "THANKS",
@@ -275,28 +275,6 @@
       "description": "10% off",
       "type": "percentage",
       "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://threadbare.knoji.com/",
-      "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": "2026-11-13T13:56:08.358Z"
-    },
-    {
-      "code": "20OFF",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
@@ -445,6 +423,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "SALE10",
+      "description": "Up to 60% off Menswear and Womenswear plus Extra 10% off at Threadbare",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/threadbare-discount-codes",
+      "addedAt": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T14:24:39.411Z"
     }
   ]
 }

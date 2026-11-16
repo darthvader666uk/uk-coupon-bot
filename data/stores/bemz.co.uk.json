@@ -44,7 +44,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-10-24T10:14:28.255Z"
+      "listedAt": null
     },
     {
       "code": "CHDFPLDG",
@@ -59,14 +59,14 @@
       ],
       "url": "https://bemz.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": true,
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "verified": false,
+      "listedAt": "2026-11-16T14:24:39.411Z"
     },
     {
       "code": "FUSPKLJF",
@@ -88,7 +88,7 @@
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": null
     },
     {
       "code": "DRGKLM15",
@@ -103,14 +103,58 @@
       ],
       "url": "https://bemz.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "J8B4N0H5P",
+      "description": "10% Off Storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bemz.knoji.com/",
+      "addedAt": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "BLACKFRIDAYVIP",
+      "description": "20% Off Storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://bemz.knoji.com/",
+      "addedAt": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-16T14:24:39.411Z"
     }
   ]
 }

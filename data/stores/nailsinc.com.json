@@ -402,14 +402,14 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/nailsinc.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-16T14:24:39.411Z"
     },
     {
       "code": "WELCOME10",
@@ -425,7 +425,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/nailsinc.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -433,29 +433,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T09:07:27.982Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
-    },
-    {
-      "code": "OUTLET20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://nailsinc.knoji.com/",
-      "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-16T14:24:39.411Z"
     },
     {
       "code": "SINGLES11",
@@ -610,6 +588,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "BF20",
+      "description": "Save 20% on orders now",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-12-03T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/nailsinc.com",
+      "addedAt": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T14:24:39.411Z"
     }
   ]
 }

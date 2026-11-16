@@ -344,7 +344,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-27T00:00:00Z",
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": null
     },
     {
       "code": "AA25",
@@ -385,7 +385,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -393,7 +393,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-02T00:00:00Z",
-      "listedAt": "2026-11-01T12:21:17.882Z"
+      "listedAt": "2026-11-16T14:24:39.411Z"
     },
     {
       "code": "UPGRADE10",
@@ -410,7 +410,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -418,7 +418,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-06T00:00:00Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-16T14:24:39.411Z"
     },
     {
       "code": "OCT30",
@@ -435,7 +435,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
       "addedAt": "2026-10-08T12:52:52.863Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -443,7 +443,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-10T00:00:00Z",
-      "listedAt": "2026-11-01T12:21:17.882Z"
+      "listedAt": "2026-11-16T14:24:39.411Z"
     },
     {
       "code": "BAZ60X",
@@ -971,7 +971,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z",
+      "listedAt": null,
       "verified": true,
       "lastWorkedAt": "2026-11-12T23:38:09.542Z"
     },
@@ -1168,6 +1168,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-13T13:56:08.358Z"
+    },
+    {
+      "code": "PAY30",
+      "description": "30% off Car Parts at GSF Car Parts",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/gsf-car-parts-discount-codes",
+      "addedAt": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T14:24:39.411Z"
     }
   ]
 }
