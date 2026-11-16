@@ -294,13 +294,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/iceland.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": "2026-11-16T17:37:31.525Z"
     },
     {
       "code": "RM-1",
@@ -360,13 +360,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/iceland-foods",
       "addedAt": "2026-10-07T15:02:54.550Z",
-      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": "2026-11-16T17:37:31.525Z"
     },
     {
       "code": "PEPSI-8PK",
@@ -487,13 +487,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/iceland-foods",
       "addedAt": "2026-10-20T13:17:34.310Z",
-      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": "2026-11-16T17:37:31.525Z"
     },
     {
       "code": "ICE7OFF55",
@@ -535,7 +535,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": null
     },
     {
       "code": "SWEETIE",
@@ -571,13 +571,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/iceland-foods",
       "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": "2026-11-16T17:37:31.525Z"
     },
     {
       "code": "CASSIA",
@@ -619,7 +619,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": null
     },
     {
       "code": "HPBEEF-7",
@@ -1113,17 +1113,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/iceland.co.uk",
       "addedAt": "2026-11-12T18:07:21.916Z",
-      "lastSeen": "2026-11-14T07:54:23.707Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T07:54:23.707Z"
+      "listedAt": "2026-11-16T17:37:31.525Z"
     },
     {
       "code": "WBF-1-3",
@@ -1138,13 +1139,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/iceland-foods",
       "addedAt": "2026-11-14T14:48:01.351Z",
-      "lastSeen": "2026-11-14T14:48:01.351Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": "2026-11-16T17:37:31.525Z"
     },
     {
       "code": "FREEBIE-2",
@@ -1165,7 +1166,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": null
+    },
+    {
+      "code": "ICEKELLOGGS-SOCIAL",
+      "description": "Save on your next purchase. Click to copy the code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/iceland-foods",
+      "addedAt": "2026-11-16T17:37:31.525Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T17:37:31.525Z"
+    },
+    {
+      "code": "SAMSON",
+      "description": "Activate Discount Code: Save £9.49 at Iceland",
+      "type": "fixed",
+      "value": 9.49,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/iceland-foods",
+      "addedAt": "2026-11-16T17:37:31.525Z",
+      "lastSeen": "2026-11-16T17:37:31.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T17:37:31.525Z"
     }
   ]
 }
