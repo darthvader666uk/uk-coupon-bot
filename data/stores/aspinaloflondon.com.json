@@ -427,18 +427,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://aspinaloflondon.knoji.com/",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": null
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "WEL108NSGZ37DT0ETIHKS",
@@ -795,6 +796,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "SOFIA15",
+      "description": "Apply code SOFIA15 to save 15% at Aspinal of London.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/aspinaloflondon.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

@@ -293,18 +293,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://attitudeclothing.knoji.com/",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "CARE10",
@@ -506,28 +507,6 @@
     },
     {
       "code": "COMEBACK10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://attitudeclothing.knoji.com/",
-      "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-16T14:24:39.411Z"
-    },
-    {
-      "code": "NEW10",
       "description": "10% off",
       "type": "percentage",
       "value": 10,
@@ -789,6 +768,195 @@
       },
       "verified": false,
       "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "TREAT13",
+      "description": "Apply code TREAT13 to get an additional 13% discount at Attitude Clothing Co.",
+      "type": "percentage",
+      "value": 13,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "EXTRA10",
+      "description": "10% off Clearance Items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "LUVSALE",
+      "description": "Extra 14% off sale styles",
+      "type": "percentage",
+      "value": 14,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "EXTRA20",
+      "description": "20% off selected sale items",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "WSL30",
+      "description": "30% off Winter Sale items",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "BLUE15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "DRESS20",
+      "description": "20% off sale dresses this weekend",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "BKW10",
+      "description": "10% off sitewide for Black Friday",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "BKF15",
+      "description": "15% off sitewide for Black Friday",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/attitudeclothing.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

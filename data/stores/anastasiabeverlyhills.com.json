@@ -67,7 +67,7 @@
       ],
       "url": "https://anastasiabeverlyhills.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -75,7 +75,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-23T00:00:00Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "NEWCUSTOMER20",
@@ -93,7 +93,7 @@
       ],
       "url": "https://anastasiabeverlyhills.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -101,7 +101,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T00:00:00Z",
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "UPSELL15",
@@ -142,7 +142,7 @@
       ],
       "url": "https://anastasiabeverlyhills.knoji.com/",
       "addedAt": "2026-09-07T14:44:36.803Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -150,7 +150,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-08-29T00:00:00Z",
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "BROWDAY",
@@ -502,18 +502,40 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://anastasiabeverlyhills.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "SAVE20",
+      "description": "Save 20% on the newest, most wanted luxury makeup releases at Anastasia Beverly Hills with code SAVE20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/anastasiabeverlyhills.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

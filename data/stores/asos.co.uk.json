@@ -1041,17 +1041,18 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/asos-uk",
       "addedAt": "2026-10-24T12:32:52.250Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z",
+      "listedAt": "2026-11-16T20:10:17.525Z",
       "verified": true,
       "lastWorkedAt": "2026-11-10T21:11:41.352Z"
     },
@@ -1086,17 +1087,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/asos-uk",
       "addedAt": "2026-10-28T14:36:13.997Z",
-      "lastSeen": "2026-11-01T14:49:05.837Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "ASOSBFF",
@@ -1219,17 +1221,18 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z",
+      "listedAt": "2026-11-16T20:10:17.525Z",
       "verified": true,
       "lastWorkedAt": "2026-11-11T14:57:24.378Z"
     },
@@ -1329,17 +1332,18 @@
       "source": "caramel",
       "sources": [
         "caramel",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/asos.com",
       "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z",
+      "listedAt": "2026-11-16T20:10:17.525Z",
       "verified": true
     },
     {
@@ -1456,11 +1460,12 @@
       "expiry": "2027-01-11T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/asos.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1468,7 +1473,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-08T22:00:27.412Z",
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "JUST4U",
@@ -1503,17 +1508,18 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/asos-uk",
       "addedAt": "2026-11-14T08:20:12.940Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z",
+      "listedAt": "2026-11-16T20:10:17.525Z",
       "verified": true
     },
     {
@@ -1666,6 +1672,69 @@
       },
       "verified": false,
       "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "NEWAPP",
+      "description": "Get up to £500 off your first order at ASOS with code NEWAPP, valid for new customers who opt in to marketing communications.",
+      "type": "fixed",
+      "value": 500,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/asos.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "MIDE10",
+      "description": "Apply code MIDE10 to save 10% on your order.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/asos.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "CHANTELLEALFARAH",
+      "description": "Get 50% off at ASOS with code CHANTELLEALFARAH.",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/asos.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

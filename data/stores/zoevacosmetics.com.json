@@ -62,14 +62,14 @@
       ],
       "url": "https://zoeva.knoji.com/",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-04T17:51:25.811Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "3CSJJLSJ",
@@ -357,6 +357,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-15T13:21:02.946Z"
+    },
+    {
+      "code": "SAVE20",
+      "description": "20% off any order over £50",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/zoevacosmetics.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

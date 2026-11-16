@@ -33,17 +33,18 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/yorktest.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "GH10",
@@ -54,17 +55,18 @@
       "expiry": "2027-01-01T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/yorktest.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "EXTRA5",
@@ -96,17 +98,18 @@
       "expiry": "2026-11-15T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/yorktest.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "ABECEDER2",
@@ -117,17 +120,270 @@
       "expiry": "2026-11-15T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/yorktest.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "BF10",
+      "description": "30% off plus an additional £10. Free Shipping",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "HEALTHTEST",
+      "description": "30% + £5 off any health test",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "REST25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "AGE25",
+      "description": "25% off York Test services",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "HANNAH24",
+      "description": "33% off Food Allergy Test",
+      "type": "percentage",
+      "value": 33,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "EXCLUSIVE35",
+      "description": "30% off storewide",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "BLACK25",
+      "description": "£25 off",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "PLAURENCE",
+      "description": "£5 off Vitamin D supplement",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "OCT10",
+      "description": "Extra 10% off sale",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "UNIDAYS",
+      "description": "£10 off",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "HORMONEHAPPY",
+      "description": "30% off plus an extra £10, Free Shipping",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "FREEB12",
+      "description": "Free Gift Select Items",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/yorktest.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

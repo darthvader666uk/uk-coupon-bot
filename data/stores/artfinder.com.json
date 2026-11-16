@@ -691,11 +691,12 @@
       "sources": [
         "knoji",
         "coupert",
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://artfinder.knoji.com/",
       "addedAt": "2026-09-23T10:34:34.457Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -703,7 +704,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-23T00:00:00Z",
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "BUYART",
@@ -804,18 +805,19 @@
         "caramel",
         "knoji",
         "coupert",
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/artfinder.com",
       "addedAt": "2026-10-25T10:33:12.100Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "AUT15",
@@ -1056,6 +1058,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "ART-3BXMH",
+      "description": "Apply promo code ART-3BXMH to save on your order at Artfinder.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/artfinder.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "SUN20",
+      "description": "Save 20% on your order at Artfinder with code SUN20, valid on orders of £1,000 or more.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 1,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/artfinder.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

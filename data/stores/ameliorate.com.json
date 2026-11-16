@@ -138,17 +138,18 @@
       "expiry": "2027-01-02T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/ameliorate.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "NEW5",
@@ -182,11 +183,12 @@
       "expiry": "2026-11-12T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/ameliorate.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -194,7 +196,70 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-05T12:30:02.709Z",
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "AMEL15",
+      "description": "15% off storewide",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ameliorate.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "ROUTINE",
+      "description": "Get the daily blemish control skincare bundle for £25 at ameliorateskin with code ROUTINE.",
+      "type": "fixed",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ameliorate.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "HEROES",
+      "description": "Get £20 off the ultimate 3-step routine for rough, dry and bumpy skin at AMELIORATE with code HEROES, plus free UK delivery.",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ameliorate.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

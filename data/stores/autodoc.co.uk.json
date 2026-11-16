@@ -34,17 +34,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/autodoc-promo-codes",
       "addedAt": "2026-09-10T10:20:27.653Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-01T12:21:17.882Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "BMX5",
@@ -56,17 +57,18 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/autodoc-promo-codes",
       "addedAt": "2026-09-16T10:39:18.435Z",
-      "lastSeen": "2026-11-08T12:30:54.216Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T12:30:54.216Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "COUPERTUK",
@@ -840,17 +842,18 @@
       "source": "savoo",
       "sources": [
         "savoo",
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/autodoc-promo-codes",
       "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z",
+      "listedAt": "2026-11-16T20:10:17.525Z",
       "verified": true,
       "lastWorkedAt": "2026-11-03T10:46:37.127Z"
     },
@@ -1118,6 +1121,69 @@
       },
       "verified": false,
       "listedAt": "2026-11-12T14:26:09.672Z"
+    },
+    {
+      "code": "BC69247293",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/autodoc.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "ADAMC5",
+      "description": "5% off your order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/autodoc.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "10OFF",
+      "description": "10% off your first order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/autodoc.co.uk",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

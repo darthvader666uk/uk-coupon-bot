@@ -615,17 +615,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/ankersolix.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "RE7SX16E",
@@ -930,17 +931,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/ankersolix.com",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-04T13:41:24.576Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "REGXTKGB",
@@ -1077,17 +1079,18 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/ankersolix.com",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "ANKERSOLIX20",
@@ -1829,6 +1832,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "UKAFF8",
+      "description": "8% off sitewide + Free Shipping",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ankersolix.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
+    },
+    {
+      "code": "JIMNY10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ankersolix.com",
+      "addedAt": "2026-11-16T20:10:17.525Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-16T20:10:17.525Z"
     }
   ]
 }

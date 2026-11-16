@@ -12,17 +12,18 @@
       "expiry": "2026-11-12T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/zavetti.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "NEW15",
@@ -57,17 +58,18 @@
       "source": "hukd",
       "sources": [
         "hukd",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/zavetti.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z",
+      "listedAt": "2026-11-16T20:10:17.525Z",
       "verified": true
     },
     {
@@ -146,18 +148,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://zavetti.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-16T20:10:17.525Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-16T20:10:17.525Z"
     },
     {
       "code": "BANKHOL",
