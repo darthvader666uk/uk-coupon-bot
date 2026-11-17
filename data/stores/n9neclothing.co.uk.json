@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": null
     },
     {
       "code": "WELCOMEL6T32KTT",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": null
     },
     {
       "code": "SAVE20",
@@ -64,7 +64,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T14:48:01.351Z"
+      "listedAt": null
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Chosen products come with 10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/n9neclothing",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
     }
   ]
 }

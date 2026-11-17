@@ -171,18 +171,19 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://reserved.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-14T16:23:36.263Z"
+      "listedAt": "2026-11-17T07:41:56.617Z"
     },
     {
       "code": "RES20",
@@ -252,7 +253,7 @@
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": "2026-11-12T14:26:09.672Z"
     },
     {
       "code": "FRJCPL7A",
@@ -380,7 +381,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": null
     },
     {
       "code": "GBSBBSI1",
@@ -463,13 +464,13 @@
       ],
       "url": "https://www.wethrift.com/codes/reserved.com",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T16:23:36.263Z",
+      "listedAt": "2026-11-17T07:41:56.617Z",
       "verified": true,
       "lastWorkedAt": "2026-11-11T00:00:00Z"
     },
@@ -595,13 +596,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/reserved-uk",
       "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T16:23:36.263Z",
+      "listedAt": "2026-11-17T07:41:56.617Z",
       "verified": true,
       "lastWorkedAt": "2026-11-12T00:00:00Z"
     },
@@ -624,7 +625,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z",
+      "listedAt": "2026-11-12T14:26:09.672Z",
       "verified": true,
       "lastWorkedAt": "2026-11-12T00:00:00Z"
     },
@@ -641,13 +642,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/reserved-uk",
       "addedAt": "2026-11-08T08:28:53.816Z",
-      "lastSeen": "2026-11-08T14:50:36.707Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-17T07:41:56.617Z"
     },
     {
       "code": "SINGLE22",
@@ -662,7 +663,7 @@
       ],
       "url": "https://www.coupert.com/store/reserved.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -670,7 +671,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T00:00:00Z",
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": "2026-11-17T07:41:56.617Z"
     },
     {
       "code": "MEN20",
@@ -714,7 +715,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": null
     },
     {
       "code": "RES20WOMAN",
@@ -757,6 +758,48 @@
         "lastTested": null
       },
       "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "APP20DE",
+      "description": "Claim Reserved 20% Off via Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/reserved-uk",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
+    },
+    {
+      "code": "OMNI15OFFMEN",
+      "description": "Grab 15% off with Reserved Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/reserved-uk",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
     }
   ]
 }

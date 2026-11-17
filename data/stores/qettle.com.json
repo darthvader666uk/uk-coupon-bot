@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": null
     },
     {
       "code": "STOCKUP30",
@@ -58,13 +58,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/qettle-com",
       "addedAt": "2026-10-22T13:30:00.956Z",
-      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": "2026-11-17T07:41:56.617Z"
     },
     {
       "code": "QETTLE20",
@@ -127,7 +127,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": null
+    },
+    {
+      "code": "QETTLEBF20",
+      "description": "Qettle Black Friday: Get 20% Off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qettle-com",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
+    },
+    {
+      "code": "QETTLEBLUE20",
+      "description": "Qettle Blue Light Discount: Save 20%",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qettle-com",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
     }
   ]
 }

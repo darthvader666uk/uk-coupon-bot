@@ -16,13 +16,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/rspca-pet-insurance",
       "addedAt": "2026-09-28T13:19:16.812Z",
-      "lastSeen": "2026-11-13T08:07:32.444Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": "2026-11-17T07:41:56.617Z"
     },
     {
       "code": "NEWSHOP10",
@@ -33,17 +33,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/rspca.org.uk",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T16:23:36.263Z"
+      "listedAt": "2026-11-17T07:41:56.617Z"
     },
     {
       "code": "CARDS342",
@@ -58,13 +59,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/rspca-pet-insurance",
       "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-17T07:41:56.617Z"
     },
     {
       "code": "RSPCASECRET",
@@ -106,7 +107,91 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T08:07:32.444Z"
+      "listedAt": null
+    },
+    {
+      "code": "NOV15EMAIL",
+      "description": "15% Off Orders Over £55 + Free UK Delivery",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 55,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rspca-pet-insurance",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
+    },
+    {
+      "code": "TENOFF",
+      "description": "Discount Code Gives 10% Off at RSPCA Pet Insurance",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rspca-pet-insurance",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
+    },
+    {
+      "code": "WELCOMEBACK",
+      "description": "Free shipping on orders",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rspca-pet-insurance",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
+    },
+    {
+      "code": "RSPCAMUG",
+      "description": "Free mug with £35+ spend",
+      "type": "fixed",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/rspca-pet-insurance",
+      "addedAt": "2026-11-17T07:41:56.617Z",
+      "lastSeen": "2026-11-17T07:41:56.617Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T07:41:56.617Z"
     }
   ]
 }
