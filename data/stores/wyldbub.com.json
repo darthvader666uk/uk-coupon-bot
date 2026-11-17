@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T15:20:44.701Z"
+      "listedAt": null
     },
     {
       "code": "WYLDBUB",
@@ -128,7 +128,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T15:20:44.701Z"
+      "listedAt": null
     },
     {
       "code": "JASMIN10",
@@ -160,17 +160,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/wyldbub.com",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-04T17:51:25.811Z",
+      "lastSeen": "2026-11-17T17:26:33.741Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-04T17:51:25.811Z"
+      "listedAt": "2026-11-17T17:26:33.741Z"
     },
     {
       "code": "MISSYOUBUB",
@@ -185,13 +186,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/wyldbub-com",
       "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-04T16:03:15.495Z",
+      "lastSeen": "2026-11-17T17:26:33.741Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-17T17:26:33.741Z"
     },
     {
       "code": "WELCOME15",
@@ -206,13 +207,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/wyldbub-com",
       "addedAt": "2026-11-13T15:59:00.203Z",
-      "lastSeen": "2026-11-15T15:20:44.701Z",
+      "lastSeen": "2026-11-17T17:26:33.741Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T15:20:44.701Z"
+      "listedAt": "2026-11-17T17:26:33.741Z"
     },
     {
       "code": "WELCOME10",
@@ -233,7 +234,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T15:20:44.701Z"
+      "listedAt": null
     },
     {
       "code": "AZZURRA10",
@@ -248,13 +249,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/wyldbub-com",
       "addedAt": "2026-11-13T15:59:00.203Z",
-      "lastSeen": "2026-11-13T15:59:00.203Z",
+      "lastSeen": "2026-11-17T17:26:33.741Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-17T17:26:33.741Z"
     },
     {
       "code": "WYLDBUB10",
@@ -296,7 +297,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T15:20:44.701Z"
+      "listedAt": null
+    },
+    {
+      "code": "CAMDYN",
+      "description": "Take 10% off using Wyld Bub Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wyldbub-com",
+      "addedAt": "2026-11-17T17:26:33.741Z",
+      "lastSeen": "2026-11-17T17:26:33.741Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T17:26:33.741Z"
     }
   ]
 }
