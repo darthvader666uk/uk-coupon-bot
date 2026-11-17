@@ -472,7 +472,7 @@
       ],
       "url": "https://www.coupert.com/store/ugreen.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -480,7 +480,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-30T00:00:00Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
       "code": "NCWXN3D77Q",
@@ -831,7 +831,7 @@
       ],
       "url": "https://www.coupert.com/store/ugreen.com",
       "addedAt": "2026-10-24T16:19:46.607Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -839,7 +839,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T00:00:00Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
       "code": "DL45699",
@@ -1071,22 +1071,23 @@
       "type": "percentage",
       "value": 15,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-23T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/ugreen.com",
       "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-10T00:00:00Z",
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "lastWorkedAt": "2026-11-16T10:45:38.136Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
       "code": "SPARWELT10",
@@ -1117,22 +1118,23 @@
       "type": "percentage",
       "value": 28,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-24T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/ugreen.com",
       "addedAt": "2026-10-27T11:28:20.543Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-11T00:00:00Z",
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "lastWorkedAt": "2026-11-16T10:42:39.456Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
       "code": "DL90878",
@@ -2545,7 +2547,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/ugreen",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -2553,7 +2555,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T11:39:37.844Z",
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
       "code": "UGREEN1111",
@@ -2575,6 +2577,52 @@
         "lastTested": null
       },
       "listedAt": "2026-11-15T16:55:22.243Z"
+    },
+    {
+      "code": "DL95527",
+      "description": "Save £20 when you purchase the Nexode Pro Smart Display Charger",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-23T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/ugreen",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T10:49:27.814Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "DL85590F",
+      "description": "Buy the Revodok Maxidok 17-in-1 Docking Station during Black Friday to get a £20 discount",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/ugreen",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T10:53:22.976Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
     }
   ]
 }

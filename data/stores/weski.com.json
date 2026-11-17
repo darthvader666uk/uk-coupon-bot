@@ -4,27 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "SECRETDEALS25",
-      "description": "Receive An Additional 25% Off Your Order",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/weski-co-uk",
-      "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-10-18T13:37:21.092Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "listedAt": null
-    },
-    {
       "code": "SECRETDEALS75",
       "description": "Enjoy £75 Discount with This Weski Promo Code",
       "type": "fixed",
@@ -80,13 +59,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/weski-co-uk",
       "addedAt": "2026-11-04T16:03:15.495Z",
-      "lastSeen": "2026-11-15T15:20:44.701Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T15:20:44.701Z"
+      "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
       "code": "DOUBLEBF26",
@@ -94,21 +73,24 @@
       "type": "unknown",
       "value": null,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
       "source": "coupert",
       "sources": [
         "coupert",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/weski-co-uk",
       "addedAt": "2026-11-13T15:59:00.203Z",
-      "lastSeen": "2026-11-15T16:55:22.243Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T16:55:22.243Z"
+      "listedAt": "2026-11-17T15:12:09.578Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T06:07:57.857Z"
     }
   ]
 }

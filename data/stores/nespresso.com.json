@@ -12,17 +12,20 @@
       "expiry": "2027-04-18T22:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/nespresso.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-17T15:12:09.578Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T00:00:00Z"
     },
     {
       "code": "BF20",
@@ -33,19 +36,20 @@
       "expiry": "2026-11-30T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/nespresso.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-09T14:15:15.693Z",
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "lastWorkedAt": "2026-11-17T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
       "code": "APPWELCOME",
@@ -56,19 +60,594 @@
       "expiry": "2026-11-17T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/nespresso.com",
       "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-09T11:15:21.474Z",
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "lastWorkedAt": "2026-11-15T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "STARTWITHMORE",
+      "description": "Free Welcome Box with Subscription",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-12T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "BF26",
+      "description": "Valuable savings at nespresso.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "BF30",
+      "description": "30% Off Select Orders",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-15T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "CZAEROBF",
+      "description": "40% Off Aeroccino XL with 50 Coffee Capsules",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "WELCOME2026",
+      "description": "15% Off Select Purchases",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-15T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "OL7500",
+      "description": "Your travel booking: use this code for a discount at Nespresso",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "ESSENZA40",
+      "description": "Get 40% Off Your Purchase",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "MYORDER",
+      "description": "£10 Off First 3 Orders With Subscription",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "MACHAMB",
+      "description": "35% Off Nespresso Promo Code",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-15T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "ACCESSAMB",
+      "description": "20% Off Accessories and Food and Bites",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-15T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "BAG5",
+      "description": "Enjoy 5% Off at Nespresso",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "NAPP2026",
+      "description": "Gift with Your First Order Through the App",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "CZVITEJTE200",
+      "description": "10% Off Your Order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-15T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "CREDITAUTO",
+      "description": "Take £3.71 Off Orders",
+      "type": "fixed",
+      "value": 3.71,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "B2B-NOV26",
+      "description": "Get a Zenius for Only £59 with 500 Pods",
+      "type": "fixed",
+      "value": 59,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-13T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "26FESTIVE2002",
+      "description": "Save big on your purchase with mystery discount code promotion",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "26FESTIVE3001",
+      "description": "A promo code from nespresso.com unlocks savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "26FESTIVE3002",
+      "description": "Save Time and Money with a Special Offer",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "BUNDLE5",
+      "description": "Save ₹260 on Club Member Price of ₹4,490",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "CRYSTAL",
+      "description": "Nespresso: save on your items",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "CHEER2026",
+      "description": "Buy 8+ Vertuo sleeves and get 2 free coffee sleeves",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-15T00:00:00Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "DESCALER",
+      "description": "Free Kit on Selected Orders for Members",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "HAVE30",
+      "description": "£30 Off Orders of 310 Pods",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "TAKE5",
+      "description": "£10 Off Orders Over 250 Pods",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "GET5",
+      "description": "£5 Off Orders Over £90",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": 90,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "CANDY26",
+      "description": "Free Gifts with 10+ Sleeves Purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/nespresso.com",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-17T15:12:09.578Z"
     }
   ]
 }

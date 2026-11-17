@@ -9,20 +9,23 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-18T23:59:59.000Z",
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/tefal.co.uk",
       "addedAt": "2026-11-03T17:41:39.039Z",
-      "lastSeen": "2026-11-08T08:53:45.483Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-08T08:53:45.483Z"
+      "listedAt": "2026-11-17T15:12:09.578Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T12:33:04.375Z"
     },
     {
       "code": "TEFAL70",
@@ -142,13 +145,36 @@
       ],
       "url": "https://www.savoo.co.uk/brands/tefal-discount-codes",
       "addedAt": "2026-11-15T13:21:02.946Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "VISION",
+      "description": "Use this code to save £340 on the Pro Express Vision Max steam generator iron",
+      "type": "fixed",
+      "value": 340,
+      "minSpend": null,
+      "expiry": "2026-11-18T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/tefal.co.uk",
+      "addedAt": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T12:48:46.248Z",
+      "listedAt": "2026-11-17T15:12:09.578Z"
     }
   ]
 }
