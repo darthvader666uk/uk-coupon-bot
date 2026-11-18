@@ -1,0 +1,28 @@
+{
+  "domain": "2000ad.org",
+  "name": "2000Ad",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME10",
+      "description": "Grab 10% Discount with 2000Ad Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/2000ad-org",
+      "addedAt": "2026-11-18T06:00:27.323Z",
+      "lastSeen": "2026-11-18T06:00:27.323Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-18T06:00:27.323Z"
+    }
+  ]
+}

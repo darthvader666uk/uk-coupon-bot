@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T07:05:44.834Z"
+      "listedAt": null
     },
     {
       "code": "TAKE40",
@@ -85,7 +85,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T07:05:44.834Z"
+      "listedAt": null
     },
     {
       "code": "YVOSYUAZ",
@@ -106,7 +106,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T07:05:44.834Z"
+      "listedAt": null
+    },
+    {
+      "code": "3FA1D",
+      "description": "Get 10% Off Blue Light Discount",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/4-kingdoms",
+      "addedAt": "2026-11-18T06:00:27.323Z",
+      "lastSeen": "2026-11-18T06:00:27.323Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-18T06:00:27.323Z"
     }
   ]
 }
