@@ -64,7 +64,7 @@
       ],
       "url": "https://www.coupert.com/store/hedgesdirect.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-14T07:54:23.707Z",
+      "lastSeen": "2026-11-18T18:46:14.061Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -72,7 +72,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-08T00:00:00Z",
-      "listedAt": "2026-11-14T07:54:23.707Z"
+      "listedAt": "2026-11-18T18:46:14.061Z"
     },
     {
       "code": "EVERY15",
@@ -507,13 +507,13 @@
       ],
       "url": "https://www.wethrift.com/codes/hedgesdirect.co.uk",
       "addedAt": "2026-11-12T18:07:21.916Z",
-      "lastSeen": "2026-11-14T07:54:23.707Z",
+      "lastSeen": "2026-11-18T18:46:14.061Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T07:54:23.707Z"
+      "listedAt": "2026-11-18T18:46:14.061Z"
     },
     {
       "code": "SALE20",
@@ -536,6 +536,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "PAYDAY20",
+      "description": "Get 20% off your order at Hedges Direct with code PAYDAY20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/hedgesdirect.co.uk",
+      "addedAt": "2026-11-18T18:46:14.061Z",
+      "lastSeen": "2026-11-18T18:46:14.061Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-18T18:46:14.061Z"
     }
   ]
 }
