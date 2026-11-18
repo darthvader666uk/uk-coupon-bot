@@ -535,20 +535,23 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-24T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://uk.coupert.com/promo-code/bose",
       "addedAt": "2026-11-01T14:49:05.837Z",
-      "lastSeen": "2026-11-18T06:00:27.323Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": "2026-11-18T14:58:03.521Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T04:31:26.724Z"
     },
     {
       "code": "UOE27",
@@ -607,13 +610,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/bose.co.uk",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-18T06:00:27.323Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
       "code": "DATTO10",

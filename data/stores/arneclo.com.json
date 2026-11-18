@@ -88,75 +88,6 @@
       "listedAt": null
     },
     {
-      "code": "WEL102W43V642",
-      "description": "Enjoy 10% Off at ARNE",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/arneclo.com",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-19T00:00:00Z",
-      "listedAt": null
-    },
-    {
-      "code": "WEL10VQ8DNQPL",
-      "description": "Get 10% Off Your Purchase",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/arneclo.com",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-18T00:00:00Z",
-      "listedAt": null
-    },
-    {
-      "code": "WWB12CMKX2WP3",
-      "description": "Deduct 20% from your purchase",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/arneclo.com",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-19T11:44:11.574Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-16T00:00:00Z",
-      "listedAt": null
-    },
-    {
       "code": "RNO102DH96429",
       "description": "Enjoy 50% Off Your First Order At ARNE",
       "type": "percentage",
@@ -211,13 +142,13 @@
       ],
       "url": "https://www.coupert.com/store/arneclo.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
       "code": "EXTRA10",
@@ -256,13 +187,13 @@
       ],
       "url": "https://www.coupert.com/store/arneclo.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-17T19:08:14.143Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-17T19:08:14.143Z"
+      "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
       "code": "FREEDEL",
@@ -277,13 +208,13 @@
       ],
       "url": "https://www.coupert.com/store/arneclo.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
       "code": "20OFFDMAR17J22",
@@ -298,13 +229,13 @@
       ],
       "url": "https://www.coupert.com/store/arneclo.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
       "code": "WEL10X4LMVQ5Z",
@@ -368,6 +299,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-17T19:08:14.143Z"
+    },
+    {
+      "code": "BLACKFRIDAY",
+      "description": "Savings are available on your shopping list",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/arneclo.com",
+      "addedAt": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-18T14:58:03.521Z"
     }
   ]
 }

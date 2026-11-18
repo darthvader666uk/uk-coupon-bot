@@ -1,0 +1,30 @@
+{
+  "domain": "etihad.com",
+  "name": "Etihad",
+  "category": "general",
+  "codes": [
+    {
+      "code": "SAVE250",
+      "description": "Save £250 on bookings over £2000 by using this Etihad promo code",
+      "type": "fixed",
+      "value": 250,
+      "minSpend": 2000,
+      "expiry": "2026-11-24T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/etihad.com",
+      "addedAt": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-18T06:34:06.406Z",
+      "listedAt": "2026-11-18T14:58:03.521Z"
+    }
+  ]
+}

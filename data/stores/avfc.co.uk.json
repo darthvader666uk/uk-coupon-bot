@@ -1,0 +1,30 @@
+{
+  "domain": "avfc.co.uk",
+  "name": "Aston Villa",
+  "category": "general",
+  "codes": [
+    {
+      "code": "AVFC20OFF50",
+      "description": "Get 20% off when you spend £50 or more with this code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 50,
+      "expiry": "2026-11-28T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/avfc.co.uk",
+      "addedAt": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T07:09:17.122Z",
+      "listedAt": "2026-11-18T14:58:03.521Z"
+    }
+  ]
+}

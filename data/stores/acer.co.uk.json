@@ -32,20 +32,21 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-20T08:00:00.000Z",
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/acer-discount-codes",
       "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-11-01T12:21:17.882Z",
+      "lastSeen": "2026-11-18T14:58:03.521Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
       "code": "SAP2019",
@@ -680,7 +681,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": null
     }
   ]
 }
