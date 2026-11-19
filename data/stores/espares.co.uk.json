@@ -56,18 +56,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://espares.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-17T15:12:09.578Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "CHAT17",
@@ -166,18 +167,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://espares.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-17T15:12:09.578Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "ZCZGZRKRZ",
@@ -210,18 +212,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://espares.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-17T15:12:09.578Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "ZBZGKDGWH",
@@ -474,18 +477,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://espares.knoji.com/",
       "addedAt": "2026-10-17T10:15:55.556Z",
-      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-17T15:12:09.578Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "FRZNCIDER",
@@ -628,18 +632,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://espares.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-17T15:12:09.578Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "10OFF",
@@ -728,6 +733,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "USAVE10",
+      "description": "10% off at eSpares",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/espares.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
     }
   ]
 }

@@ -664,6 +664,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "MAGIRI15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/esteelauder.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "FREEBRUSH",
+      "description": "Free brush with foundation purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/esteelauder.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
     }
   ]
 }

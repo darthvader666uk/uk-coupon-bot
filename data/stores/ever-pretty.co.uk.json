@@ -625,17 +625,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/ever-pretty-discount-codes",
       "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "WELCOME10",
@@ -841,18 +842,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://everpretty.knoji.com/",
       "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "EMA20",
@@ -919,6 +921,426 @@
       },
       "verified": false,
       "listedAt": "2026-11-18T14:58:03.521Z"
+    },
+    {
+      "code": "FAYE20OFF",
+      "description": "20% off your perfect dress",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "WO20",
+      "description": "20% off storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "CAI20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "VTD10",
+      "description": "10% off orders over £80",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 80,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "BECKIEHART15",
+      "description": "Save on your order at Ever-Pretty with discount code BECKIEHART15.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "ABI15",
+      "description": "Apply the code ABI15 to save 15% on your order at Ever-Pretty UK.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "CARMEN15",
+      "description": "Save 15% on your order at Ever-Pretty UK with code CARMEN15.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "MISHKHA16",
+      "description": "Apply 16% off to your order at Ever-Pretty with code MISHKHA16.",
+      "type": "percentage",
+      "value": 16,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "CARO15",
+      "description": "Save 15% on your order at Ever-Pretty with code CARO15.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "ITS15OFF",
+      "description": "Save 15% off your order at Ever-Pretty with code ITS15OFF.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "HEY15",
+      "description": "Save 15% on your order at ever-pretty with code HEY15.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "LUDOVICA16",
+      "description": "Save 16% off at Ever-Pretty with code LUDOVICA16.",
+      "type": "percentage",
+      "value": 16,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "GIULY16",
+      "description": "Save 16% on your order at Ever-Pretty with code GIULY16.",
+      "type": "percentage",
+      "value": 16,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "GEMMA15OFF",
+      "description": "Save on your order at Ever-Pretty with code GEMMA15OFF.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "KIM20",
+      "description": "Get 20% off at Ever-Pretty with code KIM20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "KIM16",
+      "description": "Apply code KIM16 to save 16% off at Ever-Pretty.",
+      "type": "percentage",
+      "value": 16,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "WEEKEND10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "GEMMA20OFFA",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "LIKKK16",
+      "description": "Apply code LIKKK16 to save 16% off at Ever-Pretty.",
+      "type": "percentage",
+      "value": 16,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "BEVJCND16",
+      "description": "Save 16% on your order at Ever-Pretty with code BEVJCND16.",
+      "type": "percentage",
+      "value": 16,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ever-pretty.co.uk",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
     }
   ]
 }

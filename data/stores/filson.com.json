@@ -550,11 +550,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/filson.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -562,7 +563,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T00:00:00Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-19T18:57:17.354Z"
     },
     {
       "code": "BF20",
@@ -674,6 +675,174 @@
       "verified": true,
       "lastWorkedAt": "2026-10-27T00:00:00Z",
       "listedAt": "2026-11-18T14:58:03.521Z"
+    },
+    {
+      "code": "SHOPATCOP15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "SATOWAXWORKS",
+      "description": "15% off to purchase Otter wax products",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "CODE10",
+      "description": "40% off select Flannels",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "JDON1FT4DR",
+      "description": "10% off storewide - at Filson",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "SECRET30",
+      "description": "30% off Secret Sales Collection",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "VIP23-ZEEK-WODG",
+      "description": "30% off Friends & Family Fall Promotion",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "SFFV-TFIU-MBJL",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "A666CEO4D0",
+      "description": "10% off storewide items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/filson.com",
+      "addedAt": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T18:57:17.354Z"
     }
   ]
 }
