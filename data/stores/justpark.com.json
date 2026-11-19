@@ -1,0 +1,28 @@
+{
+  "domain": "justpark.com",
+  "name": "JustPark",
+  "category": "general",
+  "codes": [
+    {
+      "code": "APP5",
+      "description": "Get £5 off your first booking with this JustPark discount code",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2027-02-11T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/justpark.com",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    }
+  ]
+}

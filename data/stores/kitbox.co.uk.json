@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": null
     },
     {
       "code": "KITBOX20",
@@ -210,18 +210,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "savoo"
       ],
       "url": "https://kitbox.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-19T15:07:13.847Z"
     },
     {
       "code": "FITTESTONEARTH",
@@ -466,28 +467,6 @@
       "listedAt": "2026-11-14T12:52:43.546Z"
     },
     {
-      "code": "10OFF",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://kitbox.knoji.com/",
-      "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-14T12:52:43.546Z"
-    },
-    {
       "code": "HONEY5",
       "description": "5% off",
       "type": "percentage",
@@ -594,7 +573,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": null
     }
   ]
 }

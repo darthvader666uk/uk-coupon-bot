@@ -40,13 +40,13 @@
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-09-21T11:19:32.118Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-19T15:07:13.847Z"
     },
     {
       "code": "VAN10",
@@ -157,7 +157,7 @@
       ],
       "url": "https://www.coupert.com/store/kwik-fit.com",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -165,7 +165,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T14:25:10.618Z",
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-19T15:07:13.847Z"
     },
     {
       "code": "MICHSAVE",
@@ -189,7 +189,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T11:58:20.623Z",
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": null
     },
     {
       "code": "BATT5048",
@@ -855,7 +855,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T12:04:12.055Z",
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": null
     },
     {
       "code": "GITISALE",
@@ -878,7 +878,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-03T10:47:09.724Z",
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": null
     },
     {
       "code": "PIKFNOV",
@@ -899,7 +899,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": null
     },
     {
       "code": "GOKFTYRE",
@@ -922,7 +922,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T11:53:24.360Z",
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": null
     },
     {
       "code": "COTYSALE",
@@ -961,13 +961,15 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/kwik-fit.com",
       "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-19T15:07:13.847Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T14:03:31.692Z"
     },
     {
       "code": "5BATTERY1601",
@@ -1012,6 +1014,29 @@
       },
       "verified": false,
       "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "BLACK26",
+      "description": "Take 15% off servicing (including SMOT) using this Kwik Fit discount code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/kwik-fit.com",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T11:14:48.568Z",
+      "listedAt": "2026-11-19T15:07:13.847Z"
     }
   ]
 }

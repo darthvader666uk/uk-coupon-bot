@@ -31,30 +31,6 @@
       "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
-      "code": "EXPRESSDEL",
-      "description": "Free shipping",
-      "type": "free_shipping",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-12T00:00:00Z",
-      "listedAt": "2026-10-20T10:57:42.385Z"
-    },
-    {
       "code": "OWNIM15",
       "description": "15% off",
       "type": "percentage",
@@ -306,28 +282,6 @@
       "url": "https://debenhams.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
       "lastSeen": "2026-11-07T12:22:06.183Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
-    },
-    {
-      "code": "LOYALLIST",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -713,52 +667,6 @@
       "listedAt": "2026-11-07T12:22:06.183Z"
     },
     {
-      "code": "FRAG5",
-      "description": "Extra 5% Off Fragrance This Week",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/debenhams.com",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z",
-      "listedAt": "2026-10-20T10:57:42.385Z"
-    },
-    {
-      "code": "SOYNUEVO",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
-    },
-    {
       "code": "EXPLORE10",
       "description": "10% Off Debenhams Coupon on Your Purchase",
       "type": "percentage",
@@ -979,116 +887,6 @@
       },
       "verified": false,
       "listedAt": "2026-11-14T12:52:43.546Z"
-    },
-    {
-      "code": "BRANDS15",
-      "description": "15% off",
-      "type": "percentage",
-      "value": 15,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": null
-    },
-    {
-      "code": "SGHFALL2026",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
-    },
-    {
-      "code": "YOUGET20",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
-    },
-    {
-      "code": "1DAYSALE",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
-    },
-    {
-      "code": "OURGIFT",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://debenhams.knoji.com/",
-      "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-10-20T10:57:42.385Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
     },
     {
       "code": "SHOES10",

@@ -67,27 +67,6 @@
       "listedAt": null
     },
     {
-      "code": "PWM5",
-      "description": "Exclusive Deal: Enjoy 5% Savings with Deporvillage Discount Code",
-      "type": "percentage",
-      "value": 5,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://uk.coupert.com/promo-code/deporvillage",
-      "addedAt": "2026-10-16T13:01:35.629Z",
-      "lastSeen": "2026-10-20T13:17:34.310Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "listedAt": null
-    },
-    {
       "code": "WCMBWP5",
       "description": "Receive Great Savings on selected products",
       "type": "unknown",
@@ -159,11 +138,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/deporvillage.co.uk",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -171,7 +151,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T00:00:00Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-19T15:07:13.847Z"
     },
     {
       "code": "GIFT20",
@@ -340,6 +320,490 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "WCMMBZ5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "VYN9",
+      "description": "9% off",
+      "type": "percentage",
+      "value": 9,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "VYN5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "VYN7",
+      "description": "7% off",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "BMP3",
+      "description": "7% off",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "BMP8",
+      "description": "8% off",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "VYN8",
+      "description": "8% off",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "VYN6",
+      "description": "7% off",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "BMP9",
+      "description": "9% off",
+      "type": "percentage",
+      "value": 9,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "WRX7",
+      "description": "7% off",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "WRX8",
+      "description": "8% off",
+      "type": "percentage",
+      "value": 8,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "WRX4",
+      "description": "4% off",
+      "type": "percentage",
+      "value": 4,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "WRX6",
+      "description": "6% off",
+      "type": "percentage",
+      "value": 6,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "WRX5",
+      "description": "5% off",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "MZQ4",
+      "description": "7% off",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "MZQ6",
+      "description": "7% off",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "STAYCOZY",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "10OFF2324",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "GCQPS-05",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "TAKE151ID",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "REFF1450FFDFA4E7",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "SPORTNEER10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://deporvillage.knoji.com/",
+      "addedAt": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-19T15:07:13.847Z"
     }
   ]
 }
