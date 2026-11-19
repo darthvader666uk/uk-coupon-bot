@@ -195,14 +195,14 @@
       ],
       "url": "https://xplosiveape.knoji.com/",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-19T17:09:57.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-19T17:09:57.811Z"
     },
     {
       "code": "JEG4",
@@ -315,7 +315,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-17T17:26:33.741Z"
+      "listedAt": null
     },
     {
       "code": "XPHONEY10",
@@ -500,13 +500,13 @@
       ],
       "url": "https://www.wethrift.com/codes/xplosiveape.com",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-17T19:08:14.143Z",
+      "lastSeen": "2026-11-19T17:09:57.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-17T19:08:14.143Z"
+      "listedAt": "2026-11-19T17:09:57.811Z"
     },
     {
       "code": "VIP30",
@@ -781,18 +781,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://xplosiveape.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-19T17:09:57.811Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": null
+      "listedAt": "2026-11-19T17:09:57.811Z"
     },
     {
       "code": "CALEY10",
@@ -1010,7 +1011,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-17T17:26:33.741Z"
+      "listedAt": null
     },
     {
       "code": "TENNEWD9DSFNXW",
@@ -1031,7 +1032,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-17T17:26:33.741Z"
+      "listedAt": null
     },
     {
       "code": "CLARKE24202",
@@ -1075,6 +1076,48 @@
       },
       "verified": true,
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "NOEXCUSES",
+      "description": "Claim Xplosive Ape 15% Off via Promo Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xplosiveape",
+      "addedAt": "2026-11-19T17:09:57.811Z",
+      "lastSeen": "2026-11-19T17:09:57.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T17:09:57.811Z"
+    },
+    {
+      "code": "ALEXA10",
+      "description": "Get 10% off with Xplosive Ape Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/xplosiveape",
+      "addedAt": "2026-11-19T17:09:57.811Z",
+      "lastSeen": "2026-11-19T17:09:57.811Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-19T17:09:57.811Z"
     }
   ]
 }
