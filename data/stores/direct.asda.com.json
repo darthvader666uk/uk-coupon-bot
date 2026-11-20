@@ -65,7 +65,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": null
     },
     {
       "code": "DELIVERY25",
@@ -86,7 +86,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": null
     },
     {
       "code": "ASDA10",
@@ -469,7 +469,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": null
     },
     {
       "code": "MVCFEB10",
@@ -511,7 +511,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": null
     },
     {
       "code": "BF20",
@@ -532,7 +532,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": null
     },
     {
       "code": "JF10",
@@ -553,7 +553,70 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T06:00:27.323Z"
+      "listedAt": null
+    },
+    {
+      "code": "SPLIT19",
+      "description": "Apply George at ASDA Promo Code to save 50%",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asda-george",
+      "addedAt": "2026-11-20T06:58:43.352Z",
+      "lastSeen": "2026-11-20T06:58:43.352Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T06:58:43.352Z"
+    },
+    {
+      "code": "BOOK30",
+      "description": "George at ASDA: Save 30% using Promo Code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asda-george",
+      "addedAt": "2026-11-20T06:58:43.352Z",
+      "lastSeen": "2026-11-20T06:58:43.352Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T06:58:43.352Z"
+    },
+    {
+      "code": "FL20WNL",
+      "description": "Direct.asda.com offers 20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/asda-george",
+      "addedAt": "2026-11-20T06:58:43.352Z",
+      "lastSeen": "2026-11-20T06:58:43.352Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T06:58:43.352Z"
     }
   ]
 }
