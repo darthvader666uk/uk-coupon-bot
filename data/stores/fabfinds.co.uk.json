@@ -106,7 +106,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T07:05:44.834Z"
+      "listedAt": null
     },
     {
       "code": "HONEY10",
@@ -143,13 +143,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/fab-finds",
       "addedAt": "2026-11-14T08:20:12.940Z",
-      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "WELCOME10",
@@ -166,13 +166,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/fab-finds",
       "addedAt": "2026-11-14T08:20:12.940Z",
-      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "COUPERT10",
@@ -187,13 +187,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/fab-finds",
       "addedAt": "2026-11-14T08:20:12.940Z",
-      "lastSeen": "2026-11-16T07:05:44.834Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T07:05:44.834Z"
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "FFVCUKNHS10",
@@ -235,7 +235,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T07:05:44.834Z"
+      "listedAt": null
     },
     {
       "code": "SPRING10",
@@ -246,17 +246,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "coupert"
       ],
       "url": "https://www.savoo.co.uk/brands/fabfinds-discount-codes",
       "addedAt": "2026-11-17T15:12:09.578Z",
-      "lastSeen": "2026-11-17T15:12:09.578Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "CHECKOUT10",
@@ -427,6 +428,48 @@
         "lastTested": null
       },
       "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "FREESHIP50",
+      "description": "Free UK Delivery Over £50",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fab-finds",
+      "addedAt": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T16:43:24.561Z"
+    },
+    {
+      "code": "FAB30",
+      "description": "Use Fab Finds Promo Codes for 30% Off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fab-finds",
+      "addedAt": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T16:43:24.561Z"
     }
   ]
 }

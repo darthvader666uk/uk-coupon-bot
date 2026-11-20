@@ -17,13 +17,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/fanbaseclub-com",
       "addedAt": "2026-10-08T15:10:11.855Z",
-      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "MATCHDAY",
@@ -107,7 +107,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T07:05:44.834Z"
+      "listedAt": null
     },
     {
       "code": "PRIORITY15",
@@ -118,17 +118,39 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/fanbaseclub.com",
       "addedAt": "2026-11-19T18:57:17.354Z",
-      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": "2026-11-20T16:43:24.561Z"
+    },
+    {
+      "code": "BLACKFRIDAY25",
+      "description": "Fanbase Black Friday: Save 25% with Promo Code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/fanbaseclub-com",
+      "addedAt": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T16:43:24.561Z"
     }
   ]
 }

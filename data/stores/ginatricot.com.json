@@ -190,7 +190,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T17:37:31.525Z"
+      "listedAt": null
     },
     {
       "code": "SOFIA15",
@@ -436,13 +436,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ginatricot-com",
       "addedAt": "2026-10-29T14:58:30.815Z",
-      "lastSeen": "2026-10-29T14:58:30.815Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "MIRIAM15",
@@ -815,13 +815,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ginatricot-com",
       "addedAt": "2026-11-02T17:43:55.093Z",
-      "lastSeen": "2026-11-02T17:43:55.093Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "ZOEL15",
@@ -1180,7 +1180,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T17:37:31.525Z"
+      "listedAt": null
     },
     {
       "code": "CHARLOTTE20",
@@ -1611,17 +1611,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/ginatricot.com",
       "addedAt": "2026-11-14T07:54:23.707Z",
-      "lastSeen": "2026-11-18T18:46:14.061Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "MARIANNA20",
@@ -1762,13 +1763,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/ginatricot-com",
       "addedAt": "2026-11-16T17:37:31.525Z",
-      "lastSeen": "2026-11-16T17:37:31.525Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T17:37:31.525Z"
+      "listedAt": "2026-11-20T16:43:24.561Z"
     },
     {
       "code": "EMITAZ20",
@@ -1789,7 +1790,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T17:37:31.525Z"
+      "listedAt": null
     },
     {
       "code": "SUMMER15",
@@ -1810,7 +1811,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T17:37:31.525Z"
+      "listedAt": null
     },
     {
       "code": "SIIRI15",
@@ -1831,7 +1832,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T17:37:31.525Z"
+      "listedAt": null
     },
     {
       "code": "JULIAD20",
@@ -2084,6 +2085,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "MARINE20",
+      "description": "Gina Tricot: Save 20% using discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/ginatricot-com",
+      "addedAt": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T16:43:24.561Z"
     }
   ]
 }

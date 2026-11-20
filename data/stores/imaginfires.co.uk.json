@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-16T17:37:31.525Z"
+      "listedAt": null
     },
     {
       "code": "IM2025",
@@ -44,6 +44,69 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "NEW10",
+      "description": "Imaginfires Black Friday Discount Code: 10% Off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/imaginfires",
+      "addedAt": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T16:43:24.561Z"
+    },
+    {
+      "code": "SAVE5",
+      "description": "Imaginfires Black Friday: Save 5% with Coupon",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/imaginfires",
+      "addedAt": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T16:43:24.561Z"
+    },
+    {
+      "code": "FREEFUEL",
+      "description": "Redeem Coupon for Imaginfires Black Friday",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/imaginfires",
+      "addedAt": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T16:43:24.561Z"
     }
   ]
 }
