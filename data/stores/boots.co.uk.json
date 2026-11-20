@@ -206,7 +206,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "REVOLUTION",
@@ -381,13 +381,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/boots.com",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z",
+      "listedAt": "2026-11-20T14:44:37.428Z",
       "verified": true,
       "lastWorkedAt": "2026-11-13T09:45:07.009Z"
     },
@@ -523,7 +523,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "WILFAVORITES10",
@@ -544,7 +544,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "CTMASCARA",
@@ -671,29 +671,6 @@
         "lastTested": null
       },
       "listedAt": "2026-11-13T13:56:08.358Z"
-    },
-    {
-      "code": "ANN10",
-      "description": "Recently saved £20.6",
-      "type": "fixed",
-      "value": 20.6,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/boots.co.uk",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-20T00:00:00Z",
-      "listedAt": "2026-10-21T10:58:47.715Z"
     },
     {
       "code": "PHILIPS85",
@@ -1001,7 +978,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1009,7 +986,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T08:56:24.495Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "BABYLISS40",
@@ -1047,7 +1024,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1055,7 +1032,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T15:13:22.960Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "BOSS50",
@@ -1116,7 +1093,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1124,7 +1101,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T15:55:09.000Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "EXTRA10",
@@ -1132,20 +1109,23 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-24T23:59:59.000Z",
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/boots-discount-codes",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": "2026-11-20T14:44:37.428Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-19T08:37:27.522Z"
     },
     {
       "code": "PREM30",
@@ -1160,7 +1140,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-15T13:21:02.946Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1168,7 +1148,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T09:17:54.167Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "WITHINGS70",
@@ -1191,7 +1171,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T08:42:51.655Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "STAR10",
@@ -1260,7 +1240,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T14:22:24.773Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "HAIR20",
@@ -1275,7 +1255,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1283,7 +1263,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-18T09:28:22.010Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "STAR5",
@@ -1306,7 +1286,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-18T06:41:02.892Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "RELIEF",
@@ -1329,7 +1309,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T08:46:23.229Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "WITHINGS30",
@@ -1352,7 +1332,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-18T09:59:05.399Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "PREM25",
@@ -1367,7 +1347,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1375,7 +1355,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-16T06:15:56.798Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "ACTIVE20",
@@ -1390,7 +1370,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1398,7 +1378,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-16T10:50:57.831Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "BABYBF",
@@ -1413,7 +1393,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/boots.com",
       "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1421,7 +1401,30 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-18T08:37:00.591Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
+    },
+    {
+      "code": "STAR50",
+      "description": "Enjoy 50% off select star gifts with this Boots code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": "2026-11-23T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/boots.com",
+      "addedAt": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-19T09:01:06.314Z",
+      "listedAt": "2026-11-20T14:44:37.428Z"
     }
   ]
 }

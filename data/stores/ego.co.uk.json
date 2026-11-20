@@ -500,13 +500,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/ego.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-20T14:44:37.428Z"
     },
     {
       "code": "GUESTLIST",
@@ -542,13 +542,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/ego.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z",
+      "listedAt": "2026-11-20T14:44:37.428Z",
       "verified": true,
       "lastWorkedAt": "2026-11-13T01:41:59.814Z"
     },
@@ -619,28 +619,6 @@
       "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
-      "code": "SALE20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://ego.knoji.com/",
-      "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
-    },
-    {
       "code": "CARLOS100",
       "description": "",
       "type": "unknown",
@@ -661,6 +639,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-18T14:58:03.521Z"
+    },
+    {
+      "code": "SPOTLIGHT",
+      "description": "30% off full-price items when you use this EGO promo code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/ego.co.uk",
+      "addedAt": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T14:44:37.428Z"
     }
   ]
 }

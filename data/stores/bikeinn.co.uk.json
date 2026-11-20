@@ -489,50 +489,6 @@
       "listedAt": "2026-11-18T14:58:03.521Z"
     },
     {
-      "code": "SEPWEL",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bikeinn.knoji.com/",
-      "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
-    },
-    {
-      "code": "VOILE25",
-      "description": "25% off",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://bikeinn.knoji.com/",
-      "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-10-21T10:58:47.715Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": null
-    },
-    {
       "code": "A15P",
       "description": "15% off",
       "type": "percentage",

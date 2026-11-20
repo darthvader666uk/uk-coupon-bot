@@ -1,0 +1,28 @@
+{
+  "domain": "birdfood.co.uk",
+  "name": "CJ Wildlife",
+  "category": "general",
+  "codes": [
+    {
+      "code": "10FLASH",
+      "description": "Get 10% off in the Black Friday sale",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-24T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/birdfood.co.uk",
+      "addedAt": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-20T14:44:37.428Z"
+    }
+  ]
+}
