@@ -126,18 +126,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://brakeburn.knoji.com/",
       "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "BRAKEBURN15",
@@ -170,18 +171,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://brakeburn.knoji.com/",
       "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "10JUSTFORYOU",
@@ -236,18 +238,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://brakeburn.knoji.com/",
       "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "JUSTFORYOU10",
@@ -258,18 +261,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://brakeburn.knoji.com/",
       "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-16T14:24:39.411Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "ANOTHER10",
@@ -534,6 +538,111 @@
       },
       "verified": false,
       "listedAt": "2026-11-16T14:24:39.411Z"
+    },
+    {
+      "code": "WED20EXTRA",
+      "description": "Take an extra 20% off Black Friday prices at Brakeburn with code WED20EXTRA.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brakeburn.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "BF15",
+      "description": "15% off Sweeter",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brakeburn.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "CHINOOK",
+      "description": "25% off Flowing Dots Chinook Changing Robe",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brakeburn.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "BRAKEBURN10",
+      "description": "Get an extra 10% off any Brakeburn item with code BRAKEBURN10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brakeburn.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "BBSTYLE10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brakeburn.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
     }
   ]
 }

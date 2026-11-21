@@ -12,11 +12,12 @@
       "expiry": "2026-11-30T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/bohomoon.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -24,7 +25,259 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T07:11:15.198Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "10COURTENEYJAYNE",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "BRITNEY10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "ADVENT20",
+      "description": "20% off Advent Calendars",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "NAILSBY_GXX10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "10BETHHADAMSS",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "NAILSBY_GXX",
+      "description": "£9 for everything",
+      "type": "fixed",
+      "value": 9,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "OUTLET20",
+      "description": "Take an extra 20% off outlet items at B O H O M O O N with code OUTLET20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "APPY15",
+      "description": "15% off your first app order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "HANNAH010",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "BETHHADAMSS10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "ESSENTIALS",
+      "description": "25% off essentials",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "BANKHOL20",
+      "description": "20% off flash sale",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bohomoon.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
     }
   ]
 }

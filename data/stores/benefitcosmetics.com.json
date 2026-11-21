@@ -36,11 +36,12 @@
       "sources": [
         "coupert",
         "knoji",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/benefitcosmetics.com",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -48,7 +49,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-11T00:00:00Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "POREBUILDER",
@@ -576,17 +577,18 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/benefitcosmetics.com",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "LOYAL40",
@@ -1203,11 +1205,12 @@
       "sources": [
         "caramel",
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/benefitcosmetics.com",
       "addedAt": "2026-10-31T11:30:20.399Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1215,7 +1218,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-24T00:00:00Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "LASHOUT",
@@ -1808,17 +1811,18 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "caramel"
+        "caramel",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/benefitcosmetics.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "CADEAUX",
@@ -1960,11 +1964,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/benefitcosmetics.com",
       "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1972,7 +1977,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-16T00:00:00Z",
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "BWB20BF",
@@ -2059,6 +2064,27 @@
       "verified": true,
       "lastWorkedAt": "2026-11-20T09:09:01.067Z",
       "listedAt": "2026-11-20T14:44:37.428Z"
+    },
+    {
+      "code": "CLUBPINK",
+      "description": "Get 20% off plus a free sample at Benefit Cosmetics with code CLUBPINK.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/benefitcosmetics.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
     }
   ]
 }

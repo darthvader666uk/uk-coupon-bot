@@ -12,17 +12,60 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/bondi-body-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-07T12:22:06.183Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "FA15",
+      "description": "15% off select items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bondi-body.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "STU50",
+      "description": "£50 off your order",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/bondi-body.com",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
     }
   ]
 }

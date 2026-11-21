@@ -383,17 +383,18 @@
       "expiry": null,
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/brandalley-discount-codes",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "WELCOME15",
@@ -405,17 +406,18 @@
       "source": "hukd",
       "sources": [
         "hukd",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/brandalley.co.uk",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z",
+      "listedAt": "2026-11-21T17:22:36.565Z",
       "verified": true
     },
     {
@@ -427,17 +429,18 @@
       "expiry": "2027-03-06T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/brandalley.co.uk",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-21T17:22:36.565Z"
     },
     {
       "code": "PAYDAY25",
@@ -680,6 +683,48 @@
       "verified": true,
       "lastWorkedAt": "2026-11-17T16:38:15.416Z",
       "listedAt": "2026-11-20T14:44:37.428Z"
+    },
+    {
+      "code": "GIFT20",
+      "description": "70% off + an extra 20% off selected items",
+      "type": "percentage",
+      "value": 70,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brandalley.co.uk",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "EXTRA20",
+      "description": "Get an extra 20% off cosy home favourites from Silent Night at BrandAlley with code EXTRA20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brandalley.co.uk",
+      "addedAt": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T17:22:36.565Z"
     }
   ]
 }
