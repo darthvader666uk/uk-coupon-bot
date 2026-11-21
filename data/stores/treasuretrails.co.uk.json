@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": null
     },
     {
       "code": "TREASURETRAILS",
@@ -43,7 +43,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": null
+    },
+    {
+      "code": "TIR50-0325-WYXPOK",
+      "description": "50% Off Available on Your Order",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/treasure-trails",
+      "addedAt": "2026-11-21T16:57:05.547Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T16:57:05.547Z"
     }
   ]
 }

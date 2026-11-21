@@ -106,7 +106,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": null
     },
     {
       "code": "CODE15",
@@ -279,7 +279,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": null
     },
     {
       "code": "SELECT15",
@@ -295,13 +295,13 @@
       ],
       "url": "https://www.wethrift.com/codes/wayfair.co.uk",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-20T18:21:27.037Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T18:21:27.037Z"
+      "listedAt": "2026-11-21T16:57:05.547Z"
     },
     {
       "code": "LECREUSET10",
@@ -518,7 +518,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/wayfair.co.uk",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-20T18:21:27.037Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -526,7 +526,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-14T12:53:46.265Z",
-      "listedAt": "2026-11-20T18:21:27.037Z"
+      "listedAt": "2026-11-21T16:57:05.547Z"
     },
     {
       "code": "BREAKFAST10",
@@ -719,13 +719,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/wayfair-uk",
       "addedAt": "2026-11-13T15:59:00.203Z",
-      "lastSeen": "2026-11-19T17:09:57.811Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": "2026-11-21T16:57:05.547Z"
     },
     {
       "code": "LOVE15",
@@ -830,7 +830,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": null
     },
     {
       "code": "03RS1W11E76C1",
@@ -845,13 +845,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/wayfair-uk",
       "addedAt": "2026-11-19T17:09:57.811Z",
-      "lastSeen": "2026-11-19T17:09:57.811Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": "2026-11-21T16:57:05.547Z"
     },
     {
       "code": "GIFT10",
@@ -866,13 +866,76 @@
       ],
       "url": "https://uk.coupert.com/promo-code/wayfair-uk",
       "addedAt": "2026-11-19T17:09:57.811Z",
-      "lastSeen": "2026-11-19T17:09:57.811Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T17:09:57.811Z"
+      "listedAt": "2026-11-21T16:57:05.547Z"
+    },
+    {
+      "code": "03RS1Z5F86Y08",
+      "description": "Enjoy 5% off with Wayfair Discount Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wayfair-uk",
+      "addedAt": "2026-11-21T16:57:05.547Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T16:57:05.547Z"
+    },
+    {
+      "code": "FREEDELIVERY",
+      "description": "Enjoy Free Shipping At wayfair.co.uk",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wayfair-uk",
+      "addedAt": "2026-11-21T16:57:05.547Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T16:57:05.547Z"
+    },
+    {
+      "code": "LIGHT10",
+      "description": "Shop Wayfair 10% Off with Voucher Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/wayfair-uk",
+      "addedAt": "2026-11-21T16:57:05.547Z",
+      "lastSeen": "2026-11-21T16:57:05.547Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-21T16:57:05.547Z"
     }
   ]
 }
