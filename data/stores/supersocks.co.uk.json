@@ -128,14 +128,14 @@
       ],
       "url": "https://supersocks.knoji.com/",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-22T17:43:06.620Z"
     },
     {
       "code": "SNBF25",
@@ -554,6 +554,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-18T14:58:03.521Z"
+    },
+    {
+      "code": "SUN20",
+      "description": "20% off storewide",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/supersocks.co.uk",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
     }
   ]
 }

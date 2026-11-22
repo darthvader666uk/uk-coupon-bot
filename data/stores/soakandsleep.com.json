@@ -718,17 +718,18 @@
       "expiry": "2027-04-23T22:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": "2026-11-22T17:43:06.620Z"
     },
     {
       "code": "BETTERSLEEP",
@@ -819,6 +820,69 @@
       "verified": true,
       "lastWorkedAt": "2026-11-21T06:57:13.425Z",
       "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "SBFVIP",
+      "description": "Get 25% off your order at Soak&Sleep with code SBFVIP when you spend £100.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/soakandsleep.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "BFVIPS",
+      "description": "Get 25% off your order at Soak&Sleep with code BFVIPS when you spend £100.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/soakandsleep.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "VIPSPS",
+      "description": "Get 25% off your order at Soak&Sleep with code VIPSPS when you spend £100.",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": 100,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/soakandsleep.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
     }
   ]
 }

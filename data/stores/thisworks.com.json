@@ -12,17 +12,18 @@
       "expiry": "2026-12-25T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/thisworks.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": "2026-11-22T17:43:06.620Z"
     },
     {
       "code": "OFFER2026",
@@ -33,11 +34,12 @@
       "expiry": "2026-11-15T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/thisworks.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -45,7 +47,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T13:49:08.094Z",
-      "listedAt": null
+      "listedAt": "2026-11-22T17:43:06.620Z"
     },
     {
       "code": "REFILL20",
@@ -305,6 +307,195 @@
       },
       "verified": false,
       "listedAt": "2026-11-20T14:44:37.428Z"
+    },
+    {
+      "code": "MAISIE10",
+      "description": "Save 10% on all This Works products with code MAISIE10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "HELENA10",
+      "description": "Apply code HELENA10 to save 10% on your order at This Works.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "BRONTE10",
+      "description": "Save 10% on all products site wide at This Works with code BRONTE10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "PAIGETY",
+      "description": "Apply code PAIGETY to get 10% off selected collections at thisworks.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "NOV2026",
+      "description": "Get 30% off your order at This Works with code NOV2026 when you spend over £45.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": 45,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "IAMFABULICIOUS",
+      "description": "Apply code IAMFABULICIOUS to save 10% at This Works.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "SHOPWITHKT",
+      "description": "Apply code SHOPWITHKT to save 10% at This Works.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "EMILYHARTLEY10",
+      "description": "Save 10% on your order at This Works with code EMILYHARTLEY10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "PAIGET",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/thisworks.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
     }
   ]
 }

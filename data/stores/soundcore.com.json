@@ -96,18 +96,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://soundcore.knoji.com/",
       "addedAt": "2026-11-07T12:22:06.183Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-22T17:43:06.620Z"
     },
     {
       "code": "WS7DV27ZVVWC",
@@ -1118,6 +1119,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-18T14:58:03.521Z"
+    },
+    {
+      "code": "DCORE3",
+      "description": "Save on your order at Soundcore with code DCORE3.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/soundcore.com",
+      "addedAt": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T17:43:06.620Z"
     }
   ]
 }
