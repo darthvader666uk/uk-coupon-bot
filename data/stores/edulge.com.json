@@ -66,7 +66,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T16:43:24.561Z"
+      "listedAt": null
     },
     {
       "code": "JAY10",
@@ -133,7 +133,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T16:43:24.561Z"
+      "listedAt": null
     },
     {
       "code": "DANI10",
@@ -149,14 +149,14 @@
       ],
       "url": "https://uk.coupert.com/promo-code/edulge",
       "addedAt": "2026-10-06T14:44:51.217Z",
-      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-22T16:45:12.111Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-20T16:43:24.561Z"
+      "listedAt": "2026-11-22T16:45:12.111Z"
     },
     {
       "code": "MARK10",
@@ -507,18 +507,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://edulge.knoji.com/",
       "addedAt": "2026-10-09T12:44:22.562Z",
-      "lastSeen": "2026-11-07T12:22:06.183Z",
+      "lastSeen": "2026-11-22T16:45:12.111Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": null
+      "listedAt": "2026-11-22T16:45:12.111Z"
     },
     {
       "code": "LARISA10",
@@ -539,7 +540,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T16:43:24.561Z"
+      "listedAt": null
     },
     {
       "code": "SPRING35",
@@ -750,13 +751,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/edulge",
       "addedAt": "2026-11-10T09:00:21.533Z",
-      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-22T16:45:12.111Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T16:43:24.561Z"
+      "listedAt": "2026-11-22T16:45:12.111Z"
     },
     {
       "code": "SANA10",
@@ -1018,7 +1019,28 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T16:43:24.561Z"
+      "listedAt": null
+    },
+    {
+      "code": "CLARIS10",
+      "description": "Edulge: Save 10% using Discount Codes",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/edulge",
+      "addedAt": "2026-11-22T16:45:12.111Z",
+      "lastSeen": "2026-11-22T16:45:12.111Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T16:45:12.111Z"
     }
   ]
 }
