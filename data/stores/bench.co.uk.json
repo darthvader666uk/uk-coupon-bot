@@ -16,13 +16,13 @@
       ],
       "url": "https://www.coupert.com/store/bench.co.uk",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "SPOOKY45",
@@ -58,13 +58,13 @@
       ],
       "url": "https://www.coupert.com/store/bench.co.uk",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "SDA1LKPDQPQK",
@@ -100,13 +100,13 @@
       ],
       "url": "https://www.coupert.com/store/bench.co.uk",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "SD25STTZRXTB",
@@ -172,6 +172,94 @@
         "lastTested": null
       },
       "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Extra 10% Off 2+ Select Sale Items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bench.co.uk",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T00:00:00Z",
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "EXTRA15",
+      "description": "15% Off Men's Autumn Items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bench.co.uk",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-09-20T00:00:00Z",
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "DREW20",
+      "description": "Your Favorite Sale is Back, Enjoy 20% Off selected items",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bench.co.uk",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "SHIPFREE",
+      "description": "For Most Orders Placed On superdry.com, You Can Enjoy Free Delivery",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/bench.co.uk",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }

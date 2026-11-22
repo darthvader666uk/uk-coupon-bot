@@ -53,23 +53,26 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-12-10T23:59:59.000Z",
       "source": "caramel",
       "sources": [
         "caramel",
         "savoo",
         "coupert",
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://grabcaramel.com/coupons/vidaxl.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-20T18:21:27.037Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T18:21:27.037Z"
+      "listedAt": "2026-11-22T14:01:39.395Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-18T05:33:23.333Z"
     },
     {
       "code": "COZYNIGHTS",
@@ -129,13 +132,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/vidaxl-co-uk",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "SEPHOME20",

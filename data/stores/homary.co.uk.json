@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "BDS10",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "EAS10",
@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "HDF180",
@@ -85,7 +85,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "ORS15",
@@ -149,7 +149,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "HVSEP253",
@@ -350,28 +350,6 @@
       "listedAt": "2026-11-17T15:12:09.578Z"
     },
     {
-      "code": "SIMPLYCODES10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://homary.knoji.com/",
-      "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-17T15:12:09.578Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-17T15:12:09.578Z"
-    },
-    {
       "code": "APRIL10",
       "description": "",
       "type": "unknown",
@@ -458,6 +436,111 @@
       },
       "verified": false,
       "listedAt": "2026-11-17T15:12:09.578Z"
+    },
+    {
+      "code": "AL80",
+      "description": "£80 off orders over £999 at Homary",
+      "type": "fixed",
+      "value": 80,
+      "minSpend": 999,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/homary-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "AL50",
+      "description": "£50 off orders over £699 at Homary",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 699,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/homary-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "AL60",
+      "description": "£60 off orders over £799 at Homary",
+      "type": "fixed",
+      "value": 60,
+      "minSpend": 799,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/homary-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "A100",
+      "description": "£100 off orders over £1199 at Homary",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 1199,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/homary-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "ALL40",
+      "description": "£40 off orders over £499 at Homary",
+      "type": "fixed",
+      "value": 40,
+      "minSpend": 499,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/homary-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }

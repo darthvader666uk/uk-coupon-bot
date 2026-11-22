@@ -505,14 +505,14 @@
       ],
       "url": "https://electricshop.knoji.com/",
       "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "KNOCK20",
@@ -667,6 +667,69 @@
       },
       "verified": false,
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "SAVE20",
+      "description": "20% off Selected Product at Electricshop",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/electricshop-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "SAVE150",
+      "description": "£150 off Selected Products at Electricshop",
+      "type": "fixed",
+      "value": 150,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/electricshop-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "SAVE10",
+      "description": "10% off Selected Products at Electricshop",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/electricshop-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }

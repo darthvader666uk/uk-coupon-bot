@@ -38,15 +38,15 @@
       ],
       "url": "https://www.coupert.com/store/edinburghairport.com",
       "addedAt": "2026-11-06T13:48:54.663Z",
-      "lastSeen": "2026-11-09T14:41:34.419Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-22T00:00:00Z",
-      "listedAt": "2026-11-09T14:41:34.419Z"
+      "lastWorkedAt": "2026-11-20T00:00:00Z",
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "BLACKFRIDAY24",
@@ -68,6 +68,92 @@
         "lastTested": null
       },
       "listedAt": "2026-11-09T14:41:34.419Z"
+    },
+    {
+      "code": "SIGNUP10",
+      "description": "10% Off with New Membership",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/edinburghairport.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-01T00:00:00Z",
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "BF100",
+      "description": "£100 Off All Holidays",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/edinburghairport.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "BLACKFRIDAY26",
+      "description": "Edinburgh Airport Black Friday Promo Code: Up to 25% Off Lounge Access",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/edinburghairport.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "BF20",
+      "description": "20% Off Flight Bookings at Edinburgh Airport with Discount Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/edinburghairport.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }

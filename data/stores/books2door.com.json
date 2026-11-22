@@ -40,7 +40,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/books2door.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -48,7 +48,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T04:30:10.534Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "10PERCENT",
@@ -155,13 +155,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/books2door.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "ERIN10",
@@ -454,13 +454,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/books2door.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "SWATI10",
@@ -1041,17 +1041,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "caramel"
       ],
       "url": "https://www.wethrift.com/codes/books2door.com",
       "addedAt": "2026-11-21T17:22:36.565Z",
-      "lastSeen": "2026-11-21T17:22:36.565Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-21T17:22:36.565Z"
+      "listedAt": "2026-11-22T14:01:39.395Z"
     },
     {
       "code": "STEVIE10",
@@ -1136,6 +1137,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "LIANNE10",
+      "description": "10% Off (Storewide) at Books2Door",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/books2door.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }

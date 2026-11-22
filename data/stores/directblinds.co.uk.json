@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": null
     },
     {
       "code": "SAVE15",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": null
     },
     {
       "code": "SAVE10",
@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": null
     },
     {
       "code": "SAVE5",
@@ -85,7 +85,70 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": null
+    },
+    {
+      "code": "SAVE50",
+      "description": "Extra £50 off orders over £299 at Swift Direct Blinds",
+      "type": "fixed",
+      "value": 50,
+      "minSpend": 299,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/directblinds-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "BFDEAL",
+      "description": "Extra 15% off orders over £349 at Swift Direct Blinds",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 349,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/directblinds-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Pre-Black Friday Early Offer: Extra 10% off orders at Swift Direct Blinds",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/directblinds-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }

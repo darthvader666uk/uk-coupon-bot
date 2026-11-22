@@ -671,7 +671,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": null
     },
     {
       "code": "PHILIPS85",
@@ -947,7 +947,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": null
     },
     {
       "code": "ADVENT",
@@ -1914,6 +1914,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-21T17:22:36.565Z"
+    },
+    {
+      "code": "FREEDELIVERY",
+      "description": "Free Next Day Delivery when you Spend £30 on Selected Skincare at Boots - Today Only",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/boots-discount-codes",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }

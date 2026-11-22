@@ -33,17 +33,20 @@
       "expiry": null,
       "source": "caramel",
       "sources": [
-        "caramel"
+        "caramel",
+        "coupert"
       ],
       "url": "https://grabcaramel.com/coupons/shoezone.com",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-22T14:01:39.395Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-20T00:00:00Z"
     },
     {
       "code": "ENJOY2",
@@ -180,17 +183,20 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/shoezone.com",
       "addedAt": "2026-11-14T16:23:36.263Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T16:23:36.263Z"
+      "listedAt": "2026-11-22T14:01:39.395Z",
+      "verified": true,
+      "lastWorkedAt": "2026-09-04T00:00:00Z"
     },
     {
       "code": "FIVE2DAY",
@@ -233,6 +239,94 @@
         "lastTested": null
       },
       "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "SUPERHERO",
+      "description": "Free shipping with promo code",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shoezone.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2025-08-02T00:00:00Z",
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "AQ30REG",
+      "description": "Enjoy Free Next Day Delivery on Orders by Entering This Shoe Zone Promo Code",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shoezone.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "WELCOME",
+      "description": "Stay in the Loop with Special Offers - Subscribe to the Newsletter",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shoezone.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-08-05T00:00:00Z",
+      "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "BFNDAY",
+      "description": "Free Shipping Storewide at Shoe Zone",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/shoezone.com",
+      "addedAt": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-22T14:01:39.395Z"
     }
   ]
 }
