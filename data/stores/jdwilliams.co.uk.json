@@ -182,7 +182,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T17:49:54.508Z"
+      "listedAt": null
     },
     {
       "code": "15MOR",
@@ -203,7 +203,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T17:49:54.508Z"
+      "listedAt": null
     },
     {
       "code": "JDW30",
@@ -224,7 +224,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T17:49:54.508Z"
+      "listedAt": null
     },
     {
       "code": "VOUCHER10",
@@ -445,6 +445,48 @@
       "verified": true,
       "lastWorkedAt": "2026-11-17T10:54:24.861Z",
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "SAVE30",
+      "description": "Save 30% at JDWilliams with code SAVE30.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jdwilliams.co.uk",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "JETSET",
+      "description": "20% off fashion & home items",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jdwilliams.co.uk",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
     }
   ]
 }

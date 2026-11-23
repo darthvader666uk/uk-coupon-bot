@@ -58,17 +58,123 @@
       "expiry": "2026-11-15T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/jparkers.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "NIALL15",
+      "description": "15% off your entire order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jparkers.co.uk",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "FBSAVE5",
+      "description": "5% off your first purchase",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jparkers.co.uk",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "HELEN10",
+      "description": "Get an extra 10% off your order at jparkersbulbs with code HELEN10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jparkers.co.uk",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "BULB10",
+      "description": "10% off all bulbs",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jparkers.co.uk",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "JPBULB20",
+      "description": "Get 20% off bulbs at J. Parker's with code JPBULB20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/jparkers.co.uk",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
     }
   ]
 }

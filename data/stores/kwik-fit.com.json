@@ -629,14 +629,14 @@
       ],
       "url": "https://kwikfit.knoji.com/",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-23T22:04:47.386Z"
     },
     {
       "code": "GET15ACCY",
@@ -788,7 +788,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T17:49:54.508Z"
+      "listedAt": null
     },
     {
       "code": "WINTER",
@@ -809,7 +809,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T17:49:54.508Z"
+      "listedAt": null
     },
     {
       "code": "AT2645",
@@ -1082,6 +1082,153 @@
       },
       "verified": false,
       "listedAt": "2026-11-20T14:44:37.428Z"
+    },
+    {
+      "code": "CLEARVIEW10",
+      "description": "Save 10% online at Kwik Fit with code CLEARVIEW10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "DSTVDEALS",
+      "description": "Get 10% off everything at Kwik Fit with code DSTVDEALS.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "COUPONKID10",
+      "description": "Save 10% off everything at Kwik Fit with code COUPONKID10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "GRACEDEALS",
+      "description": "Get 10% off your online order at Kwik Fit with code GRACEDEALS.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "HANJULY",
+      "description": "10% off 2 Hankook Tyres",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "BRIDGEKF",
+      "description": "10% off 2 or more Bridgestone Tyres",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "SAVEPREM",
+      "description": "15% off 4 Premium Tyres",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kwik-fit.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
     }
   ]
 }

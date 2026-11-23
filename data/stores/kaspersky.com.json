@@ -683,6 +683,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "VPNROCIO",
+      "description": "Get 15% off Kaspersky VPN and Kaspersky Premium at Kaspersky with code VPNROCIO.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kaspersky.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "VPNJONYABDEL",
+      "description": "Get a discount on your order at Kaspersky with code VPNJONYABDEL.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/kaspersky.com",
+      "addedAt": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T22:04:47.386Z"
     }
   ]
 }
