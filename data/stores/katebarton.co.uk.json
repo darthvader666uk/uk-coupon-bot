@@ -33,17 +33,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/katebarton.co.uk",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-11T17:49:54.508Z",
+      "lastSeen": "2026-11-23T07:35:27.905Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T17:49:54.508Z"
+      "listedAt": "2026-11-23T07:35:27.905Z"
     },
     {
       "code": "SAVE25",
@@ -58,13 +59,34 @@
       ],
       "url": "https://uk.coupert.com/promo-code/katebarton-co-uk",
       "addedAt": "2026-11-11T15:56:39.426Z",
-      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-23T07:35:27.905Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T16:43:24.561Z"
+      "listedAt": "2026-11-23T07:35:27.905Z"
+    },
+    {
+      "code": "2WEEK15",
+      "description": "Kate Barton Black Friday Deal: Save with Discount Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/katebarton-co-uk",
+      "addedAt": "2026-11-23T07:35:27.905Z",
+      "lastSeen": "2026-11-23T07:35:27.905Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T07:35:27.905Z"
     }
   ]
 }
