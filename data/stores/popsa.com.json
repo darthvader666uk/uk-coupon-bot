@@ -12,17 +12,18 @@
       "expiry": "2026-11-15T23:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/popsa.app",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "FD2026",
@@ -33,17 +34,18 @@
       "expiry": "2027-01-22T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/popsa.app",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "FOODSTORIES50",
@@ -117,17 +119,20 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/popsa.com",
       "addedAt": "2026-11-14T16:23:36.263Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T16:23:36.263Z"
+      "listedAt": "2026-11-23T16:49:22.916Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T00:00:00Z"
     },
     {
       "code": "FLAKO50",
@@ -138,17 +143,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/popsa.com",
       "addedAt": "2026-11-14T16:23:36.263Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T16:23:36.263Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "ZSKG50",
@@ -474,17 +480,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/popsa.com",
       "addedAt": "2026-11-14T16:23:36.263Z",
-      "lastSeen": "2026-11-14T16:23:36.263Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T16:23:36.263Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "REF-WEARTHOK",
@@ -684,17 +691,442 @@
       "expiry": "2026-11-30T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/popsa.app",
       "addedAt": "2026-11-19T15:07:13.847Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-23T16:49:22.916Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z"
+    },
+    {
+      "code": "FOIL2026",
+      "description": "Free Foil Embossing with Purchase",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "WELCOME",
+      "description": "20% Welcome Discount on All Items",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-22T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "ESF2026",
+      "description": "50% Off Photo Books at Popsa US",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "MIDEADEIFE50",
+      "description": "Black Friday 50% Savings at popsa.com",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "ORN30",
+      "description": "30% Off Personalized Custom Ornaments",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "SUN2",
+      "description": "Savings Up To 60% Off At popsa.com",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "EGF2026",
+      "description": "Get 50% off photo calendars, ornaments, and prints at Popsa",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "LUCIABV50",
+      "description": "Save 50% Off With Free Shipping At popsa.com",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "LUNALEAF50",
+      "description": "Free Shipping and 50% Off on your order",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "NOELLEED50",
+      "description": "Shop and Get 50% Off Your Purchase",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "MARCIAB50",
+      "description": "Savings Up To 50% Off At popsa.com",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "LOURDESMIRA50",
+      "description": "Secure 50% off when you buy",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BENEUNYCE50",
+      "description": "Enjoy 50% off on your order",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "NEREAUGC50",
+      "description": "Save More with Free Shipping on Every Order",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "GOTHEAL50",
+      "description": "Place Your Order And Receive Free Shipping From popsa.com",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "SVICKY50",
+      "description": "Get 50% off your next order",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "YERETZDELA50",
+      "description": "Save 50% and Receive Free Shipping on Every Purchase",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "ACPOP24",
+      "description": "Free Shipping Code Now Available At Popsa",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "TWOHEARTS50",
+      "description": "Grab 50% Off with Free Delivery at popsa.com",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "JAN50",
+      "description": "Storewide — 50% OFF for members only on your purchase",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/popsa.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
     }
   ]
 }

@@ -33,17 +33,196 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/pooky.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-23T16:49:22.916Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z"
+    },
+    {
+      "code": "FIRST5",
+      "description": "Get 5% off your first order",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "WELCOME10",
+      "description": "10% Off Your First Purchase When You Subscribe",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "EARLYBIRD20",
+      "description": "20% Off Pooky Orders",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "EARLYBIRD15",
+      "description": "15% Off All Orders",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-11T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "FREESHIPPOOKY",
+      "description": "When You Shop At Pooky, Everything Ships For Free",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-17T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "FREEDEL",
+      "description": "Happy Shopping At Pooky With This Free Delivery Offer",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "POOKYLIGHTING",
+      "description": "Claim 10% Off With Blue Light Card Discount",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "POOKYPAIRS",
+      "description": "Score 5% Off Student Discount",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pooky.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
     }
   ]
 }

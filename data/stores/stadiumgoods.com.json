@@ -104,14 +104,14 @@
       ],
       "url": "https://stadiumgoods.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "NEWSLETTER5OFF",
@@ -126,14 +126,14 @@
       ],
       "url": "https://stadiumgoods.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "AF15FTSHP",
@@ -148,14 +148,14 @@
       ],
       "url": "https://stadiumgoods.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "GIVEATRY",
@@ -177,7 +177,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": null
     },
     {
       "code": "TEXT20",
@@ -199,7 +199,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": null
     },
     {
       "code": "WATER11",
@@ -307,14 +307,14 @@
       ],
       "url": "https://stadiumgoods.knoji.com/",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "DEMAND",
@@ -329,14 +329,14 @@
       ],
       "url": "https://stadiumgoods.knoji.com/",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "CYBER15",
@@ -444,7 +444,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-12T14:26:09.672Z"
+      "listedAt": null
     },
     {
       "code": "VIP10",
@@ -497,17 +497,19 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "knoji"
       ],
       "url": "https://www.coupert.com/store/stadiumgoods.com",
       "addedAt": "2026-11-15T13:21:02.946Z",
-      "lastSeen": "2026-11-15T13:21:02.946Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-15T13:21:02.946Z"
+      "listedAt": "2026-11-23T16:49:22.916Z",
+      "verified": false
     },
     {
       "code": "SAVE10",
@@ -571,6 +573,72 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "FREE10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://stadiumgoods.knoji.com/",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "FREESHIP20",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://stadiumgoods.knoji.com/",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "AFFIRM10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://stadiumgoods.knoji.com/",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-23T16:49:22.916Z"
     }
   ]
 }

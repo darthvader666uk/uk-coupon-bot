@@ -12,17 +12,20 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/spacegoods.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": "2026-11-23T16:49:22.916Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z"
     },
     {
       "code": "HELLO10",
@@ -37,13 +40,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/spacegoods.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "AUTUMN29859",
@@ -243,17 +246,20 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/spacegoods.com",
       "addedAt": "2026-11-22T17:43:06.620Z",
-      "lastSeen": "2026-11-22T17:43:06.620Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T17:43:06.620Z"
+      "listedAt": "2026-11-23T16:49:22.916Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z"
     },
     {
       "code": "GEORGIE",
@@ -317,6 +323,590 @@
         "lastTested": null
       },
       "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "OFFER30",
+      "description": "30% Off at Spacegoods US",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BF10",
+      "description": "Extra 10% Off Black Friday Sale",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "MOVEMENT20",
+      "description": "20% Off at Spacegoods US",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "ACCOUNT-CREDIT",
+      "description": "Shop now and save 25% off all items at Space Goods",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "HAMZA90382",
+      "description": "Enjoy 20% Off at Spacegoods",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "ADDICTED",
+      "description": "20% Off at Spacegoods US",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "WELCOME29720",
+      "description": "50% Off Storewide at Spacegoods US",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-19T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "TAKE10",
+      "description": "10% Off at Spacegoods",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "JOANN95780",
+      "description": "Save Up to 20% on Your Spacegoods Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "WELCOME99362",
+      "description": "20% Off Your First Order with Newsletter Signup",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "PARAKEETS26740",
+      "description": "20% Off at Spacegoods with Coupon",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "PAYDAY20",
+      "description": "20% Off at Spacegoods",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "JIMMY32441",
+      "description": "Get 20% Off with Spacegoods Coupon Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "MUHAMMAD72081",
+      "description": "Take 20% Off with Spacegoods Coupon",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRANDS84218",
+      "description": "Take up to 20% Off Your Purchase Today",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "SHOPOB33765",
+      "description": "20% Off on Your Spacegoods Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "OPTOJECTO00630",
+      "description": "Enjoy 20% Off on Your Order Now",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "SHAZLENE52300",
+      "description": "Spacegoods Promo Code: 20% Off Your Entire Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "HASSAN13615",
+      "description": "Grab Up to 20% Off on Your Orders at Spacegoods",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRADLEY01211",
+      "description": "🔥 BLACK FRIDAY MEGA SALE! 🖤 Get 90% OFF Limited-Time Offers! Grab Yours Now",
+      "type": "percentage",
+      "value": 90,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRADLEY10986",
+      "description": "🔥 BLACK FRIDAY MEGA SALE! 🖤 Get 90% OFF Limited-Time Offers! Grab Yours Now",
+      "type": "percentage",
+      "value": 90,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRADLEY08845",
+      "description": "🔥 BLACK FRIDAY MEGA SALE! 🖤 Get 90% OFF Limited-Time Offers! Grab Yours Now",
+      "type": "percentage",
+      "value": 90,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRADLEY13198",
+      "description": "🔥 BLACK FRIDAY MEGA SALE! 🖤 Get 90% OFF Limited-Time Offers! Grab Yours Now",
+      "type": "percentage",
+      "value": 90,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRADLEY70434",
+      "description": "🔥 BLACK FRIDAY MEGA SALE! 🖤 Get 90% OFF Limited-Time Offers! Grab Yours Now",
+      "type": "percentage",
+      "value": 90,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRADLEY58045",
+      "description": "🔥 BLACK FRIDAY MEGA SALE! 🖤 Get 90% OFF Limited-Time Offers! Grab Yours Now",
+      "type": "percentage",
+      "value": 90,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BRADLEY94319",
+      "description": "🔥 BLACK FRIDAY MEGA SALE! 🖤 Get 90% OFF Limited-Time Offers! Grab Yours Now",
+      "type": "percentage",
+      "value": 90,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/spacegoods.com",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-23T16:49:22.916Z"
     }
   ]
 }

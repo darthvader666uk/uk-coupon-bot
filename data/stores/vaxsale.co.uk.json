@@ -60,13 +60,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/vaxsale.co.uk",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
       "code": "BF10",
@@ -89,7 +89,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-19T18:16:22.976Z",
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": null
     },
     {
       "code": "BFOFFER",
@@ -113,6 +113,29 @@
       "verified": true,
       "lastWorkedAt": "2026-11-16T03:36:00.909Z",
       "listedAt": null
+    },
+    {
+      "code": "LIFT90",
+      "description": "Use the Vax discount code to get £90 off on the Liftout Reach Pet this Black Friday",
+      "type": "fixed",
+      "value": 90,
+      "minSpend": null,
+      "expiry": "2026-11-25T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/vaxsale.co.uk",
+      "addedAt": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T03:43:39.173Z",
+      "listedAt": "2026-11-23T16:49:22.916Z"
     }
   ]
 }
