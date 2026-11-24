@@ -40,15 +40,15 @@
       ],
       "url": "https://evans.knoji.com/",
       "addedAt": "2026-09-25T10:47:14.050Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-05T11:59:23.463Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "lastWorkedAt": "2026-11-24T04:27:59.508Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "EVPARTY20",
@@ -527,15 +527,38 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/evans.co.uk",
       "addedAt": "2026-11-20T14:44:37.428Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-20T07:24:28.358Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "lastWorkedAt": "2026-11-20T13:34:34.039Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "EVAPP5",
+      "description": "Black Friday Sale: get an extra £5 off your app order with this Evans code",
+      "type": "fixed",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-12-08T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/evans.co.uk",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T12:54:30.081Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
     }
   ]
 }

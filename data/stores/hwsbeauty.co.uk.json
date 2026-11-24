@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z",
+      "listedAt": null,
       "verified": true,
       "lastWorkedAt": "2026-11-19T11:33:30.258Z"
     },
@@ -39,13 +39,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/hwsbeauty.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z",
+      "listedAt": "2026-11-24T16:33:07.720Z",
       "verified": true,
       "lastWorkedAt": "2026-11-17T11:01:15.201Z"
     },
@@ -63,13 +63,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/hwsbeauty.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T22:04:47.386Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "VIP22",
@@ -127,13 +127,13 @@
       ],
       "url": "https://www.wethrift.com/codes/hwsbeauty.co.uk",
       "addedAt": "2026-11-12T18:07:21.916Z",
-      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T22:04:47.386Z",
+      "listedAt": "2026-11-24T16:33:07.720Z",
       "verified": true,
       "lastWorkedAt": "2026-11-16T07:43:04.502Z"
     },
@@ -234,7 +234,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/hwsbeauty.co.uk",
       "addedAt": "2026-11-19T15:07:13.847Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -242,7 +242,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-17T11:01:15.201Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "BLK30",
@@ -250,20 +250,23 @@
       "type": "percentage",
       "value": 40,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-12-01T23:59:59.000Z",
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/hwsbeauty.co.uk",
       "addedAt": "2026-11-23T22:04:47.386Z",
-      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T22:04:47.386Z"
+      "listedAt": "2026-11-24T16:33:07.720Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T12:03:15.043Z"
     }
   ]
 }

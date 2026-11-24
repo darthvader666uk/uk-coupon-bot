@@ -62,7 +62,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/funkypigeon.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -70,7 +70,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T17:01:14.626Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "FUNKYCARD",
@@ -345,7 +345,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/funkypigeon.com",
       "addedAt": "2026-11-16T14:24:39.411Z",
-      "lastSeen": "2026-11-20T14:44:37.428Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -353,7 +353,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T10:45:40.072Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "SAVE20",
@@ -376,7 +376,53 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T16:53:51.112Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": null
+    },
+    {
+      "code": "TWO30",
+      "description": "Enjoy 30% off when you buy 2 or more cards",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/funkypigeon.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T11:33:16.490Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "FUNKYFRI",
+      "description": "Enjoy 30% off cards and selected personalised gifts with this Funky Pigeon discount code",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/funkypigeon.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T12:30:43.311Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
     }
   ]
 }

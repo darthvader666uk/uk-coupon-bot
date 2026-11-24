@@ -151,6 +151,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-19T18:57:17.354Z"
+    },
+    {
+      "code": "BLACK10",
+      "description": "Save an extra 10% on top of 40% off everything in the Black Friday sale",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": "2026-12-08T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/flooringsuperstore.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T11:56:48.387Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
     }
   ]
 }

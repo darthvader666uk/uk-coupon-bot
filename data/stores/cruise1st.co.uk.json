@@ -4,27 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "MSCEXTRA",
-      "description": "Extra 2% Off MSC Cruises Bookings",
-      "type": "percentage",
-      "value": 2,
-      "minSpend": null,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert"
-      ],
-      "url": "https://www.coupert.com/store/cruise1st.co.uk",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "listedAt": "2026-10-25T10:33:12.100Z"
-    },
-    {
       "code": "CUNARD5",
       "description": "10% off on 2027 and 2028 voyages",
       "type": "percentage",
@@ -58,14 +37,14 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "O8S",
@@ -80,14 +59,14 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-10-01T12:27:25.583Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "3464GGH",
@@ -109,7 +88,7 @@
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "J4D26",
@@ -146,14 +125,14 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "LOYALTY5",
@@ -190,14 +169,14 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "FF20",
@@ -233,14 +212,14 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
     },
     {
       "code": "MAY20",
@@ -255,14 +234,36 @@
       ],
       "url": "https://cruise1st.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "EXTRA150",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://cruise1st.knoji.com/",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-24T16:33:07.720Z"
     }
   ]
 }

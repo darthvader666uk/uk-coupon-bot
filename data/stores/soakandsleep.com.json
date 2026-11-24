@@ -385,31 +385,6 @@
       "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
-      "code": "HIB25",
-      "description": "25% Off Orders Over £250",
-      "type": "percentage",
-      "value": 25,
-      "minSpend": 250,
-      "expiry": null,
-      "source": "coupert",
-      "sources": [
-        "coupert",
-        "savoo",
-        "knoji"
-      ],
-      "url": "https://www.coupert.com/store/soakandsleep.com",
-      "addedAt": "2026-09-28T12:17:26.677Z",
-      "lastSeen": "2026-10-25T10:33:12.100Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-10-01T00:00:00Z",
-      "listedAt": "2026-10-25T10:33:12.100Z"
-    },
-    {
       "code": "DD20",
       "description": "20% Off Final Weekend Sale",
       "type": "percentage",

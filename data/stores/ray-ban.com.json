@@ -12,19 +12,453 @@
       "expiry": "2026-11-23T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "coupert"
       ],
       "url": "https://www.hotukdeals.com/vouchers/ray-ban.com",
       "addedAt": "2026-11-22T14:01:39.395Z",
-      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-20T10:01:46.926Z",
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "WLC-NL1026-US",
+      "description": "Black Friday! 10% Off Sitewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "EXTRA20",
+      "description": "Black Friday Weekend: Enjoy Extra 20% Off Selected Styles + Free Shipping",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "WLC-NL1126-US",
+      "description": "Extra 10% Off Sitewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "15OFFRB1026",
+      "description": "15% Off Your Next Order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "HYM14",
+      "description": "Discounts Available on a Diverse Range of Options",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "RBSPECIAL",
+      "description": "55% Off Erika Classic Black Sun Glasses at Ray-Ban",
+      "type": "percentage",
+      "value": 55,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "BE25-9AYFNF",
+      "description": "Grab Up to 25% Off on Your Orders at Ray-Ban",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "BE-10-719-DEAVRIP",
+      "description": "Enjoy 10% Off on Your Order Now",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "AFF-EA23-11",
+      "description": "Your order comes with extra savings",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "YUSUF31",
+      "description": "Discounts are available on quality products",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "QOLAR60",
+      "description": "Save 60% at Ray-Ban Today",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "OL-EA35-11",
+      "description": "Get 35% Off Everything at Ray-Ban",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "XL-VT-21-LP5PE",
+      "description": "Enjoy 5% Off Ray-Ban Coupon Code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "LENSESDEAL40",
+      "description": "Black Friday: 40% Off Your Order",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "ANNIVERSARY-NOV26US",
+      "description": "Great Savings with Ray-Ban Coupon Code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "BUTHEOTIC51",
+      "description": "Current savings are unlocked for your shopping",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "RB2140",
+      "description": "Slash prices on your favorite products",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "SOCIAL12",
+      "description": "Enjoy 12% Off Your Orders",
+      "type": "percentage",
+      "value": 12,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "GOFRENZY10",
+      "description": "Save 20% Plus An Extra 10% Off And Enjoy Free Shipping",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/ray-ban.com",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-09T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
     }
   ]
 }

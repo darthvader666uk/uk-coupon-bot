@@ -1,0 +1,51 @@
+{
+  "domain": "vapegala.co.uk",
+  "name": "vapegala.co.uk",
+  "category": "general",
+  "codes": [
+    {
+      "code": "WELCOME10",
+      "description": "10% off your order for new customers",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vapegala.co.uk",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-21T00:00:00Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "EARLY40",
+      "description": "Up to 50% off your order",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/vapegala.co.uk",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    }
+  ]
+}

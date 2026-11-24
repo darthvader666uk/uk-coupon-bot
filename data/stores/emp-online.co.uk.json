@@ -24,7 +24,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T03:48:51.824Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": null
     },
     {
       "code": "BW20",
@@ -47,7 +47,76 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-15T19:09:46.506Z",
-      "listedAt": "2026-11-20T14:44:37.428Z"
+      "listedAt": null
+    },
+    {
+      "code": "BSCBLACK25",
+      "description": "25% off orders with membership",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/emp-online.co.uk",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-21T07:10:18.877Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "BLACK20",
+      "description": "20% off when you spend £49.99 or more",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 49.99,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/emp-online.co.uk",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-21T06:34:24.494Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "EMP17UKDEALS1126",
+      "description": "Save 17% on black price on band-merch with this exclusive EMP discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/emp-online.co.uk",
+      "addedAt": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-20T11:20:47.232Z",
+      "listedAt": "2026-11-24T16:33:07.720Z"
     }
   ]
 }
