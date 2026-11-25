@@ -33,17 +33,60 @@
       "expiry": "2026-12-31T00:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/millerandcarter.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "EXTRASUN26",
+      "description": "£15 off every £150 gift card",
+      "type": "fixed",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/millerandcarter.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "MILLERBIRTHDAY20",
+      "description": "Get 20% off stays at Miller & Carter with code MILLERBIRTHDAY20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/millerandcarter.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
     }
   ]
 }

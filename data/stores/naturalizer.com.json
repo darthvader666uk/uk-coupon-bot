@@ -93,14 +93,14 @@
       ],
       "url": "https://naturalizer.knoji.com/",
       "addedAt": "2026-09-11T10:20:57.737Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "LASTCALL",
@@ -368,7 +368,7 @@
       ],
       "url": "https://naturalizer.knoji.com/",
       "addedAt": "2026-09-13T10:56:39.229Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -376,7 +376,7 @@
       },
       "verified": false,
       "lastWorkedAt": "2026-08-20T00:00:00Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "FFSUMMER26",
@@ -459,11 +459,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://naturalizer.knoji.com/",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -471,7 +472,7 @@
       },
       "verified": false,
       "lastWorkedAt": "2026-08-29T00:00:00Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "SEYI10",
@@ -1283,11 +1284,12 @@
       "source": "coupert",
       "sources": [
         "coupert",
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/naturalizer.com",
       "addedAt": "2026-10-30T12:02:27.438Z",
-      "lastSeen": "2026-11-11T13:17:03.137Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1295,7 +1297,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-29T00:00:00Z",
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "FREEERPLEMAA50",
@@ -1490,13 +1492,13 @@
       ],
       "url": "https://www.wethrift.com/codes/naturalizer.com",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T08:20:16.325Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "CELEBRATE",
@@ -1508,11 +1510,12 @@
       "source": "knoji",
       "sources": [
         "knoji",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://naturalizer.knoji.com/",
       "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-16T14:24:39.411Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1520,7 +1523,7 @@
       },
       "verified": false,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-11T13:17:03.137Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "WELB8BNZX7",
@@ -1685,18 +1688,40 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://naturalizer.knoji.com/",
       "addedAt": "2026-11-23T16:49:22.916Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "MONDAY35",
+      "description": "Take 35% off at Naturalizer with code MONDAY35.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/naturalizer.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
     }
   ]
 }

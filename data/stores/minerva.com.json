@@ -127,17 +127,18 @@
       "expiry": "2027-03-30T22:59:00.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/minerva.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "MINERVA",
@@ -169,11 +170,12 @@
       "expiry": "2026-11-23T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/minerva.com",
       "addedAt": "2026-11-19T15:07:13.847Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -181,7 +183,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-18T03:34:15.756Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "PATTERNSTYLE",
@@ -192,11 +194,12 @@
       "expiry": "2026-11-24T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/minerva.com",
       "addedAt": "2026-11-19T15:07:13.847Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -204,7 +207,469 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-17T07:11:31.893Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "BLACKMAGIC",
+      "description": "Save up to 20% on fabric at Minerva with code BLACKMAGIC.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "BLACKROSE",
+      "description": "Save up to 50% on end-of-line Rose & Hubble cotton poplin at Minerva with code BLACKROSE.",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "LITTLEJOHN",
+      "description": "Save up to 50% on John Kaldor fabrics at Minerva with code LITTLEJOHN.",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "STARSTERRANCE",
+      "description": "Save 10% at Minerva with code STARSTERRANCE.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "STARSAMBER",
+      "description": "Save on your order at Minerva with code STARSAMBER.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "SUITED",
+      "description": "Save 30% off all last chance suiting fabrics at Minerva with code SUITED, or 40% off for Minerva Craft Club members.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "LADYMC",
+      "description": "Save up to 50% on Lady McElroy fabrics at Minerva with code LADYMC.",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "SEWSNUGGLY",
+      "description": "Save up to 40% on last chance fleece fabrics at Minerva with code SEWSNUGGLY.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "COATSEASON",
+      "description": "Save up to 40% on last chance coating fabrics at Minerva with code COATSEASON.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "NOW3FOR2",
+      "description": "Get 3 for 2 on Now and Then Patterns at Minerva with code NOW3FOR2.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "ROLLEND",
+      "description": "Save up to 40% on last chance deadstock fabrics at Minerva with code ROLLEND.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "RHPAPLIN",
+      "description": "Save 30% off all Rose and Hubble cotton poplin at Minerva with code RHPAPLIN; Craft Club members save 40%.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "NEWSEASON",
+      "description": "Save up to 40% on end-of-line autumn/winter fabrics at Minerva with code NEWSEASON; Craft Club members save 40%.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "RIBFABRIC",
+      "description": "Save 10% off all rib fabrics at Minerva with code RIBFABRIC, or 20% off for Craft Club members.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "RHPOPLIN",
+      "description": "Save up to 40% off all Rose and Hubble cotton poplin at Minerva with code RHPOPLIN.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "MEP241",
+      "description": "Get one Exclusive Pattern free with the purchase of another at Minerva with code MEP241.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "KNITFALL",
+      "description": "Save up to 40% off end-of-line knit fabrics at Minerva with code KNITFALL.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "CHECKEDIT",
+      "description": "Save 10% off all check fabrics at Minerva with code CHECKEDIT; Craft Club members save 20%.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "MONDAYMADNESS",
+      "description": "Save up to 40% on end-of-line fabrics at Minerva with code MONDAYMADNESS; Craft Club members save 40%.",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "DRAPING",
+      "description": "Save up to 20% off all dress forms at Minerva with code DRAPING.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "ITSASNLP",
+      "description": "Get a free pair of Fiskars General Purpose Scissors when you spend £75 at Minerva with code ITSASNLP.",
+      "type": "fixed",
+      "value": 75,
+      "minSpend": 75,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "PONTEPARTY",
+      "description": "10% off Ponte Roma fabric",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/minerva.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
     }
   ]
 }

@@ -559,13 +559,13 @@
       ],
       "url": "https://www.wethrift.com/codes/net-a-porter.com",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T08:20:16.325Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "SECURE",
@@ -580,13 +580,13 @@
       ],
       "url": "https://www.wethrift.com/codes/net-a-porter.com",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T08:20:16.325Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "FIRSF10",
@@ -601,13 +601,13 @@
       ],
       "url": "https://www.wethrift.com/codes/net-a-porter.com",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T08:20:16.325Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "FIX15",
@@ -622,13 +622,13 @@
       ],
       "url": "https://www.wethrift.com/codes/net-a-porter.com",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T08:20:16.325Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "EXCLUSIVE30",
@@ -643,13 +643,13 @@
       ],
       "url": "https://www.wethrift.com/codes/net-a-porter.com",
       "addedAt": "2026-11-08T16:39:08.387Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T08:20:16.325Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "SORRY10",
@@ -664,13 +664,13 @@
       ],
       "url": "https://www.wethrift.com/codes/net-a-porter.com",
       "addedAt": "2026-11-11T08:20:16.325Z",
-      "lastSeen": "2026-11-11T08:20:16.325Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-11T08:20:16.325Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "APP10",
@@ -728,18 +728,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://netaporter.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "WELCOME10-HEOU-T3OM-LQ4V-SLKV",
@@ -831,25 +832,26 @@
     },
     {
       "code": "EXTRA10",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Take an additional 10% off everything at Net-a-Porter with code EXTRA10.",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://netaporter.knoji.com/",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "SURPRISE25",
@@ -982,6 +984,69 @@
       },
       "verified": false,
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "FLASH20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/net-a-porter.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "APAC15",
+      "description": "15% off full price and markdown items",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/net-a-porter.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "APP15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/net-a-porter.com",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
     }
   ]
 }

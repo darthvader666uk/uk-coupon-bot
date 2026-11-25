@@ -12,38 +12,208 @@
       "expiry": "2026-12-01T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/miele.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
     },
     {
       "code": "BFWK326",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Get an extra 10% off vacuum bags, filters, and floorheads at Miele with code BFWK326.",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": "2026-11-22T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/miele.co.uk",
       "addedAt": "2026-11-19T15:07:13.847Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "GUARDBF26",
+      "description": "Get the Guard L1 in Nordic Blue for £149 at Miele with code GUARDBF26.",
+      "type": "fixed",
+      "value": 149,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "BFWK226",
+      "description": "Get an extra 10% off Miele dishwasher cleaning products, already reduced by 20%, with code BFWK226.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "BFWK126",
+      "description": "Get an extra 10% off all laundry cleaning products at Miele with code BFWK126.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "BFPRE26",
+      "description": "Save up to £6001 on selected appliances at Miele with code BFPRE26, plus free shipping.",
+      "type": "fixed",
+      "value": 6001,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "ACPRE26",
+      "description": "Save 30% on all cleaning products and accessories at Miele with code ACPRE26.",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "VAC30",
+      "description": "Save an extra £30 off selected vacuum cleaners at Miele with code VAC30.",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "DISH2026",
+      "description": "Save 20% on all dishwasher detergents at Miele with code DISH2026.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "SHIPFREE",
+      "description": "Free delivery for selected laundry appliances",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/miele.co.uk",
+      "addedAt": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T07:26:47.666Z"
     }
   ]
 }
