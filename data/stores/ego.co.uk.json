@@ -517,17 +517,18 @@
       "expiry": "2026-11-13T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/ego.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-12T14:26:09.672Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-25T19:56:11.480Z"
     },
     {
       "code": "WORTHIT",
@@ -538,17 +539,18 @@
       "expiry": "2026-11-25T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/ego.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T16:33:07.720Z",
+      "listedAt": "2026-11-25T19:56:11.480Z",
       "verified": true,
       "lastWorkedAt": "2026-11-13T01:41:59.814Z"
     },
@@ -660,6 +662,153 @@
       },
       "verified": false,
       "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "JASS35",
+      "description": "Get 35% off at EGO FASHION with code JASS35.",
+      "type": "percentage",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ego.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
+    },
+    {
+      "code": "INBLOOM",
+      "description": "30% off sitewide",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ego.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
+    },
+    {
+      "code": "NEVE25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ego.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
+    },
+    {
+      "code": "ALIYAH30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ego.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
+    },
+    {
+      "code": "GEORGIA25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ego.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
+    },
+    {
+      "code": "RHI25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ego.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
+    },
+    {
+      "code": "CHARLOTTE25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/ego.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
     }
   ]
 }

@@ -35,18 +35,19 @@
       "sources": [
         "caramel",
         "knoji",
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://grabcaramel.com/coupons/eflorist.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-25T19:56:11.480Z"
     },
     {
       "code": "AUKCEPO",
@@ -899,6 +900,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "EFLE9",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/eflorist.co.uk",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
     }
   ]
 }

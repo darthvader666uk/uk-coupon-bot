@@ -14,11 +14,12 @@
       "sources": [
         "hukd",
         "caramel",
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/eurocarparts.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -26,7 +27,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-22T00:00:00Z",
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-25T19:56:11.480Z"
     },
     {
       "code": "SAVE30",
@@ -43,7 +44,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/eurocarparts.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -51,7 +52,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T11:37:11.412Z",
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-25T19:56:11.480Z"
     },
     {
       "code": "SAVE25",
@@ -66,13 +67,13 @@
       ],
       "url": "https://www.wethrift.com/codes/eurocarparts.com",
       "addedAt": "2026-11-19T18:57:17.354Z",
-      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": "2026-11-25T19:56:11.480Z"
     },
     {
       "code": "PAYDAY30",
@@ -87,13 +88,13 @@
       ],
       "url": "https://www.wethrift.com/codes/eurocarparts.com",
       "addedAt": "2026-11-19T18:57:17.354Z",
-      "lastSeen": "2026-11-19T18:57:17.354Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": "2026-11-25T19:56:11.480Z"
     },
     {
       "code": "BRAKE30",
@@ -114,7 +115,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": null
     },
     {
       "code": "PAYDAY20",
@@ -135,7 +136,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T18:57:17.354Z"
+      "listedAt": null
     },
     {
       "code": "BF30",
@@ -182,6 +183,48 @@
       "verified": true,
       "lastWorkedAt": "2026-11-10T00:00:00Z",
       "listedAt": "2026-11-22T14:01:39.395Z"
+    },
+    {
+      "code": "PAYDAYAFF31",
+      "description": "31% off car parts",
+      "type": "percentage",
+      "value": 31,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/eurocarparts.com",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
+    },
+    {
+      "code": "SALE30",
+      "description": "30% off £30 spend",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/eurocarparts.com",
+      "addedAt": "2026-11-25T19:56:11.480Z",
+      "lastSeen": "2026-11-25T19:56:11.480Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T19:56:11.480Z"
     }
   ]
 }
