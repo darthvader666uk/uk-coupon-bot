@@ -48,7 +48,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-02T00:00:00Z",
-      "listedAt": "2026-11-23T19:50:20.865Z"
+      "listedAt": null
     },
     {
       "code": "STEAMEDBUNS",
@@ -163,7 +163,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T19:50:20.865Z"
+      "listedAt": null
     },
     {
       "code": "W10NFZ7K9Q9",
@@ -267,13 +267,13 @@
       ],
       "url": "https://www.coupert.com/store/qwertee.com",
       "addedAt": "2026-10-05T13:09:57.832Z",
-      "lastSeen": "2026-11-23T19:50:20.865Z",
+      "lastSeen": "2026-11-25T18:31:33.575Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T19:50:20.865Z"
+      "listedAt": "2026-11-25T18:31:33.575Z"
     },
     {
       "code": "CONTINUOUSDELIVERY",
@@ -617,13 +617,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/qwertee-com",
       "addedAt": "2026-11-13T08:07:32.444Z",
-      "lastSeen": "2026-11-23T19:50:20.865Z",
+      "lastSeen": "2026-11-25T18:31:33.575Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T19:50:20.865Z"
+      "listedAt": "2026-11-25T18:31:33.575Z"
     },
     {
       "code": "FL6B84YY2ZTKD",
@@ -878,7 +878,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T19:50:20.865Z"
+      "listedAt": null
     },
     {
       "code": "D6TRKHD6T2CC9",
@@ -986,7 +986,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T19:50:20.865Z"
+      "listedAt": null
+    },
+    {
+      "code": "58STXG14NE4CA",
+      "description": "Enjoy a discount at qwertee.com",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qwertee-com",
+      "addedAt": "2026-11-25T18:31:33.575Z",
+      "lastSeen": "2026-11-25T18:31:33.575Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T18:31:33.575Z"
+    },
+    {
+      "code": "56RGU5RK8V9D3",
+      "description": "Shop smartly with 5% off on chosen products",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/qwertee-com",
+      "addedAt": "2026-11-25T18:31:33.575Z",
+      "lastSeen": "2026-11-25T18:31:33.575Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T18:31:33.575Z"
     }
   ]
 }
