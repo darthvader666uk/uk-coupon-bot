@@ -1,0 +1,30 @@
+{
+  "domain": "uk.farnell.com",
+  "name": "Farnell",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BFNOV10GB",
+      "description": "Save 10% on online orders over £200 with this Black Friday Farnell discount code",
+      "type": "fixed",
+      "value": 200,
+      "minSpend": 200,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/uk.farnell.com",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T11:44:12.658Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    }
+  ]
+}

@@ -107,6 +107,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "TOBYGIFT",
+      "description": "Get 20% off on gift cards with minimum spend of £30 using Toby Carvery discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 30,
+      "expiry": "2026-12-31T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/toby-carvery.co.uk",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

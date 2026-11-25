@@ -597,50 +597,6 @@
       },
       "verified": false,
       "listedAt": null
-    },
-    {
-      "code": "SALE10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://trekitt.knoji.com/",
-      "addedAt": "2026-11-24T16:33:07.720Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-11-24T16:33:07.720Z"
-    },
-    {
-      "code": "SAVE10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://trekitt.knoji.com/",
-      "addedAt": "2026-11-24T16:33:07.720Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": "2026-11-24T16:33:07.720Z"
     }
   ]
 }

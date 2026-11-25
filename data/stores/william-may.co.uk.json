@@ -737,6 +737,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-20T14:44:37.428Z"
+    },
+    {
+      "code": "BLACK5DAY",
+      "description": "Get an extra 5% off sale when you use this William May discount code",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/william-may.co.uk",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

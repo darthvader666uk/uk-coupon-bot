@@ -331,7 +331,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-06T13:48:54.663Z"
+      "listedAt": null
     },
     {
       "code": "ECV1F30UC26",
@@ -706,6 +706,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "WINTER",
+      "description": "10% off Winterwear at Kitlocker",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/kitlocker-discount-codes",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "KINDNESS",
+      "description": "Black Friday: Free Delivery at Kitlocker",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/kitlocker-discount-codes",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

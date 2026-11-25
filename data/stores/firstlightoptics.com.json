@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": null
     },
     {
       "code": "ASKMEOFFERS",
@@ -37,7 +37,7 @@
       ],
       "url": "https://www.coupert.com/store/firstlightoptics.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-22T16:45:12.111Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -45,7 +45,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-09T00:00:00Z",
-      "listedAt": "2026-11-22T16:45:12.111Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "CLEARANCE5",
@@ -60,15 +60,38 @@
       ],
       "url": "https://www.coupert.com/store/firstlightoptics.com",
       "addedAt": "2026-11-13T13:56:08.358Z",
-      "lastSeen": "2026-11-22T16:45:12.111Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T16:45:12.111Z",
+      "listedAt": "2026-11-25T16:23:21.938Z",
       "verified": true,
       "lastWorkedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "code": "EXTRA10",
+      "description": "Black Friday: 10% Off at First Light Optics",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/firstlightoptics.com",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

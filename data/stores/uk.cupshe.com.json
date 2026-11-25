@@ -214,6 +214,29 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "AZ79",
+      "description": "Black Friday Warm-Up: get an extra 10% off when you spend £79+ with this Cupshe code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 79,
+      "expiry": "2026-12-08T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/uk.cupshe.com",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T12:23:15.871Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

@@ -12,11 +12,12 @@
       "expiry": "2026-11-15T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "knoji"
       ],
       "url": "https://www.hotukdeals.com/vouchers/mitre.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-13T13:56:08.358Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -24,7 +25,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-03T10:53:05.871Z",
-      "listedAt": null
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "VOUCHER20",
@@ -35,11 +36,12 @@
       "expiry": "2026-11-17T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "knoji"
       ],
       "url": "https://www.hotukdeals.com/vouchers/mitre.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -47,7 +49,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-11T09:51:36.367Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "CRE63654",
@@ -82,17 +84,19 @@
       "source": "hukd",
       "sources": [
         "hukd",
-        "wethrift"
+        "wethrift",
+        "knoji"
       ],
       "url": "https://www.hotukdeals.com/vouchers/mitre.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:26:47.666Z"
+      "listedAt": "2026-11-25T16:23:21.938Z",
+      "verified": true
     },
     {
       "code": "FREESHIP",
@@ -103,17 +107,437 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "knoji"
       ],
       "url": "https://www.hotukdeals.com/vouchers/mitre.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-25T16:23:21.938Z",
+      "verified": true
+    },
+    {
+      "code": "ATOLLS20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "BKF6PEN20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "PENT26AMUMTR",
+      "description": "Free shipping",
+      "type": "free_shipping",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "EOSS10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "MITREDROP",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "ULTIMATCH",
+      "description": "40% off",
+      "type": "percentage",
+      "value": 40,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "MTRXFP18",
+      "description": "18% off",
+      "type": "percentage",
+      "value": 18,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "MTRCRM30",
+      "description": "30% off",
+      "type": "percentage",
+      "value": 30,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "MTRFA10",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "MTRWNER25",
+      "description": "25% off",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "MAX20",
+      "description": "20% off",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "SDWELCOME",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "GREAT15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "SAS15EVESTORE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "BF15",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "DISCOUNT",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "FIRST10",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "SAS10AFASTORE",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "5OFF",
+      "description": "",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "knoji",
+      "sources": [
+        "knoji"
+      ],
+      "url": "https://mitre.knoji.com/",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": false,
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

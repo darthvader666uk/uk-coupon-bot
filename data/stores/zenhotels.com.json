@@ -809,6 +809,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-24T07:03:33.720Z"
+    },
+    {
+      "code": "ZH_BLACKFRIDAY",
+      "description": "Save 5% on any hotel booking in the Black Friday sale with this ZenHotels code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/zenhotels.com",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T12:21:05.070Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

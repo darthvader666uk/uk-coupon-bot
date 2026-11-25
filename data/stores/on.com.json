@@ -38,13 +38,13 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-11-23T07:35:27.905Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "CHI001_FRSHP",
@@ -80,13 +80,13 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-11-25T07:01:30.838Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "WELCOMEBOTTLE_07_TAB",
@@ -416,13 +416,13 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-11-05T13:48:53.775Z",
-      "lastSeen": "2026-11-25T07:01:30.838Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "MIEDOQ8",
@@ -773,13 +773,15 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-11-08T12:30:54.216Z",
-      "lastSeen": "2026-11-23T07:35:27.905Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-25T16:23:21.938Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z"
     },
     {
       "code": "FREE_SHIPPING",
@@ -794,13 +796,13 @@
       ],
       "url": "https://www.coupert.com/store/on.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-18T14:58:03.521Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "CRISTINA",
@@ -815,13 +817,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/on-com",
       "addedAt": "2026-11-13T08:07:32.444Z",
-      "lastSeen": "2026-11-25T07:01:30.838Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "DEALERSTAFF2026_60_NIFUDX",
@@ -878,13 +880,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/on-com",
       "addedAt": "2026-11-23T07:35:27.905Z",
-      "lastSeen": "2026-11-23T07:35:27.905Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": null
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "ON20FF_25_NIOO7NX63B",
@@ -906,6 +908,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-25T07:01:30.838Z"
+    },
+    {
+      "code": "RICHROLL10",
+      "description": "10% Off Your 1st Order",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/on.com",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2025-09-29T00:00:00Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

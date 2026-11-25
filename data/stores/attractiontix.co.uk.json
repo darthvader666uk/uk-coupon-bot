@@ -503,7 +503,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/attractiontix.net",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -511,7 +511,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-06T02:39:37.561Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "ORLANDO15",
@@ -526,13 +526,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/attractiontix.net",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "BLACK10",
@@ -549,15 +549,15 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/attractiontix.net",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
+      "verified": true,
       "lastWorkedAt": "2026-11-12T03:43:51.136Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "SPOOKY20",
@@ -690,6 +690,50 @@
       },
       "verified": false,
       "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "PACKAGEDISNEY27",
+      "description": "Enjoy 5% off Disney Cruise Line package booking",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": "2026-12-29T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/attractiontix.net",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "CRUISEDISNEY27",
+      "description": "Get 3% off cruise-only bookings",
+      "type": "percentage",
+      "value": 3,
+      "minSpend": null,
+      "expiry": "2026-12-29T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/attractiontix.net",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T03:54:28.637Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

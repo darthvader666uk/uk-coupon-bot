@@ -24,7 +24,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-10T04:53:35.820Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": null
     },
     {
       "code": "5OFF",
@@ -112,7 +112,30 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": null
+    },
+    {
+      "code": "BF25",
+      "description": "Shop up to 70% off, plus get an extra 25% off with this Shoeaholics voucher code",
+      "type": "percentage",
+      "value": 70,
+      "minSpend": null,
+      "expiry": "2026-12-06T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/shoeaholics.com",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-25T10:07:57.041Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }

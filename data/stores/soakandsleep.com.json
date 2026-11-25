@@ -698,13 +698,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "BETTERSLEEP",
@@ -786,7 +786,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
       "addedAt": "2026-11-22T14:01:39.395Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -794,7 +794,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-21T06:57:13.425Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
       "code": "SBFVIP",
@@ -858,6 +858,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-22T17:43:06.620Z"
+    },
+    {
+      "code": "BF20",
+      "description": "Save 20% on orders over £100 in the Black Friday sale",
+      "type": "fixed",
+      "value": 100,
+      "minSpend": 100,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
+      "addedAt": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T16:24:35.692Z",
+      "listedAt": "2026-11-25T16:23:21.938Z"
     }
   ]
 }
