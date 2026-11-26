@@ -23,6 +23,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-02T14:17:38.953Z"
+    },
+    {
+      "code": "INT02",
+      "description": "2% off storewide",
+      "type": "percentage",
+      "value": 2,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/chesterfieldsofas.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
     }
   ]
 }

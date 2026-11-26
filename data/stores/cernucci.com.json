@@ -59,11 +59,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/cernucci.com",
       "addedAt": "2026-11-17T15:12:09.578Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -71,7 +72,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T00:00:00Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-26T19:38:04.695Z"
     },
     {
       "code": "VIP20",
@@ -129,11 +130,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/cernucci.com",
       "addedAt": "2026-11-17T15:12:09.578Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -141,7 +143,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-07T00:00:00Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-26T19:38:04.695Z"
     },
     {
       "code": "DEALAM",
@@ -276,6 +278,405 @@
       "verified": true,
       "lastWorkedAt": "2026-11-16T00:00:00Z",
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "BSE-4NJDNMJT",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BF20",
+      "description": "Get an extra 20% off your order at Cernucci with code BF20.",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "GC-DTWC492",
+      "description": "Apply store credit code GC-DTWC492 to get £10.33 store credit on orders over £50 at Cernucci.",
+      "type": "fixed",
+      "value": 10.33,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "FIRST100",
+      "description": "Get £10 off your order at Cernucci with code FIRST100, when you spend £50+ on clothing.",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "AVC10-Z73ZPN9Z",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "SPRING10",
+      "description": "10% off storewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BSE-54TCPDJT",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "AVC10-RGDF85Q3",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "SOLDES10",
+      "description": "10% off sitewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BSE-Z89HJSRV",
+      "description": "10% off your purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BSE-CZNMGS7V",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "GC-PDKW397",
+      "description": "Apply store credit of £10.13 at Cernucci with code GC-PDKW397 on orders over £50.",
+      "type": "fixed",
+      "value": 10.13,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BSE-HF3KB2KC",
+      "description": "Get an extra 10% off at Cernucci with code BSE-HF3KB2KC.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BSE-W6F58N89",
+      "description": "Get an extra 10% off at Cernucci with code BSE-W6F58N89.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "TENAMELIA",
+      "description": "£10 off",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "FF15",
+      "description": "15% off clothing",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "AVC10-DGKVQD55",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BSE-7DGFR4KH",
+      "description": "10% off urban jewellery",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BSE-GV2SC28V",
+      "description": "10% off",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/cernucci.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
     }
   ]
 }

@@ -14,18 +14,19 @@
       "sources": [
         "savoo",
         "knoji",
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.savoo.co.uk/brands/buy-sheds-direct-discount-codes",
       "addedAt": "2026-09-09T10:28:19.283Z",
-      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-26T15:57:54.561Z"
+      "listedAt": "2026-11-26T19:38:04.695Z"
     },
     {
       "code": "STORE7OFF",
@@ -100,18 +101,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://buyshedsdirect.knoji.com/",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-26T19:38:04.695Z"
     },
     {
       "code": "TIMBERSAVE10",
@@ -144,18 +146,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "wethrift"
       ],
       "url": "https://buyshedsdirect.knoji.com/",
       "addedAt": "2026-10-21T10:58:47.715Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-26T19:38:04.695Z"
     },
     {
       "code": "BSD30OFF",
@@ -887,6 +890,27 @@
       "verified": true,
       "lastWorkedAt": "2026-11-24T03:48:14.808Z",
       "listedAt": "2026-11-26T15:57:54.561Z"
+    },
+    {
+      "code": "BH7",
+      "description": "7% off Forest orders over £499",
+      "type": "percentage",
+      "value": 7,
+      "minSpend": 499,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/buyshedsdirect.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
     }
   ]
 }

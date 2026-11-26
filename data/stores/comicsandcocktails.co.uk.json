@@ -54,17 +54,102 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://uk.coupert.com/promo-code/comicsandcocktails-co-uk",
       "addedAt": "2026-11-26T18:14:26.690Z",
-      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T18:14:26.690Z"
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "ML2PACK10",
+      "description": "10% off £50",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/comicsandcocktails.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BLACKFRIDAY",
+      "description": "10% off orders over £50",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 50,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/comicsandcocktails.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "BF25",
+      "description": "20% off £50 baskets",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/comicsandcocktails.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "TMNT10",
+      "description": "10% off a Party Wagon load of TMNT items",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/comicsandcocktails.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
     }
   ]
 }

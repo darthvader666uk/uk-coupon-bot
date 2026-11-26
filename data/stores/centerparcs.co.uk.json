@@ -25,6 +25,48 @@
       "verified": true,
       "lastWorkedAt": "2026-11-24T11:52:38.239Z",
       "listedAt": "2026-11-26T15:57:54.561Z"
+    },
+    {
+      "code": "SUMR22",
+      "description": "2022 Price Promise",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/centerparcs.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
+    },
+    {
+      "code": "SAVE35",
+      "description": "£35 off, two free day passes",
+      "type": "fixed",
+      "value": 35,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/centerparcs.co.uk",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
     }
   ]
 }

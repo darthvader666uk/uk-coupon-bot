@@ -289,6 +289,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-19T15:07:13.847Z"
+    },
+    {
+      "code": "FIH10",
+      "description": "Save 10% on flights from Brussels to Kinshasa at Brussels Airlines with code FIH10.",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/brusselsairlines.com",
+      "addedAt": "2026-11-26T19:38:04.695Z",
+      "lastSeen": "2026-11-26T19:38:04.695Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T19:38:04.695Z"
     }
   ]
 }
