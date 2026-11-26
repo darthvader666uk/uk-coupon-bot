@@ -110,7 +110,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "REA-ZLW-JFW-EDP",
@@ -281,13 +281,13 @@
       ],
       "url": "https://www.coupert.com/store/barbour.com",
       "addedAt": "2026-10-20T10:57:42.385Z",
-      "lastSeen": "2026-11-24T07:03:33.720Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": "2026-11-26T18:14:26.690Z"
     },
     {
       "code": "AMIGAX",
@@ -308,7 +308,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "FESTIVE",
@@ -431,13 +431,13 @@
       ],
       "url": "https://www.coupert.com/store/barbour.com",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": "2026-11-26T18:14:26.690Z"
     },
     {
       "code": "WELCOME20",
@@ -563,7 +563,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "NEWCOLLECTION15",
@@ -584,7 +584,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "SAVE20",
@@ -605,7 +605,112 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
+    },
+    {
+      "code": "BLACK20",
+      "description": "Barbour Black Friday: Claim 20% with Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/barbour",
+      "addedAt": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T18:14:26.690Z"
+    },
+    {
+      "code": "BLACK10",
+      "description": "Barbour Black Friday: Enjoy 10% with Promo Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/barbour",
+      "addedAt": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T18:14:26.690Z"
+    },
+    {
+      "code": "BF10",
+      "description": "Barbour Black Friday: Save 10% with Discount Code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/barbour",
+      "addedAt": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T18:14:26.690Z"
+    },
+    {
+      "code": "VIP25",
+      "description": "25% Off Promo Code for Barbour Today",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/barbour",
+      "addedAt": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T18:14:26.690Z"
+    },
+    {
+      "code": "AUTUMN20",
+      "description": "Claim Barbour 20% Off via Promo Code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/barbour",
+      "addedAt": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T18:14:26.690Z"
     }
   ]
 }

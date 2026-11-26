@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "SUBSCRIBE20",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "SALE15",
@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "SAVING",
@@ -85,7 +85,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "AQOSVE",
@@ -106,7 +106,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
     },
     {
       "code": "GETOFFER",
@@ -127,7 +127,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T07:03:33.720Z"
+      "listedAt": null
+    },
+    {
+      "code": "EXTRA20",
+      "description": "Get 20% Off selected products on Your Order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bimpy",
+      "addedAt": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T18:14:26.690Z"
+    },
+    {
+      "code": "NEW10",
+      "description": "Redeem this coupon to bag 10% off at Bimpy",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/bimpy",
+      "addedAt": "2026-11-26T18:14:26.690Z",
+      "lastSeen": "2026-11-26T18:14:26.690Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T18:14:26.690Z"
     }
   ]
 }
