@@ -22,7 +22,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-13T13:56:08.358Z"
+      "listedAt": null
+    },
+    {
+      "code": "EB50F899NY",
+      "description": "Black Friday: 50% off orders over £800 at Eve",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": 800,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/eve-discount-codes",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T15:57:54.561Z"
+    },
+    {
+      "code": "AB1026",
+      "description": "Extra 5% off orders at Eve",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/eve-discount-codes",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T15:57:54.561Z"
     }
   ]
 }

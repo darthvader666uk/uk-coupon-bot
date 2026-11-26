@@ -1,0 +1,30 @@
+{
+  "domain": "escape-watersports.co.uk",
+  "name": "Escape Watersports",
+  "category": "general",
+  "codes": [
+    {
+      "code": "BLACK10",
+      "description": "Save 10% on orders over £150 in the Black Friday sale with this code",
+      "type": "fixed",
+      "value": 150,
+      "minSpend": 150,
+      "expiry": "2026-12-08T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/escape-watersports.co.uk",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T12:53:15.826Z",
+      "listedAt": "2026-11-26T15:57:54.561Z"
+    }
+  ]
+}

@@ -840,6 +840,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BLACK20UK",
+      "description": "20% off orders over £200 at Made in Design",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 200,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/made-in-design-discount-codes",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T15:57:54.561Z"
     }
   ]
 }

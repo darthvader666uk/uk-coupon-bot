@@ -397,6 +397,29 @@
       },
       "verified": false,
       "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "XMASJOY20",
+      "description": "Save 20% off when you spend £30 on gift cards with this Harvester discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 30,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/harvester.co.uk",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T03:24:40.515Z",
+      "listedAt": "2026-11-26T15:57:54.561Z"
     }
   ]
 }

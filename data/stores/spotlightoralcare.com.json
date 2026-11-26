@@ -263,7 +263,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": null
     },
     {
       "code": "WIN35",
@@ -537,14 +537,14 @@
       ],
       "url": "https://spotlightoralcare.knoji.com/",
       "addedAt": "2026-11-10T14:12:41.909Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-26T15:57:54.561Z"
     },
     {
       "code": "ADBM1",
@@ -719,7 +719,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": null
     },
     {
       "code": "FREESHIP",
@@ -761,7 +761,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": null
     },
     {
       "code": "AOIBHINN",
@@ -847,6 +847,69 @@
       },
       "verified": true,
       "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "BFSMILE10",
+      "description": "50% off Water Flosser with UV Steriliser at Spotlight Oral Care",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/spotlight-oral-care-discount-codes",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T15:57:54.561Z"
+    },
+    {
+      "code": "LIMITEDEXTRA15",
+      "description": "Sonic Pro Limited Edition Electric Toothbrush - Wisteria Purple for £59.50",
+      "type": "fixed",
+      "value": 59.5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/spotlight-oral-care-discount-codes",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T15:57:54.561Z"
+    },
+    {
+      "code": "DEALONE",
+      "description": "Sonic One Electric Toothbrush - White for £19.49 at Spotlight Oral Care",
+      "type": "fixed",
+      "value": 19.49,
+      "minSpend": null,
+      "expiry": null,
+      "source": "savoo",
+      "sources": [
+        "savoo"
+      ],
+      "url": "https://www.savoo.co.uk/brands/spotlight-oral-care-discount-codes",
+      "addedAt": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-26T15:57:54.561Z"
     }
   ]
 }
