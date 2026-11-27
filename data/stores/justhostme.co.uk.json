@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": null
     },
     {
       "code": "DYEDPW",
@@ -64,7 +64,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": null
     },
     {
       "code": "AUTUMN",
@@ -85,7 +85,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": null
     },
     {
       "code": "LUUOMHD",
@@ -106,7 +106,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": null
     },
     {
       "code": "FALL15",
@@ -127,7 +127,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": null
     },
     {
       "code": "NOV15",
@@ -148,7 +148,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:01:30.838Z"
+      "listedAt": null
+    },
+    {
+      "code": "10PERCENT",
+      "description": "Get 10% Off your purchases",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/justhostme",
+      "addedAt": "2026-11-27T07:12:09.864Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T07:12:09.864Z"
+    },
+    {
+      "code": "CWETTST",
+      "description": "Hot Sale: Up To 65% Off On All justhostme.co.uk Items",
+      "type": "percentage",
+      "value": 65,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/justhostme",
+      "addedAt": "2026-11-27T07:12:09.864Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T07:12:09.864Z"
     }
   ]
 }

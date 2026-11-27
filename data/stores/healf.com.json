@@ -169,7 +169,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-06T00:00:00Z",
-      "listedAt": "2026-11-22T16:45:12.111Z"
+      "listedAt": null
     },
     {
       "code": "SS-078495",
@@ -299,7 +299,7 @@
       ],
       "url": "https://www.coupert.com/store/healf.com",
       "addedAt": "2026-10-07T12:39:06.346Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -307,7 +307,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-18T00:00:00Z",
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T07:12:09.864Z"
     },
     {
       "code": "SS-644757",
@@ -370,7 +370,7 @@
       ],
       "url": "https://healf.knoji.com/",
       "addedAt": "2026-10-10T12:01:05.261Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -378,7 +378,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-25T00:00:00Z",
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-27T07:12:09.864Z"
     },
     {
       "code": "HEALF10X1",
@@ -576,7 +576,7 @@
       ],
       "url": "https://www.coupert.com/store/healf.com",
       "addedAt": "2026-10-19T11:44:11.574Z",
-      "lastSeen": "2026-11-20T16:43:24.561Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -584,7 +584,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-17T00:00:00Z",
-      "listedAt": null
+      "listedAt": "2026-11-27T07:12:09.864Z"
     },
     {
       "code": "SS-291750",
@@ -1266,7 +1266,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/healf.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1274,7 +1274,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-25T00:00:00Z",
-      "listedAt": "2026-11-26T15:57:54.561Z"
+      "listedAt": "2026-11-27T07:12:09.864Z"
     },
     {
       "code": "APPY10",
@@ -1291,13 +1291,13 @@
       ],
       "url": "https://www.wethrift.com/codes/healf.com",
       "addedAt": "2026-11-12T18:07:21.916Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T16:23:21.938Z",
+      "listedAt": "2026-11-27T07:12:09.864Z",
       "verified": true,
       "lastWorkedAt": "2026-11-25T00:00:00Z"
     },
@@ -1754,7 +1754,7 @@
       ],
       "url": "https://www.coupert.com/store/healf.com",
       "addedAt": "2026-11-18T14:58:03.521Z",
-      "lastSeen": "2026-11-18T14:58:03.521Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -1762,7 +1762,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-18T00:00:00Z",
-      "listedAt": null
+      "listedAt": "2026-11-27T07:12:09.864Z"
     },
     {
       "code": "ALEX05411",
@@ -2296,6 +2296,48 @@
         "lastTested": null
       },
       "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "SS-923924",
+      "description": "Unlock 15% Off with Your Healf Discount Code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/healf-com",
+      "addedAt": "2026-11-27T07:12:09.864Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T07:12:09.864Z"
+    },
+    {
+      "code": "SS-663850",
+      "description": "Save £10 off using Healf Discount Code",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/healf-com",
+      "addedAt": "2026-11-27T07:12:09.864Z",
+      "lastSeen": "2026-11-27T07:12:09.864Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T07:12:09.864Z"
     }
   ]
 }
