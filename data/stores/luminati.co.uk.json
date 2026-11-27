@@ -16,13 +16,13 @@
       ],
       "url": "https://www.coupert.com/store/luminati.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "10HRZA98YVX75N",
@@ -201,25 +201,26 @@
     },
     {
       "code": "10OFF",
-      "description": "",
-      "type": "unknown",
-      "value": null,
+      "description": "Get 10% Off Sitewide - Find meaningful savings across the store",
+      "type": "percentage",
+      "value": 10,
       "minSpend": null,
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://luminati.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": false,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

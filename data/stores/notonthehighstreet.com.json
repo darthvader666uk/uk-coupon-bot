@@ -25,7 +25,7 @@
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-19T15:07:13.847Z",
+      "listedAt": null,
       "lastWorkedAt": "2026-11-02T14:37:25.756Z"
     },
     {
@@ -471,28 +471,6 @@
       "listedAt": "2026-11-23T16:49:22.916Z"
     },
     {
-      "code": "WRAPC16B2",
-      "description": "",
-      "type": "unknown",
-      "value": null,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://notonthehighstreet.knoji.com/",
-      "addedAt": "2026-10-28T12:04:45.735Z",
-      "lastSeen": "2026-10-28T12:04:45.735Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": null
-    },
-    {
       "code": "MYSTERYGIFT",
       "description": "Up to £7.50 off orders over £50 at Not On The High Street",
       "type": "fixed",
@@ -506,13 +484,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/not-on-the-high-street-discount-codes",
       "addedAt": "2026-10-29T12:14:25.904Z",
-      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T15:57:54.561Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "HUKD10",
@@ -724,13 +702,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/not-on-the-high-street-discount-codes",
       "addedAt": "2026-11-09T14:41:34.419Z",
-      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T15:57:54.561Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "EARLYBIRD",
@@ -994,6 +972,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-25T07:26:47.666Z"
+    },
+    {
+      "code": "EXTRA15",
+      "description": "Get an extra 15% off everything in the Black Friday sale with this Not On The High Street code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-12-04T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/notonthehighstreet.com",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-27T06:21:58.539Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

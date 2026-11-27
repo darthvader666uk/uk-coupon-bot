@@ -16,13 +16,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/rarewaves-discount-codes",
       "addedAt": "2026-09-07T12:13:14.338Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "RWJULY10",
@@ -43,7 +43,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": null
     },
     {
       "code": "RWUNI10",
@@ -106,7 +106,7 @@
       ],
       "url": "https://www.savoo.co.uk/brands/rarewaves-discount-codes",
       "addedAt": "2026-10-06T12:52:03.776Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -114,7 +114,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-09-25T00:00:00Z",
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "WELCOME40",
@@ -641,17 +641,18 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "savoo"
       ],
       "url": "https://uk.coupert.com/promo-code/rarewaves-uk",
       "addedAt": "2026-11-19T08:06:15.819Z",
-      "lastSeen": "2026-11-25T18:31:33.575Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T18:31:33.575Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "RWWELCOME10",
@@ -694,6 +695,48 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "HUKD10",
+      "description": "Enjoy an exclusive 10% discount sitewide using this Rarewaves discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-12-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/rarewaves.com",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "RWBFCM10",
+      "description": "Get 10% off everything when you spend over £20",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": 20,
+      "expiry": "2026-12-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/rarewaves.com",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

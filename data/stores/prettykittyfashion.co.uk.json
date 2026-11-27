@@ -105,13 +105,15 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T00:00:00Z"
     },
     {
       "code": "FREEPOST65",
@@ -126,13 +128,13 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-10-23T10:45:38.341Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-10-29T12:14:25.904Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "NOV100",
@@ -147,7 +149,7 @@
       ],
       "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
       "addedAt": "2026-11-02T14:17:38.953Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -155,7 +157,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-05T00:00:00Z",
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "NOV80",
@@ -520,6 +522,73 @@
         "lastTested": null
       },
       "listedAt": "2026-11-14T16:23:36.263Z"
+    },
+    {
+      "code": "BF15",
+      "description": "15% Off All Full-Price Stock",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-27T00:00:00Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "NOV15PK",
+      "description": "Save Up to 15% on Your Pretty Kitty Fashion Order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-16T00:00:00Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "AUTUMNIS",
+      "description": "Take Up To 15% Off Your Order With This Pretty Kitty Fashion Offer",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/prettykittyfashion.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

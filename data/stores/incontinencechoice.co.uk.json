@@ -72,20 +72,46 @@
       "type": "percentage",
       "value": 6,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-12-03T23:59:59.000Z",
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/incontinencechoice.co.uk",
       "addedAt": "2026-10-31T20:01:33.278Z",
-      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T22:04:47.386Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-20T15:17:28.277Z"
+    },
+    {
+      "code": "HUDKTENA10",
+      "description": "Exclusive 10% off TENA products with this Incontinence Choice promo code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/incontinencechoice.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T02:25:09.600Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

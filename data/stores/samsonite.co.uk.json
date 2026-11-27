@@ -46,6 +46,29 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "BFEXTRA10",
+      "description": "Save an extra 10% off when you buy 2 Black Friday items at Samsonite",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/samsonite.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T08:25:37.660Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

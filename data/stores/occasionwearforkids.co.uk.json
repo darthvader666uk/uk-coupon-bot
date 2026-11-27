@@ -17,15 +17,15 @@
       ],
       "url": "https://www.coupert.com/store/occasionwearforkids.co.uk",
       "addedAt": "2026-09-17T10:36:32.615Z",
-      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-10-19T00:00:00Z",
-      "listedAt": "2026-11-25T07:26:47.666Z"
+      "lastWorkedAt": "2026-11-22T00:00:00Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "OWFK10",
@@ -79,17 +79,43 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/occasionwearforkids.co.uk",
       "addedAt": "2026-11-25T07:26:47.666Z",
-      "lastSeen": "2026-11-25T07:26:47.666Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T07:26:47.666Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-27T00:00:00Z"
+    },
+    {
+      "code": "WELCOME",
+      "description": "",
+      "type": "percentage",
+      "value": 5,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/occasionwearforkids.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T00:00:00Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

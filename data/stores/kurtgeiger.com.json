@@ -408,20 +408,23 @@
       "type": "percentage",
       "value": 15,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-28T23:59:59.000Z",
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/kurtgeiger.com",
       "addedAt": "2026-11-11T17:49:54.508Z",
-      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T22:04:47.386Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T16:26:24.089Z"
     },
     {
       "code": "FIRST15",
@@ -485,6 +488,27 @@
         "lastTested": null
       },
       "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "BF15",
+      "description": "Get 15% off full price styles on app with this Kurt Geiger discount code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-12-04T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/kurtgeiger.com",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

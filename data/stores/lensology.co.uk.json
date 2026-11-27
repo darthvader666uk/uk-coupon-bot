@@ -301,13 +301,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/lensology.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "FLASH15",
@@ -330,7 +330,53 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T10:52:01.568Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
+    },
+    {
+      "code": "BLACKFRIDAY20",
+      "description": "20% off all lenses using this Lensology discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-29T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/lensology.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-27T12:27:56.577Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "OPTICAL10",
+      "description": "Get 10% off frames and lenses",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/lensology.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-20T04:15:03.810Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

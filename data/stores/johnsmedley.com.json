@@ -17,13 +17,13 @@
       ],
       "url": "https://www.savoo.co.uk/brands/john-smedley-discount-codes",
       "addedAt": "2026-09-12T09:55:54.909Z",
-      "lastSeen": "2026-11-26T15:57:54.561Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T15:57:54.561Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "LD26-MC0326LV",
@@ -31,21 +31,23 @@
       "type": "percentage",
       "value": 15,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://johnsmedley.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "lastWorkedAt": "2026-11-23T10:13:32.749Z"
     },
     {
       "code": "WELC-MC2603LV",
@@ -349,7 +351,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/johnsmedley.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -357,7 +359,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-02T07:45:49.406Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "NOV20OFF",
@@ -374,7 +376,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/johnsmedley.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -382,7 +384,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T03:06:24.626Z",
-      "listedAt": "2026-11-23T22:04:47.386Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "SAVOO15",
@@ -689,6 +691,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-23T22:04:47.386Z"
+    },
+    {
+      "code": "BEYOND10",
+      "description": "Get an extra 10% off the Black Friday sale with this John Smedley promo code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/johnsmedley.com",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T23:47:28.695Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

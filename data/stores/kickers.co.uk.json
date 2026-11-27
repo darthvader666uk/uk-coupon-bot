@@ -17,15 +17,15 @@
       ],
       "url": "https://kickers.knoji.com/",
       "addedAt": "2026-10-16T10:42:51.592Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "lastWorkedAt": "2026-11-06T10:22:51.314Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "lastWorkedAt": "2026-11-21T06:35:49.954Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "BKF6PEN20",
@@ -96,20 +96,23 @@
       "type": "percentage",
       "value": 5,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:00.000Z",
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "hukd"
       ],
       "url": "https://www.wethrift.com/codes/kickers.co.uk",
       "addedAt": "2026-11-11T17:49:54.508Z",
-      "lastSeen": "2026-11-23T22:04:47.386Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-23T22:04:47.386Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T07:52:46.788Z"
     },
     {
       "code": "WELCOME20",
@@ -124,13 +127,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/kickers.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "EARLYACCESS",

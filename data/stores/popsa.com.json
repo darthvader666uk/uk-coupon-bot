@@ -39,13 +39,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/popsa.app",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "FOODSTORIES50",
@@ -699,13 +699,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/popsa.app",
       "addedAt": "2026-11-19T15:07:13.847Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T16:33:07.720Z",
+      "listedAt": "2026-11-27T15:50:24.942Z",
       "verified": true,
       "lastWorkedAt": "2026-11-24T00:00:00Z"
     },
@@ -801,20 +801,21 @@
       "type": "percentage",
       "value": 30,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "hukd"
       ],
       "url": "https://www.coupert.com/store/popsa.com",
       "addedAt": "2026-11-23T16:49:22.916Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "SUN2",
@@ -1321,6 +1322,29 @@
         "lastTested": null
       },
       "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "BFWELCOME",
+      "description": "Get 50% off photo books by using this Black Friday Popsa discount code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": "2026-12-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/popsa.app",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T08:00:11.912Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

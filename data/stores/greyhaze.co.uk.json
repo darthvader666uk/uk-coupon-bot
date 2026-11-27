@@ -18,7 +18,7 @@
       ],
       "url": "https://www.coupert.com/store/greyhaze.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -26,7 +26,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-10-05T00:00:00Z",
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "TRY4FREE",
@@ -41,13 +41,13 @@
       ],
       "url": "https://www.coupert.com/store/greyhaze.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "DUTY10",
@@ -348,13 +348,13 @@
       ],
       "url": "https://www.coupert.com/store/greyhaze.co.uk",
       "addedAt": "2026-11-03T13:28:55.454Z",
-      "lastSeen": "2026-11-10T14:12:41.909Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-10T14:12:41.909Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "COMEBACK6",
@@ -669,18 +669,19 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://greyhaze.knoji.com/",
       "addedAt": "2026-11-12T14:26:09.672Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "MYSTERY",
@@ -813,6 +814,27 @@
       },
       "verified": false,
       "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "BF20",
+      "description": "Get 20% off your order",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/greyhaze.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

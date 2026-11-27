@@ -51,20 +51,46 @@
       "type": "percentage",
       "value": 10,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
       "source": "savoo",
       "sources": [
-        "savoo"
+        "savoo",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/petit-fernand-discount-codes",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-22T14:01:39.395Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-22T14:01:39.395Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-24T04:59:50.608Z"
+    },
+    {
+      "code": "SAVE15",
+      "description": "Get 15% off when you spend over £25 at Petit Fernand with this code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 25,
+      "expiry": "2026-12-08T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/petit-fernand.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-20T08:10:46.480Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

@@ -16,13 +16,13 @@
       ],
       "url": "https://www.coupert.com/store/britishironworkcentre.co.uk",
       "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-11-02T14:17:38.953Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-02T14:17:38.953Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "ME5",
@@ -44,6 +44,48 @@
         "lastTested": null
       },
       "listedAt": "2026-11-02T14:17:38.953Z"
+    },
+    {
+      "code": "SAVE10",
+      "description": "Enjoy up to 10% Off During the Black Friday Sale",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/britishironworkcentre.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "WELCOME15",
+      "description": "15% off your order",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/britishironworkcentre.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

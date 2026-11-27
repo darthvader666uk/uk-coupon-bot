@@ -55,22 +55,24 @@
       "type": "percentage",
       "value": 20,
       "minSpend": null,
-      "expiry": null,
+      "expiry": "2026-11-30T23:59:00.000Z",
       "source": "savoo",
       "sources": [
         "savoo",
-        "knoji"
+        "knoji",
+        "hukd"
       ],
       "url": "https://www.savoo.co.uk/brands/klass-discount-codes",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "lastWorkedAt": "2026-11-23T07:31:15.654Z"
     },
     {
       "code": "NHS15FPNP",
@@ -87,14 +89,14 @@
       ],
       "url": "https://www.savoo.co.uk/brands/klass-discount-codes",
       "addedAt": "2026-09-26T10:28:42.866Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
       "verified": true,
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "NEWSLETTER15",
@@ -110,7 +112,7 @@
       ],
       "url": "https://klass.knoji.com/",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -118,7 +120,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-03T17:10:16.955Z",
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "AUT20",
@@ -330,13 +332,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/klass.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "EXTRA15",
@@ -374,13 +376,15 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/klass.co.uk",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-25T07:35:20.300Z"
     },
     {
       "code": "SUMMER",
@@ -733,6 +737,50 @@
       },
       "verified": false,
       "listedAt": "2026-11-24T16:33:07.720Z"
+    },
+    {
+      "code": "HURRAH",
+      "description": "20% off full-price items with this Klass discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-27T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/klass.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "COSYUP",
+      "description": "Use this Klass promo code and save 15% on full priced coats and jackets",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-12-02T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/klass.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T07:35:02.409Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

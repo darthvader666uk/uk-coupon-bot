@@ -703,7 +703,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "25ALIGN",
@@ -724,7 +724,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "TOPTYRE",
@@ -745,7 +745,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "BATTERY15",
@@ -768,7 +768,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-03T07:16:46.373Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "SERV15",
@@ -789,7 +789,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "GTRADIAL10",
@@ -812,7 +812,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-03T03:04:57.201Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": null
     },
     {
       "code": "MA5BRIDGESTONE",
@@ -827,7 +827,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/protyre.co.uk",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-19T15:07:13.847Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -835,7 +835,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-13T12:05:35.785Z",
-      "listedAt": "2026-11-19T15:07:13.847Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "TYRE20EM",
@@ -964,6 +964,121 @@
       },
       "verified": false,
       "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "BFALIGN",
+      "description": "50% off wheel alignments with this code",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/protyre.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T08:11:26.043Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "BFCEAT",
+      "description": "£30 off two CEAT tyres when you use this Protyre discount code",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/protyre.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T04:51:25.301Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "BFBATTERY",
+      "description": "25% off a battery when you use this Protyre promo code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/protyre.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T04:54:53.105Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "BFSUMI",
+      "description": "Enjoy £20 off two Sumitomo tyres at Protyre",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-12-03T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/protyre.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T18:07:23.785Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "BFSERV",
+      "description": "20% off a service when you use this Protyre discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/protyre.co.uk",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-23T04:37:12.150Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }

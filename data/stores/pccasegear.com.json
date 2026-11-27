@@ -68,7 +68,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-10T14:12:41.909Z"
     },
     {
       "code": "ONED30",
@@ -84,14 +84,15 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "verified": true,
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "lastWorkedAt": "2026-11-25T00:00:00Z"
     },
     {
       "code": "FLIP20",
@@ -107,15 +108,15 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "lastWorkedAt": "2026-10-04T00:00:00Z",
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "verified": true,
+      "lastWorkedAt": "2026-11-25T00:00:00Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "WELCOMETOJBL",
@@ -130,13 +131,13 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-09-29T12:01:38.582Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "MOREFPS",
@@ -169,18 +170,20 @@
       "expiry": null,
       "source": "knoji",
       "sources": [
-        "knoji"
+        "knoji",
+        "coupert"
       ],
       "url": "https://pccasegear.knoji.com/",
       "addedAt": "2026-10-02T11:56:13.373Z",
-      "lastSeen": "2026-11-23T16:49:22.916Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "verified": false,
-      "listedAt": "2026-11-23T16:49:22.916Z"
+      "verified": true,
+      "listedAt": "2026-11-27T15:50:24.942Z",
+      "lastWorkedAt": "2026-11-25T00:00:00Z"
     },
     {
       "code": "MARFPS",
@@ -612,13 +615,13 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "WELCOME",
@@ -633,13 +636,13 @@
       ],
       "url": "https://www.coupert.com/store/pccasegear.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-14T12:52:43.546Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-14T12:52:43.546Z"
+      "listedAt": "2026-11-27T15:50:24.942Z"
     },
     {
       "code": "WEEKENDSAVINGS",
@@ -728,6 +731,29 @@
       },
       "verified": false,
       "listedAt": "2026-11-23T16:49:22.916Z"
+    },
+    {
+      "code": "WELCOME15",
+      "description": "Join Today—Receive 15% Introductory Savings",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://www.coupert.com/store/pccasegear.com",
+      "addedAt": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-25T00:00:00Z",
+      "listedAt": "2026-11-27T15:50:24.942Z"
     }
   ]
 }
