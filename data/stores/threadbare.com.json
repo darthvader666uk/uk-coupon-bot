@@ -145,13 +145,15 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/threadbare.com",
       "addedAt": "2026-11-23T16:49:22.916Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-28T14:54:58.517Z",
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T23:06:19.900Z"
     },
     {
       "code": "TBCHLOE",
@@ -548,6 +550,52 @@
       },
       "verified": false,
       "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "EMAIL15",
+      "description": "Get an extra 15% off the sale with this code",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": "2026-12-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/threadbare.com",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-27T11:46:10.902Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "BF10",
+      "description": "Take up to 60% off plus an extra 10% off Black Friday sale items with this Threadbare voucher code",
+      "type": "percentage",
+      "value": 60,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/threadbare.com",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T23:09:48.008Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
     }
   ]
 }

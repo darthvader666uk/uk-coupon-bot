@@ -416,6 +416,48 @@
       },
       "verified": false,
       "listedAt": "2026-11-20T14:44:37.428Z"
+    },
+    {
+      "code": "BBHOSIERY15",
+      "description": "Use this Bluebella promo code to get 15% off all hosiery. Shop a wide selection of stylish and comfortable options. Don't miss out on this limited-time offer.",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/bluebella.com",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "FREEWRAP",
+      "description": "Snap up this fabulous deal at bluebella.com. Spend over £85 and instantly qualify for free gift wrapping. Add that extra touch to your purchase without the additional cost.",
+      "type": "fixed",
+      "value": 85,
+      "minSpend": 85,
+      "expiry": null,
+      "source": "caramel",
+      "sources": [
+        "caramel"
+      ],
+      "url": "https://grabcaramel.com/coupons/bluebella.com",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T14:54:58.517Z"
     }
   ]
 }

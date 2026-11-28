@@ -72,16 +72,19 @@ const GAMING_STORES = {
 /**
  * Runs inside the page. Each voucher renders as a `.voucher-item` card:
  *   .voucher-image img[alt]      -> store name
- *   .voucher-code .code (leaf)   -> the code itself; the wrapper's text is
- *                                   "CODEcopy" because of the copy button, so
- *                                   take the childless element
+ *   .voucher-code [data-clipboard-text] -> the code itself (since 2026-11-26,
+ *                                   also in .label-code-value). Before that it
+ *                                   was the childless .code element, kept as a
+ *                                   fallback
  *   .title (first)               -> the offer description
  */
 export function collectVouchers() {
   return Array.from(document.querySelectorAll(".voucher-item"))
     .map((card) => {
       const codeEl = Array.from(card.querySelectorAll(".code")).find((e) => e.children.length === 0);
-      const code = codeEl?.textContent?.trim() || "";
+      const code = (card.querySelector(".voucher-code [data-clipboard-text]")?.getAttribute("data-clipboard-text")
+        || card.querySelector(".label-code-value")?.textContent
+        || codeEl?.textContent || "").trim();
       if (!code) return null;
       const img = card.querySelector(".voucher-image img");
       const storeName = (img?.getAttribute("alt") || img?.getAttribute("title") || "").trim();

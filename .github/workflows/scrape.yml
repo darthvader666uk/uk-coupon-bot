@@ -26,10 +26,11 @@ jobs:
         # coupert is absent deliberately: Cloudflare accepts a residential IP
         # but refuses GitHub's datacentre ranges, so it runs on the
         # self-hosted runner via scrape-coupert.yml instead.
+        # knoji was retired 2026-11-28: its store pages now 301 to simplycodes.com,
+        # whose Cloudflare blocks GitHub, the TierHive server and curl_cffi alike.
         source:
           - ggdeals
           - savoo
-          - knoji
           - caramel
           - hukd
           - coupert-www
@@ -85,18 +86,6 @@ jobs:
           retention-days: 3
           if-no-files-found: warn
 
-      # Knoji records which subdomains it has already probed. That file has to
-      # reach the merge job to be committed, or every run starts blind and
-      # discovery never advances past its per-run cap.
-      - name: Upload Knoji probe cache
-        if: matrix.source == 'knoji'
-        uses: actions/upload-artifact@v7
-        with:
-          name: knoji-probes
-          path: data/knoji-probes.json
-          retention-days: 3
-          if-no-files-found: warn
-
   merge:
     needs: scrape
     # Runs even when some sources failed — partial data beats no data, and the
@@ -130,13 +119,6 @@ jobs:
           pattern: entries-*
           merge-multiple: true
 
-      - name: Download Knoji probe cache
-        uses: actions/download-artifact@v8
-        continue-on-error: true   # absent when the knoji job failed
-        with:
-          name: knoji-probes
-          path: data
-
       - name: Merge, clean and shard
         working-directory: scraper
         env:
@@ -166,7 +148,7 @@ jobs:
           # into 75 data files on 2026-09-28; a conflict now fails the job
           # with nothing pushed.
           git add data/uk-coupons.json data/index.json data/stores data/dead-codes.json \
-                  data/knoji-probes.json scraper/lib/domain-corrections.json
+                  scraper/lib/domain-corrections.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

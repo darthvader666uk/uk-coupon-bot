@@ -951,28 +951,6 @@
       "listedAt": "2026-11-25T16:23:21.938Z"
     },
     {
-      "code": "SUMMER10",
-      "description": "10% off",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji"
-      ],
-      "url": "https://simplymedsonline.knoji.com/",
-      "addedAt": "2026-11-25T16:23:21.938Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": false,
-      "listedAt": "2026-11-25T16:23:21.938Z"
-    },
-    {
       "code": "WINTER10",
       "description": "10% off",
       "type": "percentage",
@@ -1059,6 +1037,115 @@
       },
       "verified": false,
       "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "NEXTORDER20",
+      "description": "Get £20 off each of your next two eligible weight management consultation orders",
+      "type": "fixed",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-12-04T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/simplymedsonline.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-27T09:40:15.962Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "ED20",
+      "description": "Save 20% off eligible ED consultation orders this Black Friday with this code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": "2026-12-04T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/simplymedsonline.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "SMBF15",
+      "description": "Save 15% off eligible products when you spend £100+ this Black Friday",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": 100,
+      "expiry": "2026-12-04T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/simplymedsonline.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "SMPROMO10",
+      "description": "Get an extra 10% off orders with this Black Friday Simply Meds discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-11-30T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/simplymedsonline.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-27T09:40:15.962Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "SMBF10",
+      "description": "Save 10% off eligible products this Black Friday with this discount code",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": "2026-12-04T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/simplymedsonline.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T14:54:58.517Z"
     }
   ]
 }

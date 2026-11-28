@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": null
     },
     {
       "code": "TIGER25",
@@ -44,7 +44,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": "2026-11-20T18:21:27.037Z"
     },
     {
       "code": "FT40OFF3",
@@ -59,13 +59,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/your-pet-nutrition",
       "addedAt": "2026-09-29T14:37:55.816Z",
-      "lastSeen": "2026-11-26T06:25:02.443Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": "2026-11-28T09:44:38.563Z"
     },
     {
       "code": "MICHAEL10",
@@ -130,7 +130,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": "2026-11-20T18:21:27.037Z"
     },
     {
       "code": "BARNEY25",
@@ -146,13 +146,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/your-pet-nutrition",
       "addedAt": "2026-10-11T16:09:18.202Z",
-      "lastSeen": "2026-11-20T18:21:27.037Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T18:21:27.037Z"
+      "listedAt": "2026-11-28T09:44:38.563Z"
     },
     {
       "code": "BORADORS15",
@@ -254,13 +254,13 @@
       ],
       "url": "https://www.wethrift.com/codes/yourpetnutrition.com",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-20T18:21:27.037Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T18:21:27.037Z"
+      "listedAt": "2026-11-28T09:44:38.563Z"
     },
     {
       "code": "ELSA25",
@@ -271,17 +271,18 @@
       "expiry": null,
       "source": "wethrift",
       "sources": [
-        "wethrift"
+        "wethrift",
+        "coupert"
       ],
       "url": "https://www.wethrift.com/codes/yourpetnutrition.com",
       "addedAt": "2026-11-01T16:39:18.627Z",
-      "lastSeen": "2026-11-20T18:21:27.037Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-20T18:21:27.037Z"
+      "listedAt": "2026-11-28T09:44:38.563Z"
     },
     {
       "code": "TOM25",
@@ -338,13 +339,13 @@
       ],
       "url": "https://uk.coupert.com/promo-code/your-pet-nutrition",
       "addedAt": "2026-11-13T15:59:00.203Z",
-      "lastSeen": "2026-11-26T06:25:02.443Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": "2026-11-28T09:44:38.563Z"
     },
     {
       "code": "F20OFFC1",
@@ -429,7 +430,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": "2026-11-20T18:21:27.037Z"
     },
     {
       "code": "F20OFF1",
@@ -444,13 +445,55 @@
       ],
       "url": "https://uk.coupert.com/promo-code/your-pet-nutrition",
       "addedAt": "2026-11-26T06:25:02.443Z",
-      "lastSeen": "2026-11-26T06:25:02.443Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": "2026-11-28T09:44:38.563Z"
+    },
+    {
+      "code": "FETCH10",
+      "description": "£10 Off Your First Can",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/your-pet-nutrition",
+      "addedAt": "2026-11-28T09:44:38.563Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T09:44:38.563Z"
+    },
+    {
+      "code": "BF50",
+      "description": "Your Pet Nutrition Black Friday Discount Codes: 50% Off",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/your-pet-nutrition",
+      "addedAt": "2026-11-28T09:44:38.563Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T09:44:38.563Z"
     }
   ]
 }

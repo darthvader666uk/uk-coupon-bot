@@ -35,11 +35,12 @@
       "expiry": null,
       "source": "coupert",
       "sources": [
-        "coupert"
+        "coupert",
+        "wethrift"
       ],
       "url": "https://www.coupert.com/store/litelok.com",
       "addedAt": "2026-11-24T16:33:07.720Z",
-      "lastSeen": "2026-11-24T16:33:07.720Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -47,7 +48,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-21T00:00:00Z",
-      "listedAt": "2026-11-24T16:33:07.720Z"
+      "listedAt": "2026-11-27T19:31:51.605Z"
     },
     {
       "code": "UNCANNYEXPEDITIONS",
@@ -322,6 +323,216 @@
       "verified": true,
       "lastWorkedAt": "2026-11-24T12:08:56.330Z",
       "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "MOTOBOB",
+      "description": "Use code MOTOBOB to save on your order at LITELOK.",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "HALFOFFX1MOUNT",
+      "description": "50% off Tactical Mount",
+      "type": "percentage",
+      "value": 50,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "THEBRITISHMOTORBIKER",
+      "description": "£10 off your next purchase",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "MOTOUK",
+      "description": "Free Shipping with 10% off sitewide",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "FONZYRIDES",
+      "description": "£10 off",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "MICHELLEWESTBY",
+      "description": "£10 off",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "INTRUSIVERIDERS",
+      "description": "£10 off",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "MOTOVEZ",
+      "description": "£10 off",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "THEBINGLEYWHEELER",
+      "description": "£10 off Motorcycle Locks",
+      "type": "fixed",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "LITELOK15",
+      "description": "15% off Quella Bicycles",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/litelok.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
     }
   ]
 }

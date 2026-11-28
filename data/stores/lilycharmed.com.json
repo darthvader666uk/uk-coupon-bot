@@ -12,17 +12,18 @@
       "expiry": "2026-12-31T23:59:59.000Z",
       "source": "hukd",
       "sources": [
-        "hukd"
+        "hukd",
+        "wethrift"
       ],
       "url": "https://www.hotukdeals.com/vouchers/lilycharmed.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-27T15:50:24.942Z"
+      "listedAt": "2026-11-27T19:31:51.605Z"
     },
     {
       "code": "BRACELET10",
@@ -86,6 +87,69 @@
         "lastTested": null
       },
       "listedAt": "2026-11-27T15:50:24.942Z"
+    },
+    {
+      "code": "SAR15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lilycharmed.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "CHLO15",
+      "description": "15% off",
+      "type": "percentage",
+      "value": 15,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lilycharmed.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
+    },
+    {
+      "code": "LILY10",
+      "description": "10% off Personalised Gold Plated Vinyl Record Necklace",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "wethrift",
+      "sources": [
+        "wethrift"
+      ],
+      "url": "https://www.wethrift.com/codes/lilycharmed.com",
+      "addedAt": "2026-11-27T19:31:51.605Z",
+      "lastSeen": "2026-11-27T19:31:51.605Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T19:31:51.605Z"
     }
   ]
 }

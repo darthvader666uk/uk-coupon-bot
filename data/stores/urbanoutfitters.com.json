@@ -24,7 +24,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T16:23:21.938Z",
+      "listedAt": null,
       "verified": true,
       "lastWorkedAt": "2026-11-24T14:57:38.933Z"
     },
@@ -3536,13 +3536,13 @@
       ],
       "url": "https://grabcaramel.com/coupons/urbanoutfitters.com",
       "addedAt": "2026-11-12T10:55:05.747Z",
-      "lastSeen": "2026-11-27T15:50:24.942Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-27T15:50:24.942Z"
+      "listedAt": "2026-11-28T14:54:58.517Z"
     },
     {
       "code": "MCVBW745TB",
@@ -3776,7 +3776,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/urbanoutfitters.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -3784,7 +3784,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-12T11:16:09.467Z",
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-28T14:54:58.517Z"
     },
     {
       "code": "MZTWJ2KQ4G",
@@ -4087,7 +4087,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-27T15:50:24.942Z",
+      "listedAt": "2026-11-25T16:23:21.938Z",
       "verified": true
     },
     {
@@ -4110,7 +4110,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-27T15:50:24.942Z",
+      "listedAt": "2026-11-25T16:23:21.938Z",
       "verified": true
     },
     {
@@ -4266,6 +4266,29 @@
       },
       "verified": false,
       "listedAt": "2026-11-25T16:23:21.938Z"
+    },
+    {
+      "code": "TREAT25",
+      "description": "Get 25% off your Black Friday order with this Urban Outfitters discount code",
+      "type": "percentage",
+      "value": 25,
+      "minSpend": null,
+      "expiry": "2026-12-01T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/urbanoutfitters.com",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-25T16:44:36.551Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
     }
   ]
 }

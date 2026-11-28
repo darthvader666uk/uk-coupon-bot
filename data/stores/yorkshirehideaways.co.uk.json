@@ -22,7 +22,7 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": null
     },
     {
       "code": "AUG10",
@@ -64,7 +64,49 @@
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-26T06:25:02.443Z"
+      "listedAt": null
+    },
+    {
+      "code": "STAY10",
+      "description": "Extra 10% Off All Prices Shown for August Bank Holiday Stays",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yorkshire-hideaways",
+      "addedAt": "2026-11-28T09:44:38.563Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T09:44:38.563Z"
+    },
+    {
+      "code": "YORKSHIRE10",
+      "description": "10% Off Your Purchase",
+      "type": "percentage",
+      "value": 10,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/yorkshire-hideaways",
+      "addedAt": "2026-11-28T09:44:38.563Z",
+      "lastSeen": "2026-11-28T09:44:38.563Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T09:44:38.563Z"
     }
   ]
 }

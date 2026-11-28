@@ -23,6 +23,27 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "PRES20",
+      "description": "Get 20% off with The Sticker Site discount code",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": null,
+      "expiry": null,
+      "source": "coupert",
+      "sources": [
+        "coupert"
+      ],
+      "url": "https://uk.coupert.com/promo-code/the-sticker-site",
+      "addedAt": "2026-11-27T17:59:02.675Z",
+      "lastSeen": "2026-11-27T17:59:02.675Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-27T17:59:02.675Z"
     }
   ]
 }

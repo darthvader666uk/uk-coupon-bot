@@ -23,6 +23,75 @@
         "lastTested": null
       },
       "listedAt": null
+    },
+    {
+      "code": "BFSS20",
+      "description": "Use this Black Friday Truffle Shuffle promo code to get 20% off orders over £80",
+      "type": "percentage",
+      "value": 20,
+      "minSpend": 80,
+      "expiry": "2026-12-03T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/truffleshuffle.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T07:46:15.731Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "BFSS15",
+      "description": "Get a 15% discount when you spend over £60 by using this Truffle Shuffle discount code",
+      "type": "fixed",
+      "value": 60,
+      "minSpend": 60,
+      "expiry": "2026-12-03T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/truffleshuffle.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T07:43:23.192Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "BFSS10",
+      "description": "Save 10% on orders over £30 in the Black Friday sale with this code",
+      "type": "fixed",
+      "value": 30,
+      "minSpend": 30,
+      "expiry": "2026-12-03T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/truffleshuffle.co.uk",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "verified": true,
+      "lastWorkedAt": "2026-11-26T07:40:50.689Z",
+      "listedAt": "2026-11-28T14:54:58.517Z"
     }
   ]
 }

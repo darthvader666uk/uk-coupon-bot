@@ -4,30 +4,6 @@
   "category": "general",
   "codes": [
     {
-      "code": "EVR10",
-      "description": "10% off orders over £100 at Soak and Sleep",
-      "type": "percentage",
-      "value": 10,
-      "minSpend": 100,
-      "expiry": null,
-      "source": "savoo",
-      "sources": [
-        "savoo",
-        "caramel",
-        "knoji"
-      ],
-      "url": "https://www.savoo.co.uk/brands/soak-and-sleep-discount-codes",
-      "addedAt": "2026-09-08T10:21:39.687Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "listedAt": "2026-10-29T12:14:25.904Z"
-    },
-    {
       "code": "WSG7",
       "description": "7% off orders over £350 at Soak and Sleep",
       "type": "percentage",
@@ -175,30 +151,6 @@
       "verified": true,
       "lastWorkedAt": "2026-09-12T00:00:00Z",
       "listedAt": "2026-11-10T14:12:41.909Z"
-    },
-    {
-      "code": "SE20",
-      "description": "20% off",
-      "type": "percentage",
-      "value": 20,
-      "minSpend": null,
-      "expiry": null,
-      "source": "knoji",
-      "sources": [
-        "knoji",
-        "coupert"
-      ],
-      "url": "https://soakandsleep.knoji.com/",
-      "addedAt": "2026-09-16T20:47:49.537Z",
-      "lastSeen": "2026-10-29T12:14:25.904Z",
-      "testResults": {
-        "total": 0,
-        "worked": 0,
-        "lastTested": null
-      },
-      "verified": true,
-      "lastWorkedAt": "2026-09-21T00:00:00Z",
-      "listedAt": "2026-10-29T12:14:25.904Z"
     },
     {
       "code": "LA20",
@@ -698,13 +650,13 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
       "addedAt": "2026-11-14T12:52:43.546Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
       "testResults": {
         "total": 0,
         "worked": 0,
         "lastTested": null
       },
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-28T14:54:58.517Z"
     },
     {
       "code": "BETTERSLEEP",
@@ -786,7 +738,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
       "addedAt": "2026-11-22T14:01:39.395Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -794,7 +746,7 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-21T06:57:13.425Z",
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-28T14:54:58.517Z"
     },
     {
       "code": "SBFVIP",
@@ -872,7 +824,7 @@
       ],
       "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
       "addedAt": "2026-11-25T16:23:21.938Z",
-      "lastSeen": "2026-11-25T16:23:21.938Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
       "testResults": {
         "total": 0,
         "worked": 0,
@@ -880,7 +832,28 @@
       },
       "verified": true,
       "lastWorkedAt": "2026-11-23T16:24:35.692Z",
-      "listedAt": "2026-11-25T16:23:21.938Z"
+      "listedAt": "2026-11-28T14:54:58.517Z"
+    },
+    {
+      "code": "BF25",
+      "description": "Save 25% on your Black Friday order with this Soak and Sleep discount code",
+      "type": "unknown",
+      "value": null,
+      "minSpend": null,
+      "expiry": "2026-12-03T23:59:59.000Z",
+      "source": "hukd",
+      "sources": [
+        "hukd"
+      ],
+      "url": "https://www.hotukdeals.com/vouchers/soakandsleep.com",
+      "addedAt": "2026-11-28T14:54:58.517Z",
+      "lastSeen": "2026-11-28T14:54:58.517Z",
+      "testResults": {
+        "total": 0,
+        "worked": 0,
+        "lastTested": null
+      },
+      "listedAt": "2026-11-28T14:54:58.517Z"
     }
   ]
 }
